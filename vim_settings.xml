@@ -97,10 +97,10 @@
         <mark key="." line="11" column="7" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/App/selectors.js" timestamp="1471797334648">
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
+      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/App/selectors.js" timestamp="1471797506599">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="39" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/LanguageProvider/index.js" timestamp="1471782381453">
@@ -247,8 +247,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/wk/react-boilerplate/app/containers/LanguageProvider/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWM4NjEwZWZmNWI0OGZlODg4MGE2Y2QyNjQ5ZmZjYWE5YmFiYWJhMAo=</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -259,32 +259,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBoZWFkZXI6IHsKICAgIGlkOiAnYXBwLmNvbXBvbmVudHMuSG9tZVBhZ2UuaGVhZGVyJywKICAgIGRlZmF1bHRNZXNzYWdlOiAnVGhpcyBpcyBIb21lUGFnZSBjb21wb25lbnRzICE/JywKICB9LAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZWM4NjEwZWZmNWI0OGZlODg4MGE2Y2QyNjQ5ZmZjYWE5YmFiYWJhMAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFvCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFvCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGRlZmF1bHRNZXNzYWdlMTogJ1RoaXMgaXMgSG9tZVBhZ2UgY29tcG9uZW50cyAhIScsCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">awo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aWltcG9yCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBka2RrOTEgb24gMTYvMDgvMTkuCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
