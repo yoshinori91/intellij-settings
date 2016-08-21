@@ -1,4 +1,16 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GotoSuperMethod" />
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
+  <action id="GuiDesigner.Duplicate" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="l" />
   </action>
@@ -6,4 +18,14 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="tab" />
   </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="VimMotionScrollHalfPageDown">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="VimMotionScrollHalfPageUp">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
