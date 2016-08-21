@@ -1,0 +1,10 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="SearchEverywhere" />
+      <action id="FindUsages">
+        <abbreviation name="fu" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
