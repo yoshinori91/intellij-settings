@@ -27,7 +27,7 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1471717420645">
+      <file name="/a.dummy" timestamp="1471800127330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/undef/app/views/index.scala.html" timestamp="1471598814617">
@@ -195,11 +195,19 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" timestamp="1471799784691">
-        <mark key="'" line="6" column="2" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" timestamp="1471800492291">
+        <mark key="'" line="27" column="5" />
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+        <mark key="^" line="21" column="2" />
+      </file>
+      <file name="$USER_HOME$/wk/react-boilerplate/node_modules/react/lib/ReactPropTypes.js" timestamp="1471800245534" />
+      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/NotFoundPage/index.js" timestamp="1471800757159">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="23" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -259,16 +267,27 @@
       <jump line="17" column="88" filename="$USER_HOME$/wk/react-boilerplate/app/containers/LanguageProvider/index.js" />
       <jump line="6" column="0" filename="$USER_HOME$/wk/react-boilerplate/app/containers/LanguageProvider/actions.js" />
       <jump line="6" column="2" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
+      <jump line="130" column="3" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
+      <jump line="132" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
+      <jump line="137" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
+      <jump line="142" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
+      <jump line="147" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
+      <jump line="2" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
+      <jump line="7" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
+      <jump line="12" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
+      <jump line="17" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
+      <jump line="22" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
+      <jump line="27" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJkZWZhdWx0TWVzc2FnZSI6ICJkZSIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>locale</text>
+        <text>id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBoZWFkZXI6IHsKICAgIGlkOiAnYXBwLmNvbXBvbmVudHMuSG9tZVBhZ2UuaGVhZGVyJywKICAgIGRlZmF1bHRNZXNzYWdlOiAnVGhpcyBpcyBIb21lUGFnZSBjb21wb25lbnRzICE/JywKICB9LAo=</text>
@@ -305,9 +324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>locale</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>locale</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -324,9 +343,9 @@
         <entry encoding="base64">XDxvcGVuUm91dGVcPg==</entry>
         <entry encoding="base64">XDxvcGVuRmVhdHVyZXNQYWdlXD4=</entry>
         <entry>message</entry>
-        <entry>id</entry>
         <entry>load</entry>
         <entry>locale</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
