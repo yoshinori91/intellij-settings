@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
@@ -15,10 +16,18 @@
     <mouse-shortcut keystroke="shift control button1" />
   </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="Macro.format &amp;&amp; save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="l" />
   </action>
   <action id="RecentChangedFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="RemoteHostView.CopyPaths" />
+  <action id="SaveAll" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="tab" />
   </action>
