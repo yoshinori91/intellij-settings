@@ -25,7 +25,7 @@
         <mark key="." line="6" column="63" />
         <mark key="^" line="6" column="63" />
       </file>
-      <file name="/a.dummy" timestamp="1471860249319">
+      <file name="/a.dummy" timestamp="1471861067280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/react９/app/views/tutorial1.js" timestamp="1471272322730">
@@ -34,11 +34,11 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/sagas.js" timestamp="1471860680393">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
-        <mark key="^" line="22" column="20" />
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/sagas.js" timestamp="1471861066009">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/index.js" timestamp="1471717857275">
         <mark key="[" line="18" column="0" />
@@ -76,11 +76,10 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/selectors.js" timestamp="1471860317705">
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="7" column="50" />
-        <mark key="." line="7" column="50" />
-        <mark key="^" line="7" column="50" />
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/selectors.js" timestamp="1471860838271">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/NotFoundPage/index.js" timestamp="1471800757159">
         <mark key="[" line="23" column="2" />
@@ -209,10 +208,10 @@
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/LanguageProvider/index.js" timestamp="1471782381453">
         <mark key="'" line="17" column="88" />
       </file>
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/reducer.js" timestamp="1471860229207">
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/reducer.js" timestamp="1471861298215">
         <mark key="'" line="22" column="27" />
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="30" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="34" />
         <mark key="." line="31" column="30" />
         <mark key="^" line="31" column="30" />
       </file>
@@ -299,11 +298,11 @@
         <mark key="." line="15" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/sagas/index.js" timestamp="1471852448162" />
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" timestamp="1471860615782">
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" timestamp="1471861261635">
         <mark key="'" line="38" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/index.js" timestamp="1471852267806" />
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/actions.js" timestamp="1471860573166" />
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/actions.js" timestamp="1471861170057" />
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/App/selectors.js" timestamp="1471798655269">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="23" />
@@ -421,43 +420,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>home</text>
+        <text>'hoghoge dayo'</text>
       </register>
       <register name="-" type="4">
-        <text>home</text>
+        <text>'hoghoge dayo'</text>
       </register>
       <register name="/" type="4">
         <text>hoge</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3Qgc2VsZWN0SG9tZSA9ICgpID0+IChzdGF0ZSkgPT4gc3RhdGUuZ2V0KCdob21lJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hvZ2hvZ2UgZGF5bycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fWtrawo=</text>
+        <text encoding="base64">Y29uc3Qgc2VsZWN0SG9tZSA9ICgpID0+IChzdGF0ZSkgPT4gc3RhdGUuZ2V0KCdob2dlJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aGlsZQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXBvcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uKiBpbmNyZW1lbnRDb3VudCgpIHsK</text>
+        <text encoding="base64">fWtrawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3aGlsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uKiBpbmNyZW1lbnRDb3VudCgpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYWdlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNoYW5nCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNoYWdlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhc2UgSG8K</text>
+        <text encoding="base64">ICAgIGNoYW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
