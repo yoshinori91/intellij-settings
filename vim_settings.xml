@@ -3,23 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/index.js" timestamp="1471873249277">
-        <mark key="'" line="53" column="15" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="69" />
-        <mark key="." line="63" column="25" />
-        <mark key="^" line="63" column="25" />
-      </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/actions.js" timestamp="1471876989102">
-        <mark key="e" line="30" column="24" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/undef/public/front/components/App.js" timestamp="1471598978296">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/hello.tag" timestamp="1471167742666">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="20" />
@@ -32,7 +15,7 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1471800127330">
+      <file name="/a.dummy" timestamp="1471880528927">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/reducers.js" timestamp="1471871071397">
@@ -41,45 +24,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/app/components/A/index.js" timestamp="1471870544174">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/undef/app/views/index.scala.html" timestamp="1471598814617">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-      </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/app/components/Button/index.js" timestamp="1471871004657">
-        <mark key="'" line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/NextPage/reducer.js" timestamp="1471782816956">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="5" />
-        <mark key="^" line="15" column="5" />
-        <mark key="." line="15" column="5" />
-      </file>
       <file name="$USER_HOME$/workspace/saga/webpack.config.dev.js" timestamp="1471452358502">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="23" />
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
-      </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/server/logger.js" timestamp="1471675940155">
-        <mark key="'" line="26" column="16" />
-        <mark key="[" line="5" column="68" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/app/components/Button/styles.css" timestamp="1471869770328">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/saga/package.json" timestamp="1471451612538">
         <mark key="[" line="0" column="0" />
@@ -99,29 +48,13 @@
         <mark key="." line="34" column="7" />
         <mark key="^" line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/react９/app/views/tutorial1.js" timestamp="1471272322730">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/undef/public/front/containers/AddTodo.js" timestamp="1471606169026">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-      </file>
+      <file name="$USER_HOME$/workspace/saga-login-flow/app/components/common/Form.js" timestamp="1471882336142" />
+      <file name="$USER_HOME$/workspace/saga-login-flow/app/sagas/index.js" timestamp="1471881362131" />
       <file name="$USER_HOME$/workspace/undef/app/controllers/Application.java" timestamp="1471598019792">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/saga/app/views/index.scala.html" timestamp="1471452305471">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/Media/index.js" timestamp="1471873854230">
         <mark key="'" line="34" column="9" />
@@ -142,23 +75,11 @@
         <mark key="^" line="94" column="48" />
         <mark key="." line="94" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/home.tag" timestamp="1471167730746">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/not-found.tag" timestamp="1471167762195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/app.js" timestamp="1471269501748">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="21" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/react９/app/views/index.scala.html" timestamp="1471271413843">
         <mark key="[" line="16" column="9" />
@@ -172,29 +93,11 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/LanguageProvider/actions.js" timestamp="1471870958052">
-        <mark key="'" line="6" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/components/A/styles.css" timestamp="1471870826746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/undef/public/front/components/Footer.js" timestamp="1471599159040">
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/undef/public/front/actions/index.js" timestamp="1471600834589">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="19" column="9" />
-        <mark key="." line="19" column="9" />
-        <mark key="^" line="19" column="9" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/NextPage/index.js" timestamp="1471712408964">
         <mark key="[" line="9" column="29" />
@@ -214,6 +117,129 @@
         <mark key="]" line="21" column="2" />
         <mark key="." line="21" column="2" />
         <mark key="^" line="21" column="2" />
+      </file>
+      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/index.js" timestamp="1471873249277">
+        <mark key="'" line="53" column="15" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="69" />
+        <mark key="." line="63" column="25" />
+        <mark key="^" line="63" column="25" />
+      </file>
+      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/actions.js" timestamp="1471877786377">
+        <mark key="e" line="30" column="24" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/undef/public/front/components/App.js" timestamp="1471598978296">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/saga-login-flow/app/components/Register.js" timestamp="1471881854019">
+        <mark key="'" line="46" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/saga-login-flow/app/components/Home.js" timestamp="1471879943413" />
+      <file name="$USER_HOME$/wk/react-boilerplate/app/components/A/index.js" timestamp="1471870544174">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/undef/app/views/index.scala.html" timestamp="1471598814617">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+      </file>
+      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/NextPage/reducer.js" timestamp="1471782816956">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="5" />
+        <mark key="^" line="15" column="5" />
+        <mark key="." line="15" column="5" />
+      </file>
+      <file name="$USER_HOME$/wk/react-boilerplate/server/logger.js" timestamp="1471675940155">
+        <mark key="'" line="26" column="16" />
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/wk/react-boilerplate/app/components/Button/styles.css" timestamp="1471869770328">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/saga-login-flow/app/components/Dashboard.js" timestamp="1471880949556">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/react９/app/views/tutorial1.js" timestamp="1471272322730">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/saga-login-flow/app/index.js" timestamp="1471880810025">
+        <mark key="'" line="47" column="6" />
+        <mark key="[" line="48" column="42" />
+        <mark key="]" line="48" column="47" />
+        <mark key="." line="48" column="47" />
+        <mark key="^" line="48" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/saga-login-flow/app/components/common/Nav.js" timestamp="1471881943284">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/undef/public/front/containers/AddTodo.js" timestamp="1471606169026">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/saga/app/views/index.scala.html" timestamp="1471452305471">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/home.tag" timestamp="1471167730746">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/saga-login-flow/app/components/Login.js" timestamp="1471881993255">
+        <mark key="'" line="23" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/saga-login-flow/app/components/NotFound.js" timestamp="1471881150194" />
+      <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/app.js" timestamp="1471269501748">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/saga-login-flow/app/components/Report.js" timestamp="1471881259621">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/undef/public/front/components/Footer.js" timestamp="1471599159040">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/undef/public/front/actions/index.js" timestamp="1471600834589">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="19" column="9" />
+        <mark key="." line="19" column="9" />
+        <mark key="^" line="19" column="9" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/First/index.js" timestamp="1471678232410">
         <mark key="[" line="20" column="8" />
@@ -323,55 +349,65 @@
       <jump line="154" column="31" filename="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="53" column="15" filename="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="30" column="9" filename="$USER_HOME$/wk/react-boilerplate/app/containers/Media/index.js" />
+      <jump line="10" column="26" filename="$USER_HOME$/workspace/saga-login-flow/app/components/Register.js" />
+      <jump line="23" column="97" filename="$USER_HOME$/workspace/saga-login-flow/app/components/Register.js" />
+      <jump line="40" column="9" filename="$USER_HOME$/workspace/saga-login-flow/app/components/Register.js" />
+      <jump line="46" column="23" filename="$USER_HOME$/workspace/saga-login-flow/app/components/Register.js" />
+      <jump line="77" column="52" filename="$USER_HOME$/workspace/saga-login-flow/app/index.js" />
+      <jump line="47" column="6" filename="$USER_HOME$/workspace/saga-login-flow/app/index.js" />
+      <jump line="37" column="2" filename="$USER_HOME$/workspace/saga-login-flow/app/components/Login.js" />
+      <jump line="47" column="32" filename="$USER_HOME$/workspace/saga-login-flow/app/components/Login.js" />
+      <jump line="14" column="9" filename="$USER_HOME$/workspace/saga-login-flow/app/components/Login.js" />
+      <jump line="23" column="43" filename="$USER_HOME$/workspace/saga-login-flow/app/components/Login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCBkaXNwYXRoRGFzaGJvYXJkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>Dashboard</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2VSb3V0ZVw+</text>
+        <text encoding="base64">XDxkaXNwYXRjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29ubmVjdChtYXBTdGF0ZVRvUHJvcHMsIG1hcERpc3BhdGNoVG9Qcm9wcykoSG9tZVBhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8TGluayB0bz0nL2Rhc2hib2FyZCcgY2xhc3NOYW1lPSdidG4gYnRuLS1kYXNoIGJ0bi0tbmF2Jz5EYXNoYm9hcmQ8L0xpbms+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPAo=</text>
+        <text encoding="base64">ICAgIGxldCBkaXNwYXRoRGFzaGJvYXJkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudFVwKCkK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgRGFzaGJvYXJkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGhyZWY9J2h0dHBzOi8vZ2l0aHViLmNvbS9zb3RvanVhbi9zYWdhLWxvZ2luLWZsb3cnPkdpdGh1YjwvYT4uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">ICAgICAgPAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudFVwKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBtYWluQ29udGVudHMgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2Ugey4uLm1lc3NhZ2VzLmZlYXR1cmVzQnV0dG9ufSAvPgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2VSb3V0ZVw+</last-search>
+      <last-search encoding="base64">XDxkaXNwYXRjaFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2VSb3V0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkaXNwYXRjaFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -393,6 +429,9 @@
         <entry encoding="base64">XDxvcGVuRmVhdHVyZXNQYWdlXD4=</entry>
         <entry>dispatch</entry>
         <entry encoding="base64">XDxjaGFuZ2VSb3V0ZVw+</entry>
+        <entry encoding="base64">XDxfcmVnaXN0ZXJcPg==</entry>
+        <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
+        <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
