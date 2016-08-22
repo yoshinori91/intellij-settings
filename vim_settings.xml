@@ -18,6 +18,7 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/wkt/redux-react-router-async-example/lib/components/index.js" timestamp="1471848387492" />
       <file name="$USER_HOME$/IdeaProjects/zzz/conf/routes" timestamp="1471836707991">
         <mark key="[" line="6" column="63" />
         <mark key="]" line="6" column="63" />
@@ -91,6 +92,7 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="24" column="22" />
       </file>
+      <file name="$USER_HOME$/wkt/redux-react-router-async-example/lib/actions/application.js" timestamp="1471848411942" />
       <file name="$USER_HOME$/IdeaProjects/zzz/app/controllers/Application.java" timestamp="1471836681603">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="18" />
@@ -144,6 +146,12 @@
         <mark key="]" line="22" column="49" />
         <mark key="." line="22" column="49" />
         <mark key="^" line="22" column="49" />
+      </file>
+      <file name="$USER_HOME$/wkt/redux-react-router-async-example/lib/Root.js" timestamp="1471848506738">
+        <mark key="'" line="104" column="15" />
+        <mark key="[" line="104" column="22" />
+        <mark key="]" line="104" column="22" />
+        <mark key="." line="104" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/index.scala.html" timestamp="1471169829637">
         <mark key="[" line="32" column="0" />
@@ -348,19 +356,22 @@
       <jump line="52" column="28" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="54" column="26" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="25" column="27" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/reducer.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/wkt/redux-react-router-async-example/lib/Root.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/wkt/redux-react-router-async-example/lib/Root.js" />
+      <jump line="104" column="15" filename="$USER_HOME$/wkt/redux-react-router-async-example/lib/Root.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1c2VybmFtZTogJycsCg==</text>
+      <register name="&quot;" type="4">
+        <text>connect</text>
       </register>
       <register name="-" type="4">
-        <text>FeaturesPage</text>
+        <text>connect</text>
       </register>
       <register name="/" type="4">
-        <text>dispatch</text>
+        <text encoding="base64">XDxjb25uZWN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">R0VUICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuQXBwbGljYXRpb24uaW5kZXgK</text>
+      <register name="0" type="4">
+        <text>connect</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB1c2VybmFtZTogJycsCg==</text>
@@ -394,15 +405,14 @@
       </register>
     </registers>
     <search>
-      <last-search>dispatch</last-search>
+      <last-search encoding="base64">XDxjb25uZWN0XD4=</last-search>
       <last-offset />
-      <last-pattern>dispatch</last-pattern>
+      <last-pattern encoding="base64">XDxjb25uZWN0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>out-dir</entry>
         <entry>jsn</entry>
         <entry>es</entry>
         <entry encoding="base64">XDxwcm9wVHlwZXNcPg==</entry>
@@ -422,6 +432,7 @@
         <entry encoding="base64">XDxjaGFuZ2VSb3V0ZVw+</entry>
         <entry>:36</entry>
         <entry>dispatch</entry>
+        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
