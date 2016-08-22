@@ -3,18 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/Media/index.js" timestamp="1471853465835">
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="44" />
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/Media/index.js" timestamp="1471855032724">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
         <mark key="^" line="14" column="16" />
-        <mark key="." line="10" column="44" />
+        <mark key="." line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/wkt/react-boilerplate/node_modules/react-router-redux/lib/index.js" timestamp="1471842600257">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/wkt/redux-react-router-async-example/lib/components/index.js" timestamp="1471848387492" />
-      <file name="/a.dummy" timestamp="1471848640122">
+      <file name="/a.dummy" timestamp="1471855978758">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/sagas.js" timestamp="1471842015531" />
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/index.js" timestamp="1471853371955" />
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/sagas.js" timestamp="1471855919796" />
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/index.js" timestamp="1471856228132">
+        <mark key="'" line="15" column="7" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/About/index.js" timestamp="1471835462161">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="23" />
@@ -23,13 +31,11 @@
       </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/selectors.js" timestamp="1471836112013" />
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/app.jsx" timestamp="1471852438284" />
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Button/index.js" timestamp="1471853591757">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Button/index.js" timestamp="1471856413479">
+        <mark key="'" line="74" column="0" />
       </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/actions.js" timestamp="1471842551420" />
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/index.html" timestamp="1471855977321" />
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/LanguageProvider/index.js" timestamp="1471848891563">
         <mark key="'" line="38" column="4" />
       </file>
@@ -40,8 +46,14 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" timestamp="1471856684796">
+        <mark key="'" line="131" column="5" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="n" line="24" column="8" />
+        <mark key="." line="157" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/containers/App.jsx" timestamp="1471852338722" />
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/routes.js" timestamp="1471853316865" />
       <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Navbar/index.js" timestamp="1471844932458">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -61,7 +73,7 @@
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/LanguageProvider/index.js" timestamp="1471782381453">
         <mark key="'" line="17" column="88" />
       </file>
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/reducer.js" timestamp="1471848638526">
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/reducer.js" timestamp="1471856296051">
         <mark key="'" line="20" column="27" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -71,6 +83,9 @@
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/package.json" timestamp="1471853037225" />
       <file name="$USER_HOME$/wk/react-boilerplate/app/routes.js" timestamp="1471715189261">
         <mark key="'" line="10" column="22" />
+      </file>
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/app.js" timestamp="1471856034846">
+        <mark key="'" line="74" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/containers/Counter.js" timestamp="1471852710029">
         <mark key="'" line="42" column="28" />
@@ -82,26 +97,13 @@
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/actions/counter.js" timestamp="1471852378513" />
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/containers/App.js" timestamp="1471852564656" />
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/sagas/index.js" timestamp="1471852448162" />
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" timestamp="1471842622855" />
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" timestamp="1471856274705">
+        <mark key="'" line="3" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/index.js" timestamp="1471852267806" />
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/actions.js" timestamp="1471841149625" />
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/actions.js" timestamp="1471856351899" />
     </filemarks>
     <jumps>
-      <jump line="16" column="16" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="17" column="28" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="18" column="21" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="20" column="18" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="21" column="14" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="22" column="19" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="23" column="83" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="59" column="5" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="8" column="13" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="10" column="6" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="12" column="37" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="28" column="28" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="19" column="15" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="1" column="23" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
       <jump line="13" column="60" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
       <jump line="19" column="5" filename="$USER_HOME$/workspace/undef/public/front/components/Link.js" />
       <jump line="0" column="16" filename="$USER_HOME$/workspace/undef/public/front/components/Link.js" />
@@ -146,16 +148,12 @@
       <jump line="22" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
       <jump line="27" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
       <jump line="60" column="3" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="147" column="40" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="8" column="0" filename="$USER_HOME$/wkt/react-boilerplate/node_modules/react-router-redux/lib/index.js" />
-      <jump line="149" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="43" column="17" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="58" column="2" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="120" column="36" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="59" column="3" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="45" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/components/Button/index.js" />
       <jump line="27" column="49" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="24" column="3" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="46" column="23" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="29" column="2" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
@@ -167,7 +165,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="57" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="19" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="53" column="6" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="36" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="55" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="52" column="28" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
@@ -176,91 +173,111 @@
       <jump line="6" column="8" filename="$USER_HOME$/wkt/redux-react-router-async-example/lib/Root.js" />
       <jump line="104" column="15" filename="$USER_HOME$/wkt/redux-react-router-async-example/lib/Root.js" />
       <jump line="54" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="50" column="2" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="26" column="3" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="31" column="2" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="38" column="34" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="32" column="9" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="25" column="15" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="36" column="28" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/LanguageProvider/index.js" />
       <jump line="38" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/LanguageProvider/index.js" />
       <jump line="42" column="28" filename="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/containers/Counter.js" />
       <jump line="12" column="10" filename="$USER_HOME$/wkt/react-boilerplate/app/utils/asyncInjectors.js" />
       <jump line="10" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/utils/asyncInjectors.js" />
+      <jump line="123" column="10" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="63" column="3" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="50" column="22" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="156" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="43" column="17" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="118" column="39" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="149" column="2" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="83" column="18" filename="$USER_HOME$/wkt/react-boilerplate/app/app.js" />
+      <jump line="74" column="15" filename="$USER_HOME$/wkt/react-boilerplate/app/app.js" />
+      <jump line="53" column="15" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="31" column="42" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/App/index.js" />
+      <jump line="15" column="7" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/App/index.js" />
+      <jump line="24" column="8" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="154" column="40" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" />
+      <jump line="3" column="61" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" />
+      <jump line="106" column="71" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="147" column="2" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="158" column="15" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="25" column="8" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
+      <jump line="131" column="5" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>back index</text>
+        <text>FeaturesPage</text>
       </register>
       <register name="/" type="4">
-        <text>dispatch</text>
+        <text encoding="base64">XDxsb2FkUmVwb3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluayB0bz0iLyI+YmFjayBpbmRleDwvTGluaz4K</text>
+        <text encoding="base64">ICAgIGNoYW5nZVJvdXRlOiAodXJsKSA9PiBkaXNwYXRjaChwdXNoKHVybCkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1c2VybmFtZTogJycsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMDgvMjIuCg==</text>
+        <text encoding="base64">aW1wb3J0IEZvb3RlciBmcm9tICdjb21wb25lbnRzL0Zvb3Rlcic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgPEZvb3RlciAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuY2hhbmdlUm91dGUocm91dGUpOwogIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2Ugey4uLm1lc3NhZ2VzLmZlYXR1cmVzQnV0dG9ufSAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IE5hdmJhciBmcm9tICcuLi8uLi9jb21wb25lbnRzL05hdmJhcicK</text>
+        <text encoding="base64">ICB1c2VybmFtZTogJycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>dispatch</last-search>
+      <last-search encoding="base64">XDxsb2FkUmVwb3NcPg==</last-search>
       <last-offset />
-      <last-pattern>dispatch</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkUmVwb3NcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>locale</entry>
-        <entry>id</entry>
-        <entry>getRepos</entry>
-        <entry encoding="base64">XDxjaGFuZ2VVc2VybmFtZVw+</entry>
-        <entry encoding="base64">XDxvblN1Ym1pdEZvcm1cPg==</entry>
-        <entry>button</entry>
-        <entry>Button</entry>
-        <entry encoding="base64">XDxvcGVuRmVhdHVyZXNQYWdlXD4=</entry>
         <entry encoding="base64">XDxvcGVuTWVkaWFQYWdlXD4=</entry>
         <entry>:36</entry>
         <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
-        <entry>change</entry>
         <entry>openMedia</entry>
         <entry encoding="base64">XDxvcGVuUm91dGVcPg==</entry>
-        <entry encoding="base64">XDxjaGFuZ2VSb3V0ZVw+</entry>
         <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
         <entry>package</entry>
         <entry>webpack</entry>
         <entry>web</entry>
         <entry>dispatch</entry>
+        <entry>getRepo</entry>
+        <entry encoding="base64">XDxvbkNoYW5nZVVzZXJuYW1lXD4=</entry>
+        <entry encoding="base64">XDxyb290Um91dGVcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVSb3V0ZXNcPg==</entry>
+        <entry encoding="base64">XDxjaGFuZ2VSb3V0ZVw+</entry>
+        <entry encoding="base64">XDxCYW5uZXJcPg==</entry>
+        <entry encoding="base64">XDxjaGFuZ2VVc2VybmFtZVw+</entry>
+        <entry>change</entry>
+        <entry encoding="base64">XDxvblN1Ym1pdEZvcm1cPg==</entry>
+        <entry encoding="base64">XDxsb2FkUmVwb3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
