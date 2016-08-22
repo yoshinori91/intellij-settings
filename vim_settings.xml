@@ -9,9 +9,6 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/wkt/react-boilerplate/node_modules/react-router-redux/lib/index.js" timestamp="1471842600257">
-        <mark key="'" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/undef/public/front/containers/AddTodo.js" timestamp="1471606169026">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="11" column="17" />
@@ -42,12 +39,6 @@
         <mark key="^" line="18" column="8" />
       </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/index.js" timestamp="1471849360745" />
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/About/index.js" timestamp="1471835462161">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-      </file>
       <file name="$USER_HOME$/workspace/undef/public/front/components/Footer.js" timestamp="1471599159040">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="16" column="20" />
@@ -79,6 +70,7 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/app.jsx" timestamp="1471852438284" />
       <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Button/index.js" timestamp="1471849282062">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="46" column="22" />
@@ -97,25 +89,14 @@
         <mark key="'" line="38" column="4" />
       </file>
       <file name="$USER_HOME$/wkt/redux-react-router-async-example/lib/actions/application.js" timestamp="1471848553749" />
-      <file name="$USER_HOME$/IdeaProjects/zzz/app/controllers/Application.java" timestamp="1471836681603">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-      </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" timestamp="1471851683250">
         <mark key="'" line="25" column="15" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/containers/App.jsx" timestamp="1471852338722" />
       <file name="$USER_HOME$/wkt/react-boilerplate/app/routes.js" timestamp="1471851706576" />
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Navbar/index.js" timestamp="1471844932458">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="12" column="64" />
-      </file>
       <file name="$USER_HOME$/workspace/saga/package.json" timestamp="1471451612538">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="88" column="0" />
@@ -205,6 +186,7 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/redux-saga-boilerplate/package.json" timestamp="1471853037225" />
       <file name="$USER_HOME$/workspace/undef/public/front/actions/index.js" timestamp="1471600834589">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="19" column="9" />
@@ -220,6 +202,14 @@
       <file name="$USER_HOME$/wk/react-boilerplate/app/routes.js" timestamp="1471715189261">
         <mark key="'" line="10" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/containers/Counter.js" timestamp="1471852710029">
+        <mark key="'" line="42" column="28" />
+        <mark key="[" line="41" column="31" />
+        <mark key="]" line="41" column="32" />
+        <mark key="^" line="41" column="32" />
+        <mark key="." line="41" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/actions/counter.js" timestamp="1471852378513" />
       <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/app.js" timestamp="1471269501748">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="21" />
@@ -238,6 +228,7 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/containers/App.js" timestamp="1471852564656" />
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/ThirdPage/index.js" timestamp="1471692867371">
         <mark key="[" line="21" column="31" />
         <mark key="]" line="21" column="31" />
@@ -256,7 +247,9 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/sagas/index.js" timestamp="1471852448162" />
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" timestamp="1471842622855" />
+      <file name="$USER_HOME$/workspace/redux-saga-boilerplate/index.js" timestamp="1471852267806" />
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/actions.js" timestamp="1471841149625" />
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/App/selectors.js" timestamp="1471798655269">
         <mark key="[" line="10" column="6" />
@@ -272,7 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="15" filename="$USER_HOME$/IdeaProjects/react９/app/views/tutorial2.js" />
       <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/reduxp/package.json" />
       <jump line="11" column="30" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
       <jump line="16" column="16" filename="$USER_HOME$/workspace/redux-saga-true/package.json" />
@@ -372,19 +364,20 @@
       <jump line="25" column="15" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="36" column="28" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/LanguageProvider/index.js" />
       <jump line="38" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/LanguageProvider/index.js" />
+      <jump line="42" column="28" filename="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/containers/Counter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>connect</text>
+        <text>back index</text>
       </register>
       <register name="-" type="4">
-        <text>connect</text>
+        <text>back index</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNwYXRjaFw+</text>
+        <text>web</text>
       </register>
-      <register name="0" type="4">
-        <text>connect</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8TGluayB0bz0iLyI+YmFjayBpbmRleDwvTGluaz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB1c2VybmFtZTogJycsCg==</text>
@@ -418,17 +411,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNwYXRjaFw+</last-search>
+      <last-search>web</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNwYXRjaFw+</last-pattern>
+      <last-pattern>web</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcm9wVHlwZXNcPg==</entry>
-        <entry>message</entry>
-        <entry>load</entry>
         <entry>locale</entry>
         <entry>id</entry>
         <entry>getRepos</entry>
@@ -446,6 +436,9 @@
         <entry encoding="base64">XDxvcGVuUm91dGVcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VSb3V0ZVw+</entry>
         <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
+        <entry>package</entry>
+        <entry>webpack</entry>
+        <entry>web</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
