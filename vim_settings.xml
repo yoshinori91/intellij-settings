@@ -154,6 +154,12 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/jtb/Donald/app/controllers/Application.java" timestamp="1471932767814">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Navbar/index.js" timestamp="1471844932458">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -189,6 +195,14 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/jtb/Donald/webpack.config.js" timestamp="1471933497738">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/jtb/Donald/app/views/main.scala.html" timestamp="1471931492621" />
       <file name="$USER_HOME$/IdeaProjects/react９/app/views/tutorial3.js" timestamp="1471272428971">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -237,11 +251,18 @@
         <mark key="^" line="94" column="48" />
         <mark key="." line="94" column="48" />
       </file>
+      <file name="$USER_HOME$/jtb/Donald/public/app/index.js" timestamp="1471933540213" />
       <file name="$USER_HOME$/workspace/saga/app/views/index.scala.html" timestamp="1471452305471">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="11" column="7" />
         <mark key="." line="11" column="7" />
         <mark key="^" line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/jtb/Donald/app/views/index.scala.html" timestamp="1471933049881">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="52" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/saga/webpack.config.dev.js" timestamp="1471452358502">
         <mark key="[" line="0" column="0" />
@@ -286,6 +307,7 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/jtb/Donald/package.json" timestamp="1471932633359" />
       <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/app.js" timestamp="1471269501748">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="21" />
@@ -354,7 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/wk/react-boilerplate/app/containers/LanguageProvider/index.js" />
       <jump line="4" column="52" filename="$USER_HOME$/wk/react-boilerplate/app/containers/LanguageProvider/index.js" />
       <jump line="33" column="3" filename="$USER_HOME$/wk/react-boilerplate/app/containers/LanguageProvider/index.js" />
       <jump line="25" column="2" filename="$USER_HOME$/wk/react-boilerplate/app/containers/LanguageProvider/index.js" />
@@ -454,46 +475,47 @@
       <jump line="79" column="32" filename="$USER_HOME$/workspace/saga-login-flow/app/index.js" />
       <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/zzz/public/app/components/Media.js" />
       <jump line="24" column="18" filename="$USER_HOME$/IdeaProjects/zzz/public/app/components/Home.js" />
+      <jump line="51" column="2" filename="$USER_HOME$/jtb/Donald/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdGb3JtU3RhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCcK</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImFwcC9qcXVlcnktMS45LjAubWluLmpzIikiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpY1BhdGg6ICcnCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQ29tbWVudEJveAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UmVhY3REb20ucmVuZGVycgo=</text>
+        <text encoding="base64">ICAgICAgICBAbWVzc2FnZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3NjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
