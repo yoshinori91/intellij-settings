@@ -19,11 +19,11 @@
         <mark key="^" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/wkt/redux-react-router-async-example/lib/components/index.js" timestamp="1471848387492" />
-      <file name="$USER_HOME$/IdeaProjects/zzz/conf/routes" timestamp="1471836707991">
-        <mark key="[" line="6" column="63" />
-        <mark key="]" line="6" column="63" />
-        <mark key="." line="6" column="63" />
-        <mark key="^" line="6" column="63" />
+      <file name="$USER_HOME$/IdeaProjects/zzz/conf/routes" timestamp="1471918788134">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
       </file>
       <file name="/a.dummy" timestamp="1471917238234">
         <mark key="[" line="0" column="0" />
@@ -93,11 +93,6 @@
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
-      </file>
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/selectors.js" timestamp="1471860838271">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/NotFoundPage/index.js" timestamp="1471800757159">
         <mark key="[" line="23" column="2" />
@@ -277,6 +272,12 @@
         <mark key="]" line="19" column="9" />
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/zzz/public/app/components/Media.js" timestamp="1471918916818">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/First/index.js" timestamp="1471678232410">
         <mark key="[" line="20" column="8" />
@@ -462,10 +463,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>front</text>
+        <text>Dashboard</text>
       </register>
       <register name="-" type="4">
-        <text>front</text>
+        <text>Dashboard</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdGb3JtU3RhdGVcPg==</text>
@@ -474,31 +475,31 @@
         <text encoding="base64">ICAgICAgICA8TGluayB0bz0nL2Rhc2hib2FyZCcgY2xhc3NOYW1lPSdidG4gYnRuLS1kYXNoIGJ0bi0tbmF2Jz5EYXNoYm9hcmQ8L0xpbms+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy5wcm9wcy5kYXRhfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICBocmVmPSdodHRwczovL2dpdGh1Yi5jb20vc290b2p1YW4vc2FnYS1sb2dpbi1mbG93Jz5HaXRodWI8L2E+Lgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3RoaXMucHJvcHMuZGF0YX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICB7CiAgICB0aGlzLnByb3BzLmRhdGEKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMDgvMjMuCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJjb2xvciIsICJibGFjayIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICBocmVmPSdodHRwczovL2dpdGh1Yi5jb20vc290b2p1YW4vc2FnYS1sb2dpbi1mbG93Jz5HaXRodWI8L2E+Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJpZCIsICIxIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
