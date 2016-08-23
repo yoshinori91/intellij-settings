@@ -34,12 +34,6 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/sagas.js" timestamp="1471861066009">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-      </file>
       <file name="$USER_HOME$/jtb/play-redux/resources/javascripts/components/Counter.js" timestamp="1471920695508" />
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/index.js" timestamp="1471717857275">
         <mark key="[" line="18" column="0" />
@@ -65,6 +59,13 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/index.js" timestamp="1471856228132">
         <mark key="'" line="15" column="7" />
         <mark key="[" line="15" column="0" />
@@ -89,6 +90,13 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" timestamp="1471800492291">
+        <mark key="'" line="27" column="5" />
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+        <mark key="^" line="21" column="2" />
+      </file>
       <file name="$USER_HOME$/wkt/react-boilerplate-dev/internals/scripts/pagespeed.js" timestamp="1471832241349">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="3" />
@@ -108,20 +116,17 @@
         <mark key="." line="68" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/app.jsx" timestamp="1471852438284" />
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Button/index.js" timestamp="1471856413479">
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Button/index.js" timestamp="1471921664840">
         <mark key="'" line="74" column="0" />
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
       </file>
       <file name="$USER_HOME$/jtb/play-redux/resources/javascripts/actions/echo.js" timestamp="1471920547950">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="6" column="1" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/actions.js" timestamp="1471860219797">
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="19" />
-        <mark key="^" line="36" column="19" />
-        <mark key="." line="36" column="19" />
       </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/index.html" timestamp="1471855977321" />
       <file name="$USER_HOME$/workspace/undef/public/front/components/TodoList.js" timestamp="1471600439053">
@@ -142,6 +147,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="6" column="18" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" timestamp="1471921821001">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/public/assets/javascripts/app/containers/App.jsx" timestamp="1471852338722" />
       <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Navbar/index.js" timestamp="1471844932458">
@@ -353,6 +365,13 @@
       </file>
       <file name="$USER_HOME$/workspace/redux-saga-boilerplate/index.js" timestamp="1471852267806" />
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/actions.js" timestamp="1471861170057" />
+      <file name="$USER_HOME$/wk/react-boilerplate/server/logger.js" timestamp="1471675940155">
+        <mark key="'" line="26" column="16" />
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/App/selectors.js" timestamp="1471798655269">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="23" />
@@ -470,10 +489,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Dashboard</text>
+        <text encoding="base64">IC8vIGVzbGludC1kaXNhYmxlLWxpbmUgcmVhY3QvcHJlZmVyLXN0YXRlbGVzcy1mdW5jdGlvbg==</text>
       </register>
       <register name="-" type="4">
-        <text>Dashboard</text>
+        <text encoding="base64">IC8vIGVzbGludC1kaXNhYmxlLWxpbmUgcmVhY3QvcHJlZmVyLXN0YXRlbGVzcy1mdW5jdGlvbg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdGb3JtU3RhdGVcPg==</text>
