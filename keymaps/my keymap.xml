@@ -6,10 +6,15 @@
     <keyboard-shortcut first-keystroke="ctrl alt h" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoSuperMethod" />
   <action id="GotoTypeDeclaration">
