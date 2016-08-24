@@ -15,7 +15,7 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1471943203304">
+      <file name="/a.dummy" timestamp="1472019786215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/react９/app/views/tutorial1.js" timestamp="1471272322730">
@@ -54,9 +54,10 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/index.js" timestamp="1472008679454">
+      <file name="$USER_HOME$/test/dona/public/app/index.js" timestamp="1472021296176">
         <mark key="'" line="126" column="14" />
       </file>
+      <file name="$USER_HOME$/test/dona/public/app/actions/index.js" timestamp="1472022198382" />
       <file name="$USER_HOME$/workspace/undef/public/front/components/App.js" timestamp="1471598978296">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="9" column="17" />
@@ -68,6 +69,13 @@
         <mark key="]" line="21" column="3" />
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
+        <mark key="'" line="1" column="17" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zzz/public/app/components/Home.js" timestamp="1471922795711">
         <mark key="'" line="25" column="18" />
@@ -113,6 +121,7 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/jtb/Donald/app/views/main.scala.html" timestamp="1471931492621" />
       <file name="$USER_HOME$/workspace/undef/app/controllers/Application.java" timestamp="1471598019792">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -173,6 +182,17 @@
         <mark key="^" line="21" column="23" />
         <mark key="." line="21" column="23" />
       </file>
+      <file name="$USER_HOME$/test/dona/public/app/components/Clock.js" timestamp="1472024468063">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/jtb/Donald/package.json" timestamp="1471934436498">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/app.js" timestamp="1471269501748">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="21" />
@@ -197,13 +217,18 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
+      <file name="$USER_HOME$/test/dona/public/app/components/App.js" timestamp="1472022206450">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/NextPage/reducer.js" timestamp="1471782816956">
         <mark key="[" line="15" column="24" />
         <mark key="]" line="15" column="5" />
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/index2.js" timestamp="1472016908889">
+      <file name="$USER_HOME$/test/dona/public/app/index2.js" timestamp="1472022276474">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="30" />
@@ -221,6 +246,12 @@
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/test/dona/public/app/container/cApp.js" timestamp="1472024423009">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dona/webpack.config.js" timestamp="1471934677762">
         <mark key="[" line="4" column="24" />
@@ -253,6 +284,12 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
+      <file name="$USER_HOME$/test/dona/public/app/reducers/clock.js" timestamp="1472023380760">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/undef/public/front/components/Footer.js" timestamp="1471599159040">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="16" column="20" />
@@ -284,6 +321,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1472024629119">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dona/app/controllers/Application.java" timestamp="1471943430394">
         <mark key="[" line="45" column="32" />
         <mark key="]" line="45" column="36" />
@@ -308,6 +351,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/test/dona/public/app/store/configureStore.js" timestamp="1472024711435">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+        <mark key="^" line="9" column="54" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zzz/index.html" timestamp="1471922680452">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="0" />
@@ -326,11 +375,23 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="30" />
       </file>
+      <file name="$USER_HOME$/test/dona/public/app/utils/dates.js" timestamp="1472023839839">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zzz/webpack/makeConfig.js" timestamp="1471918291153">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="11" column="40" />
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
+      </file>
+      <file name="$USER_HOME$/test/dona/public/app/actions/clock.js" timestamp="1472024505744">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dona/public/app/index.js" timestamp="1471943159861">
         <mark key="'" line="82" column="15" />
@@ -363,11 +424,10 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="39" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/container/App.js" timestamp="1472016799627">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="4" column="34" />
+      <file name="$USER_HOME$/test/dona/public/app/container/App.js" timestamp="1472022288304">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/saga/webpack.config.dev.js" timestamp="1471452358502">
         <mark key="[" line="0" column="0" />
@@ -394,17 +454,18 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="21" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/donald-manager/app/views/main.scala.html" timestamp="1471930146154" />
       <file name="$USER_HOME$/IdeaProjects/donald-manager/public/javascripts/index.js" timestamp="1471931160352">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/reducers/index.js" timestamp="1472016632698">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="7" column="17" />
+      <file name="$USER_HOME$/test/dona/public/app/reducers/index.js" timestamp="1472024584691">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/ThirdPage/index.js" timestamp="1471692867371">
         <mark key="[" line="21" column="31" />
@@ -418,18 +479,18 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/actions/App.js" timestamp="1472016820628">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/test/dona/public/app/actions/App.js" timestamp="1472021066233">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/test/dona/webpack.config.js" timestamp="1472011933174">
+      <file name="$USER_HOME$/test/dona/webpack.config.js" timestamp="1472024525526">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="28" />
-        <mark key="^" line="1" column="28" />
-        <mark key="." line="1" column="28" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/server/logger.js" timestamp="1471675940155">
         <mark key="'" line="26" column="16" />
@@ -440,7 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="9" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="23" column="15" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="48" column="27" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="17" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
@@ -540,49 +600,50 @@
       <jump line="3" column="2" filename="$USER_HOME$/test/dona/public/app/components/Footer.js" />
       <jump line="23" column="14" filename="$USER_HOME$/test/dona/public/app/components/Footer.js" />
       <jump line="16" column="0" filename="$USER_HOME$/test/dona/public/app/index2.js" />
+      <jump line="1" column="17" filename="$USER_HOME$/test/dona/public/app/utils/strings.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>containers</text>
+        <text>lenght</text>
       </register>
       <register name="-" type="4">
-        <text>containers</text>
+        <text>lenght</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJGaWx0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0ZXh0OiAnVXNlIFJlZHV4JywKICAgICAgICAgICAgICAgIGNvbXBsZXRlZDogdHJ1ZQogICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBtaW51dGVzOiBQcm9wVHlwZXMubnVtYmVyLmlzUmVxdWlyZWQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">ICAgIHR5cGU6IFNZTkNfREFURSwgLi4udGltZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwppbXBvcnQge3JlbmRlcn0gZnJvbSAncmVhY3QtZG9tJwppbXBvcnQge2NyZWF0ZVN0b3JlfSBmcm9tICdyZWR1eCcKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCcKaW1wb3J0IHtQcm92aWRlcn0gZnJvbSAncmVhY3QtcmVkdXgnCgpmdW5jdGlvbiBtYXBTdGF0ZVRvUHJvcHMoc3RhdGUpIHsKICByZXR1cm4gc3RhdGUKfQoKZnVuY3Rpb24gbWFwRGlzcGF0Y2hUb1Byb3BzKGRpc3BhdGNoKSB7CiAgcmV0dXJuIHsKICAgIGhhbmRsZUNsaWNrOiAoKSA9PiB7CiAgICAgIGRpc3BhdGNoKGluY3JlbWVudCgpKQogICAgfQogIH0KfQoKZXhwb3J0IGRlZmF1bHQgY29ubmVjdChtYXBTdGF0ZVRvUHJvcHMsIG1hcERpc3BhdGNoVG9Qcm9wcykoQXBwKQoKZXhwb3J0IGRlZmF1bHQgY2xhc3MgQXBwIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHsKICByZW5kZXIoKSB7CiAgICByZXR1cm4gPGRpdj4KICAgICAgPHNwYW4+e3RoaXMucHJvcHMuZnVnYX08L3NwYW4+CiAgICAgIDxidXR0b24gb25DbGljaz17ICgpID0+IHRoaXMucHJvcHMuaGFuZGxlQ2xpY2soKSB9PuWil+WKoDwvYnV0dG9uPgogICAgPC9kaXY+CiAgfQp9CgpleHBvcnQgZGVmYXVsdCB7CiAgaW5jcmVtZW50OiAoKSA9PiB7CiAgICByZXR1cm4ge3R5cGU6ICdJTkNSRU1FTlQnfQogIH0KfQpjb25zdCBzdG9yZSA9IGNyZWF0ZVN0b3JlKHJlZHVjZXIpCgpjb25zdCBpbml0aWFsU3RhdGUgPSB7CiAgZnVnYTogMQp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiByZWR1Y2VyKHN0YXRlID0gaW5pdGlhbFN0YXRlLCBhY3Rpb24pIHsKICBzd2l0Y2ggKGFjdGlvbi50eXBlKSB7CiAgICBjYXNlICdJTkNSRU1FTlQnOgogICAgICByZXR1cm4gc3RhdGUKICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZQogIH0KfQpyZW5kZXIoCiAgPFByb3ZpZGVyIHN0b3JlPXtzdG9yZX0+CiAgICA8QXBwIC8+CiAgPC9Qcm92aWRlcj4sCiAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Jvb3QnKQopCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wcnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gdG9kb3M9IiIvPgo=</text>
+        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWR1eCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9PSIiCg==</text>
+        <text encoding="base64">a2tqampqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7Q29tcG9uZW50LCBQcm9wVHlwZXN9IGZyb20gInJlYWN0IgppbXBvcnQge2JpbmRBY3Rpb25DcmVhdG9yc30gZnJvbSAncmVkdXgnOwppbXBvcnQge2Nvbm5lY3R9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IEhlYWRlciBmcm9tICcuLi9jb21wb25lbnRzL2hlYWRlcicKaW1wb3J0ICogYXMgQ291bnRlckFjdGlvbnMgZnJvbSAnLi4vYWN0aW9ucy9jb3VudGVyJwoKY2xhc3MgQXBwIGV4dGVuZHMgQ29tcG9uZW50IHsKICByZW5kZXIoKSB7CiAgICBjb25zdCB7dmFsdWUsIGFjdGlvbnN9ID0gdGhpcy5wcm9wczsKICAgIHJldHVybiAoCiAgICAgIDxkaXY+CiAgICAgICAgPEhlYWRlciAvPgogICAgICAgIDxoMj5jb3VudD17dmFsdWV9PC9oMj4KICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e2FjdGlvbnMuaW5jcmVtZW50fT7lopfliqA8L2J1dHRvbj4KICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e2FjdGlvbnMuZGVjcmVtZW50fT7muJvlsJE8L2J1dHRvbj4KICAgICAgPC9kaXY+CiAgICApCiAgfQp9CgpBcHAucHJvcFR5cGVzID0gewogIHZhbHVlOiBQcm9wVHlwZXMubnVtYmVyLmlzUmVxdWlyZWQsCiAgYWN0aW9uczogUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkCn0KCi8vIEFwcOOCs+ODs+ODneODvOODjeODs+ODiOOBq3N0YXRl44KS5rWB44GX6L6844KACmZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSkgewogIHJldHVybiBzdGF0ZS5jb3VudGVyCn0KCmZ1bmN0aW9uIG1hcERpc3BhdGNoVG9Qcm9wcyhkaXNwYXRjaCkgewogIHJldHVybiB7CiAgICBhY3Rpb25zOiBiaW5kQWN0aW9uQ3JlYXRvcnMoQ291bnRlckFjdGlvbnMsIGRpc3BhdGNoKQogIH0KfQpleHBvcnQgZGVmYXVsdCBjb25uZWN0KAogIG1hcFN0YXRlVG9Qcm9wcywKICBtYXBEaXNwYXRjaFRvUHJvcHMKKShBcHApCg==</text>
+        <text encoding="base64">aW1wbW9ydCAK</text>
       </register>
       <register name=":" type="4">
-        <text>1,$d</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -618,8 +679,8 @@
       <history-cmd>
         <entry>2,$d</entry>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>1,$d</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
