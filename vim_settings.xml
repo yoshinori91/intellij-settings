@@ -75,6 +75,13 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/About/index.js" timestamp="1471835462161">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="23" />
@@ -92,6 +99,13 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" timestamp="1471800492291">
+        <mark key="'" line="27" column="5" />
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+        <mark key="^" line="21" column="2" />
       </file>
       <file name="$USER_HOME$/wkt/react-boilerplate-dev/internals/scripts/pagespeed.js" timestamp="1471832241349">
         <mark key="[" line="21" column="19" />
@@ -123,6 +137,13 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/zzz/public/app/components/Home.js" timestamp="1471922795711">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dona/app/controllers/Application.java" timestamp="1471943430394">
         <mark key="[" line="45" column="32" />
         <mark key="]" line="45" column="36" />
@@ -152,6 +173,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="6" column="18" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" timestamp="1471921821001">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/jtb/Donald/app/controllers/Application.java" timestamp="1471932767814">
         <mark key="[" line="6" column="18" />
@@ -380,12 +408,18 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/index2.js" timestamp="1472009556020">
-        <mark key="'" line="24" column="59" />
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
-        <mark key="^" line="25" column="0" />
+      <file name="$USER_HOME$/test/dona/public/app/index2.js" timestamp="1472012596118">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/test/dona/webpack.config.js" timestamp="1472011933174">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="1" column="28" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/App/selectors.js" timestamp="1471798655269">
         <mark key="[" line="10" column="6" />
@@ -399,16 +433,15 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
+      <file name="$USER_HOME$/wk/react-boilerplate/server/logger.js" timestamp="1471675940155">
+        <mark key="'" line="26" column="16" />
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
-      <jump line="27" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
-      <jump line="60" column="3" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/wkt/react-boilerplate/node_modules/react-router-redux/lib/index.js" />
-      <jump line="58" column="2" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="120" column="36" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="59" column="3" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/components/Button/index.js" />
       <jump line="27" column="49" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="46" column="23" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
@@ -501,16 +534,24 @@
       <jump line="45" column="2" filename="$USER_HOME$/test/dona/public/app/index.js" />
       <jump line="126" column="14" filename="$USER_HOME$/test/dona/public/app/index.js" />
       <jump line="23" column="59" filename="$USER_HOME$/test/dona/public/app/index2.js" />
+      <jump line="33" column="2" filename="$USER_HOME$/test/dona/public/app/index2.js" />
+      <jump line="3" column="23" filename="$USER_HOME$/test/dona/public/app/index2.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/test/dona/webpack.config.js" />
+      <jump line="1" column="17" filename="$USER_HOME$/test/dona/public/app/index2.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/test/dona/public/app/index2.js" />
+      <jump line="27" column="4" filename="$USER_HOME$/test/dona/public/app/index2.js" />
+      <jump line="10" column="41" filename="$USER_HOME$/test/dona/public/app/index2.js" />
+      <jump line="28" column="15" filename="$USER_HOME$/test/dona/public/app/index2.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text encoding="base64">XDxpbmNyZW1lbnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>document.getElementById('app-component')</text>
@@ -519,45 +560,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29ubmVjdChtYXBTdGF0ZVRvUHJvcHMpKEFwcCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29ubmVjdChtYXBTdGF0ZVRvUHJvcHMpKEFwcCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IGNvbm5lY3QobWFwU3RhdGVUb1Byb3BzKShBcHApCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnYXBwLWNvbXBvbmVudCcpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gc3RhdGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ZnVuY3Rpb24gbWFwU3RhdGVUb1Byb3BzKHN0YXRlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search encoding="base64">XDxpbmNyZW1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern encoding="base64">XDxpbmNyZW1lbnRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>change</entry>
-        <entry encoding="base64">XDxvblN1Ym1pdEZvcm1cPg==</entry>
-        <entry encoding="base64">XDxsb2FkUmVwb3NcPg==</entry>
         <entry>put</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVVzZXJuYW1lXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2Vob2dlXD4=</entry>
@@ -575,6 +613,9 @@
         <entry encoding="base64">XDxvbkNvbW1pdFN1Ym1pdFw+</entry>
         <entry>commit</entry>
         <entry>url</entry>
+        <entry>diplay</entry>
+        <entry encoding="base64">XDxoYW5kbGVDbGlja1w+</entry>
+        <entry encoding="base64">XDxpbmNyZW1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
