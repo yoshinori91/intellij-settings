@@ -1,11 +1,8 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (2)">
   <JSCodeStyleSettings>
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />

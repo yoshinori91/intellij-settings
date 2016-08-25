@@ -9,21 +9,51 @@
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
+  <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoSuperMethod" />
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" second-keystroke="i" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="i" />
+  </action>
+  <action id="IntroduceLambdaParameter" />
+  <action id="Macro.format &amp;&amp; save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="l" />
   </action>
   <action id="RecentChangedFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
+  <action id="SaveAll" />
+  <action id="Scala.ShowImplicitParameters" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="tab" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
