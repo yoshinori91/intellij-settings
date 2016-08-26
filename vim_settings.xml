@@ -15,7 +15,7 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1471943203304">
+      <file name="/a.dummy" timestamp="1472219585446">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/reducers.js" timestamp="1471871071397">
@@ -120,11 +120,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/wkt/redux-react-router-async-example/lib/Root.js" timestamp="1471848542052">
-        <mark key="'" line="104" column="15" />
-        <mark key="[" line="104" column="22" />
-        <mark key="]" line="104" column="22" />
-        <mark key="." line="104" column="22" />
+      <file name="$USER_HOME$/workspace/dona/public/js/actions/counter.js" timestamp="1472221563658">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="47" />
+        <mark key="." line="0" column="47" />
+        <mark key="^" line="0" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/undef/app/controllers/Application.java" timestamp="1471598019792">
         <mark key="[" line="4" column="18" />
@@ -150,6 +150,13 @@
         <mark key="]" line="94" column="48" />
         <mark key="^" line="94" column="48" />
         <mark key="." line="94" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/dona/public/js/containers/App.js" timestamp="1472221855074">
+        <mark key="'" line="1" column="8" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/not-found.tag" timestamp="1471167762195">
         <mark key="[" line="0" column="0" />
@@ -211,12 +218,6 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/jtb/Donald/webpack.config.js" timestamp="1471934367376">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/dona/public/app/reducers/todos.js" timestamp="1472127203842">
         <mark key="[" line="35" column="1" />
         <mark key="]" line="37" column="19" />
@@ -266,7 +267,6 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/dona/public/app/reducers/media.js" timestamp="1472123112577" />
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/index.js" timestamp="1471717857275">
         <mark key="'" line="53" column="15" />
         <mark key="[" line="18" column="0" />
@@ -280,11 +280,11 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Button/index.js" timestamp="1471921664840">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="38" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/workspace/dona/public/js/store/configureStore.js" timestamp="1472221144662">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dona/conf/routes" timestamp="1471943463080">
         <mark key="[" line="7" column="57" />
@@ -304,7 +304,7 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/dona/public/app/index.js" timestamp="1472123447249">
+      <file name="$USER_HOME$/workspace/dona/public/app/index.js" timestamp="1472219053068">
         <mark key="[" line="21" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/dona/public/app/actions/index.js" timestamp="1472125312523">
@@ -330,6 +330,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/dona/webpack.config.js" timestamp="1472221453564">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/server/logger.js" timestamp="1471675940155">
         <mark key="'" line="26" column="16" />
@@ -391,11 +397,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/dona/public/app/components/TodoList.js" timestamp="1472127990993">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="2" column="2" />
-        <mark key="." line="2" column="2" />
-        <mark key="^" line="2" column="2" />
+      <file name="$USER_HOME$/workspace/dona/public/app/components/TodoList.js" timestamp="1472218957194">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/saga/app/views/index.scala.html" timestamp="1471452305471">
         <mark key="[" line="10" column="29" />
@@ -409,17 +414,17 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/saga-login-flow/app/components/Login.js" timestamp="1471915976278">
-        <mark key="'" line="24" column="16" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/wkt/react-boilerplate-dev/server/index.js" timestamp="1471832292542">
         <mark key="[" line="22" column="46" />
         <mark key="]" line="22" column="49" />
         <mark key="." line="22" column="49" />
         <mark key="^" line="22" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/dona/public/js/index.js" timestamp="1472221413444">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="^" line="13" column="53" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/app.js" timestamp="1471269501748">
         <mark key="[" line="13" column="16" />
@@ -457,6 +462,7 @@
         <mark key="." line="25" column="42" />
         <mark key="^" line="25" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/dona/package.json" timestamp="1472219942425" />
       <file name="$USER_HOME$/workspace/undef/public/front/components/Footer.js" timestamp="1471599159040">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="16" column="20" />
@@ -482,6 +488,12 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/dona/public/js/reducers/index.js" timestamp="1472221623019">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/NotFoundPage/index.js" timestamp="1471800757159">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="23" column="1" />
@@ -494,28 +506,27 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/App/index.js" timestamp="1471921854302">
-        <mark key="'" line="15" column="7" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/jtb/play-redux/resources/javascripts/actions/echo.js" timestamp="1471920547950">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="6" column="1" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/dona/public/js/components/Header.js" timestamp="1472220922890">
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/dona/public/js/constants/ActionTypes.js" timestamp="1472220049614">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="5" filename="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" />
-      <jump line="60" column="3" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/wkt/react-boilerplate/node_modules/react-router-redux/lib/index.js" />
-      <jump line="58" column="2" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="120" column="36" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="59" column="3" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/components/Button/index.js" />
-      <jump line="27" column="49" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="46" column="23" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="29" column="2" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
@@ -608,55 +619,63 @@
       <jump line="10" column="0" filename="$USER_HOME$/workspace/dona/public/app/index_turorial.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/dona/public/app/reducers/todos.js" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/dona/public/app/reducers/todos.js" />
+      <jump line="20" column="21" filename="$USER_HOME$/workspace/dona/public/js/containers/App.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/dona/public/js/containers/App.js" />
+      <jump line="4" column="11" filename="$USER_HOME$/workspace/dona/public/js/components/Header.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/workspace/dona/public/js/containers/App.js" />
+      <jump line="2" column="8" filename="$USER_HOME$/workspace/dona/public/js/containers/App.js" />
+      <jump line="19" column="28" filename="$USER_HOME$/workspace/dona/public/js/containers/App.js" />
+      <jump line="25" column="13" filename="$USER_HOME$/workspace/dona/public/js/containers/App.js" />
+      <jump line="1" column="8" filename="$USER_HOME$/workspace/dona/public/js/containers/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kQWN0aW9uQ3JlYXRvcnMK</text>
       </register>
       <register name="-" type="4">
-        <text>PesropTyp</text>
+        <text>constants</text>
       </register>
       <register name="/" type="4">
-        <text>commit</text>
+        <text encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YWRkVG9kbyA9ICh0ZXh0KSA9PiB7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kQWN0aW9uQ3JlYXRvcnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VG9kbyAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3QK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGR0Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBka2RrOTEgb24gMTYvMDgvMjUuCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBka2RrOTEgb24gMTYvMDgvMjYuCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIG1vZHVsZS5ob3QuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLy9lbmFibGUgd2VicGFjayBob3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>commit</last-search>
+      <last-search encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</last-search>
       <last-offset />
-      <last-pattern>commit</last-pattern>
+      <last-pattern encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -681,6 +700,7 @@
         <entry encoding="base64">XDxfcmVnaXN0ZXJcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
         <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
+        <entry encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
