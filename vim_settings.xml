@@ -327,6 +327,13 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/test/donadona/app/views/main.scala.html" timestamp="1472201910825" />
+      <file name="$USER_HOME$/test/donadona/app/views/index.scala.html" timestamp="1472201963677">
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="13" column="60" />
+        <mark key="^" line="13" column="60" />
+        <mark key="." line="13" column="60" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/container/app.js" timestamp="1472015667538">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -608,6 +615,12 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/test/donadona/public/javascripts/webpack.config.js" timestamp="1472201991743">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zzz/public/app/components/Media.js" timestamp="1471922618143">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="21" />
@@ -772,43 +785,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SG9tZSA=</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SG9tZSA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIb21lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>connect</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtBcHAsIEhvbWUsIEZvbywgQmFyfSBmcm9tICcuL2NvbXBvbmVudHMnCg==</text>
+        <text encoding="base64">ICAgIEBjb250ZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMDgvMjYuCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgSG9tZQo=</text>
+        <text encoding="base64">ICAgIEBwbGF5MjAud2VsY29tZShtZXNzYWdlLCBzdHlsZSA9ICJKYXZhIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMDgvMjYuCg==</text>
+        <text encoding="base64">QG1haW4oIldlbGNvbWUgdG8gUGxheSIpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGRkZC8qKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb21iaW5lUmVkdWNlcnN9IGZyb20gJ3JlZHV4Jwo=</text>
+        <text encoding="base64">QChtZXNzYWdlOiBTdHJpbmcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
