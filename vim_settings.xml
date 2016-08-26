@@ -266,11 +266,11 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/components/App.js" timestamp="1472177510068">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
+      <file name="$USER_HOME$/test/dona/public/app/components/App.js" timestamp="1472198339301">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/test/dona/public/front/containers/App.js" timestamp="1472194499016">
         <mark key="[" line="5" column="10" />
@@ -397,6 +397,12 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
       </file>
+      <file name="$USER_HOME$/test/dona/public/app/reducers/count.js" timestamp="1472199025680">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Button/index.js" timestamp="1471921664840">
         <mark key="'" line="74" column="0" />
         <mark key="[" line="9" column="38" />
@@ -409,11 +415,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1472026589603">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="5" column="36" />
+      <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1472197891196">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+        <mark key="^" line="32" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dona/app/controllers/Application.java" timestamp="1471943430394">
         <mark key="[" line="45" column="32" />
@@ -451,11 +458,23 @@
         <mark key="." line="15" column="9" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="$USER_HOME$/test/dona/public/app/components/Foo.js" timestamp="1472198755978">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zzz/index.html" timestamp="1471922680452">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/test/dona/public/app/constants.js" timestamp="1472199145068">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/components/Button/styles.css" timestamp="1471846057683">
         <mark key="[" line="0" column="0" />
@@ -468,6 +487,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/test/dona/public/app/components/Bar.js" timestamp="1472198812069">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/react９/app/views/tutorial3.js" timestamp="1471272428971">
         <mark key="[" line="7" column="0" />
@@ -530,6 +555,9 @@
         <mark key="." line="11" column="7" />
         <mark key="^" line="11" column="7" />
       </file>
+      <file name="/JavaScript Console" timestamp="1472199167450">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/jtb/Donald/app/views/index.scala.html" timestamp="1471934508662">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -581,11 +609,18 @@
         <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/test/react-redux-material_ui-boilerplate/components/Header.jsx" timestamp="1472195285581" />
-      <file name="$USER_HOME$/test/dona/public/app/reducers/index.js" timestamp="1472196546236">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
+      <file name="$USER_HOME$/test/dona/public/app/reducers/index.js" timestamp="1472199076425">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/test/dona/public/app/components/Home.js" timestamp="1472198648831">
+        <mark key="'" line="19" column="27" />
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/ThirdPage/index.js" timestamp="1471692867371">
         <mark key="[" line="21" column="31" />
@@ -621,8 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="10" filename="$USER_HOME$/wkt/react-boilerplate/app/utils/asyncInjectors.js" />
-      <jump line="10" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/utils/asyncInjectors.js" />
       <jump line="123" column="10" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="63" column="3" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="64" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
@@ -721,46 +754,48 @@
       <jump line="17" column="43" filename="$USER_HOME$/test/dona/public/front/entryPoint.js" />
       <jump line="4" column="8" filename="$USER_HOME$/test/dona/public/front/entryPoint.js" />
       <jump line="12" column="21" filename="$USER_HOME$/test/dona/public/front/reducers/index.js" />
+      <jump line="9" column="8" filename="$USER_HOME$/test/dona/public/app/app.js" />
+      <jump line="18" column="27" filename="$USER_HOME$/test/dona/public/app/components/Home.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, IndexRoute</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuL2NvbnRhaW5lcnMvQXBwJwo=</text>
+        <text encoding="base64">ICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsoKSA9PiBpbmNyZWFzZSgxKX0+aW5jcmVhc2U8L2J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHZpc2liaWxpdHlGaWx0ZXIgZnJvbSAnLi92aXNpYmlsaXR5RmlsdGVyJwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB2aXNpYmlsaXR5RmlsdGVyCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMDgvMjYuCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGRkZC8qKgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHtjb21iaW5lUmVkdWNlcnN9IGZyb20gJ3JlZHV4Jwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHRvZG9zIGZyb20gJy4vdG9kb3MnCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">aW1wb3J0IHZpc2liaWxpdHlGaWx0ZXIgZnJvbSAnLi92aXNpYmlsaXR5RmlsdGVyJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8SW5kZXhSb3V0ZSBjb21wb25lbnQ9e01lZGlhfS8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdG9kb0FwcCA9IGNvbWJpbmVSZWR1Y2Vycyh7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0b2RvcywK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
