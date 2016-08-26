@@ -15,6 +15,9 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
+      <file name="/a.dummy" timestamp="1472180036539">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/react９/app/views/tutorial1.js" timestamp="1471272322730">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="9" />
@@ -63,7 +66,7 @@
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="43" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/actions/index.js" timestamp="1472177462146">
+      <file name="$USER_HOME$/test/dona/public/app/actions/index.js" timestamp="1472180032638">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="0" />
@@ -229,11 +232,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/components/TodoList.js" timestamp="1472176816821">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="22" />
-        <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="22" />
+      <file name="$USER_HOME$/test/dona/public/app/components/TodoList.js" timestamp="1472179954680">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/undef/app/views/index.scala.html" timestamp="1471598814617">
         <mark key="[" line="12" column="32" />
@@ -259,7 +262,7 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/index2.js" timestamp="1472176264420">
+      <file name="$USER_HOME$/test/dona/public/app/index2.js" timestamp="1472180050483">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="55" />
@@ -277,7 +280,7 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/components/Link.js" timestamp="1472177100828">
+      <file name="$USER_HOME$/test/dona/public/app/components/Link.js" timestamp="1472179983077">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
@@ -340,7 +343,8 @@
         <mark key="." line="21" column="2" />
         <mark key="^" line="21" column="2" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/containers/AddTodo.js" timestamp="1472178661789">
+      <file name="$USER_HOME$/test/dona/public/app/containers/AddTodo.js" timestamp="1472180001431">
+        <mark key="'" line="2" column="8" />
         <mark key="[" line="27" column="28" />
         <mark key="]" line="28" column="21" />
         <mark key="." line="28" column="21" />
@@ -562,8 +566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="8" filename="$USER_HOME$/wkt/redux-react-router-async-example/lib/Root.js" />
-      <jump line="104" column="15" filename="$USER_HOME$/wkt/redux-react-router-async-example/lib/Root.js" />
       <jump line="54" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="26" column="3" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="31" column="2" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
@@ -662,16 +664,18 @@
       <jump line="0" column="8" filename="$USER_HOME$/test/dona/public/app/containers/VisibleTodoList.js" />
       <jump line="22" column="6" filename="$USER_HOME$/test/dona/public/app/containers/FilterLink.js" />
       <jump line="0" column="11" filename="$USER_HOME$/test/dona/public/app/containers/FilterLink.js" />
+      <jump line="14" column="17" filename="$USER_HOME$/test/dona/public/app/containers/AddTodo.js" />
+      <jump line="2" column="8" filename="$USER_HOME$/test/dona/public/app/containers/AddTodo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uZWN0XD4=</text>
+        <text encoding="base64">XDxhZGRUb2RvXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsiLCAifQogICAgPEZpbHRlckxpbmsgZmlsdGVyPSJTSE9XX0FDVElWRSI+CiAgICAgIEFjdGl2ZQogICAgPC9GaWx0ZXJMaW5rPgo=</text>
@@ -708,9 +712,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25uZWN0XD4=</last-search>
+      <last-search encoding="base64">XDxhZGRUb2RvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uZWN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRUb2RvXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -718,7 +722,6 @@
     </search>
     <history>
       <history-search>
-        <entry>btn</entry>
         <entry encoding="base64">XDxfb25TdWJtaXRcPg==</entry>
         <entry encoding="base64">XDxyZWR1Y2VyXD4=</entry>
         <entry encoding="base64">XDxuZXdGb3JtU3RhdGVcPg==</entry>
@@ -738,6 +741,7 @@
         <entry>input</entry>
         <entry>data</entry>
         <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
+        <entry encoding="base64">XDxhZGRUb2RvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
