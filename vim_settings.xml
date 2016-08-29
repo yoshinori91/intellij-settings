@@ -61,6 +61,12 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/test/dona/public/app/index.js" timestamp="1472459730046">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/actions/index.js" timestamp="1472188711537">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="22" column="0" />
@@ -463,12 +469,12 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/components/item.js" timestamp="1472456710177">
+      <file name="$USER_HOME$/test/dona/public/app/components/item.js" timestamp="1472460018344">
         <mark key="'" line="12" column="10" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="14" column="9" />
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Foo.js" timestamp="1472198755978">
         <mark key="[" line="8" column="1" />
@@ -585,8 +591,8 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/components/Footer.js" timestamp="1472194057385">
-        <mark key="'" line="42" column="14" />
+      <file name="$USER_HOME$/test/dona/public/app/components/Footer.js" timestamp="1472459713457">
+        <mark key="'" line="12" column="11" />
         <mark key="[" line="19" column="1" />
         <mark key="]" line="21" column="20" />
         <mark key="^" line="21" column="20" />
@@ -663,7 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="13" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="112" column="19" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="114" column="38" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="109" column="19" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
@@ -763,13 +768,14 @@
       <jump line="13" column="10" filename="$USER_HOME$/test/dona/public/app/components/item.js" />
       <jump line="16" column="0" filename="$USER_HOME$/test/dona/public/app/components/Todo.js" />
       <jump line="5" column="27" filename="$USER_HOME$/test/dona/public/app/components/Todo.js" />
+      <jump line="12" column="11" filename="$USER_HOME$/test/dona/public/app/components/Footer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">awo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9wVHlwZXNcPg==</text>
