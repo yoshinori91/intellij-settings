@@ -15,7 +15,7 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1472200780934">
+      <file name="/a.dummy" timestamp="1472455193443">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/react９/app/views/tutorial1.js" timestamp="1471272322730">
@@ -86,7 +86,7 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/containers/FilterLink.js" timestamp="1472178329340">
+      <file name="$USER_HOME$/test/dona/public/app/containers/FilterLink.js" timestamp="1472454559749">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
@@ -241,7 +241,8 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/components/TodoList.js" timestamp="1472179954680">
+      <file name="$USER_HOME$/test/dona/public/app/components/TodoList.js" timestamp="1472455081527">
+        <mark key="'" line="16" column="9" />
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
         <mark key="^" line="9" column="16" />
@@ -296,11 +297,12 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/components/Link.js" timestamp="1472193946350">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="$USER_HOME$/test/dona/public/app/components/Link.js" timestamp="1472455778138">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dona/webpack.config.js" timestamp="1471934677762">
         <mark key="[" line="4" column="24" />
@@ -379,7 +381,7 @@
         <mark key="." line="21" column="2" />
         <mark key="^" line="21" column="2" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/containers/AddTodo.js" timestamp="1472180001431">
+      <file name="$USER_HOME$/test/dona/public/app/containers/AddTodo.js" timestamp="1472454549853">
         <mark key="'" line="2" column="8" />
         <mark key="[" line="27" column="28" />
         <mark key="]" line="28" column="21" />
@@ -460,11 +462,12 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/components/item.js" timestamp="1472030618311">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="15" column="9" />
-        <mark key="." line="15" column="9" />
-        <mark key="^" line="15" column="9" />
+      <file name="$USER_HOME$/test/dona/public/app/components/item.js" timestamp="1472455790306">
+        <mark key="'" line="12" column="10" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="14" column="9" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Foo.js" timestamp="1472198755978">
         <mark key="[" line="8" column="1" />
@@ -659,12 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="40" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="26" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" />
-      <jump line="3" column="61" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" />
-      <jump line="106" column="71" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="147" column="2" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="158" column="15" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="25" column="8" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="131" column="5" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="157" column="13" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
@@ -759,55 +756,61 @@
       <jump line="3" column="0" filename="$USER_HOME$/test/dona2/public/node_modules/react/lib/React.js" />
       <jump line="43" column="245" filename="$USER_HOME$/test/dona2/public/node_modules/react/lib/React.js" />
       <jump line="41" column="20" filename="$USER_HOME$/test/dona2/public/node_modules/react/lib/React.js" />
+      <jump line="18" column="15" filename="$USER_HOME$/test/dona/public/app/components/TodoList.js" />
+      <jump line="17" column="8" filename="$USER_HOME$/test/dona/public/app/components/TodoList.js" />
+      <jump line="16" column="9" filename="$USER_HOME$/test/dona/public/app/components/TodoList.js" />
+      <jump line="1" column="34" filename="$USER_HOME$/test/dona/public/app/components/item.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/test/dona/public/app/components/Link.js" />
+      <jump line="13" column="10" filename="$USER_HOME$/test/dona/public/app/components/item.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>...reducers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly9ub2luc3BlY3Rpb24gSlNVbnJlc29sdmVkVmFyaWFibGUK</text>
       </register>
       <register name="-" type="4">
-        <text>...reducers</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Component</text>
+        <text encoding="base64">XDxQcm9wVHlwZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAge3Rlc3Q6IC9cLmpzJC8sIGV4Y2x1ZGU6IC9ub2RlX21vZHVsZXMvLCBsb2FkZXI6ICdiYWJlbC1sb2FkZXI/cHJlc2V0c1tdPWVzMjAxNSZwcmVzZXRzW109cmVhY3QnfQo=</text>
+      <register name="0" type="4">
+        <text>P</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9ub2luc3BlY3Rpb24gSlNVbnJlc29sdmVkVmFyaWFibGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICA8L0RvY2tNb25pdG9yPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxMb2dNb25pdG9yIHRoZW1lPSJ0b21vcnJvdyIgcHJlc2VydmVTY3JvbGxUb3A9e2ZhbHNlfS8+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8RG9ja01vbml0b3IgdG9nZ2xlVmlzaWJpbGl0eUtleT0iY3RybC1oIiBjaGFuZ2VQb3NpdGlvbktleT0iY3RybC1xIj4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgRGV2VG9vbHMgPSBjcmVhdGVEZXZUb29scygK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBEZXZUb29scy5pbnN0cnVtZW50KCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8L0RvY2tNb25pdG9yPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxMb2dNb25pdG9yIHRoZW1lPSJ0b21vcnJvdyIgcHJlc2VydmVTY3JvbGxUb3A9e2ZhbHNlfS8+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICA8RG9ja01vbml0b3IgdG9nZ2xlVmlzaWJpbGl0eUtleT0iY3RybC1oIiBjaGFuZ2VQb3NpdGlvbktleT0iY3RybC1xIj4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgRGV2VG9vbHMgPSBjcmVhdGVEZXZUb29scygK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBEZXZUb29scy5pbnN0cnVtZW50KCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IERvY2tNb25pdG9yIGZyb20gJ3JlZHV4LWRldnRvb2xzLWRvY2stbW9uaXRvcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Component</last-search>
+      <last-search encoding="base64">XDxQcm9wVHlwZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>Component</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9wVHlwZXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjb25uZWN0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -815,7 +818,6 @@
     </search>
     <history>
       <history-search>
-        <entry>commit</entry>
         <entry>url</entry>
         <entry>diplay</entry>
         <entry encoding="base64">XDxoYW5kbGVDbGlja1w+</entry>
@@ -835,6 +837,7 @@
         <entry encoding="base64">XDxEZXZUb29sc1w+</entry>
         <entry>com</entry>
         <entry>Component</entry>
+        <entry encoding="base64">XDxQcm9wVHlwZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
