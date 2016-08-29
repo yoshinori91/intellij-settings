@@ -119,6 +119,7 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/test/dona2/public/src/containers/Home/Home.js" timestamp="1472454208972" />
       <file name="$USER_HOME$/workspace/undef/public/front/components/TodoList.js" timestamp="1471600439053">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="34" />
@@ -495,6 +496,9 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/test/dona2/public/node_modules/react/lib/React.js" timestamp="1472454048390">
+        <mark key="'" line="41" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/react９/app/views/tutorial3.js" timestamp="1471272428971">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -655,9 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="15" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="31" column="42" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/App/index.js" />
-      <jump line="15" column="7" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/App/index.js" />
       <jump line="154" column="40" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="26" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" />
       <jump line="3" column="61" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" />
@@ -755,6 +756,9 @@
       <jump line="7" column="35" filename="$USER_HOME$/test/dona/public/front/app.js" />
       <jump line="15" column="6" filename="$USER_HOME$/test/dona/public/js/app.js" />
       <jump line="7" column="13" filename="$USER_HOME$/test/dona/public/js/app.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/test/dona2/public/node_modules/react/lib/React.js" />
+      <jump line="43" column="245" filename="$USER_HOME$/test/dona2/public/node_modules/react/lib/React.js" />
+      <jump line="41" column="20" filename="$USER_HOME$/test/dona2/public/node_modules/react/lib/React.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -764,7 +768,7 @@
         <text>...reducers</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEZXZUb29sc1w+</text>
+        <text>Component</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAge3Rlc3Q6IC9cLmpzJC8sIGV4Y2x1ZGU6IC9ub2RlX21vZHVsZXMvLCBsb2FkZXI6ICdiYWJlbC1sb2FkZXI/cHJlc2V0c1tdPWVzMjAxNSZwcmVzZXRzW109cmVhY3QnfQo=</text>
@@ -801,9 +805,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEZXZUb29sc1w+</last-search>
+      <last-search>Component</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEZXZUb29sc1w+</last-pattern>
+      <last-pattern>Component</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxjb25uZWN0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -811,8 +815,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
-        <entry encoding="base64">XDxvbkNvbW1pdFN1Ym1pdFw+</entry>
         <entry>commit</entry>
         <entry>url</entry>
         <entry>diplay</entry>
@@ -831,6 +833,8 @@
         <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
         <entry encoding="base64">XDxIb21lXD4=</entry>
         <entry encoding="base64">XDxEZXZUb29sc1w+</entry>
+        <entry>com</entry>
+        <entry>Component</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
