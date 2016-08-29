@@ -193,10 +193,10 @@
         <mark key="." line="34" column="7" />
         <mark key="^" line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/test/dona/app/controllers/Application.java" timestamp="1472001537081">
-        <mark key="[" line="57" column="26" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
+      <file name="$USER_HOME$/test/dona/app/controllers/Application.java" timestamp="1472462156374">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
         <mark key="^" line="58" column="25" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Todo.js" timestamp="1472458486852">
@@ -777,8 +777,8 @@
       <jump line="12" column="11" filename="$USER_HOME$/test/dona/public/app/components/Footer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbGVtZW50Mi5wdXQoImF1dGhvciIsICJ5b3NoaW5vcmkiKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -790,31 +790,31 @@
         <text>P</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAgICAgICBlbGVtZW50Mi5wdXQoImF1dGhvciIsICJ5b3NoaW5vcmkiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9ub2luc3BlY3Rpb24gSlNVbnJlc29sdmVkVmFyaWFibGUK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9ub2luc3BlY3Rpb24gSlNVbnJlc29sdmVkVmFyaWFibGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8L0RvY2tNb25pdG9yPgo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxMb2dNb25pdG9yIHRoZW1lPSJ0b21vcnJvdyIgcHJlc2VydmVTY3JvbGxUb3A9e2ZhbHNlfS8+Cg==</text>
+        <text encoding="base64">ICA8L0RvY2tNb25pdG9yPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8RG9ja01vbml0b3IgdG9nZ2xlVmlzaWJpbGl0eUtleT0iY3RybC1oIiBjaGFuZ2VQb3NpdGlvbktleT0iY3RybC1xIj4K</text>
+        <text encoding="base64">ICAgIDxMb2dNb25pdG9yIHRoZW1lPSJ0b21vcnJvdyIgcHJlc2VydmVTY3JvbGxUb3A9e2ZhbHNlfS8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgRGV2VG9vbHMgPSBjcmVhdGVEZXZUb29scygK</text>
+        <text encoding="base64">ICA8RG9ja01vbml0b3IgdG9nZ2xlVmlzaWJpbGl0eUtleT0iY3RybC1oIiBjaGFuZ2VQb3NpdGlvbktleT0iY3RybC1xIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBEZXZUb29scy5pbnN0cnVtZW50KCkK</text>
+        <text encoding="base64">Y29uc3QgRGV2VG9vbHMgPSBjcmVhdGVEZXZUb29scygK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
