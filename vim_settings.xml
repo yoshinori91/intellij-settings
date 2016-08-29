@@ -193,11 +193,12 @@
         <mark key="." line="58" column="25" />
         <mark key="^" line="58" column="25" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/components/Todo.js" timestamp="1472176485994">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="18" column="18" />
-        <mark key="." line="13" column="19" />
+      <file name="$USER_HOME$/test/dona/public/app/components/Todo.js" timestamp="1472458486852">
+        <mark key="'" line="5" column="27" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dona/conf/routes" timestamp="1471943463080">
         <mark key="[" line="7" column="57" />
@@ -662,8 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="8" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="131" column="5" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="157" column="13" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="112" column="19" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="114" column="38" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
@@ -762,10 +761,12 @@
       <jump line="1" column="34" filename="$USER_HOME$/test/dona/public/app/components/item.js" />
       <jump line="16" column="0" filename="$USER_HOME$/test/dona/public/app/components/Link.js" />
       <jump line="13" column="10" filename="$USER_HOME$/test/dona/public/app/components/item.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/test/dona/public/app/components/Todo.js" />
+      <jump line="5" column="27" filename="$USER_HOME$/test/dona/public/app/components/Todo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9ub2luc3BlY3Rpb24gSlNVbnJlc29sdmVkVmFyaWFibGUK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -777,31 +778,31 @@
         <text>P</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9ub2luc3BlY3Rpb24gSlNVbnJlc29sdmVkVmFyaWFibGUK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9ub2luc3BlY3Rpb24gSlNVbnJlc29sdmVkVmFyaWFibGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8L0RvY2tNb25pdG9yPgo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxMb2dNb25pdG9yIHRoZW1lPSJ0b21vcnJvdyIgcHJlc2VydmVTY3JvbGxUb3A9e2ZhbHNlfS8+Cg==</text>
+        <text encoding="base64">ICA8L0RvY2tNb25pdG9yPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8RG9ja01vbml0b3IgdG9nZ2xlVmlzaWJpbGl0eUtleT0iY3RybC1oIiBjaGFuZ2VQb3NpdGlvbktleT0iY3RybC1xIj4K</text>
+        <text encoding="base64">ICAgIDxMb2dNb25pdG9yIHRoZW1lPSJ0b21vcnJvdyIgcHJlc2VydmVTY3JvbGxUb3A9e2ZhbHNlfS8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgRGV2VG9vbHMgPSBjcmVhdGVEZXZUb29scygK</text>
+        <text encoding="base64">ICA8RG9ja01vbml0b3IgdG9nZ2xlVmlzaWJpbGl0eUtleT0iY3RybC1oIiBjaGFuZ2VQb3NpdGlvbktleT0iY3RybC1xIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBEZXZUb29scy5pbnN0cnVtZW50KCkK</text>
+        <text encoding="base64">Y29uc3QgRGV2VG9vbHMgPSBjcmVhdGVEZXZUb29scygK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBEZXZUb29scy5pbnN0cnVtZW50KCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
