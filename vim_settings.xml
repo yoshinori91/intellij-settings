@@ -155,12 +155,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/dona/public/tutorial/index.js" timestamp="1472484262116">
-        <mark key="'" line="64" column="2" />
-        <mark key="[" line="34" column="1" />
-        <mark key="]" line="34" column="3" />
-        <mark key="^" line="34" column="3" />
-        <mark key="." line="34" column="3" />
+      <file name="$USER_HOME$/workspace/dona/public/tutorial/index.js" timestamp="1472487789907">
+        <mark key="'" line="57" column="19" />
+        <mark key="[" line="112" column="14" />
+        <mark key="]" line="112" column="26" />
+        <mark key="^" line="112" column="26" />
+        <mark key="." line="112" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/not-found.tag" timestamp="1471167762195">
         <mark key="[" line="0" column="0" />
@@ -539,12 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="150" column="13" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="152" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="162" column="4" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="24" column="24" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
-      <jump line="160" column="8" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/saga-login-flow/app/components/Login.js" />
       <jump line="10" column="23" filename="$USER_HOME$/workspace/saga-login-flow/app/components/Login.js" />
@@ -629,71 +623,76 @@
       <jump line="66" column="1" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
       <jump line="74" column="17" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
       <jump line="107" column="17" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
-      <jump line="113" column="35" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
       <jump line="114" column="20" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
       <jump line="72" column="3" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
-      <jump line="73" column="15" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
-      <jump line="89" column="2" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
       <jump line="69" column="14" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
-      <jump line="82" column="16" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
       <jump line="112" column="4" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
-      <jump line="57" column="43" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
       <jump line="64" column="2" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
+      <jump line="30" column="7" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
+      <jump line="8" column="16" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
+      <jump line="89" column="4" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
+      <jump line="65" column="2" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
+      <jump line="73" column="15" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
+      <jump line="58" column="21" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
+      <jump line="113" column="4" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
+      <jump line="82" column="16" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
+      <jump line="57" column="19" filename="$USER_HOME$/workspace/dona/public/tutorial/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>send</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>send</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>onClick</text>
+        <text encoding="base64">XDxoYW5kbGVDbGlja1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gcHJlc2VudGF0aW9uYWwgQ29tcG9uZW50czEK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdGb3JtIGlucHV0OicgKyBlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgc3RvcmUgPSBjcmVhdGVTdG9yZShmb3JtUmVkdWNlciwgaW5pdGlhbFN0YXRlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdGb3JtIGlucHV0OicgKyBlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyogU3RvcmXjga7lrp/oo4UgKi8KCmNvbnN0IGluaXRpYWxTdGF0ZSA9IHsKICB2YWx1ZTogbnVsbCwKfTsKY29uc3Qgc3RvcmUgPSBjcmVhdGVTdG9yZShmb3JtUmVkdWNlciwgaW5pdGlhbFN0YXRlKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Y29uc3Qgc3RvcmUgPSBjcmVhdGVTdG9yZShmb3JtUmVkdWNlciwgaW5pdGlhbFN0YXRlKTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyogU3RvcmXjga7lrp/oo4UgKi8KCmNvbnN0IGluaXRpYWxTdGF0ZSA9IHsKICB2YWx1ZTogbnVsbCwKfTsKY29uc3Qgc3RvcmUgPSBjcmVhdGVTdG9yZShmb3JtUmVkdWNlciwgaW5pdGlhbFN0YXRlKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtjcmVhdGVTdG9yZSwgY29tYmluZVJlZHVjZXJzLCBhcHBseU1pZGRsZXdhcmV9IGZyb20gJ3JlZHV4JwppbXBvcnQge1Byb3ZpZGVyLCBjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCcKaW1wb3J0IFJlYWN0ICBmcm9tICdyZWFjdCcKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbScKaW1wb3J0IGxvZ2dlck1pZGRsZXdhcmUgZnJvbSAncmVkdXgtbG9nZ2VyJwoKLy8gU3RvcmUKY29uc3QgaW5pdGlhbFN0YXRlID0gewogIHZhbHVlOiBudWxsLAp9Cgpjb25zdCBjcmVhdGVTdG9yZVdpdGhNaWRkbGV3YXJlID0gYXBwbHlNaWRkbGV3YXJlKAogIGxvZ2dlck1pZGRsZXdhcmUKKShjcmVhdGVTdG9yZSkKCmNvbnN0IHN0b3JlID0gY3JlYXRlU3RvcmVXaXRoTWlkZGxld2FyZShmb3JtUmVkdWNlciwgaW5pdGlhbFN0YXRlKQoKLy8gQWN0aW9uCmNvbnN0IFNFTkQgPSAnU0VORCcKCmZ1bmN0aW9uIHNlbmQodmFsdWUpIHsKICByZXR1cm4gewogICAgdHlwZTogU0VORCwKICAgIHZhbHVlCiAgfQp9CgovLyBSZWR1Y2VyCmZ1bmN0aW9uIGZvcm1SZWR1Y2VyKHN0YXRlLCBhY3Rpb24pIHsKICBzd2l0Y2ggKGFjdGlvbi50eXBlKSB7CiAgICBjYXNlIFNFTkQ6CiAgICAgIHJldHVybiBPYmplY3QuYXNzaWduKHt9LCBzdGF0ZSwgewogICAgICAgIHZhbHVlOiBhY3Rpb24udmFsdWUKICAgICAgfSkKICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZQogIH0KfQoKLy8gQ29udGFpbmVyIENvbXBvbmVudHMKY2xhc3MgRm9ybUFwcCBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgcmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdj4KICAgICAgICA8Rm9ybUlucHV0IGhhbmRsZUNsaWNrPXt0aGlzLnByb3BzLm9uQ2xpY2t9Lz4KICAgICAgICA8Rm9ybURpc3BsYXkgZGF0YT17dGhpcy5wcm9wcy52YWx1ZX0vPgogICAgICA8L2Rpdj4KICAgICkKICB9Cn0KRm9ybUFwcC5wcm9wVHlwZXMgPSB7CiAgb25DbGljazogUmVhY3QuUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwKICB2YWx1ZTogUmVhY3QuUHJvcFR5cGVzLnN0cmluZywKfQoKLy8gcHJlc2VudGF0aW9uYWwgQ29tcG9uZW50czEKY2xhc3MgRm9ybUlucHV0IGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHsKICBzZW5kKGUpIHsKICAgIGUucHJldmVudERlZmF1bHQoKQogICAgdGhpcy5wcm9wcy5oYW5kbGVDbGljayh0aGlzLm15SW5wdXQudmFsdWUudHJpbSgpKQogICAgdGhpcy5teUlucHV0LnZhbHVlID0gJycKICAgIHJldHVybgogIH0KCiAgcmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPGZvcm0+CiAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHJlZj17KHJlZikgPT4gKHRoaXMubXlJbnB1dCA9IHJlZil9IGRlZmF1bHRWYWx1ZT0iIi8+CiAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsoZXZlbnQpID0+IHRoaXMuc2VuZChldmVudCl9PlNlbmQ8L2J1dHRvbj4KICAgICAgPC9mb3JtPgogICAgKQogIH0KfQpGb3JtSW5wdXQucHJvcFR5cGVzID0gewogIGhhbmRsZUNsaWNrOiBSZWFjdC5Qcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkCn0KCi8vIHByZXNlbnRhdGlvbmFsIENvbXBvbmVudHMxCmNsYXNzIEZvcm1EaXNwbGF5IGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHsKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2Pnt0aGlzLnByb3BzLmRhdGF9PC9kaXY+CiAgICApCiAgfQp9CgpGb3JtRGlzcGxheS5wcm9wVHlwZXMgPSB7CiAgZGF0YTogUmVhY3QuUHJvcFR5cGVzLnN0cmluZwp9CgovLyBDb25uZWN0IHRvIFJlZHV4CmZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSkgewogIHJldHVybiB7CiAgICB2YWx1ZTogc3RhdGUudmFsdWUKICB9Cn0KCmZ1bmN0aW9uIG1hcERpc3BhdGNoVG9Qcm9wcyhkaXNwYXRjaCkgewogIHJldHVybiB7CiAgICBvbkNsaWNrKHZhbHVlKXsKICAgICAgZGlzcGF0Y2goc2VuZCh2YWx1ZSkpCiAgICB9CiAgfQp9Cgpjb25zdCBBcHBDb250YWluZXIgPSBjb25uZWN0KAogIG1hcFN0YXRlVG9Qcm9wcywKICBtYXBEaXNwYXRjaFRvUHJvcHMKKShGb3JtQXBwKQoKLy8gUmVuZGVyaW5nClJlYWN0RE9NLnJlbmRlcigKICA8UHJvdmlkZXIgc3RvcmU9e3N0b3JlfT4KICAgIDxBcHBDb250YWluZXIgLz4KICA8L1Byb3ZpZGVyPiwgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvbnRlbnQnKQopCg==</text>
+        <text encoding="base64">Y29uc3Qgc3RvcmUgPSBjcmVhdGVTdG9yZShmb3JtUmVkdWNlciwgaW5pdGlhbFN0YXRlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHtjcmVhdGVTdG9yZSwgY29tYmluZVJlZHVjZXJzLCBhcHBseU1pZGRsZXdhcmV9IGZyb20gJ3JlZHV4JwppbXBvcnQge1Byb3ZpZGVyLCBjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCcKaW1wb3J0IFJlYWN0ICBmcm9tICdyZWFjdCcKaW1wb3J0IFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbScKaW1wb3J0IGxvZ2dlck1pZGRsZXdhcmUgZnJvbSAncmVkdXgtbG9nZ2VyJwoKLy8gU3RvcmUKY29uc3QgaW5pdGlhbFN0YXRlID0gewogIHZhbHVlOiBudWxsLAp9Cgpjb25zdCBjcmVhdGVTdG9yZVdpdGhNaWRkbGV3YXJlID0gYXBwbHlNaWRkbGV3YXJlKAogIGxvZ2dlck1pZGRsZXdhcmUKKShjcmVhdGVTdG9yZSkKCmNvbnN0IHN0b3JlID0gY3JlYXRlU3RvcmVXaXRoTWlkZGxld2FyZShmb3JtUmVkdWNlciwgaW5pdGlhbFN0YXRlKQoKLy8gQWN0aW9uCmNvbnN0IFNFTkQgPSAnU0VORCcKCmZ1bmN0aW9uIHNlbmQodmFsdWUpIHsKICByZXR1cm4gewogICAgdHlwZTogU0VORCwKICAgIHZhbHVlCiAgfQp9CgovLyBSZWR1Y2VyCmZ1bmN0aW9uIGZvcm1SZWR1Y2VyKHN0YXRlLCBhY3Rpb24pIHsKICBzd2l0Y2ggKGFjdGlvbi50eXBlKSB7CiAgICBjYXNlIFNFTkQ6CiAgICAgIHJldHVybiBPYmplY3QuYXNzaWduKHt9LCBzdGF0ZSwgewogICAgICAgIHZhbHVlOiBhY3Rpb24udmFsdWUKICAgICAgfSkKICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZQogIH0KfQoKLy8gQ29udGFpbmVyIENvbXBvbmVudHMKY2xhc3MgRm9ybUFwcCBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgcmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdj4KICAgICAgICA8Rm9ybUlucHV0IGhhbmRsZUNsaWNrPXt0aGlzLnByb3BzLm9uQ2xpY2t9Lz4KICAgICAgICA8Rm9ybURpc3BsYXkgZGF0YT17dGhpcy5wcm9wcy52YWx1ZX0vPgogICAgICA8L2Rpdj4KICAgICkKICB9Cn0KRm9ybUFwcC5wcm9wVHlwZXMgPSB7CiAgb25DbGljazogUmVhY3QuUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwKICB2YWx1ZTogUmVhY3QuUHJvcFR5cGVzLnN0cmluZywKfQoKLy8gcHJlc2VudGF0aW9uYWwgQ29tcG9uZW50czEKY2xhc3MgRm9ybUlucHV0IGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHsKICBzZW5kKGUpIHsKICAgIGUucHJldmVudERlZmF1bHQoKQogICAgdGhpcy5wcm9wcy5oYW5kbGVDbGljayh0aGlzLm15SW5wdXQudmFsdWUudHJpbSgpKQogICAgdGhpcy5teUlucHV0LnZhbHVlID0gJycKICAgIHJldHVybgogIH0KCiAgcmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPGZvcm0+CiAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHJlZj17KHJlZikgPT4gKHRoaXMubXlJbnB1dCA9IHJlZil9IGRlZmF1bHRWYWx1ZT0iIi8+CiAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsoZXZlbnQpID0+IHRoaXMuc2VuZChldmVudCl9PlNlbmQ8L2J1dHRvbj4KICAgICAgPC9mb3JtPgogICAgKQogIH0KfQpGb3JtSW5wdXQucHJvcFR5cGVzID0gewogIGhhbmRsZUNsaWNrOiBSZWFjdC5Qcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkCn0KCi8vIHByZXNlbnRhdGlvbmFsIENvbXBvbmVudHMxCmNsYXNzIEZvcm1EaXNwbGF5IGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHsKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2Pnt0aGlzLnByb3BzLmRhdGF9PC9kaXY+CiAgICApCiAgfQp9CgpGb3JtRGlzcGxheS5wcm9wVHlwZXMgPSB7CiAgZGF0YTogUmVhY3QuUHJvcFR5cGVzLnN0cmluZwp9CgovLyBDb25uZWN0IHRvIFJlZHV4CmZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSkgewogIHJldHVybiB7CiAgICB2YWx1ZTogc3RhdGUudmFsdWUKICB9Cn0KCmZ1bmN0aW9uIG1hcERpc3BhdGNoVG9Qcm9wcyhkaXNwYXRjaCkgewogIHJldHVybiB7CiAgICBvbkNsaWNrKHZhbHVlKXsKICAgICAgZGlzcGF0Y2goc2VuZCh2YWx1ZSkpCiAgICB9CiAgfQp9Cgpjb25zdCBBcHBDb250YWluZXIgPSBjb25uZWN0KAogIG1hcFN0YXRlVG9Qcm9wcywKICBtYXBEaXNwYXRjaFRvUHJvcHMKKShGb3JtQXBwKQoKLy8gUmVuZGVyaW5nClJlYWN0RE9NLnJlbmRlcigKICA8UHJvdmlkZXIgc3RvcmU9e3N0b3JlfT4KICAgIDxBcHBDb250YWluZXIgLz4KICA8L1Byb3ZpZGVyPiwgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvbnRlbnQnKQopCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBzdG9yZSA9IGNyZWF0ZVN0b3JlV2l0aE1pZGRsZXdhcmUoZm9ybVJlZHVjZXIsIGluaXRpYWxTdGF0ZSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gY29uZmlndXJlU3RvcmUoaW5pdGlhbFN0YXRlKSB7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzdG9yZSA9IGNyZWF0ZVN0b3JlV2l0aE1pZGRsZXdhcmUoZm9ybVJlZHVjZXIsIGluaXRpYWxTdGF0ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc3RvcmUgPSBjcmVhdGVTdG9yZShmb3JtUmVkdWNlciwgaW5pdGlhbFN0YXRlKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gY29uZmlndXJlU3RvcmUoaW5pdGlhbFN0YXRlKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29zbnQgCg==</text>
+        <text encoding="base64">Y29uc3Qgc3RvcmUgPSBjcmVhdGVTdG9yZShmb3JtUmVkdWNlciwgaW5pdGlhbFN0YXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>onClick</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVDbGlja1w+</last-search>
       <last-offset />
-      <last-pattern>onClick</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVDbGlja1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
         <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
         <entry encoding="base64">XDxiaW5kQWN0aW9uQ3JlYXRvcnNcPg==</entry>
         <entry encoding="base64">XDxGb3JtRGlzcGFseVw+</entry>
@@ -704,15 +703,16 @@
         <entry encoding="base64">XDxkaXNwbGF5XD4=</entry>
         <entry>diplay</entry>
         <entry>display</entry>
-        <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
         <entry encoding="base64">XDxzZW5kXD4=</entry>
         <entry>send</entry>
         <entry encoding="base64">XDxzdG9yZVw+</entry>
-        <entry encoding="base64">XDxoYW5kbGVDbGlja1w+</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
-        <entry>handle</entry>
         <entry>oncli</entry>
         <entry>onClick</entry>
+        <entry>handle</entry>
+        <entry>data</entry>
+        <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVDbGlja1w+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
