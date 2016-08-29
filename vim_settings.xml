@@ -67,7 +67,7 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/actions/index.js" timestamp="1472188711537">
+      <file name="$USER_HOME$/test/dona/public/app/actions/index.js" timestamp="1472463011602">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="0" />
@@ -374,8 +374,8 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/containers/VisibleTodoList.js" timestamp="1472178027412">
-        <mark key="'" line="0" column="8" />
+      <file name="$USER_HOME$/test/dona/public/app/containers/VisibleTodoList.js" timestamp="1472462936875">
+        <mark key="'" line="9" column="13" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -675,7 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="19" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="114" column="38" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="109" column="19" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/index.js" />
       <jump line="38" column="10" filename="$USER_HOME$/wkt/react-boilerplate/app/containers/App/reducer.js" />
@@ -775,6 +774,7 @@
       <jump line="16" column="0" filename="$USER_HOME$/test/dona/public/app/components/Todo.js" />
       <jump line="5" column="27" filename="$USER_HOME$/test/dona/public/app/components/Todo.js" />
       <jump line="12" column="11" filename="$USER_HOME$/test/dona/public/app/components/Footer.js" />
+      <jump line="9" column="13" filename="$USER_HOME$/test/dona/public/app/containers/VisibleTodoList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
