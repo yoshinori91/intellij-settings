@@ -19,6 +19,7 @@
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
+  <action id="EditorStartNewLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoSuperMethod" />
   <action id="GotoTypeDeclaration">
