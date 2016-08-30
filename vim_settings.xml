@@ -15,7 +15,7 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1472562879110">
+      <file name="/a.dummy" timestamp="1472563166388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dona/public/app/main.js" timestamp="1472562326753">
@@ -365,11 +365,11 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/dona/webpack.config.js" timestamp="1472562338668">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-        <mark key="^" line="1" column="26" />
+      <file name="$USER_HOME$/workspace/dona/webpack.config.js" timestamp="1472563143153">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/server/logger.js" timestamp="1471675940155">
         <mark key="'" line="26" column="16" />
@@ -535,6 +535,11 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/wk/react-redux-starter-kit/config/index.js" timestamp="1472563205224">
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+      </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/NotFoundPage/index.js" timestamp="1471800757159">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="23" column="1" />
@@ -671,10 +676,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>main</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNsaWNrXD4=</text>
