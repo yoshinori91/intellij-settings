@@ -431,11 +431,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1472534168818">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1472536505636">
+        <mark key="'" line="88" column="24" />
+        <mark key="[" line="86" column="39" />
+        <mark key="]" line="86" column="39" />
+        <mark key="^" line="92" column="12" />
+        <mark key="." line="86" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dona/app/controllers/Application.java" timestamp="1471943430394">
         <mark key="[" line="45" column="32" />
@@ -674,7 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="14" filename="$USER_HOME$/test/dona/public/app/components/Footer.js" />
       <jump line="16" column="0" filename="$USER_HOME$/test/dona/public/app/index2.js" />
       <jump line="1" column="17" filename="$USER_HOME$/test/dona/public/app/utils/strings.js" />
       <jump line="73" column="20" filename="$USER_HOME$/test/dona/public/app/index.js" />
@@ -736,7 +736,6 @@
       <jump line="115" column="6" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="100" column="11" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="85" column="28" filename="$USER_HOME$/test/dona/public/app/app.js" />
-      <jump line="86" column="29" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="77" column="39" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="101" column="15" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="21" column="0" filename="$USER_HOME$/test/dona/public/app/app.js" />
@@ -754,7 +753,6 @@
       <jump line="105" column="1" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="112" column="11" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="16" column="56" filename="$USER_HOME$/test/dona/public/app/app.js" />
-      <jump line="98" column="45" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="57" column="0" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="67" column="26" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="136" column="10" filename="$USER_HOME$/test/dona/public/app/app.js" />
@@ -774,55 +772,58 @@
       <jump line="107" column="10" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="108" column="8" filename="$USER_HOME$/test/dona/public/app/app.js" />
       <jump line="113" column="0" filename="$USER_HOME$/test/dona/public/app/app.js" />
+      <jump line="98" column="41" filename="$USER_HOME$/test/dona/public/app/app.js" />
+      <jump line="86" column="40" filename="$USER_HOME$/test/dona/public/app/app.js" />
+      <jump line="88" column="24" filename="$USER_HOME$/test/dona/public/app/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUb29sYmFyU2VwYXJhdG9yIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGZsb2F0PSJsZWZ0Ig==</text>
       </register>
       <register name="-" type="4">
-        <text>Options</text>
+        <text encoding="base64">IGZsb2F0PSJsZWZ0Ig==</text>
       </register>
       <register name="/" type="4">
-        <text>Tool</text>
+        <text>float</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8VG9vbGJhclNlcGFyYXRvciAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxGb250SWNvbiBjbGFzc05hbWU9Im11aWRvY3MtaWNvbi1jdXN0b20tc29ydCIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUb29sYmFyU2VwYXJhdG9yIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmxvYXQ6ICdub25lJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvSWNvbk1lbnU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VG9vbGJhclNlcGFyYXRvciAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnVJdGVtIHByaW1hcnlUZXh0PSJNb3JlIEluZm8iLz4K</text>
+        <text encoding="base64">ICAgICAgICA8VG9vbGJhclNlcGFyYXRvciAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnVJdGVtIHByaW1hcnlUZXh0PSJEb3dubG9hZCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8VG9vbGJhclNlcGFyYXRvciAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgID4K</text>
+        <text encoding="base64">ICAgICAgICA8VG9vbGJhclNlcGFyYXRvciAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8VG9vbGJhclNlcGFyYXRvciAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L0ljb25CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VG9vbGJhclNlcGFyYXRvciAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxOYXZpZ2F0aW9uRXhwYW5kTW9yZUljb24gLz4K</text>
+        <text encoding="base64">ICAgICAgICA8L1Rvb2xiYXJHcm91cD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8SWNvbkJ1dHRvbiB0b3VjaD17dHJ1ZX0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VG9vbGJhclNlcGFyYXRvciAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/;//g</text>
       </register>
     </registers>
     <search>
-      <last-search>Tool</last-search>
+      <last-search>float</last-search>
       <last-offset />
-      <last-pattern>Tool</last-pattern>
+      <last-pattern>float</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -830,7 +831,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZXZUb29sc1w+</entry>
         <entry>com</entry>
         <entry>Component</entry>
         <entry encoding="base64">XDxQcm9wVHlwZXNcPg==</entry>
@@ -850,6 +850,7 @@
         <entry>Title</entry>
         <entry>Icon</entry>
         <entry>Tool</entry>
+        <entry>float</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
