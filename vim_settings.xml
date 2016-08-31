@@ -163,10 +163,11 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/containers/MediaPage/reducer.js" timestamp="1472637016835">
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="19" column="43" />
+      <file name="$USER_HOME$/test/dona/public/app/containers/MediaPage/reducer.js" timestamp="1472637741893">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1472031096557">
         <mark key="[" line="8" column="12" />
@@ -347,12 +348,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" timestamp="1472636992159">
+      <file name="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" timestamp="1472637444659">
         <mark key="'" line="43" column="33" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="30" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="40" />
+        <mark key="." line="20" column="40" />
+        <mark key="^" line="20" column="40" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/App/selectors.js" timestamp="1471798655269">
         <mark key="[" line="10" column="6" />
@@ -829,11 +830,11 @@
       <jump line="43" column="33" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mediaPage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mediaPage</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaE1lZGlhRGF0YVw+</text>
@@ -842,31 +843,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygnbWVkaWFQYWdlUmVkdWNlciAzMycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkYXRhOiBSZWFjdC5Qcm9wVHlwZXMuZWxlbWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmV0Y2hNZWRpYSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QganNvbkRhdGEgPSB7ZGF0YTogW119Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJzMgbWVkaWFQYWdlUmVkdWNlcicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnMiBtZWRpYVBhZ2VSZWR1Y2VyJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAganNvbkRhdGEuZGF0YSA9IGRhdGEucmVzdWx0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtGRVRDSF9NRURJQV9EQVRBfSBmcm9tICcuL2NvbnN0YW5zJwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG1lZGlhUGFnZVJlZHVjZXIoc3RhdGUsIGFjdGlvbikgewogIGNvbnNvbGUubG9nKCdtZWRpYVBhZ2VSZWR1Y2VyIDMzJykKICBjb25zb2xlLmxvZyhzdGF0ZSkKICBzd2l0Y2ggKGFjdGlvbi50eXBlKSB7CiAgICBjYXNlIEZFVENIX01FRElBX0RBVEE6CiAgICAgIGNvbnNvbGUubG9nKCcgLT4gZmV0Y2gnKQogICAgICByZXR1cm4gT2JqZWN0LmFzc2lnbih7fSwgc3RhdGUsIHsKICAgICAgICB2YWx1ZTogJ2hvZ2Vob2dlJwogICAgICB9KQogICAgICByZXR1cm4gc3RhdGUoJ3NvbWV0aGluZycsICdzb21ldGhpbmdBJykKICAgIGRlZmF1bHQ6CiAgICAgIGNvbnNvbGUubG9nKCcgLT4gZGVmYXVsdCcpCiAgICAgIHJldHVybiBzdGF0ZQogIH0KfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgfSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbWVkaWEgcGFnZSBhamF4JykK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvbkRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/;//g</text>
