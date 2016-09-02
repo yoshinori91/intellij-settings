@@ -356,12 +356,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" timestamp="1472795593219">
+      <file name="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" timestamp="1472796943101">
         <mark key="'" line="42" column="9" />
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="39" column="8" />
-        <mark key="^" line="39" column="8" />
-        <mark key="." line="39" column="8" />
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="29" />
+        <mark key="^" line="33" column="29" />
+        <mark key="." line="33" column="29" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/package.json" timestamp="1472792325595">
         <mark key="'" line="18" column="12" />
@@ -839,11 +839,11 @@
       <jump line="42" column="9" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>handleClick2</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBEaXNwYXRjaFRvU3RhdGVcPg==</text>
