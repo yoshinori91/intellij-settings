@@ -152,12 +152,12 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/containers/Report/index.js" timestamp="1473056839025">
-        <mark key="'" line="34" column="9" />
-        <mark key="[" line="39" column="19" />
-        <mark key="]" line="39" column="19" />
-        <mark key="." line="39" column="19" />
-        <mark key="^" line="50" column="7" />
+      <file name="$USER_HOME$/test/dona/public/app/containers/Report/index.js" timestamp="1473058253030">
+        <mark key="'" line="35" column="9" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="79" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/undef/public/front/components/TodoList.js" timestamp="1471600439053">
         <mark key="[" line="16" column="33" />
@@ -861,17 +861,17 @@
       <jump line="28" column="4" filename="$USER_HOME$/test/dona/public/app/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.reportReducer.num</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHRoaXMucHJvcHMuaW5jcmVtZW50X2FzeW5jKCl9PmluY3JlbWVudDwvYnV0dG9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>.reportReducer.num</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5yZXBvcnRSZWR1Y2VyLm51bSkK</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHRoaXMucHJvcHMuaW5jcmVtZW50X2FzeW5jKCl9PmluY3JlbWVudDwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5yb290UmVkdWNlcikK</text>
