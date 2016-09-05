@@ -194,6 +194,13 @@
         <mark key="^" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/donald-manager2/app/views/index.scala.html" timestamp="1473040327615">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="107" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/play_riot/app/views/home.tag" timestamp="1471167730746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="6" />
@@ -348,7 +355,6 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/app/utils/asyncInjectors.js" timestamp="1472792243092" />
       <file name="$USER_HOME$/test/dona/public/app/index2.js" timestamp="1472189721583">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="19" column="0" />
@@ -609,7 +615,7 @@
         <mark key="^" line="11" column="40" />
         <mark key="." line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/internals/webpack/webpack.base.babel.js" timestamp="1472792479924" />
+      <file name="$USER_HOME$/donald-manager2/app/views/main.scala.html" timestamp="1473040297702" />
       <file name="$USER_HOME$/test/dona/public/app/actions/clock.js" timestamp="1472024505744">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
@@ -737,7 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="4" filename="$USER_HOME$/test/dona/public/app/index.js" />
       <jump line="124" column="0" filename="$USER_HOME$/test/dona/public/app/index.js" />
       <jump line="17" column="30" filename="$USER_HOME$/test/dona/public/app/index.js" />
       <jump line="18" column="33" filename="$USER_HOME$/test/dona/public/app/index.js" />
@@ -837,10 +842,11 @@
       <jump line="42" column="9" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
       <jump line="4" column="35" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
       <jump line="44" column="2" filename="$USER_HOME$/test/dona/public/app/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/donald-manager2/app/views/index.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRleHQ6ICdqdGInLAo=</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -852,31 +858,31 @@
         <text encoding="base64">ICAgICAgICAgIHN0YXRlLnNldCh7ZGF0YTogZGF0YS5yZXN1bHRzfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRleHQ6ICdqdGInLAo=</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZSkK</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoYW5kbGVDbGljazI6IFJlYWN0LlByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQsCg==</text>
+        <text encoding="base64">QCh0aXRsZTogU3RyaW5nKShjb250ZW50OiBIdG1sKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZUNsaWNrMjogKCkgPT4gZGlzcGF0Y2goZmV0Y2hNZWRpYURhdGEoKSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhYWE6ICcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXRlLnNldCh7YWFhOiAnYWJjZGVmZyd9KQo=</text>
+        <text encoding="base64">ICAgIEBwbGF5MjAud2VsY29tZShtZXNzYWdlLCBzdHlsZSA9ICJKYXZhIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkLmFqYXgoewogICAgdXJsOiAnL21lZGlhJywKICAgIGRhdGFUeXBlOiAnanNvbicsCiAgICBjYWNoZTogZmFsc2UsCiAgICAvLyBzdWNjZXNzOiBmdW5jdGlvbiAoZGF0YSkgewogICAgLy8gfS5iaW5kKHRoaXMpLAogICAgc3VjY2VzczogZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgc3RhdGUuc2V0KHthYWE6ICdhYmNkZWZnJ30pCiAgICB9LmJpbmQodGhpcyksCiAgICBlcnJvcjogZnVuY3Rpb24gKHhociwgc3RhdHVzLCBlcnIpIHsKICAgICAgY29uc29sZS5lcnJvcih0aGlzLnByb3BzLnVybCwgc3RhdHVzLCBlcnIudG9TdHJpbmcoKSkKICAgIH0uYmluZCh0aGlzKQogIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJyAtPiBmZXRjaCAxMjMnKQo=</text>
+        <text encoding="base64">QG1haW4oIldlbGNvbWUgdG8gUGxheSIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/;//g</text>
