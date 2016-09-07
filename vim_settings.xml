@@ -896,12 +896,12 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/test/dona/webpack.config.js" timestamp="1473219286699">
+      <file name="$USER_HOME$/test/dona/webpack.config.js" timestamp="1473225323590">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-        <mark key="^" line="15" column="26" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/server/logger.js" timestamp="1471675940155">
         <mark key="'" line="26" column="16" />
@@ -1014,11 +1014,11 @@
       <jump line="35" column="50" filename="$USER_HOME$/dm2/public/app/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIAo=</text>
+      <register name="&quot;" type="4">
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29wbXBvbmVudCA=</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>out</text>
