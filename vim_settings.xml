@@ -103,6 +103,9 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/test/dona/public/src/app.js" timestamp="1473226021925">
+        <mark key="'" line="134" column="42" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/actions/index.js" timestamp="1472463011602">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="22" column="0" />
@@ -897,7 +900,7 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/webpack.config.js" timestamp="1473225547753">
-        <mark key="'" line="19" column="0" />
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="1" column="23" />
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
@@ -912,13 +915,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="32" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/reducer.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="45" column="4" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="10" column="15" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="26" column="42" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="34" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="47" column="30" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
       <jump line="48" column="35" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
       <jump line="53" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
       <jump line="43" column="32" filename="$USER_HOME$/test/dona/public/app/app.js" />
@@ -1012,6 +1008,13 @@
       <jump line="58" column="0" filename="$USER_HOME$/test/dona/public/src/containers/App.js" />
       <jump line="4" column="10" filename="$USER_HOME$/test/dona/public/dpp/webpack.config.js" />
       <jump line="35" column="50" filename="$USER_HOME$/dm2/public/app/server.js" />
+      <jump line="8" column="13" filename="$USER_HOME$/test/dona/public/src/app.js" />
+      <jump line="51" column="10" filename="$USER_HOME$/test/dona/public/src/app.js" />
+      <jump line="66" column="4" filename="$USER_HOME$/test/dona/public/src/app.js" />
+      <jump line="123" column="6" filename="$USER_HOME$/test/dona/public/src/app.js" />
+      <jump line="126" column="6" filename="$USER_HOME$/test/dona/public/src/app.js" />
+      <jump line="133" column="34" filename="$USER_HOME$/test/dona/public/src/app.js" />
+      <jump line="134" column="42" filename="$USER_HOME$/test/dona/public/src/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1021,7 +1024,7 @@
         <text>index</text>
       </register>
       <register name="/" type="4">
-        <text>out</text>
+        <text>App</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHppcCBmcm9tICdsb2Rhc2gvYXJyYXknCg==</text>
@@ -1058,9 +1061,9 @@
       </register>
     </registers>
     <search>
-      <last-search>out</last-search>
+      <last-search>App</last-search>
       <last-offset />
-      <last-pattern>out</last-pattern>
+      <last-pattern>App</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDx6aXBcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1068,7 +1071,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb290U2FnYVw+</entry>
         <entry>root</entry>
         <entry encoding="base64">XDxpbmNyZW1lbnRfYXN5bmMyXD4=</entry>
         <entry encoding="base64">XDxjb21iaW5lUmVkdWNlcnNcPg==</entry>
@@ -1088,6 +1090,7 @@
         <entry>lodash</entry>
         <entry>outp7t</entry>
         <entry>out</entry>
+        <entry>App</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
