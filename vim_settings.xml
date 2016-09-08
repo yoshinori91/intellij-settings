@@ -99,12 +99,12 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/index.js" timestamp="1473068669448">
-        <mark key="'" line="18" column="8" />
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
+      <file name="$USER_HOME$/test/dona/public/app/index.js" timestamp="1473315615634">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/app.js" timestamp="1473226021925">
         <mark key="'" line="134" column="42" />
@@ -121,8 +121,10 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/app/reducers.js" timestamp="1472792191957">
-        <mark key="'" line="10" column="1" />
+      <file name="$USER_HOME$/test/dona/public/app/containers/Login.js" timestamp="1473316174883">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/front/reducers/index.js" timestamp="1472202975705">
         <mark key="'" line="21" column="21" />
@@ -386,9 +388,6 @@
         <mark key="^" line="19" column="6" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/src/bundle.js" timestamp="1473219442996">
-        <mark key="'" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/src/components/Explore.js" timestamp="1473217386671">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="66" column="0" />
@@ -419,9 +418,6 @@
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
-      </file>
-      <file name="$USER_HOME$/dm2/public/app/server.js" timestamp="1473223750469">
-        <mark key="'" line="35" column="50" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/NextPage/index.js" timestamp="1471712408964">
         <mark key="[" line="9" column="29" />
@@ -486,9 +482,6 @@
         <mark key="]" line="13" column="30" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="4" />
-      </file>
-      <file name="$USER_HOME$/wk/react-boilerplate/package.json" timestamp="1472792325595">
-        <mark key="'" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/App/selectors.js" timestamp="1471798655269">
         <mark key="[" line="10" column="6" />
@@ -655,20 +648,11 @@
         <mark key="^" line="45" column="36" />
         <mark key="." line="45" column="36" />
       </file>
-      <file name="$USER_HOME$/test/dona/node_modules/lodash/array.js" timestamp="1473218704168">
-        <mark key="'" line="56" column="24" />
-      </file>
-      <file name="$USER_HOME$/test/dona/public/dpp/reducers/index.js" timestamp="1473069279250">
-        <mark key="'" line="3" column="9" />
-      </file>
       <file name="$USER_HOME$/wkt/react-boilerplate/app/containers/HomePage/constants.js" timestamp="1471858098623">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="24" />
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
-      </file>
-      <file name="$USER_HOME$/test/dona/public/dpp/webpack.config.js" timestamp="1473223110324">
-        <mark key="'" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/test/dona/public/js/app.js" timestamp="1472204638058">
         <mark key="'" line="7" column="13" />
@@ -683,11 +667,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/sagas/mediaPage.js" timestamp="1473311350893">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/test/dona/public/app/sagas/mediaPage.js" timestamp="1473314905149">
+        <mark key="'" line="7" column="12" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/jtb/Donald/app/controllers/Application.java" timestamp="1471932767814">
         <mark key="[" line="6" column="18" />
@@ -746,11 +731,12 @@
         <mark key="^" line="52" column="16" />
         <mark key="." line="52" column="16" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" timestamp="1473310774093">
-        <mark key="'" line="20" column="18" />
-        <mark key="[" line="37" column="55" />
-        <mark key="]" line="37" column="55" />
-        <mark key="." line="37" column="55" />
+      <file name="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" timestamp="1473316573308">
+        <mark key="'" line="47" column="2" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="59" column="27" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/react９/app/views/tutorial3.js" timestamp="1471272428971">
         <mark key="[" line="7" column="0" />
@@ -821,12 +807,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/reducers/mediaPage.js" timestamp="1473310839739">
+      <file name="$USER_HOME$/test/dona/public/app/reducers/mediaPage.js" timestamp="1473313689422">
         <mark key="'" line="13" column="11" />
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/saga/app/views/index.scala.html" timestamp="1471452305471">
         <mark key="[" line="10" column="29" />
@@ -956,11 +941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/test/dona/public/src/reducers/paginate.js" />
-      <jump line="63" column="65" filename="$USER_HOME$/test/dona/public/src/actions/index.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/test/dona/public/src/actions/index.js" />
-      <jump line="132" column="0" filename="$USER_HOME$/test/dona/public/src/sagas/index.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/test/dona/public/src/services/api.js" />
       <jump line="55" column="0" filename="$USER_HOME$/test/dona/public/src/components/List.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/test/dona/public/src/components/List.ts" />
       <jump line="52" column="0" filename="$USER_HOME$/test/dona/public/src/components/List.ts" />
@@ -1030,7 +1010,6 @@
       <jump line="33" column="11" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
       <jump line="66" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
       <jump line="24" column="18" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
       <jump line="53" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
       <jump line="19" column="24" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
       <jump line="19" column="32" filename="$USER_HOME$/test/dona/public/app/app.js" />
@@ -1039,7 +1018,6 @@
       <jump line="5" column="12" filename="$USER_HOME$/test/dona/public/app/sagas/mediaPage.js" />
       <jump line="12" column="16" filename="$USER_HOME$/test/dona/public/app/sagas/mediaPage.js" />
       <jump line="50" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
-      <jump line="14" column="19" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
       <jump line="2" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
       <jump line="46" column="20" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
       <jump line="55" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
@@ -1056,55 +1034,62 @@
       <jump line="13" column="4" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
       <jump line="20" column="18" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
       <jump line="13" column="11" filename="$USER_HOME$/test/dona/public/app/reducers/mediaPage.js" />
+      <jump line="7" column="12" filename="$USER_HOME$/test/dona/public/app/sagas/mediaPage.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
+      <jump line="16" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
+      <jump line="60" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
+      <jump line="22" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
+      <jump line="39" column="42" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
+      <jump line="48" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtzYWdhRGF0YX0gZnJvbSAnLi4vYWN0aW9ucy9tZWRpYVBhZ2UnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>mapDispatchToState</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsQXBpXD4=</text>
+        <text encoding="base64">XDxoYW5kbGVDbGljazJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>handleClick2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGUucHIK</text>
+        <text encoding="base64">aW1wb3J0IHtzYWdhRGF0YX0gZnJvbSAnLi4vYWN0aW9ucy9tZWRpYVBhZ2UnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnbWFwRGlzcGF0Y2gnKQo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMDkvMDguCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnY2FsbGVkIG1hcFN0YXRlVG9Qcm9wcyA6ICcgKyBzdGF0ZS5ob2dlKQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHR5cGU6ICdpbmNyZScK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMDkvMDguCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gewo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGluY3JlKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/;//g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsQXBpXD4=</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVDbGljazJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsQXBpXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVDbGljazJcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxjYWxsQXBpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1121,8 +1106,6 @@
         <entry encoding="base64">XDxjb25maWd1cmVTdG9yZVw+</entry>
         <entry encoding="base64">XDxyb290UmVkdWNlclw+</entry>
         <entry>FETCH</entry>
-        <entry encoding="base64">XDxoYW5kbGVDbGljazJcPg==</entry>
-        <entry encoding="base64">XDxmZXRjaE1lZGlhRGF0YVw+</entry>
         <entry>handle</entry>
         <entry encoding="base64">XDxzYWdhRGF0YVw+</entry>
         <entry encoding="base64">XDxpbmNyZW1lbnRBc3luY1w+</entry>
@@ -1132,6 +1115,8 @@
         <entry>;</entry>
         <entry>pay</entry>
         <entry encoding="base64">XDxjYWxsQXBpXD4=</entry>
+        <entry encoding="base64">XDxmZXRjaE1lZGlhRGF0YVw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVDbGljazJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
