@@ -529,6 +529,12 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/same/public/qiita-npm-i-angular2/hello-world.component2.ts" timestamp="1473735966517">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/donadona/client/index.html" timestamp="1473395771388">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="6" />
@@ -815,10 +821,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jquery-1.9.0.min.js</text>
+        <text>!1411111</text>
       </register>
       <register name="-" type="4">
-        <text>jquery-1.9.0.min.js</text>
+        <text>!1411111</text>
       </register>
       <register name="/" type="4">
         <text>media</text>
