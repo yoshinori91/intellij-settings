@@ -34,5 +34,39 @@
         <option name="FOREGROUND" value="bd6cc0" />
       </value>
     </option>
+    <option name="TS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="eadaf3" />
+      </value>
+    </option>
+    <option name="TS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d490a9" />
+      </value>
+    </option>
+    <option name="TS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="eadaf3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.STATIC_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="25ddf3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TS.STATIC_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="25ddf3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="76f30c" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
   </attributes>
 </scheme>
