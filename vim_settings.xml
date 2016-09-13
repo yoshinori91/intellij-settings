@@ -450,6 +450,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/same/public/qiita-npm-i-angular2/hello-world.component.ts" timestamp="1473735093528">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1473666812975">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -492,6 +498,12 @@
         <mark key="]" line="8" column="36" />
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/same/app/views/main.scala.html" timestamp="1473734985164">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/test/dona/client/webpack.config.js" timestamp="1473406522932">
         <mark key="[" line="14" column="0" />
@@ -802,44 +814,44 @@
       <jump line="94" column="18" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBob2dlOiBSZWFjdC5Qcm9wVHlwZXMuYXJyYXksCg==</text>
+      <register name="&quot;" type="4">
+        <text>jquery-1.9.0.min.js</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>jquery-1.9.0.min.js</text>
       </register>
       <register name="/" type="4">
         <text>media</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpcygnYXJyYXknLCBzdGF0ZS5tZWRpYURhdGEpKQo=</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBob2dlOiBSZWFjdC5Qcm9wVHlwZXMuYXJyYXksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhvZ2U6IHN0YXRlLm1lZGlhRGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICBAY29udGVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhqc29uRGF0YVswXSkK</text>
+        <text encoding="base64">ICBob2dlOiBSZWFjdC5Qcm9wVHlwZXMuYXJyYXksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhPYmplY3QucHJvdG90eXBlLnRvU3RyaW5nLmNhbGwoaG9nZSkpCg==</text>
+        <text encoding="base64">ICAgIGhvZ2U6IHN0YXRlLm1lZGlhRGF0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhqc29uRGF0YVswXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBob2dlID0gc3RhdGUubWVkaWFEYXRhCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhPYmplY3QucHJvdG90eXBlLnRvU3RyaW5nLmNhbGwoaG9nZSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhvZ2VbMF0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoaG9nZS5pcykK</text>
+        <text encoding="base64">ICBjb25zdCBob2dlID0gc3RhdGUubWVkaWFEYXRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhvZ2VbMF0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
