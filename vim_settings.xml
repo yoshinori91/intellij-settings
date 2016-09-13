@@ -48,11 +48,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/.gitignore" timestamp="1473742327393">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
+      <file name="$USER_HOME$/workspace/same/public/client/.gitignore" timestamp="1473743829113">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/MediaPage/actions.js" timestamp="1473676436697">
         <mark key="[" line="16" column="0" />
@@ -101,6 +101,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/same/.gitignore" timestamp="1473743726866">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="11" column="12" />
       </file>
       <file name="$USER_HOME$/test/dona/client/package.json" timestamp="1473648773429">
         <mark key="[" line="9" column="0" />
@@ -450,7 +456,7 @@
         <text>1111</text>
       </register>
       <register name="/" type="4">
-        <text>media</text>
+        <text>node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHtIZWxsb1dvcmxkQ29tcG9uZW50fSBmcm9tICcuL2hlbGxvLXdvcmxkLmNvbXBvbmVudCc7Cg==</text>
@@ -487,9 +493,9 @@
       </register>
     </registers>
     <search>
-      <last-search>media</last-search>
+      <last-search>node</last-search>
       <last-offset />
-      <last-pattern>media</last-pattern>
+      <last-pattern>node</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxqc29uRGF0YVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -497,7 +503,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcHBcPg==</entry>
         <entry>Navi</entry>
         <entry encoding="base64">XDxOYXZpZ2F0aW9uXD4=</entry>
         <entry>on</entry>
@@ -517,6 +522,7 @@
         <entry>requ</entry>
         <entry encoding="base64">XDxtZWRpYURhdGFcPg==</entry>
         <entry>media</entry>
+        <entry>node</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
