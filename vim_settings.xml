@@ -254,6 +254,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/same/public/client/app/app.module.ts" timestamp="1473922108266">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+        <mark key="^" line="8" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/same/.gitignore" timestamp="1473743726866">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="12" />
@@ -312,11 +318,11 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/app/login.component.ts" timestamp="1473919891881">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
+      <file name="$USER_HOME$/workspace/same/public/client/app/login.component.ts" timestamp="1473921190597">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/routes.js" timestamp="1472792039730">
         <mark key="'" line="4" column="9" />
@@ -357,12 +363,11 @@
         <mark key="^" line="32" column="24" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/app/app.routing.ts" timestamp="1473909918265">
+      <file name="$USER_HOME$/workspace/same/public/client/app/app.routing.ts" timestamp="1473922032458">
         <mark key="'" line="0" column="26" />
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/client/hello-world.component.ts" timestamp="1473650395663">
         <mark key="[" line="8" column="25" />
@@ -456,7 +461,7 @@
         <mark key="^" line="50" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/tsconfig.json" timestamp="1473920490522">
+      <file name="$USER_HOME$/workspace/same/public/client/tsconfig.json" timestamp="1473920875337">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -527,14 +532,14 @@
         <mark key="^" line="47" column="13" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/app/dashboard.component.html" timestamp="1473908696792">
+      <file name="$USER_HOME$/workspace/same/public/client/app/dashboard.component.html" timestamp="1473921747665">
         <mark key="'" line="7" column="5" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/app/hero.service.ts" timestamp="1473920513764">
+      <file name="$USER_HOME$/workspace/same/public/client/app/hero.service.ts" timestamp="1473921060470">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
@@ -578,6 +583,9 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" timestamp="1473920920705">
+        <mark key="'" line="17711" column="21" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/src/containers/RepoPage.js" timestamp="1473219038745">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="52" column="13" />
@@ -616,7 +624,7 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/package.json" timestamp="1473917550579">
+      <file name="$USER_HOME$/workspace/same/public/client/package.json" timestamp="1473921718946">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="1" column="24" />
@@ -740,11 +748,8 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/app/app.component.ts" timestamp="1473908977330">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="28" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="12" column="28" />
+      <file name="$USER_HOME$/workspace/same/public/client/app/app.component.ts" timestamp="1473922017421">
+        <mark key="'" line="7" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/auth.service.ts" timestamp="1473919508908">
         <mark key="[" line="9" column="0" />
@@ -858,73 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="42" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="72" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="4" column="24" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="17" column="41" filename="$USER_HOME$/test/dona/public/app/index.js" />
-      <jump line="89" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="86" column="40" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="87" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="79" column="12" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="19" column="32" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="18" column="7" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="30" column="11" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="9" column="6" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="38" column="8" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="64" column="31" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="37" column="8" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="74" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="22" column="39" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="54" column="20" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="44" column="4" filename="$USER_HOME$/test/dona/public/app/index.js" />
-      <jump line="29" column="23" filename="$USER_HOME$/test/dona/public/app/index.js" />
-      <jump line="42" column="27" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="56" column="22" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="57" column="30" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="61" column="26" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="63" column="10" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="83" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="68" column="41" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="85" column="2" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="71" column="42" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="100" column="17" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="12" column="5" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="17" column="5" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="21" column="16" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="32" column="26" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="44" column="13" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="70" column="40" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="93" column="14" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="94" column="18" filename="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/same/public/client/app/app.main.ts" />
-      <jump line="10" column="16" filename="$USER_HOME$/workspace/same/public/client/package.json" />
-      <jump line="8" column="5" filename="$USER_HOME$/workspace/same/public/client/package.json" />
-      <jump line="10" column="1" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="21" column="11" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="2" column="2" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="11" column="22" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="25" column="2" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="16" column="43" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="27" column="11" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="28" column="24" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="18" column="4" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="14" column="11" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="24" column="35" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="29" column="16" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="30" column="12" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="31" column="32" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="34" column="28" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="91" column="2" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="94" column="0" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/same/public/client/app/hero-detail.component.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/same/public/client/app/mock-heroes.ts" />
       <jump line="61" column="16" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
       <jump line="5" column="20" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
       <jump line="73" column="14" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
@@ -937,7 +875,6 @@
       <jump line="12" column="16" filename="$USER_HOME$/workspace/same/public/client/app/app.module.ts" />
       <jump line="6" column="20" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
       <jump line="19" column="21" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
-      <jump line="7" column="20" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
       <jump line="20" column="22" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
       <jump line="10" column="15" filename="$USER_HOME$/workspace/same/public/client/app/heroes.component.ts" />
       <jump line="14" column="14" filename="$USER_HOME$/workspace/same/public/client/app/heroes.component.ts" />
@@ -958,66 +895,130 @@
       <jump line="6" column="5" filename="$USER_HOME$/workspace/same/public/client/app/dashboard.component.html" />
       <jump line="74" column="0" filename="$USER_HOME$/workspace/same/public/client/app/dashboard.component.css" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/same/public/client/app/heroes.component.ts" />
+      <jump line="1248" column="10" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="43" column="36" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1338" column="30" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1339" column="27" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1285" column="57" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1286" column="89" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1287" column="48" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1317" column="30" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1318" column="36" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1324" column="30" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1325" column="36" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1331" column="31" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1332" column="23" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1333" column="33" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="1411" column="0" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17660" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17661" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17662" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17663" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17664" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17665" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17666" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17667" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17668" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17669" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17670" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17671" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17672" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17673" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17674" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17675" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17676" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17677" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17678" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17679" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17680" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17681" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17682" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17683" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17684" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17685" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17686" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17687" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17688" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17689" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17690" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17691" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17692" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17693" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17694" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17695" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17696" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17697" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17698" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17699" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17700" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17701" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17702" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17703" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17704" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17705" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17706" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17707" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17708" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17709" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17710" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="17711" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
+      <jump line="7" column="7" filename="$USER_HOME$/workspace/same/public/client/app/app.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Promise</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Promise</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>goto</text>
+        <text encoding="base64">XDxhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBzaWduSW5Vcmw6IFN0cmluZyA9ICdsb2dpbicK</text>
+        <text encoding="base64">ICAgICAgPGEgcm91dGVyTGluaz0iL2hlcm9lcyIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIj5IZXJvZXM8L2E+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIuL2FwcC9oZXJvLnNlcnZpY2UudHMiCg==</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIuL2FwcC9oZXJvLnNlcnZpY2UudHMiCg==</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudDogTG9naW5Db21wb25lbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiZmlsZXMiOiBbCg==</text>
+        <text encoding="base64">ICAgIHBhdGg6ICdsb2dpbicsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBdLAo=</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIuL25vZGVfbW9kdWxlcy90eXBlc2NyaXB0L2xpYi9saWIuZXM2LmQudHMiCg==</text>
+        <text encoding="base64">ICAgIDwvbmF2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIhLi9ub2RlX21vZHVsZXMvKiovKiIsCg==</text>
+        <text encoding="base64">ICAgIDxuYXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIhLi8qKi8qLmQudHMiLAo=</text>
+        <text encoding="base64">ICB7CiAgICBwYXRoOiAnbG9naW4nLAogICAgY29tcG9uZW50OiBMb2dpbkNvbXBvbmVudAogIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIuLyoqLyoudHMiLAo=</text>
+        <text encoding="base64">aW1wb3J0IHtsb2dpbkNvbXBvbmVudH0gICAgICAgZnJvbSAnLi8uc2VydmljZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>goto</last-search>
+      <last-search encoding="base64">XDxhXD4=</last-search>
       <last-offset />
-      <last-pattern>goto</last-pattern>
+      <last-pattern encoding="base64">XDxhXD4=</last-pattern>
       <last-replace />
       <last-substitute>goto</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>requ</entry>
-        <entry encoding="base64">XDxtZWRpYURhdGFcPg==</entry>
-        <entry>media</entry>
-        <entry>node</entry>
         <entry>build</entry>
         <entry encoding="base64">XDxIRVJPRVNcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
@@ -1034,6 +1035,10 @@
         <entry encoding="base64">XDx0aGVuXD4=</entry>
         <entry>goDetail</entry>
         <entry>goto</entry>
+        <entry>promise</entry>
+        <entry>inter</entry>
+        <entry>Interface</entry>
+        <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
