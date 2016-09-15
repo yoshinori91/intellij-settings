@@ -413,7 +413,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/app/media.service.ts" timestamp="1473931019215">
+      <file name="$USER_HOME$/workspace/same/public/client/app/media.service.ts" timestamp="1473932295024">
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="22" />
         <mark key="." line="14" column="22" />
@@ -601,11 +601,10 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/app/media.component.ts" timestamp="1473931268504">
-        <mark key="[" line="18" column="44" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="18" column="44" />
-        <mark key="^" line="18" column="44" />
+      <file name="$USER_HOME$/workspace/same/public/client/app/media.component.ts" timestamp="1473932521670">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" timestamp="1473920920705">
         <mark key="'" line="17711" column="21" />
@@ -997,11 +996,11 @@
       <jump line="39" column="8" filename="$USER_HOME$/workspace/same/app/controllers/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuZGF0YSA9IHRoaXMubWVkaWFbMF0uZnJhbWUK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uXD4=</text>
@@ -1010,31 +1009,31 @@
         <text encoding="base64">ICAgICAgICBqc29uLnB1dChlbGVtZW50MSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBKc09iamVjdCBvYmogPSAmfmRkCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZGF0YSA9IHRoaXMubWVkaWFbMF0uZnJhbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3ROb2RlIGpzb24gPSBKc29uLm5ld09iamVjdCgpLgo=</text>
+        <text encoding="base64">ICBkYXRhOiBzdHJpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBwdWJ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubWVkaWFTZXJ2aWNlLmdldE1lZGlhKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBKc09iamVjdCBvYmogPSAmfmRkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImVtYWlsIiA6ICJ0YXRhQGNvbGRtYWlsLmNvbSIK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3ROb2RlIGpzb24gPSBKc29uLm5ld09iamVjdCgpLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImFnZSIgOiAyMCwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJuYW1lIiA6ICJ0YXRhIiwK</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZnJpZW5kIiA6IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
