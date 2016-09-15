@@ -15,6 +15,9 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1473915978273">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Nav.js" timestamp="1472547843977">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="8" column="10" />
@@ -68,12 +71,6 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/test/dona/public/app/containers/Login.js" timestamp="1473403667913">
-        <mark key="'" line="10" column="11" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/front/reducers/index.js" timestamp="1472202975705">
         <mark key="'" line="21" column="21" />
         <mark key="[" line="0" column="0" />
@@ -107,6 +104,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="7" column="51" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/same/public/webpack.config.js" timestamp="1473917724522">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
         <mark key="'" line="1" column="17" />
@@ -442,6 +445,11 @@
         <mark key="^" line="50" column="29" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/same/public/client/tsconfig.json" timestamp="1473916921111">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="14" column="3" />
@@ -515,10 +523,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/app/hero.service.ts" timestamp="1473910421168">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workspace/same/public/client/app/hero.service.ts" timestamp="1473916451160">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/js/app.js" timestamp="1472204638058">
         <mark key="'" line="7" column="13" />
@@ -596,12 +604,11 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/package.json" timestamp="1473745668333">
-        <mark key="'" line="8" column="5" />
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
+      <file name="$USER_HOME$/workspace/same/public/client/package.json" timestamp="1473917550579">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.css" timestamp="1473908949419">
         <mark key="[" line="0" column="0" />
@@ -671,6 +678,9 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="13" />
+      </file>
+      <file name="/HTML Fragment (app.component.ts:88).html" timestamp="1473749849520">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/routes.js" timestamp="1473222817762">
         <mark key="'" line="13" column="0" />
@@ -802,19 +812,13 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/app/mock-heroes.ts" timestamp="1473756038345">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/same/public/qiita-npm-i-angular2/app.routing.ts" timestamp="1473737279774">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/index.ts" timestamp="1473745942111">
+      <file name="$USER_HOME$/workspace/same/public/client/index.ts" timestamp="1473915509729">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="9" column="40" />
@@ -938,11 +942,11 @@
       <jump line="36" column="0" filename="$USER_HOME$/workspace/same/public/client/app/heroes.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>goto</text>
@@ -951,31 +955,31 @@
         <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL2FybW9yaWs4My9xaWl0YS1ucG0taS1hbmd1bGFyMi9pc3N1ZXMiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGhlcm9lc1VybCA9ICdtZWRpYScK</text>
+        <text encoding="base64">ICAiYnVncyI6IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaHR0cC4K</text>
+        <text encoding="base64">ICAgIC8vICAgICIuL25vZGVfbW9kdWxlcy90eXBlc2NyaXB0L2xpYi9saWIuZXM2LmQudHMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICIuL2luZGV4LnRzIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtIZXJvfSBmcm9tICcuL2hlcm8nCmltcG9ydCB7SEVST0VTfSBmcm9tICcuL21vY2staGVyb2VzJwoK</text>
+        <text encoding="base64">ICAgIC8vICAgICIuL2hlbGxvLXdvcmxkLmNvbXBvbmVudC50cyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wcm90IH5kZAo=</text>
+        <text encoding="base64">ICAgIC8vICAgICIuL2FwcC5tb2R1bGUudHMiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vICAgICIuL2FwcC5jb21wb25lbnQudHMiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbwo=</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
@@ -986,7 +990,7 @@
       <last-offset />
       <last-pattern>goto</last-pattern>
       <last-replace />
-      <last-substitute encoding="base64">XDx0aGVuXD4=</last-substitute>
+      <last-substitute>goto</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
