@@ -15,6 +15,12 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dm/public/tsconfig.json" timestamp="1473998978180">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Nav.js" timestamp="1472547843977">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="8" column="10" />
@@ -137,7 +143,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/client/app/hero.ts" timestamp="1473929586549" />
       <file name="$USER_HOME$/workspace/same/public/node_modules/systemjs/index.js" timestamp="1473993772601">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="38" />
@@ -159,6 +164,12 @@
       <file name="$USER_HOME$/workspace/same/public/index.html" timestamp="1473993616597">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="81" />
+      </file>
+      <file name="$USER_HOME$/workspace/dm/public/package.json" timestamp="1473998568879">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="8" column="46" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/donadona/cli/webpack.config.js" timestamp="1473402668006">
         <mark key="'" line="21" column="2" />
@@ -204,6 +215,12 @@
         <mark key="]" line="16" column="1" />
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/components/NotFound.js" timestamp="1473664053818">
         <mark key="[" line="2" column="42" />
@@ -645,7 +662,12 @@
         <mark key="^" line="23" column="39" />
         <mark key="." line="23" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/same/public/index.ts" timestamp="1473990296331" />
+      <file name="$USER_HOME$/workspace/dm/public/hello-world.component.ts" timestamp="1473998725514">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/media.component.ts" timestamp="1473932521670">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -898,6 +920,12 @@
         <mark key="^" line="22" column="14" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dm/public/app.component.ts" timestamp="1473998691445">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/webpack.config.js" timestamp="1473657989751">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
@@ -1046,44 +1074,44 @@
       <jump line="26" column="26" filename="$USER_HOME$/workspace/same/public/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>index.js</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoIi4vYnVuZGxlLmpzIikiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICJub0ltcGxpY2l0QW55IjogZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJub0ltcGxpY2l0QW55IjogZmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiZXM1IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBwbGF5MjAud2VsY29tZShtZXNzYWdlLCBzdHlsZSA9ICJKYXZhIikK</text>
+        <text encoding="base64">ICAgICJleHBlcmltZW50YWxEZWNvcmF0b3JzIjogZmFsc2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iIHR5cGU9ImltYWdlL3BuZyIgaHJlZj0iQHJvdXRlcy5Bc3NldHMuYXQoImltYWdlcy9mYXZpY29uLnBuZyIpIj4K</text>
+        <text encoding="base64">ICAgICJlbWl0RGVjb3JhdG9yTWV0YWRhdGEiOiB0cnVlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIG1lZGlhPSJzY3JlZW4iIGhyZWY9IkByb3V0ZXMuQXNzZXRzLmF0KCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4K</text>
+        <text encoding="base64">ICAgICJub0ltcGxpY2l0QW55IjogdHJ1ZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICJtb2R1bGVSZXNvbHV0aW9uIjogIm5vZGUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICJleHBlcmltZW50YWxEZWNvcmF0b3JzIjogZmFsc2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBTeXN0ZW0gPSBuZXcgU3lzdGVtSlNOb2RlTG9hZGVyKCkK</text>
+        <text encoding="base64">ICAgICJleHBlcmltZW50YWxEZWNvcmF0b3JzIjogdHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
