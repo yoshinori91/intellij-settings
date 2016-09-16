@@ -58,6 +58,11 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/dm/app/views/main.scala.html" timestamp="1473995684431">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/donadona/package.json" timestamp="1473394583874">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="10" column="17" />
@@ -243,6 +248,11 @@
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/same/public/tsconfig.json" timestamp="1473920130135">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/reducers/paginate.js" timestamp="1473217012386">
         <mark key="'" line="62" column="0" />
@@ -595,6 +605,11 @@
         <mark key="]" line="16" column="9" />
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/same/public/client/app/hero-detail.component.html" timestamp="1473909207607">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/client/app/main.ts" timestamp="1473651775988">
         <mark key="[" line="3" column="0" />
@@ -1022,10 +1037,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>(content: Html)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>(content: Html)</text>
       </register>
       <register name="/" type="4">
         <text>index.js</text>
