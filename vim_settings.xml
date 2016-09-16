@@ -35,6 +35,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dm/public/client/app/app.component.ts" timestamp="1473997603461">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/constants/index.js" timestamp="1472175318924">
         <mark key="'" line="0" column="37" />
         <mark key="[" line="0" column="7" />
@@ -641,6 +646,11 @@
         <mark key="." line="23" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/index.ts" timestamp="1473990296331" />
+      <file name="$USER_HOME$/workspace/same/public/client/app/media.component.ts" timestamp="1473932521670">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/src/containers/RepoPage.js" timestamp="1473219038745">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="52" column="13" />
@@ -1040,7 +1050,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(content: Html)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>index.js</text>
@@ -1055,25 +1065,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBwbGF5MjAud2VsY29tZShtZXNzYWdlLCBzdHlsZSA9ICJKYXZhIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iIHR5cGU9ImltYWdlL3BuZyIgaHJlZj0iQHJvdXRlcy5Bc3NldHMuYXQoImltYWdlcy9mYXZpY29uLnBuZyIpIj4K</text>
+        <text encoding="base64">ICAgIEBwbGF5MjAud2VsY29tZShtZXNzYWdlLCBzdHlsZSA9ICJKYXZhIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIG1lZGlhPSJzY3JlZW4iIGhyZWY9IkByb3V0ZXMuQXNzZXRzLmF0KCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4K</text>
+        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iIHR5cGU9ImltYWdlL3BuZyIgaHJlZj0iQHJvdXRlcy5Bc3NldHMuYXQoImltYWdlcy9mYXZpY29uLnBuZyIpIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIG1lZGlhPSJzY3JlZW4iIGhyZWY9IkByb3V0ZXMuQXNzZXRzLmF0KCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBTeXN0ZW0gPSBuZXcgU3lzdGVtSlNOb2RlTG9hZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBTeXN0ZW0gPSBuZXcgU3lzdGVtSlNOb2RlTG9hZGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
