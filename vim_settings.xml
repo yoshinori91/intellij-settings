@@ -38,7 +38,7 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/dm/app/views/main.scala.html" timestamp="1473995684431">
+      <file name="$USER_HOME$/workspace/dm/app/views/main.scala.html" timestamp="1473999861821">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -81,11 +81,11 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/dm/public/package.json" timestamp="1473998568879">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="8" column="46" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/dm/public/package.json" timestamp="1474000200646">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/donadona/client/tsconfig.json" timestamp="1473397324941">
         <mark key="[" line="0" column="0" />
@@ -134,11 +134,10 @@
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/dm/app/views/index.scala.html" timestamp="1473995949597">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="11" column="48" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="48" />
+      <file name="$USER_HOME$/workspace/dm/app/views/index.scala.html" timestamp="1473999870141">
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/test/dona/client/index.ts" timestamp="1473650477227">
         <mark key="[" line="8" column="0" />
@@ -614,13 +613,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>angular2-webpack-quick-start</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>angular2-webpack-quick-start</text>
       </register>
       <register name="/" type="4">
-        <text>index.js</text>
+        <text>bug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJub0ltcGxpY2l0QW55IjogZmFsc2UK</text>
@@ -657,9 +656,9 @@
       </register>
     </registers>
     <search>
-      <last-search>index.js</last-search>
+      <last-search>bug</last-search>
       <last-offset />
-      <last-pattern>index.js</last-pattern>
+      <last-pattern>bug</last-pattern>
       <last-replace />
       <last-substitute>goto</last-substitute>
       <last-dir>1</last-dir>
@@ -667,7 +666,6 @@
     </search>
     <history>
       <history-search>
-        <entry>heros</entry>
         <entry encoding="base64">XDxSb3V0ZXJMaW5rXD4=</entry>
         <entry encoding="base64">XDxyb3V0ZXJMaW5rXD4=</entry>
         <entry encoding="base64">XDxoZXJvZXNcPg==</entry>
@@ -687,6 +685,7 @@
         <entry>angular</entry>
         <entry>angular2</entry>
         <entry>index.js</entry>
+        <entry>bug</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
