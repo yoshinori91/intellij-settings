@@ -15,9 +15,6 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1473933423891">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Nav.js" timestamp="1472547843977">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="8" column="10" />
@@ -229,7 +226,7 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/same/app/views/index.scala.html" timestamp="1473995801126">
+      <file name="$USER_HOME$/workspace/same/app/views/index.scala.html" timestamp="1473995817003">
         <mark key="[" line="7" column="40" />
         <mark key="]" line="7" column="70" />
         <mark key="^" line="7" column="70" />
@@ -267,6 +264,12 @@
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/dm/app/views/index.scala.html" timestamp="1473995949597">
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+        <mark key="." line="11" column="48" />
       </file>
       <file name="$USER_HOME$/test/dona/client/index.ts" timestamp="1473650477227">
         <mark key="[" line="8" column="0" />
@@ -766,9 +769,6 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="/HTML Fragment (app.component.ts:88).html" timestamp="1473749849520">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/src/routes.js" timestamp="1473222817762">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="7" column="29" />
@@ -1036,8 +1036,8 @@
       <jump line="26" column="26" filename="$USER_HOME$/workspace/same/public/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(content: Html)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(content: Html)</text>
@@ -1049,31 +1049,31 @@
         <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoIi4vYnVuZGxlLmpzIikiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iIHR5cGU9ImltYWdlL3BuZyIgaHJlZj0iQHJvdXRlcy5Bc3NldHMuYXQoImltYWdlcy9mYXZpY29uLnBuZyIpIj4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIG1lZGlhPSJzY3JlZW4iIGhyZWY9IkByb3V0ZXMuQXNzZXRzLmF0KCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0Pgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBTeXN0ZW0gPSBuZXcgU3lzdGVtSlNOb2RlTG9hZGVyKCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBwbGF5MjAud2VsY29tZShtZXNzYWdlLCBzdHlsZSA9ICJKYXZhIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iIHR5cGU9ImltYWdlL3BuZyIgaHJlZj0iQHJvdXRlcy5Bc3NldHMuYXQoImltYWdlcy9mYXZpY29uLnBuZyIpIj4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIG1lZGlhPSJzY3JlZW4iIGhyZWY9IkByb3V0ZXMuQXNzZXRzLmF0KCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91bnBrZy5jb20vc3lzdGVtanNAMC4xOS4yNy9kaXN0L3N5c3RlbS5zcmMuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91bnBrZy5jb20vcmVmbGVjdC1tZXRhZGF0YUAwLjEuMyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBTeXN0ZW0gPSBuZXcgU3lzdGVtSlNOb2RlTG9hZGVyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly91bnBrZy5jb20vY29yZS1qcy9jbGllbnQvc2hpbS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
