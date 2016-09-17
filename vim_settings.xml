@@ -230,6 +230,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/wawm/public/tsconfig.json" timestamp="1474072371750">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/same/public/client/app.module.ts" timestamp="1473904568330">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="4" />
@@ -580,6 +586,12 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/wawm/public/package.json" timestamp="1474072063158">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
         <mark key="'" line="1" column="17" />
         <mark key="[" line="1" column="16" />
@@ -867,7 +879,7 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/wawm/app/controllers/Application.java" timestamp="1474070346946">
+      <file name="$USER_HOME$/workspace/wawm/app/controllers/Application.java" timestamp="1474070974366">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
@@ -892,6 +904,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/wawm/package.json" timestamp="1474071966008" />
       <file name="$USER_HOME$/workspace/dm/public/client/app/app.component.ts" timestamp="1473997603461">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -969,6 +982,12 @@
         <mark key="^" line="19" column="6" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/wawm/public/app/app.ts" timestamp="1474072411415">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/src/containers/Report/Bpp.js" timestamp="1473222995239">
         <mark key="'" line="8" column="6" />
         <mark key="[" line="3" column="49" />
@@ -1001,6 +1020,11 @@
         <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/wawm/app/views/main.scala.html" timestamp="1474072352454">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1106,11 +1130,11 @@
       <jump line="29" column="23" filename="$USER_HOME$/workspace/same/public/client/app/app.routing.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBjb250ZW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBSb3V0ZXNcPg==</text>
@@ -1119,31 +1143,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gb2soZWxlbWVudDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHtIZXJvU2VydmljZX0gICAgICAgICAgZnJvbSAnLi4vLi4vdG1wL2hlcm8uc2VydmljZSc7Cg==</text>
+        <text encoding="base64">ICAgIEBjb250ZW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHtIZXJvZXNDb21wb25lbnR9ICAgICAgZnJvbSAnLi4vLi4vdG1wL2hlcm9lcy5jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHtIZXJvRGV0YWlsQ29tcG9uZW50fSAgZnJvbSAnLi4vLi4vdG1wL2hlcm8tZGV0YWlsLmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHtEYXNoYm9hcmRDb21wb25lbnR9ICAgZnJvbSAnLi4vLi4vdG1wL2Rhc2hib2FyZC5jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIEhlcm9TZXJ2aWNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIEhlcm9lc0NvbXBvbmVudCwK</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jb2RlLmFuZ3VsYXJqcy5vcmcvdG9vbHMvdHlwZXNjcmlwdC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIEhlcm9EZXRhaWxDb21wb25lbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jb2RlLmFuZ3VsYXJqcy5vcmcvMi4wLjAtYWxwaGEuNDQvYW5ndWxhcjIuZGV2LmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIERhc2hib2FyZENvbXBvbmVudCwK</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyB9Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHtIZXJvU2VydmljZX0gICAgICAgICAgZnJvbSAnLi4vLi4vdG1wL2hlcm8uc2VydmljZSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/1/2/g</text>
