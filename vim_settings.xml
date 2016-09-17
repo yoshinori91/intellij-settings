@@ -60,6 +60,10 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/wawm/public/index.html" timestamp="1474094921288">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.routing.ts" timestamp="1474005992592">
         <mark key="'" line="17" column="23" />
         <mark key="[" line="15" column="0" />
@@ -242,11 +246,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wawm/public/styles.css" timestamp="1474093040106">
+      <file name="$USER_HOME$/workspace/wawm/public/styles.css" timestamp="1474094317918">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="15" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app.module.ts" timestamp="1473904568330">
         <mark key="[" line="12" column="24" />
@@ -316,6 +320,13 @@
         <mark key="]" line="68" column="0" />
         <mark key="^" line="68" column="1" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wawm/public/tsconfig.json.ts" timestamp="1474093981022">
+        <mark key="'" line="11" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="11" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/zzz/public/app/components/Home.js" timestamp="1471922795711">
         <mark key="'" line="25" column="18" />
@@ -610,7 +621,8 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/wawm/public/package.json" timestamp="1474092610604">
+      <file name="$USER_HOME$/workspace/wawm/public/package.json" timestamp="1474093963355">
+        <mark key="'" line="41" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="1" />
         <mark key="^" line="36" column="1" />
@@ -816,6 +828,13 @@
         <mark key="^" line="5" column="36" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/wawm/public/sytemjs.config.js" timestamp="1474094028662">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/client/index.ts" timestamp="1473650477227">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1008,6 +1027,13 @@
         <mark key="^" line="69" column="41" />
         <mark key="." line="69" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/wawm/public/package.json.ts" timestamp="1474093814727">
+        <mark key="'" line="102" column="2" />
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/src/components/User.js" timestamp="1473217664238">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1042,7 +1068,7 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wawm/public/typings.json" timestamp="1474092731082">
+      <file name="$USER_HOME$/workspace/wawm/public/typings.json" timestamp="1474094010742">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="1" />
         <mark key="^" line="6" column="1" />
@@ -1068,20 +1094,13 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/wawm/app/views/main.scala.html" timestamp="1474076988254">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="54" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/wawm/app/views/main.scala.html" timestamp="1474094811538">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1338" column="30" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
-      <jump line="1339" column="27" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
-      <jump line="1285" column="57" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
-      <jump line="1286" column="89" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
-      <jump line="1287" column="48" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
-      <jump line="1317" column="30" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="1318" column="36" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="1324" column="30" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="1325" column="36" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
@@ -1176,46 +1195,52 @@
       <jump line="5" column="53" filename="$USER_HOME$/workspace/same/public/client/app/app.routing.ts" />
       <jump line="29" column="23" filename="$USER_HOME$/workspace/same/public/client/app/app.routing.ts" />
       <jump line="43" column="4" filename="$USER_HOME$/workspace/wawm/public/systemjs.config.js" />
+      <jump line="102" column="2" filename="$USER_HOME$/workspace/wawm/public/package.json.ts" />
+      <jump line="13" column="2" filename="$USER_HOME$/workspace/wawm/public/package.json" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/wawm/public/package.json" />
+      <jump line="12" column="1" filename="$USER_HOME$/workspace/wawm/public/tsconfig.json.ts" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/wawm/public/sytemjs.config.js" />
+      <jump line="8" column="69" filename="$USER_HOME$/workspace/wawm/app/views/main.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICA8IS0tIDEuIExvYWQgbGlicmFyaWVzIC0tPgogIDwhLS0gUG9seWZpbGwocykgZm9yIG9sZGVyIGJyb3dzZXJzIC0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>javascripts/jquery-1.9.0.min.js</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBSb3V0ZXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8IS0tIDEuIExvYWQgbGlicmFyaWVzIC0tPgogIDwhLS0gUG9seWZpbGwocykgZm9yIG9sZGVyIGJyb3dzZXJzIC0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBka2RrOTEgb24gMTYvMDkvMTcuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBka2RrOTEgb24gMTYvMDkvMTcuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBka2RrOTEgb24gMTYvMDkvMTcuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InNob3J0Y3V0IGljb24iIHR5cGU9ImltYWdlL3BuZyIgaHJlZj0iQHJvdXRlcy5Bc3NldHMuYXQoImltYWdlcy9mYXZpY29uLnBuZyIpIj4K</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBka2RrOTEgb24gMTYvMDkvMTcuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIG1lZGlhPSJzY3JlZW4iIGhyZWY9IkByb3V0ZXMuQXNzZXRzLmF0KCJzdHlsZXNoZWV0cy9tYWluLmNzcyIpIj4K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/1/2/g</text>
