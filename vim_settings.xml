@@ -315,6 +315,11 @@
         <mark key="^" line="35" column="9" />
         <mark key="." line="34" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/donald/app/views/main.scala.html" timestamp="1474128566974">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/hero-detail.component.css" timestamp="1473909333629">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -1118,7 +1123,6 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/wawm/app/views/main.scala.html" timestamp="1474098322914" />
     </filemarks>
     <jumps>
       <jump line="1324" column="30" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
@@ -1223,8 +1227,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/workspace/wawm/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxoMz5IZWxsbyBQbGF5PC9oMz4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1236,31 +1240,31 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcihlcnIpOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjYWNoZSwK</text>
+        <text encoding="base64">ICAgIDxoMz5IZWxsbyBQbGF5PC9oMz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpkYmMsCg==</text>
+        <text encoding="base64">ICBjYWNoZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">R0VUICAgICAgICAvYXNzZXRzLypmaWxlICAgICAgICBjb250cm9sbGVycy5Bc3NldHMuYXQocGF0aD0iL3B1YmxpYyIsIGZpbGUpCg==</text>
+        <text encoding="base64">ICAgIGpkYmMsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">R0VUICAgICAgICAvYXNzZXRzLypmaWxlICAgICAgICBjb250cm9sbGVycy5Bc3NldHMuYXQocGF0aD0iL3B1YmxpYyIsIGZpbGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/1/2/g</text>
