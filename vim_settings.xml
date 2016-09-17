@@ -60,9 +60,9 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wawm/public/index.html" timestamp="1474094921288">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="41" />
+      <file name="$USER_HOME$/workspace/wawm/public/index.html" timestamp="1474096251089">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.routing.ts" timestamp="1474005992592">
         <mark key="'" line="17" column="23" />
@@ -133,6 +133,12 @@
         <mark key="]" line="0" column="46" />
         <mark key="^" line="9" column="22" />
         <mark key="." line="0" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/wawm/build.sbt" timestamp="1474098961887">
+        <mark key="[" line="23" column="75" />
+        <mark key="]" line="36" column="54" />
+        <mark key="^" line="36" column="54" />
+        <mark key="." line="36" column="54" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/routes.js" timestamp="1473222817762">
         <mark key="'" line="13" column="0" />
@@ -803,11 +809,16 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wawm/conf/routes" timestamp="1474076886242">
-        <mark key="[" line="8" column="61" />
-        <mark key="]" line="8" column="66" />
-        <mark key="." line="8" column="66" />
-        <mark key="^" line="8" column="66" />
+      <file name="$USER_HOME$/workspace/wawm/conf/logback.xml" timestamp="1474098533367">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/wawm/conf/routes" timestamp="1474098341223">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wawm/public/app/app.component.ts" timestamp="1474092888573">
         <mark key="[" line="2" column="3" />
@@ -834,6 +845,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="43" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/wawm/project/plugins.sbt" timestamp="1474098671164">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/client/index.ts" timestamp="1473650477227">
         <mark key="[" line="8" column="0" />
@@ -958,6 +975,13 @@
         <mark key="]" line="3" column="5" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/wawm/package.json" timestamp="1474097771650">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/client/app/app.component.ts" timestamp="1473997603461">
         <mark key="[" line="16" column="0" />
@@ -1094,14 +1118,9 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/wawm/app/views/main.scala.html" timestamp="1474094811538">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/wawm/app/views/main.scala.html" timestamp="1474098322914" />
     </filemarks>
     <jumps>
-      <jump line="1318" column="36" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="1324" column="30" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="1325" column="36" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="1331" column="31" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
@@ -1201,46 +1220,47 @@
       <jump line="12" column="1" filename="$USER_HOME$/workspace/wawm/public/tsconfig.json.ts" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/wawm/public/sytemjs.config.js" />
       <jump line="8" column="69" filename="$USER_HOME$/workspace/wawm/app/views/main.scala.html" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/wawm/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8IS0tIDEuIExvYWQgbGlicmFyaWVzIC0tPgogIDwhLS0gUG9seWZpbGwocykgZm9yIG9sZGVyIGJyb3dzZXJzIC0tPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>javascripts/jquery-1.9.0.min.js</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBSb3V0ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8IS0tIDEuIExvYWQgbGlicmFyaWVzIC0tPgogIDwhLS0gUG9seWZpbGwocykgZm9yIG9sZGVyIGJyb3dzZXJzIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcihlcnIpOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjYWNoZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iQHJvdXRlcy5Bc3NldHMuYXQoImphdmFzY3JpcHRzL2pxdWVyeS0xLjkuMC5taW4uanMiKSIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIGpkYmMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">R0VUICAgICAgICAvYXNzZXRzLypmaWxlICAgICAgICBjb250cm9sbGVycy5Bc3NldHMuYXQocGF0aD0iL3B1YmxpYyIsIGZpbGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBka2RrOTEgb24gMTYvMDkvMTcuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBka2RrOTEgb24gMTYvMDkvMTcuCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/1/2/g</text>
