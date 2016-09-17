@@ -64,6 +64,11 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/services/store.ts" timestamp="1474130419598">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.routing.ts" timestamp="1474005992592">
         <mark key="'" line="17" column="23" />
         <mark key="[" line="15" column="0" />
@@ -116,6 +121,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.ts" timestamp="1474130300755" />
       <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1473666812975">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -710,6 +716,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="33" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474130722373" />
       <file name="$USER_HOME$/test/dona/public/app/containers/Report/index.js" timestamp="1473065023007">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="46" column="0" />
@@ -1005,6 +1012,12 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/main.ts" timestamp="1474130441898">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/.gitignore" timestamp="1473675947344">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="3" column="19" />
@@ -1037,11 +1050,6 @@
         <mark key="]" line="26" column="37" />
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/wawm/public/app/app.module.ts" timestamp="1474092909743">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Link.js" timestamp="1472455778138">
         <mark key="'" line="16" column="0" />
@@ -1228,7 +1236,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxoMz5IZWxsbyBQbGF5PC9oMz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1240,31 +1248,31 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcihlcnIpOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMz5IZWxsbyBQbGF5PC9oMz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYWNoZSwK</text>
+        <text encoding="base64">ICAgIDxoMz5IZWxsbyBQbGF5PC9oMz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGpkYmMsCg==</text>
+        <text encoding="base64">ICBjYWNoZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R0VUICAgICAgICAvYXNzZXRzLypmaWxlICAgICAgICBjb250cm9sbGVycy5Bc3NldHMuYXQocGF0aD0iL3B1YmxpYyIsIGZpbGUpCg==</text>
+        <text encoding="base64">ICAgIGpkYmMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">R0VUICAgICAgICAvYXNzZXRzLypmaWxlICAgICAgICBjb250cm9sbGVycy5Bc3NldHMuYXQocGF0aD0iL3B1YmxpYyIsIGZpbGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/1/2/g</text>
