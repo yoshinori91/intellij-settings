@@ -79,7 +79,7 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1474173261066">
+      <file name="/a.dummy" timestamp="1474196466515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/donadona/client/tsconfig.json" timestamp="1473397324941">
@@ -101,6 +101,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/target/scala-2.11/twirl/main/views/html/index1.template.scala" timestamp="1474196518699" />
       <file name="$USER_HOME$/test/dona/public/app/reducers/mediaPage.js" timestamp="1473325797259">
         <mark key="'" line="19" column="18" />
         <mark key="[" line="19" column="0" />
@@ -127,7 +128,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.ts" timestamp="1474173177335">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.ts" timestamp="1474196299634">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
       </file>
@@ -432,11 +433,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474172348167">
-        <mark key="[" line="20" column="51" />
-        <mark key="]" line="20" column="51" />
-        <mark key="^" line="20" column="51" />
-        <mark key="." line="20" column="51" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474196170658">
+        <mark key="'" line="18" column="54" />
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="50" />
+        <mark key="^" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/test/dona/conf/routes" timestamp="1473650793330">
         <mark key="[" line="11" column="62" />
@@ -934,6 +936,7 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/conf/routes" timestamp="1474195893310" />
       <file name="$USER_HOME$/donadona/cli/src/components/app.component.html" timestamp="1473399020550">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="16" />
@@ -1032,9 +1035,9 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/main.ts" timestamp="1474173229506">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="59" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/main.ts" timestamp="1474196464401">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="41" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -1138,11 +1141,11 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.routing.ts" timestamp="1474173395546">
-        <mark key="[" line="1" column="52" />
-        <mark key="]" line="0" column="52" />
-        <mark key="." line="0" column="52" />
-        <mark key="^" line="0" column="52" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.routing.ts" timestamp="1474196412418">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/donald-manager2/app/views/index.scala.html" timestamp="1473040327615">
         <mark key="'" line="15" column="0" />
@@ -1159,7 +1162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17660" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="17661" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="17662" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="17663" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
@@ -1259,55 +1261,56 @@
       <jump line="96" column="155" filename="$USER_HOME$/workspace/play-angular2-typescript/target/web/node-modules/webjars-main.cache" />
       <jump line="111" column="126" filename="$USER_HOME$/workspace/play-angular2-typescript/target/web/node-modules/webjars-main.cache" />
       <jump line="133" column="151" filename="$USER_HOME$/workspace/play-angular2-typescript/target/web/node-modules/webjars-main.cache" />
+      <jump line="18" column="54" filename="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>platform</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>re</text>
       </register>
       <register name="/" type="4">
-        <text>dynamic</text>
+        <text encoding="base64">XDxuZ1ZlcnNpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtib290c3RyYXB9IGZyb20gIkBhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyIK</text>
+      <register name="0" type="4">
+        <text>platform</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtSb3V0ZXN9IGZyb20gIkBhbmd1bGFyL3JvdXRlciIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZXMsIFJvdXRlTW9kdWxlfSBmcm9tICJAYW5ndWxhci9yb3V0ZXIiCg==</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBka2RrOTEgb24gMTYvMDkvMTguCg==</text>
+        <text encoding="base64">aW1wb3J0IHtSb3V0ZXMsIFJvdXRlck1vZHVsZX0gZnJvbSAiQGFuZ3VsYXIvcm91dGVyIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdvcmcud2ViamFycy5ucG06YW5ndWxhcl9fcm91dGVyOmphcjozLjAuMCcsCg==</text>
+        <text encoding="base64">Um91dGVzLgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtib290c3RyYXB9IGZyb20gIkBhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dynamic</last-search>
+      <last-search encoding="base64">XDxuZ1ZlcnNpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>dynamic</last-pattern>
+      <last-pattern encoding="base64">XDxuZ1ZlcnNpb25cPg==</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1315,7 +1318,6 @@
     </search>
     <history>
       <history-search>
-        <entry>promise</entry>
         <entry>inter</entry>
         <entry>Interface</entry>
         <entry encoding="base64">XDxhXD4=</entry>
@@ -1333,8 +1335,9 @@
         <entry>deital</entry>
         <entry>detail</entry>
         <entry encoding="base64">XDxhcHBSb3V0ZXNcPg==</entry>
-        <entry>http</entry>
         <entry>dynamic</entry>
+        <entry>http</entry>
+        <entry encoding="base64">XDxuZ1ZlcnNpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
