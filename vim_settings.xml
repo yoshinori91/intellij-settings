@@ -128,6 +128,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/template-sbt-play-angular2/project/target/webjars-plugin.cache" timestamp="1474208234920">
+        <mark key="'" line="386" column="29" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1473666812975">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -723,6 +726,7 @@
         <mark key="^" line="15" column="4" />
         <mark key="." line="15" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/template-sbt-play-angular2/app/assets/app/app.routes.ts" timestamp="1474208257245" />
       <file name="$USER_HOME$/test/dona/public/app/systemjs.config.js" timestamp="1473658293975">
         <mark key="'" line="42" column="9" />
         <mark key="[" line="0" column="0" />
@@ -1172,9 +1176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17664" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
-      <jump line="17665" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
-      <jump line="17666" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="17667" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="17668" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="17669" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
@@ -1272,6 +1273,9 @@
       <jump line="17" column="27" filename="$USER_HOME$/workspace/donald/build.sbt" />
       <jump line="9" column="10" filename="$USER_HOME$/workspace/donald/build.sbt" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" />
+      <jump line="18" column="18" filename="$USER_HOME$/workspace/template-sbt-play-angular2/project/target/webjars-plugin.cache" />
+      <jump line="187" column="72" filename="$USER_HOME$/workspace/template-sbt-play-angular2/project/target/webjars-plugin.cache" />
+      <jump line="386" column="29" filename="$USER_HOME$/workspace/template-sbt-play-angular2/project/target/webjars-plugin.cache" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1281,7 +1285,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZ1ZlcnNpb25cPg==</text>
+        <text>root</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2NvbW1vbiIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19jb21waWxlciIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19jb3JlIiAlIG5nVmVyc2lvbiwKICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19wbGF0Zm9ybS1icm93c2VyIiAlIG5nVmVyc2lvbiwKICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2h0dHAiICUgbmdWZXJzaW9uLAogICAgIm9yZy53ZWJqYXJzLm5wbSIgJSAiYW5ndWxhcl9fcm91dGVyIiAlICIzLjAuMCIsCiAgICAib3JnLndlYmphcnMubnBtIiAlICJzeXN0ZW1qcyIgJSAiMC4xOS4zMSIsCg==</text>
@@ -1318,9 +1322,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZ1ZlcnNpb25cPg==</last-search>
+      <last-search>root</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZ1ZlcnNpb25cPg==</last-pattern>
+      <last-pattern>root</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1328,7 +1332,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inter</entry>
         <entry>Interface</entry>
         <entry encoding="base64">XDxhXD4=</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
@@ -1348,6 +1351,7 @@
         <entry>dynamic</entry>
         <entry>http</entry>
         <entry encoding="base64">XDxuZ1ZlcnNpb25cPg==</entry>
+        <entry>root</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
