@@ -79,7 +79,7 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1474196466515">
+      <file name="/a.dummy" timestamp="1474197266945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/donadona/client/tsconfig.json" timestamp="1473397324941">
@@ -466,6 +466,7 @@
         <mark key="^" line="16" column="9" />
         <mark key="." line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/PlayAngularSample/gulpfile.js" timestamp="1474197263231" />
       <file name="$USER_HOME$/test/dona/public/src/actions/index.js" timestamp="1473219217155">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="25" column="6" />
@@ -732,6 +733,7 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/PlayAngularSample/ui/todo/src/test.ts" timestamp="1474197132610" />
       <file name="$USER_HOME$/IdeaProjects/dona/public/app/index.js" timestamp="1471943159861">
         <mark key="'" line="82" column="15" />
         <mark key="[" line="36" column="0" />
@@ -872,6 +874,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="5" column="36" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/PlayAngularSample/ui/todo/src/main.ts" timestamp="1474197665125">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/wawm/public/sytemjs.config.js" timestamp="1474094028662">
         <mark key="'" line="43" column="0" />
@@ -1264,8 +1271,8 @@
       <jump line="18" column="54" filename="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>platform</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>re</text>
@@ -1273,35 +1280,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxuZ1ZlcnNpb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>platform</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcGxhdGZvcm1Ccm93c2VyRHluYW1pYyB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZXN9IGZyb20gIkBhbmd1bGFyL3JvdXRlciIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vdHlwaW5ncy9pbmRleC5kLnRzIiAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcGxhdGZvcm1Ccm93c2VyRHluYW1pYyB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZW5hYmxlUHJvZE1vZGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZXMsIFJvdXRlck1vZHVsZX0gZnJvbSAiQGFuZ3VsYXIvcm91dGVyIjsK</text>
+        <text encoding="base64">aW1wb3J0IHtSb3V0ZXN9IGZyb20gIkBhbmd1bGFyL3JvdXRlciIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Um91dGVzLgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">a2trCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">a2trCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtib290c3RyYXB9IGZyb20gIkBhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyIK</text>
+        <text encoding="base64">aW1wb3J0IHtSb3V0ZXMsIFJvdXRlck1vZHVsZX0gZnJvbSAiQGFuZ3VsYXIvcm91dGVyIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
