@@ -354,6 +354,11 @@
         <mark key="^" line="36" column="1" />
         <mark key="." line="36" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/heroes.component.ts" timestamp="1474221565640">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
         <mark key="'" line="1" column="17" />
         <mark key="[" line="1" column="16" />
@@ -549,6 +554,11 @@
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.html" timestamp="1474221670144">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/routes.js" timestamp="1472792039730">
         <mark key="'" line="4" column="9" />
@@ -1279,10 +1289,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8ZGVrPjwvZGVrPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text encoding="base64">YW55IA==</text>
       </register>
       <register name="/" type="4">
         <text>root</text>
@@ -1291,31 +1301,31 @@
         <text encoding="base64">aW1wb3J0IHtDb21wb25lbnR9IGZyb20gIkBhbmd1bGFyL2NvcmUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8ZGVrPjwvZGVrPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8SDM+c2FtcGxlPC9IMz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZXN9IGZyb20gIkBhbmd1bGFyL3JvdXRlciIK</text>
+        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb21wb25lbnR9IGZyb20gIkBhbmd1bGFyL2NvcmUiCg==</text>
+        <text encoding="base64">ICBuZ09uSW5pdCgpOiB2b2lkIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb21wb25lbnR9IGZyb20gIkBhbmd1bGFyL2JvciIK</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIEhlcm9lc0NvbXBvbmVudCBpbXBsZW1lbnRzIE9uSW5pdCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V9IGZyb20gJ0Bhbmd1bGFyL3JvdXRlcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZXN9IGZyb20gJ0Bhbmd1bGFyL3JvdXRlcicK</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
