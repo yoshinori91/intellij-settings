@@ -121,7 +121,6 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.ts" timestamp="1474130300755" />
       <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1473666812975">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -293,6 +292,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index.scala.html" timestamp="1474164923488">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="45" />
+        <mark key="." line="23" column="45" />
+        <mark key="^" line="23" column="45" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" timestamp="1471800492291">
         <mark key="'" line="27" column="5" />
@@ -722,7 +727,6 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="33" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474130722373" />
       <file name="$USER_HOME$/test/dona/public/app/containers/Report/index.js" timestamp="1473065023007">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="46" column="0" />
@@ -1241,11 +1245,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/workspace/wawm/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBSb3V0ZXNcPg==</text>
@@ -1281,7 +1285,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1,$s/1/2/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1318,11 +1322,11 @@
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>1,$s/;//g</entry>
         <entry>1,$d</entry>
         <entry>1,$s/1/2/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
