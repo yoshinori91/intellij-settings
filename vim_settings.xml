@@ -63,10 +63,6 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/wawm/public/index.html" timestamp="1474096251089">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/services/store.ts" timestamp="1474131052462">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -433,7 +429,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474206750645">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474206769429">
         <mark key="'" line="18" column="54" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="21" column="46" />
@@ -609,6 +605,13 @@
         <mark key="]" line="7" column="24" />
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/donald/build.sbt" timestamp="1474206995494">
+        <mark key="'" line="10" column="10" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/client/package.json" timestamp="1473648773429">
         <mark key="[" line="9" column="0" />
@@ -1169,8 +1172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17661" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
-      <jump line="17662" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="17663" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="17664" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
       <jump line="17665" column="21" filename="$USER_HOME$/workspace/same/public/client/node_modules/typescript/lib/lib.es6.d.ts" />
@@ -1269,13 +1270,15 @@
       <jump line="111" column="126" filename="$USER_HOME$/workspace/play-angular2-typescript/target/web/node-modules/webjars-main.cache" />
       <jump line="133" column="151" filename="$USER_HOME$/workspace/play-angular2-typescript/target/web/node-modules/webjars-main.cache" />
       <jump line="18" column="54" filename="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" />
+      <jump line="17" column="27" filename="$USER_HOME$/workspace/donald/build.sbt" />
+      <jump line="9" column="10" filename="$USER_HOME$/workspace/donald/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2NvbW1vbiIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19jb21waWxlciIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19jb3JlIiAlIG5nVmVyc2lvbiwKICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19wbGF0Zm9ybS1icm93c2VyIiAlIG5nVmVyc2lvbiwKICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2h0dHAiICUgbmdWZXJzaW9uLAogICAgIm9yZy53ZWJqYXJzLm5wbSIgJSAiYW5ndWxhcl9fcm91dGVyIiAlICIzLjAuMCIsCiAgICAib3JnLndlYmphcnMubnBtIiAlICJzeXN0ZW1qcyIgJSAiMC4xOS4zMSIsCg==</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2h0dHAiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZ1ZlcnNpb25cPg==</text>
@@ -1284,31 +1287,31 @@
         <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2NvbW1vbiIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19jb21waWxlciIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19jb3JlIiAlIG5nVmVyc2lvbiwKICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19wbGF0Zm9ybS1icm93c2VyIiAlIG5nVmVyc2lvbiwKICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2h0dHAiICUgbmdWZXJzaW9uLAogICAgIm9yZy53ZWJqYXJzLm5wbSIgJSAiYW5ndWxhcl9fcm91dGVyIiAlICIzLjAuMCIsCiAgICAib3JnLndlYmphcnMubnBtIiAlICJzeXN0ZW1qcyIgJSAiMC4xOS4zMSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2h0dHAiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vdHlwaW5ncy9pbmRleC5kLnRzIiAvPgo=</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX3BsYXRmb3JtLWJyb3dzZXIiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGxhdGZvcm1Ccm93c2VyRHluYW1pYyB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyc7Cg==</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZW5hYmxlUHJvZE1vZGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsK</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2NvcmUiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZXN9IGZyb20gIkBhbmd1bGFyL3JvdXRlciIK</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2NvbXBpbGVyIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2NvbW1vbiIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iLi4vdHlwaW5ncy9pbmRleC5kLnRzIiAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZXMsIFJvdXRlck1vZHVsZX0gZnJvbSAiQGFuZ3VsYXIvcm91dGVyIjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgcGxhdGZvcm1Ccm93c2VyRHluYW1pYyB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
