@@ -433,10 +433,10 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474196170658">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474206750645">
         <mark key="'" line="18" column="54" />
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="50" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="21" column="46" />
         <mark key="." line="19" column="50" />
         <mark key="^" line="19" column="50" />
       </file>
@@ -1148,11 +1148,11 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.routing.ts" timestamp="1474196412418">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="37" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.routing.ts" timestamp="1474206265904">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="36" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/donald-manager2/app/views/index.scala.html" timestamp="1473040327615">
         <mark key="'" line="15" column="0" />
@@ -1272,16 +1272,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2NvbW1vbiIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19jb21waWxlciIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19jb3JlIiAlIG5nVmVyc2lvbiwKICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19wbGF0Zm9ybS1icm93c2VyIiAlIG5nVmVyc2lvbiwKICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2h0dHAiICUgbmdWZXJzaW9uLAogICAgIm9yZy53ZWJqYXJzLm5wbSIgJSAiYW5ndWxhcl9fcm91dGVyIiAlICIzLjAuMCIsCiAgICAib3JnLndlYmphcnMubnBtIiAlICJzeXN0ZW1qcyIgJSAiMC4xOS4zMSIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>re</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZ1ZlcnNpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGxhdGZvcm1Ccm93c2VyRHluYW1pYyB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyc7Cg==</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2NvbW1vbiIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19jb21waWxlciIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19jb3JlIiAlIG5nVmVyc2lvbiwKICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyIgJSBuZ1ZlcnNpb24sCiAgICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19wbGF0Zm9ybS1icm93c2VyIiAlIG5nVmVyc2lvbiwKICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2h0dHAiICUgbmdWZXJzaW9uLAogICAgIm9yZy53ZWJqYXJzLm5wbSIgJSAiYW5ndWxhcl9fcm91dGVyIiAlICIzLjAuMCIsCiAgICAib3JnLndlYmphcnMubnBtIiAlICJzeXN0ZW1qcyIgJSAiMC4xOS4zMSIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
