@@ -226,11 +226,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474263597901">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="6" />
-        <mark key="." line="15" column="6" />
-        <mark key="^" line="15" column="6" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474271327837">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/media.service.ts" timestamp="1474005100877">
         <mark key="[" line="9" column="0" />
@@ -1325,8 +1324,8 @@
       <jump line="8" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIDxpbnB1dCBbKG5nTW9kZWwpXT0iaGVyby5uYW1lIiBwbGFjZWhvbGRlcj0ibmFtZSI+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1338,31 +1337,31 @@
         <text>ngVersion</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIDxpbnB1dCBbKG5nTW9kZWwpXT0iaGVyby5uYW1lIiBwbGFjZWhvbGRlcj0ibmFtZSI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19mb3JtcyIgJSAsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEZvcm1zTW9kdWxlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtGb3JtTW9kdWxlfSBmcm9tICJAYW5ndWxhci9mb21ycyIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2Zvcm1zIiAlIG5nVmVyc2lvbiwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAib3JnLndlYmphcnMubnBtIiAlICJhbmd1bGFyX19mb3JtcyIgJSAsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEZvcm1zTW9kdWxlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHtGb3JtTW9kdWxlfSBmcm9tICJAYW5ndWxhci9mb21ycyIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgImFuZ3VsYXJfX2Zvcm1zIiAlIG5nVmVyc2lvbiwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZXJvID0gIldpbmRzdG9ybSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
