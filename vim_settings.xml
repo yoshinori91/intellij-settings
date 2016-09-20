@@ -22,6 +22,9 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/target/web/node-modules/main/webjars/ng-lightning/package.json" timestamp="1474371407456">
+        <mark key="'" line="16" column="20" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/FilterLink.js" timestamp="1472520574833">
         <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="11" />
@@ -80,11 +83,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474364190780">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474374066432">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1473384998869">
         <mark key="[" line="0" column="46" />
@@ -288,12 +292,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/main.ts" timestamp="1474341852033">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/main.ts" timestamp="1474374398700">
         <mark key="'" line="13" column="25" />
-        <mark key="[" line="1" column="39" />
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+        <mark key="^" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/donadona/cli/src/components/alert-button.component.ts" timestamp="1473399194820">
         <mark key="[" line="6" column="35" />
@@ -453,6 +457,9 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/node_modules/tether/dist/js/tether.js" timestamp="1474370998242">
+        <mark key="'" line="431" column="40" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/services/api.js" timestamp="1473239537731">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="1" column="9" />
@@ -466,11 +473,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474367266143">
-        <mark key="'" line="52" column="14" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474374727312">
+        <mark key="'" line="49" column="30" />
+        <mark key="[" line="10" column="80" />
+        <mark key="]" line="10" column="80" />
+        <mark key="." line="10" column="80" />
+        <mark key="^" line="10" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.ts" timestamp="1474005641715">
         <mark key="'" line="7" column="7" />
@@ -897,6 +905,7 @@
         <mark key="^" line="68" column="1" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/target/web/web-modules/main/webjars/lib/ng-lightning/ng-lightning.js" timestamp="1474374108743" />
       <file name="$USER_HOME$/workspace/wawm/public/app/app.ts" timestamp="1474072411415">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="13" column="23" />
@@ -980,6 +989,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="12" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/target/web/public/main/lib/ng-lightning/package.json" timestamp="1474371222087" />
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/dashboard.component.ts" timestamp="1474350350365">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="19" />
@@ -1116,11 +1126,11 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" timestamp="1474367692035">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" timestamp="1474374368837">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Footer.js" timestamp="1472459713457">
         <mark key="'" line="12" column="11" />
@@ -1166,6 +1176,7 @@
         <mark key="^" line="3" column="53" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/target/web/public/main/lib/ng-lightning/pick/pick.js" timestamp="1474369504608" />
       <file name="$USER_HOME$/test/dona/public/src/actions/index.js" timestamp="1473219217155">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="25" column="6" />
@@ -1225,14 +1236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" />
-      <jump line="90" column="3" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
-      <jump line="29" column="16" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
-      <jump line="30" column="12" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
-      <jump line="31" column="32" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
-      <jump line="34" column="28" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
-      <jump line="91" column="2" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
-      <jump line="93" column="2" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
       <jump line="59" column="15" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
       <jump line="24" column="15" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
       <jump line="39" column="11" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
@@ -1308,13 +1311,10 @@
       <jump line="30" column="21" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="31" column="28" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="32" column="23" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="47" column="60" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="50" column="83" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="27" column="8" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="57" column="39" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="63" column="6" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="54" column="6" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="61" column="11" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="67" column="11" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="19" column="8" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="14" column="18" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
@@ -1325,55 +1325,66 @@
       <jump line="48" column="19" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="51" column="17" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="52" column="14" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="57" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="33" column="8" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="61" column="6" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="18" column="11" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/tether/dist/js/tether.js" />
+      <jump line="381" column="26" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/tether/dist/js/tether.js" />
+      <jump line="430" column="11" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/tether/dist/js/tether.js" />
+      <jump line="431" column="40" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/tether/dist/js/tether.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" />
+      <jump line="16" column="20" filename="$USER_HOME$/workspace/play-angular2-typescript/target/web/node-modules/main/webjars/ng-lightning/package.json" />
+      <jump line="12" column="95" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="47" column="30" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NgBootStarp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>NgBootStarp</text>
+        <text>dist/system.src.js</text>
       </register>
       <register name="/" type="4">
-        <text>lightning</text>
+        <text>light</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9J0Byb3V0ZXMuQXNzZXRzLnZlcnNpb25lZCgibGliL3N5c3RlbWpzL2Rpc3Qvc3lzdGVtLnNyYy5qcyIpJz48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtOZ2xNb2R1bGV9IGZyb20gJ25nLWJvb3RzdHJhcC9uZycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtOZ2JNb2R1bGV9IGZyb20gJycK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9J0Byb3V0ZXMuQXNzZXRzLnZlcnNpb25lZCgibGliL25nLWxpZ2h0bmluZy9uZy1saWdodG5pbmcuYnVuZGxlLmpzIiknPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZm9vdGVyPgo=</text>
+        <text encoding="base64">aW1wb3J0IHtwcm92aWRlTmdsQ29uZmlnfSBmcm9tICduZy1saWdodG5pbmcvbmctbGlnaHRuaW5nJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICBdKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHA+RG91YmxlLWNsaWNrIHRvIGVkaXQgYSB0b2RvPC9wPgo=</text>
+        <text encoding="base64">ICAgIHByb3ZpZGVOZ2xDb25maWcoKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxmb290ZXIgY2xhc3M9ImluZm8iPgo=</text>
+        <text encoding="base64">ICBbCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2luZyA8YSBocmVmPSJodHRwOi8vYW5ndWxhci5pbyI+QW5ndWxhcjI8L2E+Cg==</text>
+        <text encoding="base64">IDwhLS08L3NtLXNlZ21lbnQ+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xpbiBFYmVyaGFyZHQ8L2E+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS1IZWxsby0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDcmVhdGVkIGJ5IDxhIGhyZWY9Imh0dHA6Ly9naXRodWIuY29tL3NhbWNjb25lIj5TYW0gU2FjY29uZTwvYT4gYW5kIDxhIGhyZWY9Imh0dHA6Ly9naXRodWIuY29tL2NvbGluZWJlcmhhcmR0Ij4K</text>
+        <text encoding="base64">IDwhLS08c20tc2VnbWVudCBjbGFzcz0icmFpc2VkIj4tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lightning</last-search>
+      <last-search>light</last-search>
       <last-offset />
-      <last-pattern>lightning</last-pattern>
+      <last-pattern>light</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1381,26 +1392,26 @@
     </search>
     <history>
       <history-search>
-        <entry>favicon</entry>
-        <entry>export</entry>
-        <entry>Ng</entry>
-        <entry>NgModule</entry>
-        <entry>module</entry>
-        <entry>Module</entry>
         <entry>forms</entry>
         <entry>jquery</entry>
         <entry encoding="base64">XDxwcm92aWRlTmdsQ29uZmlnXD4=</entry>
-        <entry>light</entry>
         <entry>te</entry>
         <entry>teth</entry>
-        <entry>tether</entry>
         <entry encoding="base64">XDxkZWZhdWx0RXh0ZW5zaW9uXD4=</entry>
         <entry>defaultExtension</entry>
         <entry encoding="base64">XDxwYWNrYWdlc1w+</entry>
-        <entry encoding="base64">XDxhZGRBbmd1bGFyTW9kdWxlc1RvTWFwXD4=</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry>ng</entry>
         <entry>lightning</entry>
+        <entry encoding="base64">XDxuZ1BhY2thZ2VOYW1lc1w+</entry>
+        <entry encoding="base64">XDxhZGRBbmd1bGFyTW9kdWxlc1RvTWFwXD4=</entry>
+        <entry>utils</entry>
+        <entry encoding="base64">XDxUZXRoZXJCYXNlXD4=</entry>
+        <entry encoding="base64">XDx1dGlsc1w+</entry>
+        <entry encoding="base64">XDxzaGltXD4=</entry>
+        <entry encoding="base64">XDxOZ2xNb2R1bGVcPg==</entry>
+        <entry>tether</entry>
+        <entry>light</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
