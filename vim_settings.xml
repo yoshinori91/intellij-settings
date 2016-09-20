@@ -33,6 +33,11 @@
       <file name="/a.dummy" timestamp="1474254172885">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/controllers/Application.scala" timestamp="1474414035393">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/donadona/client/tsconfig.json" timestamp="1473397324941">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="0" />
@@ -526,6 +531,12 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/conf/routes" timestamp="1474414731591">
+        <mark key="[" line="6" column="60" />
+        <mark key="]" line="6" column="63" />
+        <mark key="." line="6" column="63" />
+        <mark key="^" line="6" column="63" />
+      </file>
       <file name="$USER_HOME$/donadona/cli/src/components/app.component.html" timestamp="1473399020550">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="16" />
@@ -597,6 +608,12 @@
         <mark key="]" line="13" column="23" />
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/controllers/Hero.java" timestamp="1474414885287">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/wawm/public/typings.json" timestamp="1474094010742">
         <mark key="[" line="0" column="0" />
@@ -1157,6 +1174,12 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/controllers/MediaController.java" timestamp="1474414757203">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="9" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/src/reducers/paginate.js" timestamp="1473217012386">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1322,17 +1345,17 @@
       <jump line="1" column="45" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.routing.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9uYXY+</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>router</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtIZXJvRGV0YWlsQ29tcG9uZW50fSBmcm9tICIuL2hlcm8tZGV0YWlsLmNvbXBvbmVudCIK</text>
+        <text encoding="base64">R0VUICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuQXBwbGljYXRpb24uaW5kZXgK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICovCg==</text>
@@ -1344,22 +1367,22 @@
         <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFsnL2RldGFpbCcsIHRoaXMuc2VsZWN0ZWRIZXJvLmlkXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnb3RvRGV0YWlsKCk6IHZvaWQgewo=</text>
+        <text encoding="base64">ICAgIEpzb25Ob2RlIGhlcm9Kc29uMSA9IEpzb24udG9Kc29uKGhlcm8xKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIEpzb25Ob2RlIGhlcm9Kc29uMiA9IEpzb24udG9Kc29uKGhlcm8yKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FuIGJlIGZvdW5kIGluIHRoZSBMSUNFTlNFIGZpbGUgYXQgaHR0cDovL2FuZ3VsYXIuaW8vbGljZW5zZQo=</text>
+        <text encoding="base64">Ci8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VXNlIG9mIHRoaXMgc291cmNlIGNvZGUgaXMgZ292ZXJuZWQgYnkgYW4gTUlULXN0eWxlIGxpY2Vuc2UgdGhhdAo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
