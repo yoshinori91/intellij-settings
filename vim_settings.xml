@@ -39,6 +39,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/services/hero.service.ts" timestamp="1474389337274">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/item.js" timestamp="1472460018344">
         <mark key="'" line="12" column="10" />
         <mark key="[" line="8" column="37" />
@@ -1317,7 +1323,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9uYXY+</text>
@@ -1329,31 +1335,31 @@
         <text encoding="base64">aW1wb3J0IHtIZXJvRGV0YWlsQ29tcG9uZW50fSBmcm9tICIuL2hlcm8tZGV0YWlsLmNvbXBvbmVudCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFsnL2RldGFpbCcsIHRoaXMuc2VsZWN0ZWRIZXJvLmlkXSk7Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBka2RrOTEgb24gMTYvMDkvMjEuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnb3RvRGV0YWlsKCk6IHZvaWQgewo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2FuIGJlIGZvdW5kIGluIHRoZSBMSUNFTlNFIGZpbGUgYXQgaHR0cDovL2FuZ3VsYXIuaW8vbGljZW5zZQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFsnL2RldGFpbCcsIHRoaXMuc2VsZWN0ZWRIZXJvLmlkXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VXNlIG9mIHRoaXMgc291cmNlIGNvZGUgaXMgZ292ZXJuZWQgYnkgYW4gTUlULXN0eWxlIGxpY2Vuc2UgdGhhdAo=</text>
+        <text encoding="base64">ICBnb3RvRGV0YWlsKCk6IHZvaWQgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q29weXJpZ2h0IDIwMTYgR29vZ2xlIEluYy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4K</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Y2FuIGJlIGZvdW5kIGluIHRoZSBMSUNFTlNFIGZpbGUgYXQgaHR0cDovL2FuZ3VsYXIuaW8vbGljZW5zZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo=</text>
+        <text encoding="base64">VXNlIG9mIHRoaXMgc291cmNlIGNvZGUgaXMgZ292ZXJuZWQgYnkgYW4gTUlULXN0eWxlIGxpY2Vuc2UgdGhhdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
