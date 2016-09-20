@@ -94,12 +94,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474358151519">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474361140854">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1473384998869">
         <mark key="[" line="0" column="46" />
@@ -658,11 +658,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474358097577">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="32" column="48" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474360867591">
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="25" />
+        <mark key="^" line="37" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/same/conf/routes" timestamp="1473924279887">
         <mark key="[" line="6" column="70" />
@@ -873,12 +873,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/dm/public/app/app.module.ts" timestamp="1474002082587">
-        <mark key="'" line="8" column="25" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/donald/build.sbt" timestamp="1474206995494">
         <mark key="'" line="10" column="10" />
@@ -1182,11 +1176,12 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" timestamp="1474358826627">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" timestamp="1474361003144">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/tslint.json" timestamp="1474342020982">
         <mark key="[" line="55" column="0" />
@@ -1268,12 +1263,6 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/same/public/client/app/mock-heroes.ts" timestamp="1474004235925">
-        <mark key="'" line="3" column="7" />
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/app/main.ts" timestamp="1474002055445">
         <mark key="[" line="1" column="41" />
@@ -1399,43 +1388,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gIm5nLXNlbWFudGljL25nLXNlbWFudGljIgo=</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJycK</text>
       </register>
       <register name="-" type="4">
-        <text>NgSemanticModule</text>
+        <text>MdButtonModule</text>
       </register>
       <register name="/" type="4">
         <text>Module</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtOZ01vZHVsZX0gZnJvbSAiQGFuZ3VsYXIvY29yZSIK</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgInR5cGVzY3JpcHQiICUgIjIuMC4wIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gIm5nLXNlbWFudGljL25nLXNlbWFudGljIgo=</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gIm5nLXNlbWFudGljIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtBcHBDb21wb25lbnR9IGZyb20gIi4vYXBwLmNvbXBvbmVudCIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXBvcnRDb21wb25lbnR9IGZyb20gIi4vcmVwb3J0LmNvbXBvbmVudCI7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ25nLXNlbWFudGljJwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgIm5nLXNlbWFudGljIiAlICIxLjAuMzYiLAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtIZXJvZXNDb21wb25lbnR9IGZyb20gIi4vaGVyb2VzLmNvbXBvbmVudCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEhlcm9lc0NvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgIm5nLWxpZ2h0bmluZyIgJSAiXjAuMjIuMCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtIZXJvZXNDb21wb25lbnR9IGZyb20gIi4vaGVyb2VzLmNvbXBvbmVudCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWxpZ2h0bmluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxhIHJvdXRlckxpbms9Ii9tZWRpYSI+SGVyb2VzPC9hPgo=</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ucG0iICUgIm5nLXNlbWFudGljIiAlICIxLjAuMzYiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
