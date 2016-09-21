@@ -83,12 +83,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474374066432">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474425391997">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1473384998869">
         <mark key="[" line="0" column="46" />
@@ -1236,7 +1236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="15" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
       <jump line="24" column="15" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
       <jump line="39" column="11" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
@@ -1336,55 +1335,56 @@
       <jump line="16" column="20" filename="$USER_HOME$/workspace/play-angular2-typescript/target/web/node-modules/main/webjars/ng-lightning/package.json" />
       <jump line="12" column="95" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="47" column="30" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="25" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9udC1jb2xvcjogIzAwMDAwMDsK</text>
       </register>
       <register name="-" type="4">
-        <text>dist/system.src.js</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>light</text>
+        <text>center</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9J0Byb3V0ZXMuQXNzZXRzLnZlcnNpb25lZCgibGliL3N5c3RlbWpzL2Rpc3Qvc3lzdGVtLnNyYy5qcyIpJz48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6ICoqKjsgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9udC1jb2xvcjogIzAwMDAwMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9J0Byb3V0ZXMuQXNzZXRzLnZlcnNpb25lZCgibGliL25nLWxpZ2h0bmluZy9uZy1saWdodG5pbmcuYnVuZGxlLmpzIiknPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtwcm92aWRlTmdsQ29uZmlnfSBmcm9tICduZy1saWdodG5pbmcvbmctbGlnaHRuaW5nJzsK</text>
+        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBdKTsK</text>
+        <text encoding="base64">ICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVOZ2xDb25maWcoKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBbCg==</text>
+        <text encoding="base64">ICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IDwhLS08L3NtLXNlZ21lbnQ+LS0+Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS1IZWxsby0tPgo=</text>
+        <text encoding="base64">ICAgICAgLm5hdiB1bCB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IDwhLS08c20tc2VnbWVudCBjbGFzcz0icmFpc2VkIj4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>light</last-search>
+      <last-search>center</last-search>
       <last-offset />
-      <last-pattern>light</last-pattern>
+      <last-pattern>center</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1392,7 +1392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>forms</entry>
         <entry>jquery</entry>
         <entry encoding="base64">XDxwcm92aWRlTmdsQ29uZmlnXD4=</entry>
         <entry>te</entry>
@@ -1412,6 +1411,7 @@
         <entry encoding="base64">XDxOZ2xNb2R1bGVcPg==</entry>
         <entry>tether</entry>
         <entry>light</entry>
+        <entry>center</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
