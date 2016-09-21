@@ -95,12 +95,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474426512611">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="28" column="5" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474443246859">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="26" column="5" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1473384998869">
         <mark key="[" line="0" column="46" />
@@ -875,11 +875,12 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="42" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" timestamp="1474441819647">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="42" />
-        <mark key="." line="14" column="42" />
-        <mark key="^" line="14" column="48" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" timestamp="1474444435028">
+        <mark key="'" line="34" column="16" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="11" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/app/app.main.ts" timestamp="1473991406082">
         <mark key="[" line="0" column="0" />
@@ -1235,11 +1236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="21" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
-      <jump line="63" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/heroes.component.ts" />
-      <jump line="88" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/heroes.component.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/heroes.component.ts" />
-      <jump line="9" column="9" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
       <jump line="0" column="35" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
       <jump line="14" column="8" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" />
@@ -1334,56 +1330,61 @@
       <jump line="71" column="13" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="73" column="2" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
-      <jump line="16" column="58" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
+      <jump line="41" column="1" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
+      <jump line="16" column="37" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
+      <jump line="23" column="57" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
+      <jump line="38" column="22" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
+      <jump line="44" column="2" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
+      <jump line="29" column="16" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>key=&quot;arank&quot; sortable</text>
+        <text>が</text>
       </register>
       <register name="-" type="4">
-        <text>key=&quot;arank&quot; sortable</text>
+        <text>が</text>
       </register>
       <register name="/" type="4">
-        <text>loading</text>
+        <text>on</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPG5nbC1kYXRhdGFibGUtY29sdW1uIGhlYWRpbmc9IlJhbmsiIGtleT0icmFuayIgc29ydGFibGU+PC9uZ2wtZGF0YXRhYmxlLWNvbHVtbj4K</text>
+        <text encoding="base64">ICAgICAgPG5nbC1kYXRhdGFibGUtY29sdW1uIGhlYWRpbmc9IuODleODreOCouODl+ODqeOCpOOCuSI+PC9uZ2wtZGF0YXRhYmxlLWNvbHVtbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPG5nbC1kYXRhdGFibGUtY29sdW1uIGhlYWRpbmc9InBvc2l0aW9uIiBrZXk9InN1cm5hbWUiIGNlbGxDbGFzcz0ic2xkcy10cnVuY2F0ZSIgc29ydGFibGU+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InNsZHMtYm94Ij57e3RpdGxlfX08L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPG5nbC1kYXRhdGFibGUtY29sdW1uIGhlYWRpbmc9InNpemUiIGtleT0ic3VybmFtZSIgY2VsbENsYXNzPSJzbGRzLXRydW5jYXRlIiBzb3J0YWJsZT4K</text>
+        <text encoding="base64">ICAgIE51bGxhbSBxdWlzIHJpc3VzIGVnZXQgdXJuYSBtb2xsaXMgb3JuYXJlIHZlbCBldSBsZW8uIE51bGxhIHZpdGFlIGVsaXQgbGliZXJvLCBhIHBoYXJldHJhIGF1Z3VlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPG5nbC1kYXRhdGFibGUtY29sdW1uIGhlYWRpbmc9IkRpc3QiIGtleT0ic3VybmFtZSIgY2VsbENsYXNzPSJzbGRzLXRydW5jYXRlIiBzb3J0YWJsZT4K</text>
+        <text encoding="base64">ICAgIHNpdCBhbWV0IHJpc3VzLiBMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPG5nbC1kYXRhdGFibGUtY29sdW1uIGhlYWRpbmc9IkZyYW1lIiBrZXk9InN1cm5hbWUiIGNlbGxDbGFzcz0ic2xkcy10cnVuY2F0ZSIgc29ydGFibGU+Cg==</text>
+        <text encoding="base64">ICAgIEZ1c2NlIGRhcGlidXMsIHRlbGx1cyBhYyBjdXJzdXMgY29tbW9kbywgdG9ydG9yIG1hdXJpcyBjb25kaW1lbnR1bSBuaWJoLCB1dCBmZXJtZW50dW0gbWFzc2EganVzdG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEFlbmVhbiBldSBsZW8gcXVhbS4gUGVsbGVudGVzcXVlIG9ybmFyZSBzZW0gbGFjaW5pYSBxdWFtIHZlbmVuYXRpcyB2ZXN0aWJ1bHVtLiAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGJ1dHRvbiB0eXBlPSJidXR0b24iIG5nbEJ1dHRvbj0ibmV1dHJhbCIgKGNsaWNrKT0idG9nZ2xlRGF0YSgpIiBjbGFzcz0ic2xkcy1tLWJvdHRvbS0tbGFyZ2UiPkNsZWFyL1NldCBkYXRhPC9idXR0b24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGJ1dHRvbiB0eXBlPSJidXR0b24iIG5nbEJ1dHRvbj0ibmV1dHJhbCIgKGNsaWNrKT0ibG9hZGluZyA9ICFsb2FkaW5nIiBjbGFzcz0ic2xkcy1tLWJvdHRvbS0tbGFyZ2UiPlRvZ2dsZSBMb2FkaW5nPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9uZ2wtZGF0YXRhYmxlLWNvbHVtbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGJ1dHRvbiB0eXBlPSJidXR0b24iIG5nbEJ1dHRvbj0ibmV1dHJhbCIgKGNsaWNrKT0iaGlkZU5hbWUgPSAhaGlkZU5hbWUiIGNsYXNzPSJzbGRzLW0tYm90dG9tLS1sYXJnZSI+VG9nZ2xlICJOYW1lIiBjb2x1bW48L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgbmdsRGF0YXRhYmxlQ2VsbCBsZXQtdmFsdWU+PG5nbC1iYWRnZT57e3ZhbHVlIHwgbnVtYmVyfX08L25nbC1iYWRnZT48L3RlbXBsYXRlPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loading</last-search>
+      <last-search>on</last-search>
       <last-offset />
-      <last-pattern>loading</last-pattern>
+      <last-pattern>on</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1391,9 +1392,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYWNrYWdlc1w+</entry>
-        <entry encoding="base64">XDxtYXBcPg==</entry>
-        <entry>ng</entry>
         <entry>lightning</entry>
         <entry encoding="base64">XDxuZ1BhY2thZ2VOYW1lc1w+</entry>
         <entry encoding="base64">XDxhZGRBbmd1bGFyTW9kdWxlc1RvTWFwXD4=</entry>
@@ -1411,6 +1409,9 @@
         <entry encoding="base64">XDxIdHRwTW9kdWxlXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>loading</entry>
+        <entry>data</entry>
+        <entry>onsort</entry>
+        <entry>on</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
