@@ -486,11 +486,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474622698631">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="17" column="34" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474623742220">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="27" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="29" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.ts" timestamp="1474005641715">
         <mark key="'" line="7" column="7" />
@@ -1012,10 +1012,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/dashboard.component.ts" timestamp="1474622437085">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/dashboard.component.ts" timestamp="1474623796159">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/js/app.js" timestamp="1472204638058">
         <mark key="'" line="7" column="13" />
@@ -1365,10 +1366,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>type='text/javascript'</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2x1bW5cPg==</text>
