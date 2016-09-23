@@ -239,8 +239,8 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" timestamp="1474619350741">
-        <mark key="'" line="51" column="0" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" timestamp="1474620260400">
+        <mark key="'" line="16" column="17" />
         <mark key="[" line="19" column="23" />
         <mark key="]" line="19" column="23" />
         <mark key="^" line="20" column="31" />
@@ -1264,7 +1264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="71" column="13" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="73" column="2" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
@@ -1364,6 +1363,7 @@
       <jump line="9" column="72" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="12" column="90" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" />
+      <jump line="16" column="17" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1373,7 +1373,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ngl-form-element</text>
+        <text encoding="base64">XDxjb2x1bW5cPg==</text>
       </register>
       <register name="0" type="4">
         <text>ngl</text>
@@ -1410,9 +1410,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ngl-form-element</last-search>
+      <last-search encoding="base64">XDxjb2x1bW5cPg==</last-search>
       <last-offset />
-      <last-pattern>ngl-form-element</last-pattern>
+      <last-pattern encoding="base64">XDxjb2x1bW5cPg==</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1420,7 +1420,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIdHRwTW9kdWxlXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>loading</entry>
         <entry>data</entry>
@@ -1440,6 +1439,7 @@
         <entry>bar</entry>
         <entry>min</entry>
         <entry>ngl-form-element</entry>
+        <entry encoding="base64">XDxjb2x1bW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
