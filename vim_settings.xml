@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1474432457607">
+      <file name="/a.dummy" timestamp="1474609587983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Nav.js" timestamp="1472547843977">
@@ -13,7 +13,7 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media-addition.component.ts" timestamp="1474606172824">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media-addition.component.ts" timestamp="1474608669388">
         <mark key="'" line="22" column="29" />
         <mark key="[" line="37" column="87" />
         <mark key="]" line="37" column="93" />
@@ -60,10 +60,10 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.service.ts" timestamp="1474606522839">
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="26" column="6" />
-        <mark key="^" line="26" column="6" />
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="6" />
+        <mark key="^" line="15" column="6" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Report/index.js" timestamp="1473065023007">
         <mark key="'" line="1" column="0" />
@@ -97,13 +97,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474604119453">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="15" column="43" />
-        <mark key="^" line="15" column="43" />
-      </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474611589955" />
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1473384998869">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
@@ -312,6 +306,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" timestamp="1474609973048">
+        <mark key="'" line="8365" column="10" />
+      </file>
       <file name="$USER_HOME$/donadona/cli/src/components/alert-button.component.ts" timestamp="1473399194820">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="8" column="23" />
@@ -330,6 +327,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="50" column="29" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/HTML Fragment (app.component.ts:199).html" timestamp="1474610925624">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="15" column="45" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/front/app.js" timestamp="1472203031945">
         <mark key="'" line="7" column="35" />
@@ -471,8 +474,8 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474606546105">
-        <mark key="'" line="59" column="0" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474608497358">
+        <mark key="'" line="75" column="23" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="^" line="79" column="3" />
@@ -870,8 +873,8 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="42" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" timestamp="1474604162845">
-        <mark key="'" line="23" column="38" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" timestamp="1474609151486">
+        <mark key="'" line="99" column="0" />
         <mark key="[" line="46" column="75" />
         <mark key="]" line="46" column="77" />
         <mark key="." line="46" column="77" />
@@ -985,11 +988,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/dashboard.component.ts" timestamp="1474603496747">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-        <mark key="^" line="19" column="19" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/dashboard.component.ts" timestamp="1474611797502">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/test/dona/public/js/app.js" timestamp="1472204638058">
         <mark key="'" line="7" column="13" />
@@ -1236,48 +1239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="7" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="28" column="15" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="54" column="40" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="12" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="52" column="54" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="53" column="51" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" />
-      <jump line="13" column="44" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/ng-semantic/bundles/ng-semantic.js" />
-      <jump line="34" column="9" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/ng-semantic/bundles/ng-semantic.js" />
-      <jump line="37" column="109" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/ng-semantic/bundles/ng-semantic.js" />
-      <jump line="679" column="7" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/ng-semantic/bundles/ng-semantic.js" />
-      <jump line="678" column="11" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/ng-semantic/bundles/ng-semantic.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/ng-semantic/ng-semantic.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/README.md" />
-      <jump line="18" column="8" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="21" column="14" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" />
-      <jump line="4" column="7" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="28" column="31" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="29" column="15" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="30" column="21" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="31" column="28" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="32" column="23" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="50" column="83" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="27" column="8" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="63" column="6" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="54" column="6" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="67" column="11" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="19" column="8" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="14" column="18" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="21" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="42" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="22" column="12" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="46" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="48" column="19" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
@@ -1324,7 +1285,6 @@
       <jump line="100" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="3" column="7" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="97" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
-      <jump line="99" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="78" column="106" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="45" column="44" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
@@ -1336,55 +1296,98 @@
       <jump line="23" column="38" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="22" column="29" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media-addition.component.ts" />
       <jump line="59" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="75" column="23" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="8663" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8903" column="21" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="7311" column="27" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="99" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
+      <jump line="139" column="18" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="4668" column="28" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="4733" column="25" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="4736" column="25" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="4854" column="18" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="4935" column="52" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="4936" column="52" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="6826" column="17" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8217" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8218" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8221" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8222" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8227" column="12" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8228" column="12" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8231" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8232" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8235" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8236" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8241" column="12" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8242" column="12" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8245" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8250" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8253" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8260" column="12" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8263" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8287" column="30" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8291" column="30" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8296" column="30" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8300" column="30" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8304" column="112" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8339" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8340" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8347" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8348" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8359" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8360" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8364" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
+      <jump line="8365" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEAqPHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL25nLWxpZ2h0bmluZ0BAMC4yMi4wL25nLWxpZ2h0bmluZy5idW5kbGUuanMiPjwvc2NyaXB0PipACg==</text>
+      <register name="&quot;" type="4">
+        <text>media</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>media</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnb3RvUmV2aWV3XD4=</text>
+        <text>div</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bmdsLWZvcm0tZWxlbWVudCBuZ2xGb3JtTGFiZWw9IuODluODreODg+OCr+OCq+ODhuOCtOODqiIgW25nbEZvcm1FcnJvcl09Imhhc0Vycm9yID8gZXJyb3IgOiBudWxsIiBjbGFzcz0ic2xkcy1tLXRvcC0tc21hbGwiPgo=</text>
+      <register name="0" type="4">
+        <text>Report</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEAqPHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL25nLWxpZ2h0bmluZ0BAMC4yMi4wL25nLWxpZ2h0bmluZy5idW5kbGUuanMiPjwvc2NyaXB0PipACg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9uZ2wtZm9ybS1lbGVtZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8YSByb3V0ZXJMaW5rPSIvZGFzaGJvYXJkIj5EYXNoYm9hcmQ8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L25nbC1mb3JtLWVsZW1lbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgPGltZyBzcmM9ImFzc2V0cy9pbWFnZXMvbG9nbzEucG5nIj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bmdsLWZvcm0tZWxlbWVudCBuZ2xGb3JtTGFiZWw9IuODluODreODg+OCr1VSTCIgW25nbEZvcm1FcnJvcl09Imhhc0Vycm9yID8gZXJyb3IgOiBudWxsIiBjbGFzcz0ic2xkcy1tLXRvcC0tc21hbGwiPgo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aDM+5p6g5oOF5aCxPC9oMz4K</text>
+        <text encoding="base64">ICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj7phY3kv6HpnaI8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJzbGRzLWFzc2lzdGl2ZS10ZXh0Ij5PcGVuIEFwcCBMYXVuY2hlcjwvc3Bhbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj7phY3kv6HpnaI8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCk7IiBjbGFzcz0ic2xkcy1pY29uLXdhZmZsZV9jb250YWluZXIgc2xkcy1jb250ZXh0LWJhcl9fYnV0dG9uIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ic2xkcy1jb250ZXh0LWJhcl9faWNvbi1hY3Rpb24iPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L25nbC1mb3JtLWVsZW1lbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnb3RvUmV2aWV3XD4=</last-search>
+      <last-search>div</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnb3RvUmV2aWV3XD4=</last-pattern>
+      <last-pattern>div</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1392,7 +1395,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUZXRoZXJCYXNlXD4=</entry>
         <entry encoding="base64">XDx1dGlsc1w+</entry>
         <entry encoding="base64">XDxzaGltXD4=</entry>
         <entry encoding="base64">XDxOZ2xNb2R1bGVcPg==</entry>
@@ -1412,6 +1414,7 @@
         <entry>goto</entry>
         <entry>row</entry>
         <entry encoding="base64">XDxnb3RvUmV2aWV3XD4=</entry>
+        <entry>div</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
