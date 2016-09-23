@@ -96,12 +96,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474443246859">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474600976505">
         <mark key="'" line="23" column="4" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="26" column="5" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1473384998869">
         <mark key="[" line="0" column="46" />
@@ -1352,7 +1351,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="-" type="4">
         <text>event</text>
@@ -1364,31 +1363,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMDkvMjMuCg==</text>
+        <text encoding="base64">ICAgIDwvdWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgPC9saT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMub25Sb3dDbGljaygpCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxuZ2wtYmFkZ2U+e3tyb3cuaWR8IG51bWJlcn19PC9uZ2wtYmFkZ2U+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxuZ2wtaWNvbiBbaWNvbl09Iml0ZW0uaWNvbiIgdHlwZT0iZGVmYXVsdCIgc2l6ZT0ieC1zbWFsbCI+PC9uZ2wtaWNvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRlbXBsYXRlIG5nbERhdGF0YWJsZUNlbGwgPjxiPnt7cm93LmlkfX08L2I+PC90ZW1wbGF0ZT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzPSJzbGRzLXRydW5jYXRlIj57e2l0ZW0udmFsdWV9fTwvcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgbmdsRGF0YXRhYmxlQ2VsbCBsZXQtdmFsdWU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YSByb2xlPSJtZW51aXRlbSIgbmdsRHJvcGRvd25JdGVtIChjbGljayk9InNlbGVjdGVkID0gaXRlbS52YWx1ZTsgb3BlbiA9IGZhbHNlOyI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGxpIGNsYXNzPSJzbGRzLWRyb3Bkb3duX19pdGVtIiAqbmdGb3I9ImxldCBpdGVtIG9mIGl0ZW1zOyI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJnb3RvRGV0YWlsIiwgJGV2ZW50LnRvU3RyaW5nKCkpCg==</text>
+        <text encoding="base64">ICAgIDx1bCBjbGFzcz0iZHJvcGRvd25fX2xpc3QiIHJvbGU9Im1lbnUiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
