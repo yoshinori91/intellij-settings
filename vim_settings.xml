@@ -239,6 +239,13 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" timestamp="1474619350741">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="19" column="23" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/TodoList.js" timestamp="1472455081527">
         <mark key="'" line="16" column="9" />
         <mark key="[" line="9" column="16" />
@@ -479,12 +486,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474615841685">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474618354362">
         <mark key="'" line="12" column="90" />
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="142" />
-        <mark key="^" line="10" column="142" />
-        <mark key="." line="10" column="142" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.ts" timestamp="1474005641715">
         <mark key="'" line="7" column="7" />
@@ -637,7 +644,7 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474430957976">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474618301637">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="19" column="37" />
         <mark key="." line="19" column="37" />
@@ -891,12 +898,12 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="42" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" timestamp="1474609151486">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" timestamp="1474618497350">
         <mark key="'" line="99" column="0" />
-        <mark key="[" line="46" column="75" />
-        <mark key="]" line="46" column="77" />
-        <mark key="." line="46" column="77" />
-        <mark key="^" line="46" column="77" />
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+        <mark key="^" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/app/app.main.ts" timestamp="1473991406082">
         <mark key="[" line="0" column="0" />
@@ -1257,7 +1264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="71" column="13" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="73" column="2" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
@@ -1357,55 +1363,56 @@
       <jump line="5697" column="14" filename="$USER_HOME$/workspace/play-angular2-typescript/target/web/public/main/lib/salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
       <jump line="9" column="72" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="12" column="90" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="49" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJzbGRzLWNvbnRleHQtYmFyX19pdGVtIj4KICAgICAgICAgICAgICA8YSByb3V0ZXJMaW5rPSIvZGFzaGJvYXJkIiBjbGFzcz0ic2xkcy1jb250ZXh0LWJhcl9fbGFiZWwtYWN0aW9uIiB0aXRsZT0iRGFzaGJvYXJkIj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJzbGRzLXRydW5jYXRlIj7jg6bjg7zjgrbnrqHnkIY8L3NwYW4+CiAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgogICAgICAgICAgICA8bGkgY2xhc3M9InNsZHMtY29udGV4dC1iYXJfX2l0ZW0iPgogICAgICAgICAgICAgIDxhIHJvdXRlckxpbms9Ii9kYXNoYm9hcmQiIGNsYXNzPSJzbGRzLWNvbnRleHQtYmFyX19sYWJlbC1hY3Rpb24iIHRpdGxlPSJEYXNoYm9hcmQiPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InNsZHMtdHJ1bmNhdGUiPuOCouOCq+OCpuODs+ODiOioreWumjwvc3Bhbj4KICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvbGk+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ダッシュボード</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>min</text>
+        <text>ngl-form-element</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGxpIGNsYXNzPSJzbGRzLWNvbnRleHQtYmFyX19pdGVtIj4KICAgICAgICA8YSByb3V0ZXJMaW5rPSIvZGFzaGJvYXJkIiBjbGFzcz0ic2xkcy1jb250ZXh0LWJhcl9fbGFiZWwtYWN0aW9uIiB0aXRsZT0iRGFzaGJvYXJkIj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJzbGRzLXRydW5jYXRlIj7jg4Djg4Pjgrfjg6Xjg5zjg7zjg4k8L3NwYW4+CiAgICAgICAgPC9hPgogICAgICA8L2xpPgo=</text>
+      <register name="0" type="4">
+        <text>ngl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJzbGRzLWNvbnRleHQtYmFyX19pdGVtIj4KICAgICAgICAgICAgICA8YSByb3V0ZXJMaW5rPSIvZGFzaGJvYXJkIiBjbGFzcz0ic2xkcy1jb250ZXh0LWJhcl9fbGFiZWwtYWN0aW9uIiB0aXRsZT0iRGFzaGJvYXJkIj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJzbGRzLXRydW5jYXRlIj7jg6bjg7zjgrbnrqHnkIY8L3NwYW4+CiAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgogICAgICAgICAgICA8bGkgY2xhc3M9InNsZHMtY29udGV4dC1iYXJfX2l0ZW0iPgogICAgICAgICAgICAgIDxhIHJvdXRlckxpbms9Ii9kYXNoYm9hcmQiIGNsYXNzPSJzbGRzLWNvbnRleHQtYmFyX19sYWJlbC1hY3Rpb24iIHRpdGxlPSJEYXNoYm9hcmQiPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InNsZHMtdHJ1bmNhdGUiPuOCouOCq+OCpuODs+ODiOioreWumjwvc3Bhbj4KICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgIDwvbmdsLWZvcm0tZWxlbWVudD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9InRleHQiIHBsYWNlaG9sZGVyPSJNeSBpbnB1dCIgW3JlcXVpcmVkXT0icmVxdWlyZWQiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgIDxuZ2wtZm9ybS1lbGVtZW50IGhlYWRpbmc9IuODleODreOCouODl+ODqeOCpOOCuSIga2V5PSJmbG9vclByaWNlIj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJzbGRzLXRydW5jYXRlIj7lr6nmn7vnrqHnkIY8L3NwYW4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCk7IiByb2xlPSJtZW51aXRlbSIgdGFiaW5kZXg9Ii0xIj4K</text>
+        <text encoding="base64">ICA8L25nbC1kYXRhdGFibGUtY29sdW1uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJzbGRzLWRyb3Bkb3duX19pdGVtIiByb2xlPSJwcmVzZW50YXRpb24iPgo=</text>
+        <text encoding="base64">ICAgIDwvdGVtcGxhdGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgICAgPG5nbC1iYWRnZT57e3ZhbHVlIHwgbnVtYmVyfX08L25nbC1iYWRnZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgIDx0ZW1wbGF0ZSBuZ2xEYXRhdGFibGVDZWxsIGxldC12YWx1ZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJzbGRzLXRydW5jYXRlIj7jg6bjg7zjgrbnrqHnkIY8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgIDx0ZW1wbGF0ZSBuZ2xEYXRhdGFibGVIZWFkaW5nPuODleODreOCouODl+ODqeOCpOOCuTwvdGVtcGxhdGU+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>min</last-search>
+      <last-search>ngl-form-element</last-search>
       <last-offset />
-      <last-pattern>min</last-pattern>
+      <last-pattern>ngl-form-element</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1413,7 +1420,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZWRpYVw+</entry>
         <entry encoding="base64">XDxIdHRwTW9kdWxlXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>loading</entry>
@@ -1433,14 +1439,15 @@
         <entry>context-bar</entry>
         <entry>bar</entry>
         <entry>min</entry>
+        <entry>ngl-form-element</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
         <entry>w</entry>
         <entry>q</entry>
         <entry>1,$s/;//g</entry>
-        <entry>1,$d</entry>
         <entry>1,$s/1/2/g</entry>
+        <entry>1,$d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
