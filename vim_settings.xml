@@ -59,7 +59,7 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.service.ts" timestamp="1474606522839">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.service.ts" timestamp="1474865962914">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="6" />
@@ -479,12 +479,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474859584237">
-        <mark key="'" line="52" column="4" />
-        <mark key="[" line="81" column="23" />
-        <mark key="]" line="81" column="23" />
-        <mark key="." line="81" column="23" />
-        <mark key="^" line="81" column="23" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474865858712">
+        <mark key="[" line="41" column="37" />
+        <mark key="]" line="41" column="37" />
+        <mark key="." line="41" column="37" />
+        <mark key="^" line="41" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.ts" timestamp="1474005641715">
         <mark key="'" line="7" column="7" />
@@ -1251,14 +1250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
-      <jump line="47" column="29" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
-      <jump line="31" column="13" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.routing.ts" />
-      <jump line="100" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
-      <jump line="3" column="7" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
-      <jump line="97" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="78" column="106" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="45" column="44" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
       <jump line="53" column="14" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.component.ts" />
@@ -1335,7 +1326,6 @@
       <jump line="5704" column="14" filename="$USER_HOME$/workspace/play-angular2-typescript/target/web/public/main/lib/salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
       <jump line="5697" column="14" filename="$USER_HOME$/workspace/play-angular2-typescript/target/web/public/main/lib/salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
       <jump line="9" column="72" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="12" column="90" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" />
       <jump line="16" column="17" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" />
       <jump line="27" column="13" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" />
@@ -1351,55 +1341,64 @@
       <jump line="15" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" />
       <jump line="6" column="55" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" />
       <jump line="31" column="2" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" />
+      <jump line="67" column="6" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="45" column="8" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="41" column="6" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="12" column="5" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="90" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="19" column="51" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="81" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="71" column="8" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
+      <jump line="77" column="6" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Zm9ybWF0OiAnY2pzJywg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Zm9ybWF0OiAnY2pzJywg</text>
       </register>
       <register name="/" type="4">
-        <text>pro</text>
+        <text encoding="base64">XDxwYWNrYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1hcCkK</text>
+        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcjItbWF0ZXJpYWwvYnV0dG9uJzogJ2Fzc2V0cy9saWIvYW5ndWxhcjItbWF0ZXJpYWxfX2J1dHRvbicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHtNZEJ1dHRvbk1vZHVsZX0gZnJvbSAnQGFuZ3VsYXIyLW1hdGVyaWFsL2J1dHRvbicK</text>
+        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcjItbWF0ZXJpYWwvY29yZSc6ICdhc3NldHMvbGliL0BAYW5ndWxhcjItbWF0ZXJpYWwvY29yZScsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5ndWxhcjItbWF0ZXJpYWxfX2NvcmUK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICB2YXIgbWF0ZXJpYWxQa2dzID0gWwogICAgICAnY29yZScsCiAgICAgICdidXR0b24nLAogICAgXTsKCiAgICBmdW5jdGlvbiBwYWNrTWF0ZXJpYWwocGtnTmFtZSkgewogICAgICBwYWNrYWdlc1snQEBhbmd1bGFyMi1tYXRlcmlhbC8nICsgcGtnTmFtZV0gPSB7bWFpbjogJ2luZGV4LmpzJywgZGVmYXVsdEV4dGVuc2lvbjogJ2pzJ307CiAgICB9CgogICAgdmFyIHNldE1hdGVyaWFsQ29uZmlnID0gcGFja01hdGVyaWFsOwogICAgbWF0ZXJpYWxQa2dzLmZvckVhY2goc2V0TWF0ZXJpYWxDb25maWcpOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ3N5bWJvbC1vYnNlcnZhYmxlJzoge2RlZmF1bHRFeHRlbnNpb246ICdqcycsIG1haW46ICdpbmRleC5qcyd9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ21vbWVudCc6ICdhc3NldHMvbGliL21vbWVudC9tb21lbnQuanMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ3RldGhlcic6ICdhc3NldHMvbGliL3RldGhlci9kaXN0L2pzL3RldGhlci5qcycsCg==</text>
+        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcjItbWF0ZXJpYWwnOiAnYXNzZXRzL2xpYi9AQGFuZ3VsYXIyLW1hdGVyaWFsJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ3RzLWhlbHBlcnMnOiAnYXNzZXRzL2xpYi90cy1oZWxwZXJzL2luZGV4LmpzJywK</text>
+        <text encoding="base64">ICAgICAgJ2NoZWNrYm94JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ25nLWxpZ2h0bmluZy9uZy1saWdodG5pbmcnOiAnYXNzZXRzL2xpYi9uZy1saWdodG5pbmcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8YWxlcnQgdHlwZT0iaW5mbyI+bmcyLWJvb3RzdHJhcCBoZWxsbyB3b3JsZCE8L2FsZXJ0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>pro</last-search>
+      <last-search encoding="base64">XDxwYWNrYWdlc1w+</last-search>
       <last-offset />
-      <last-pattern>pro</last-pattern>
+      <last-pattern encoding="base64">XDxwYWNrYWdlc1w+</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1407,10 +1406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>on</entry>
-        <entry>1</entry>
-        <entry>goto</entry>
-        <entry>row</entry>
         <entry encoding="base64">XDxnb3RvUmV2aWV3XD4=</entry>
         <entry>div</entry>
         <entry>Mian</entry>
@@ -1427,6 +1422,10 @@
         <entry>Dash</entry>
         <entry>core</entry>
         <entry>pro</entry>
+        <entry>41</entry>
+        <entry encoding="base64">XDxtYXRlcmlhbFBrZ3NcPg==</entry>
+        <entry>material</entry>
+        <entry encoding="base64">XDxwYWNrYWdlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
