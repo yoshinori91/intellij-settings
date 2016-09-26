@@ -1371,7 +1371,7 @@
         <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEYXNoYm9hcmRDb21wb25lbnRcPg==</text>
+        <text>Dash</text>
       </register>
       <register name="0" type="4">
         <text>type='text/javascript'</text>
@@ -1408,9 +1408,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEYXNoYm9hcmRDb21wb25lbnRcPg==</last-search>
+      <last-search>Dash</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEYXNoYm9hcmRDb21wb25lbnRcPg==</last-pattern>
+      <last-pattern>Dash</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1418,7 +1418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loading</entry>
         <entry>data</entry>
         <entry>onsort</entry>
         <entry>on</entry>
@@ -1438,6 +1437,7 @@
         <entry>ngl-form-element</entry>
         <entry encoding="base64">XDxjb2x1bW5cPg==</entry>
         <entry encoding="base64">XDxEYXNoYm9hcmRDb21wb25lbnRcPg==</entry>
+        <entry>Dash</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
