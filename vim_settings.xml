@@ -59,7 +59,7 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.service.ts" timestamp="1474865962914">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.service.ts" timestamp="1474866887263">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="6" />
@@ -479,11 +479,11 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474865858712">
-        <mark key="[" line="41" column="37" />
-        <mark key="]" line="41" column="37" />
-        <mark key="." line="41" column="37" />
-        <mark key="^" line="41" column="87" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474867310677">
+        <mark key="[" line="39" column="48" />
+        <mark key="]" line="39" column="58" />
+        <mark key="." line="39" column="58" />
+        <mark key="^" line="39" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.ts" timestamp="1474005641715">
         <mark key="'" line="7" column="7" />
@@ -636,12 +636,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474858063941">
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474867107849">
         <mark key="'" line="29" column="25" />
-        <mark key="[" line="36" column="71" />
-        <mark key="]" line="36" column="71" />
-        <mark key="^" line="36" column="71" />
-        <mark key="." line="36" column="71" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/conf/routes" timestamp="1473924279887">
         <mark key="[" line="6" column="70" />
@@ -1353,43 +1352,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Zm9ybWF0OiAnY2pzJywg</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9ybWF0OiAnY2pzJywg</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWNrYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcjItbWF0ZXJpYWwvYnV0dG9uJzogJ2Fzc2V0cy9saWIvYW5ndWxhcjItbWF0ZXJpYWxfX2J1dHRvbicsCg==</text>
+        <text encoding="base64">ICAgICAgJ3J4anMnOiB7ZGVmYXVsdEV4dGVuc2lvbjogJ2pzJ30sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcjItbWF0ZXJpYWwvY29yZSc6ICdhc3NldHMvbGliL0BAYW5ndWxhcjItbWF0ZXJpYWwvY29yZScsCg==</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ib3dlciIgJSAidHJhY2V1ciIgJSAiMC4wLjk1Igo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICB2YXIgbWF0ZXJpYWxQa2dzID0gWwogICAgICAnY29yZScsCiAgICAgICdidXR0b24nLAogICAgXTsKCiAgICBmdW5jdGlvbiBwYWNrTWF0ZXJpYWwocGtnTmFtZSkgewogICAgICBwYWNrYWdlc1snQEBhbmd1bGFyMi1tYXRlcmlhbC8nICsgcGtnTmFtZV0gPSB7bWFpbjogJ2luZGV4LmpzJywgZGVmYXVsdEV4dGVuc2lvbjogJ2pzJ307CiAgICB9CgogICAgdmFyIHNldE1hdGVyaWFsQ29uZmlnID0gcGFja01hdGVyaWFsOwogICAgbWF0ZXJpYWxQa2dzLmZvckVhY2goc2V0TWF0ZXJpYWxDb25maWcpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcjItbWF0ZXJpYWwvY29yZSc6ICdhc3NldHMvbGliL0BAYW5ndWxhcjItbWF0ZXJpYWwvY29yZScsCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcjItbWF0ZXJpYWwnOiAnYXNzZXRzL2xpYi9AQGFuZ3VsYXIyLW1hdGVyaWFsJywK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICB2YXIgbWF0ZXJpYWxQa2dzID0gWwogICAgICAnY29yZScsCiAgICAgICdidXR0b24nLAogICAgXTsKCiAgICBmdW5jdGlvbiBwYWNrTWF0ZXJpYWwocGtnTmFtZSkgewogICAgICBwYWNrYWdlc1snQEBhbmd1bGFyMi1tYXRlcmlhbC8nICsgcGtnTmFtZV0gPSB7bWFpbjogJ2luZGV4LmpzJywgZGVmYXVsdEV4dGVuc2lvbjogJ2pzJ307CiAgICB9CgogICAgdmFyIHNldE1hdGVyaWFsQ29uZmlnID0gcGFja01hdGVyaWFsOwogICAgbWF0ZXJpYWxQa2dzLmZvckVhY2goc2V0TWF0ZXJpYWxDb25maWcpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ2NoZWNrYm94JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcjItbWF0ZXJpYWwnOiAnYXNzZXRzL2xpYi9AQGFuZ3VsYXIyLW1hdGVyaWFsJywK</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
