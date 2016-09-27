@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="o" />
   </action>
+  <action id="Android.TraceViewSearch">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
@@ -21,6 +24,13 @@
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLine" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="GotoSuperMethod" />
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
