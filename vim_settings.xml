@@ -84,12 +84,11 @@
         <mark key="^" line="47" column="5" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/models/Frame.java" timestamp="1474944293807">
-        <mark key="'" line="10" column="23" />
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/models/Frame.java" timestamp="1474947653163">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/donadona/cli/webpack.config.js" timestamp="1473402668006">
         <mark key="'" line="21" column="2" />
@@ -1424,11 +1423,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/donald-manager/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bean</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1rcHJkZGsK</text>
       </register>
       <register name="-" type="4">
-        <text>bean</text>
+        <text>extends</text>
       </register>
       <register name="/" type="4">
         <text>ebean</text>
@@ -1437,31 +1436,31 @@
         <text>enablePlugins(PlayEbean).</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
+        <text encoding="base64">aW1rcHJkZGsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMDkvMjcuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUucGxheSIgJSAic2J0LXBsdWdpbiIgJSAiMi40LjIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
