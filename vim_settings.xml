@@ -13,12 +13,21 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@angular/core/index.js" timestamp="1474359025411">
+        <mark key="'" line="53" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media-addition.component.ts" timestamp="1474608669388">
         <mark key="'" line="22" column="29" />
         <mark key="[" line="37" column="87" />
         <mark key="]" line="37" column="93" />
         <mark key="." line="37" column="93" />
         <mark key="^" line="37" column="93" />
+      </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/controllers/MediaController.java" timestamp="1474941894004">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/donadona/package.json" timestamp="1473394583874">
         <mark key="[" line="9" column="15" />
@@ -31,6 +40,9 @@
         <mark key="]" line="1" column="17" />
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/target/web/node-modules/main/webjars/ng-lightning/package.json" timestamp="1474371407456">
+        <mark key="'" line="16" column="20" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/FilterLink.js" timestamp="1472520574833">
         <mark key="'" line="0" column="11" />
@@ -65,6 +77,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="^" line="47" column="5" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/models/Frame.java" timestamp="1474942248330">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/donadona/cli/webpack.config.js" timestamp="1473402668006">
         <mark key="'" line="21" column="2" />
@@ -421,6 +439,9 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/node_modules/ng-semantic/bundles/ng-semantic.js" timestamp="1474359095558">
+        <mark key="'" line="678" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index.scala.html" timestamp="1474348693956">
         <mark key="[" line="23" column="45" />
         <mark key="]" line="23" column="45" />
@@ -446,6 +467,9 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/target/web/node-modules/webjars-main.cache" timestamp="1474173474911">
+        <mark key="'" line="133" column="151" />
+      </file>
       <file name="$USER_HOME$/workspace/same/app/controllers/Application.java" timestamp="1474004704405">
         <mark key="'" line="39" column="8" />
         <mark key="[" line="34" column="8" />
@@ -465,6 +489,9 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/node_modules/tether/dist/js/tether.js" timestamp="1474370998242">
+        <mark key="'" line="431" column="40" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/services/api.js" timestamp="1473239537731">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="1" column="9" />
@@ -479,11 +506,7 @@
         <mark key="." line="9" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1474884344875">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="40" column="49" />
-        <mark key="]" line="40" column="55" />
-        <mark key="^" line="40" column="55" />
-        <mark key="." line="40" column="55" />
+        <mark key="'" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.ts" timestamp="1474005641715">
         <mark key="'" line="7" column="7" />
@@ -608,13 +631,6 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.routing.ts" timestamp="1474881567223">
-        <mark key="'" line="21" column="2" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/app/index.js" timestamp="1473673906935">
         <mark key="'" line="29" column="23" />
         <mark key="[" line="129" column="0" />
@@ -643,17 +659,19 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1474884425426">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="47" column="77" />
-        <mark key="]" line="47" column="77" />
-        <mark key="." line="47" column="77" />
-        <mark key="^" line="47" column="77" />
+        <mark key="'" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/conf/routes" timestamp="1473924279887">
         <mark key="[" line="6" column="70" />
         <mark key="]" line="6" column="70" />
         <mark key="." line="6" column="70" />
         <mark key="^" line="6" column="71" />
+      </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/conf/application.conf" timestamp="1474942332989">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+        <mark key="." line="27" column="23" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/package.json" timestamp="1473657917234">
         <mark key="'" line="48" column="2" />
@@ -832,6 +850,9 @@
         <mark key="^" line="4" column="59" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/template-sbt-play-angular2/project/target/webjars-plugin.cache" timestamp="1474208234920">
+        <mark key="'" line="386" column="29" />
+      </file>
       <file name="$USER_HOME$/test/dona/client/app/app.component.ts" timestamp="1473651992570">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="32" />
@@ -884,6 +905,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="37" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/node_modules/ng-semantic/ng-semantic.js" timestamp="1474362694673">
+        <mark key="'" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app.module.ts" timestamp="1473904568330">
         <mark key="[" line="12" column="24" />
@@ -1149,12 +1173,6 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" timestamp="1474884507239">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Footer.js" timestamp="1472459713457">
         <mark key="'" line="12" column="11" />
         <mark key="[" line="19" column="1" />
@@ -1186,11 +1204,6 @@
         <mark key="]" line="21" column="15" />
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media-add.component.ts" timestamp="1474599839599">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/index.js" timestamp="1473318529343">
         <mark key="[" line="4" column="21" />
@@ -1365,53 +1378,53 @@
       <jump line="60" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>radio</text>
+        <text>models</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ3N5bWJvbC1vYnNlcnZhYmxlJzoge2RlZmF1bHRFeHRlbnNpb246ICdqcycsIG1haW46ICdpbmRleC5qcyd9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxtZC1pY29uIGNsYXNzPSJtZC0yNCI+ZmF2b3JpdGU8L21kLWljb24+Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMDkvMjcuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGJ1dHRvbiBtZC1pY29uLWJ1dHRvbj4K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGFsZXJ0IHR5cGU9ImluZm8iPm5nMi1ib290c3RyYXAgaGVsbG8gd29ybGQhPC9hbGVydD4K</text>
+        <text encoding="base64">ICAgIGxpc3QuYWRkKG0yKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE1kUmFkaW9Nb2R1bGUuZm9yUm9vdCgpLAo=</text>
+        <text encoding="base64">ICAgIGxpc3QuYWRkKG0xKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcjItbWF0ZXJpYWwvcmFkaW8nOiB7ZGVmYXVsdEV4dGVuc2lvbjogJ2pzJywgbWFpbjogJ2luZGV4LmpzJ30sCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8TWVkaWE+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcjItbWF0ZXJpYWwvY29yZSc6IHtkZWZhdWx0RXh0ZW5zaW9uOiAnanMnLCBtYWluOiAnaW5kZXguanMnfSwK</text>
+        <text encoding="base64">ICAgIG0yLmFjdGlvbiA9ICJPRkYiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcjItbWF0ZXJpYWwvY29yZSc6ICdhc3NldHMvbGliL2FuZ3VsYXIyLW1hdGVyaWFsX19jb3JlJywK</text>
+        <text encoding="base64">ICAgIG0yLmRpc3BsYXkgPSAic2hpdGEiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ0BAYW5ndWxhcic6ICdhc3NldHMvbGliL0BAYW5ndWxhcicsCiAgICAgICdAQGFuZ3VsYXInOiAnYXNzZXRzL2xpYi9AQGFuZ3VsYXInLAogICAgICAnQEBhbmd1bGFyJzogJ2Fzc2V0cy9saWIvQEBhbmd1bGFyJywKICAgICAgJ0BAYW5ndWxhcic6ICdhc3NldHMvbGliL0BAYW5ndWxhcicsCiAgICAgICdAQGFuZ3VsYXInOiAnYXNzZXRzL2xpYi9AQGFuZ3VsYXInLAo=</text>
+        <text encoding="base64">ICAgIG0yLnBvc2l0aW9uID0gInlva28iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>radio</last-search>
+      <last-search>models</last-search>
       <last-offset />
-      <last-pattern>radio</last-pattern>
+      <last-pattern>models</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1419,7 +1432,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bar</entry>
         <entry>min</entry>
         <entry>ngl-form-element</entry>
         <entry encoding="base64">XDxjb2x1bW5cPg==</entry>
@@ -1439,6 +1451,7 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>raido</entry>
         <entry>radio</entry>
+        <entry>models</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
