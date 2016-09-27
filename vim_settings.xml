@@ -77,7 +77,6 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.service.ts" timestamp="1474871550807" />
       <file name="$USER_HOME$/test/dona/public/app/containers/Report/index.js" timestamp="1473065023007">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="46" column="0" />
@@ -116,11 +115,6 @@
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474874343144">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1473384998869">
         <mark key="[" line="0" column="46" />
@@ -414,6 +408,7 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/donald-manager/app/controllers/HomeController.java" timestamp="1474947146842" />
       <file name="$USER_HOME$/test/dona/client/app/main.ts" timestamp="1473651775988">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -525,6 +520,13 @@
         <mark key="]" line="11" column="62" />
         <mark key="^" line="11" column="62" />
         <mark key="." line="11" column="62" />
+      </file>
+      <file name="$USER_HOME$/workspace/donald-manager/project/plugins.sbt" timestamp="1474947270519">
+        <mark key="'" line="21" column="47" />
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="20" column="1" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/Root.js" timestamp="1473405157615">
         <mark key="'" line="5" column="21" />
@@ -832,6 +834,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/donald-manager/build.sbt" timestamp="1474947377618">
+        <mark key="[" line="4" column="68" />
+        <mark key="]" line="4" column="71" />
+        <mark key="^" line="4" column="71" />
+        <mark key="." line="4" column="71" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Navigation.js" timestamp="1473666459867">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="21" column="47" />
@@ -864,6 +872,12 @@
         <mark key="]" line="8" column="17" />
         <mark key="^" line="4" column="59" />
         <mark key="." line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/donald-manager/project/build.properties" timestamp="1474947276297">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/template-sbt-play-angular2/project/target/webjars-plugin.cache" timestamp="1474208234920">
         <mark key="'" line="386" column="29" />
@@ -1268,6 +1282,13 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/donald-manager/conf/application.conf" timestamp="1474947393978">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="352" column="1" />
+        <mark key="]" line="353" column="0" />
+        <mark key="^" line="353" column="0" />
+        <mark key="." line="353" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/webpack.config.js" timestamp="1473657989751">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
@@ -1301,10 +1322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8241" column="12" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
-      <jump line="8242" column="12" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
-      <jump line="8245" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
-      <jump line="8250" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
       <jump line="8253" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
       <jump line="8260" column="12" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
       <jump line="8263" column="10" filename="$USER_HOME$/workspace/play-angular2-typescript/node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.css" />
@@ -1401,19 +1418,23 @@
       <jump line="11" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" />
       <jump line="33" column="6" filename="$USER_HOME$/workspace/play-angular2-typescript/conf/application.conf" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/donald/conf/application.conf" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/donald-manager/project/plugins.sbt" />
+      <jump line="11" column="44" filename="$USER_HOME$/workspace/donald-manager/project/plugins.sbt" />
+      <jump line="22" column="47" filename="$USER_HOME$/workspace/donald-manager/project/plugins.sbt" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/donald-manager/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>bean</text>
       </register>
       <register name="-" type="4">
-        <text>, PlayEbe</text>
+        <text>bean</text>
       </register>
       <register name="/" type="4">
-        <text>java</text>
+        <text>ebean</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ3N5bWJvbC1vYnNlcnZhYmxlJzoge2RlZmF1bHRFeHRlbnNpb246ICdqcycsIG1haW46ICdpbmRleC5qcyd9LAo=</text>
+      <register name="0" type="4">
+        <text>enablePlugins(PlayEbean).</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
@@ -1422,34 +1443,34 @@
         <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUucGxheSIgJSAic2J0LXBsdWdpbiIgJSAiMi40LjIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUuc2J0IiAlICJzYnQtcGxheS1lYmVhbiIgJSAiMS4wLjAiKQo=</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUucGxheSIgJSAic2J0LXBsdWdpbiIgJSAiMi40LjIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>java</last-search>
+      <last-search>ebean</last-search>
       <last-offset />
-      <last-pattern>java</last-pattern>
+      <last-pattern>ebean</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>java</last-substitute>
       <last-dir>1</last-dir>
@@ -1474,9 +1495,9 @@
         <entry>radio</entry>
         <entry>models</entry>
         <entry>evolution</entry>
-        <entry>ebean</entry>
         <entry encoding="base64">XDxhbm5vdGF0aW9uXD4=</entry>
         <entry>java</entry>
+        <entry>ebean</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
