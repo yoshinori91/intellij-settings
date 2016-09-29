@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1475052322781">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Nav.js" timestamp="1472547843977">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="8" column="10" />
@@ -172,11 +169,12 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/build.sbt" timestamp="1475133268053">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/wall/dm/build.sbt" timestamp="1475135605001">
+        <mark key="'" line="8" column="20" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/components/ListInfo.js" timestamp="1473217585458">
         <mark key="'" line="49" column="0" />
@@ -306,11 +304,11 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/wall/dm/project/plugins.sbt" timestamp="1475133515887">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/wall/dm/project/plugins.sbt" timestamp="1475134856371">
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="15" column="60" />
+        <mark key="." line="15" column="60" />
+        <mark key="^" line="15" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" timestamp="1475054745237">
         <mark key="[" line="0" column="0" />
@@ -693,9 +691,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1475029716026">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/wk/react-boilerplate/server/logger.js" timestamp="1471675940155">
         <mark key="'" line="26" column="16" />
         <mark key="[" line="5" column="68" />
@@ -1059,12 +1054,11 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/wall/dm/conf/application.conf" timestamp="1475133352632">
-        <mark key="'" line="10" column="30" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="35" column="31" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/wall/dm/conf/application.conf" timestamp="1475135464991">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="45" column="27" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" timestamp="1473734448905">
         <mark key="'" line="93" column="18" />
@@ -1291,9 +1285,6 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/project/build.properties" timestamp="1474943662094">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/services/MediaService.java" timestamp="1474953839422">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1421,6 +1412,12 @@
         <mark key="^" line="42" column="9" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/wall/dm/conf/routes" timestamp="1475135656719">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="67" />
+        <mark key="." line="6" column="67" />
+        <mark key="^" line="6" column="67" />
+      </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/controllers/MediaController.js" timestamp="1474431932244">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="10" />
@@ -1491,11 +1488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="55" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" />
-      <jump line="31" column="2" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" />
-      <jump line="67" column="6" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="45" column="8" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
-      <jump line="41" column="6" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="12" column="5" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="90" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="81" column="4" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
@@ -1579,7 +1571,6 @@
       <jump line="15" column="44" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
       <jump line="48" column="20" filename="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" />
       <jump line="13" column="0" filename="$USER_HOME$/wall/dm/build.sbt" />
-      <jump line="8" column="7" filename="$USER_HOME$/wall/dm/build.sbt" />
       <jump line="10" column="30" filename="$USER_HOME$/wall/dm/conf/application.conf" />
       <jump line="39" column="0" filename="$USER_HOME$/wall/dm/build.sbt" />
       <jump line="14" column="43" filename="$USER_HOME$/wall/dm/project/plugins.sbt" />
@@ -1591,55 +1582,61 @@
       <jump line="15" column="36" filename="$USER_HOME$/wall/dm/project/plugins.sbt" />
       <jump line="0" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/app.html" />
       <jump line="3" column="41" filename="$USER_HOME$/wall/dm/app/assets/app/app.html" />
+      <jump line="37" column="9" filename="$USER_HOME$/wall/dm/build.sbt" />
+      <jump line="34" column="26" filename="$USER_HOME$/wall/dm/conf/application.conf" />
+      <jump line="40" column="5" filename="$USER_HOME$/wall/dm/build.sbt" />
+      <jump line="26" column="14" filename="$USER_HOME$/wall/dm/build.sbt" />
+      <jump line="9" column="25" filename="$USER_HOME$/wall/dm/build.sbt" />
+      <jump line="8" column="20" filename="$USER_HOME$/wall/dm/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">V2hhdCA=</text>
+        <text>Application</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">V2hhdCA=</text>
+        <text>Application</text>
       </register>
       <register name="/" type="4">
-        <text>What</text>
+        <text>rc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGF6eSB2YWwgcm9vdCA9IChwcm9qZWN0IGluIGZpbGUoIi4iKSkuZW5hYmxlUGx1Z2lucyhQbGF5SmF2YSwgUGxheUViZWFuKQo=</text>
+        <text encoding="base64">R0VUICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuQXBwbGljYXRpb24uaW5kZXgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVXNlIHRoZSBQbGF5IHNidCBwbHVnaW4gZm9yIFBsYXkgcHJvamVjdHMK</text>
+        <text encoding="base64">c2xpY2suZGJzLmRlZmF1bHQuZHJpdmVyID0gInNsaWNrLmRyaXZlci5IMkRyaXZlciQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUucGxheSIgJSAic2J0LXBsdWdpbiIgJSAiMi40LjMiKQo=</text>
+        <text encoding="base64">Ly8gVXNlIHRoZSBQbGF5IHNidCBwbHVnaW4gZm9yIFBsYXkgcHJvamVjdHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBkYi5kZWZhdWx0LnBhc3N3b3JkPSIiCg==</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUucGxheSIgJSAic2J0LXBsdWdpbiIgJSAiMi40LjMiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBkYi5kZWZhdWx0LnVzZXJuYW1lPXNhCg==</text>
+        <text encoding="base64">IyBkYi5kZWZhdWx0LnBhc3N3b3JkPSIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGIuZGVmYXVsdC51cmwgPSAiamRiYzpoMjptZW06cGxheTtNT0RFPU1ZU1FMCg==</text>
+        <text encoding="base64">IyBkYi5kZWZhdWx0LnVzZXJuYW1lPXNhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGIuZGVmYXVsdC5kcml2ZXIgPSBvcmcuaDIuRHJpdmVyCg==</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC51cmwgPSAiamRiYzpoMjptZW06cGxheTtNT0RFPU1ZU1FMCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2xpY2suZGJzLmRlZmF1bHQuZGIudXNlciA9IHNhCg==</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC5kcml2ZXIgPSBvcmcuaDIuRHJpdmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGpkYmMsCg==</text>
+        <text encoding="base64">c2xpY2suZGJzLmRlZmF1bHQuZGIudXNlciA9IHNhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGIuZGVmYXVsdC51cmwgPSAiamRiYzpoMjptZW06cGxheSIK</text>
+        <text encoding="base64">ICAgIGpkYmMsCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>What</last-search>
+      <last-search>rc</last-search>
       <last-offset />
-      <last-pattern>What</last-pattern>
+      <last-pattern>rc</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1647,7 +1644,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sa</entry>
         <entry>coffe</entry>
         <entry>less</entry>
         <entry>jslint</entry>
@@ -1667,6 +1663,7 @@
         <entry>sbt-plugin</entry>
         <entry>reso</entry>
         <entry>What</entry>
+        <entry>rc</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
