@@ -769,8 +769,8 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1475056500821">
-        <mark key="'" line="31" column="5" />
+      <file name="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" timestamp="1475121169426">
+        <mark key="'" line="48" column="20" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="2" column="0" />
@@ -1456,7 +1456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="72" filename="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" />
       <jump line="16" column="17" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" />
       <jump line="27" column="13" filename="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" />
@@ -1556,6 +1555,7 @@
       <jump line="32" column="27" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
       <jump line="33" column="44" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
       <jump line="15" column="44" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
+      <jump line="48" column="20" filename="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1565,7 +1565,7 @@
         <text>Java</text>
       </register>
       <register name="/" type="4">
-        <text>ebean</text>
+        <text encoding="base64">XDxiYXNlRGlyZWN0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bGF6eSB2YWwgcm9vdCA9IChwcm9qZWN0IGluIGZpbGUoIi4iKSkuZW5hYmxlUGx1Z2lucyhQbGF5SmF2YSwgUGxheUViZWFuKQo=</text>
@@ -1602,9 +1602,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ebean</last-search>
+      <last-search encoding="base64">XDxiYXNlRGlyZWN0b3J5XD4=</last-search>
       <last-offset />
-      <last-pattern>ebean</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlRGlyZWN0b3J5XD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1612,7 +1612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>evolution</entry>
         <entry encoding="base64">XDxhbm5vdGF0aW9uXD4=</entry>
         <entry>java</entry>
         <entry>h2</entry>
@@ -1632,6 +1631,7 @@
         <entry>en</entry>
         <entry>enhan</entry>
         <entry>ebean</entry>
+        <entry encoding="base64">XDxiYXNlRGlyZWN0b3J5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
