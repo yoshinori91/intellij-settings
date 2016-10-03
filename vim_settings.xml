@@ -150,11 +150,11 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.ts" timestamp="1475226001524">
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="3" column="14" />
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.ts" timestamp="1475470857776">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="20" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/components/NotFound.js" timestamp="1473664053818">
         <mark key="[" line="2" column="42" />
@@ -530,12 +530,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475462962877">
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475473388479">
         <mark key="'" line="33" column="43" />
-        <mark key="[" line="48" column="42" />
-        <mark key="]" line="48" column="49" />
-        <mark key="." line="48" column="49" />
-        <mark key="^" line="48" column="49" />
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="41" column="5" />
+        <mark key="." line="41" column="5" />
+        <mark key="^" line="41" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/package.json" timestamp="1473994461535">
         <mark key="'" line="26" column="26" />
@@ -1319,12 +1319,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475463668434">
-        <mark key="'" line="17" column="16" />
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="30" column="5" />
-        <mark key="." line="30" column="5" />
-        <mark key="^" line="30" column="5" />
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475473432219">
+        <mark key="[" line="42" column="43" />
+        <mark key="]" line="43" column="30" />
+        <mark key="." line="43" column="30" />
+        <mark key="^" line="43" column="30" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/containers/RepoPage.js" timestamp="1473219038745">
         <mark key="'" line="9" column="0" />
@@ -1582,7 +1581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/conf/application.conf" />
       <jump line="9" column="7" filename="$USER_HOME$/wkt/donald3/dm/project/plugins.sbt" />
       <jump line="11" column="3" filename="$USER_HOME$/wkt/donald3/dm/project/plugins.sbt" />
       <jump line="12" column="44" filename="$USER_HOME$/wkt/donald3/dm/project/plugins.sbt" />
@@ -1682,55 +1680,56 @@
       <jump line="43" column="10" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
       <jump line="51" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
       <jump line="34" column="43" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
+      <jump line="28" column="16" filename="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>forEach</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>Red</text>
+        <text>upate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBtYXgtd2lkdGg6IDE1MHB4Owo=</text>
+      <register name="0" type="4">
+        <text>item.invalidFlag !== invalidFlag</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubWVkaWEuCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWVkaWEuZmlsdGVyKGZ1bmN0aW9uIChpdGVtLCBpbmRleCkgewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWVkaWEuZmlsdGVyKG1lZGlhID0+IG1lZGlhLmlkID09PSBtZWRpdW0uaWQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbSwgaW5kZXgpCg==</text>
+        <text encoding="base64">ICBjbGlja2VkKGV2ZW50OiBhbnkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubWVkaWEuKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHRoPue3qOmbhjwvdGg+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Red</last-search>
+      <last-search>upate</last-search>
       <last-offset />
-      <last-pattern>Red</last-pattern>
+      <last-pattern>upate</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1738,7 +1737,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sbt</entry>
         <entry>type</entry>
         <entry>sbt-plugin</entry>
         <entry>reso</entry>
@@ -1758,6 +1756,7 @@
         <entry>;</entry>
         <entry>All</entry>
         <entry>Red</entry>
+        <entry>upate</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
