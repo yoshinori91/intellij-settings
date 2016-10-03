@@ -190,12 +190,12 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/build.sbt" timestamp="1475485933688">
+      <file name="$USER_HOME$/wall/dm/build.sbt" timestamp="1475487786653">
         <mark key="'" line="26" column="41" />
-        <mark key="[" line="40" column="51" />
-        <mark key="]" line="41" column="47" />
-        <mark key="." line="41" column="47" />
-        <mark key="^" line="41" column="47" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="40" column="38" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/components/ListInfo.js" timestamp="1473217585458">
         <mark key="'" line="49" column="0" />
@@ -1331,12 +1331,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475486163673">
-        <mark key="'" line="27" column="14" />
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="27" column="43" />
-        <mark key="." line="27" column="43" />
-        <mark key="^" line="27" column="43" />
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475488925285">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/containers/RepoPage.js" timestamp="1473219038745">
         <mark key="'" line="9" column="0" />
@@ -1578,12 +1577,13 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/views/index1.scala.html" timestamp="1475484589129">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/wall/dm/app/views/index1.scala.html" timestamp="1475488483688">
+        <mark key="'" line="73" column="27" />
+        <mark key="i" line="12" column="96" />
+        <mark key="[" line="35" column="7" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="17" />
+        <mark key="^" line="35" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/index.ts" timestamp="1473915509729">
         <mark key="[" line="3" column="0" />
@@ -1600,18 +1600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
-      <jump line="9" column="39" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
-      <jump line="24" column="39" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
-      <jump line="25" column="39" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
-      <jump line="30" column="44" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
-      <jump line="14" column="44" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
-      <jump line="26" column="8" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
-      <jump line="32" column="27" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
-      <jump line="33" column="44" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
-      <jump line="15" column="44" filename="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" />
-      <jump line="48" column="20" filename="$USER_HOME$/workspace/play-angular2-typescript/build.sbt" />
-      <jump line="13" column="0" filename="$USER_HOME$/wall/dm/build.sbt" />
       <jump line="10" column="30" filename="$USER_HOME$/wall/dm/conf/application.conf" />
       <jump line="39" column="0" filename="$USER_HOME$/wall/dm/build.sbt" />
       <jump line="14" column="43" filename="$USER_HOME$/wall/dm/project/plugins.sbt" />
@@ -1699,56 +1687,68 @@
       <jump line="15" column="19" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
       <jump line="21" column="11" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
       <jump line="54" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
-      <jump line="27" column="14" filename="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" />
+      <jump line="27" column="13" filename="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" />
+      <jump line="9" column="95" filename="$USER_HOME$/wall/dm/app/views/index1.scala.html" />
+      <jump line="24" column="33" filename="$USER_HOME$/wall/dm/app/views/index1.scala.html" />
+      <jump line="32" column="7" filename="$USER_HOME$/wall/dm/app/views/index1.scala.html" />
+      <jump line="12" column="96" filename="$USER_HOME$/wall/dm/app/views/index1.scala.html" />
+      <jump line="25" column="44" filename="$USER_HOME$/wall/dm/app/views/index1.scala.html" />
+      <jump line="72" column="27" filename="$USER_HOME$/wall/dm/app/views/index1.scala.html" />
+      <jump line="13" column="89" filename="$USER_HOME$/wall/dm/app/views/index1.scala.html" />
+      <jump line="71" column="27" filename="$USER_HOME$/wall/dm/app/views/index1.scala.html" />
+      <jump line="26" column="10" filename="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" />
+      <jump line="47" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" />
+      <jump line="12" column="20" filename="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" />
+      <jump line="49" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>/dist/bin</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>bin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8aDMgY2xhc3M9ImZsb3ctdGV4dCI+44Oh44OH44Kj44Ki566h55CGPC9oMz4K</text>
+        <text encoding="base64">aW1wb3J0IHtNZWRpYX0gZnJvbSAiLi9tZWRpYSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvbWF0ZXJpYWxpemUvMC45Ny43L2pzL21hdGVyaWFsaXplLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1hdGVyaWFsaXplLnRvYXN0KCdJIGFtIGEgdG9hc3QhJywgNDAwMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtNYXRlcmlhbGl6ZX0gZnJvbSAibWF0ZXJpYWxpemUvZGlzdC9tYXRlcmlhbGl6ZS5qcyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gIkBhbmd1bGFyL2NvcmUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHthYWF9IGZyb20gIm1hdGVyaWFsaXplLyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvbWF0ZXJpYWxpemUvMC45Ny43L2pzL21hdGVyaWFsaXplLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtNYX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">aW1wb3J0IHtNYXRlcmlhbGl6ZX0gZnJvbSAibWF0ZXJpYWxpemUvZGlzdC9qcyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIE1hdGVyaWEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAgIE1hdGVyaWFsaXplLnRvYXN0KCJJIGFtIGEgdG9hc3QhIiwgNDAwMCkK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>bin</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
+      <last-pattern>bin</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1756,8 +1756,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rc</entry>
-        <entry>todo</entry>
         <entry>main</entry>
         <entry>a</entry>
         <entry>dynamict</entry>
@@ -1776,6 +1774,8 @@
         <entry encoding="base64">XDx1cGRhdGVMaXN0XD4=</entry>
         <entry>upate</entry>
         <entry>$</entry>
+        <entry encoding="base64">XDxtYXRlcmlhbGl6ZVw+</entry>
+        <entry>bin</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
