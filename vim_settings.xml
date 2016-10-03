@@ -530,12 +530,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475476086493">
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475479307772">
         <mark key="'" line="57" column="0" />
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="6" />
-        <mark key="^" line="39" column="5" />
+        <mark key="[" line="33" column="49" />
+        <mark key="]" line="33" column="56" />
+        <mark key="." line="33" column="56" />
+        <mark key="^" line="33" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/package.json" timestamp="1473994461535">
         <mark key="'" line="26" column="26" />
@@ -1319,11 +1319,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475474979806">
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="20" />
-        <mark key="." line="53" column="20" />
-        <mark key="^" line="53" column="20" />
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475479221132">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="30" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="27" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/containers/RepoPage.js" timestamp="1473219038745">
         <mark key="'" line="9" column="0" />
@@ -1683,44 +1683,44 @@
       <jump line="57" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC90ZD4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtLnVwZGF0ZUZsYWcgPSB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC90ZD4=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>upate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDwhLS0g44OG44O844OW44Or44Gu44OY44OD44OA6YOoIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVtLnVwZGF0ZUZsYWcgPSB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Zvcm0+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvcD4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGZvcj0idGVzdDIiPumdnumFjeS/oTwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IG5hbWU9Imdyb3VwMSIgdHlwZT0icmFkaW8iIGlkPSJ0ZXN0MiIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwPgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvcD4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGZvcj0idGVzdDEiPumFjeS/oTwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICBjbGlja2VkKGV2ZW50KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IG5hbWU9Imdyb3VwMSIgdHlwZT0icmFkaW8iIGlkPSJ0ZXN0MSIvPgo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'/&quot;/g</text>
