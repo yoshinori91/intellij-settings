@@ -530,12 +530,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475234820764">
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475462962877">
         <mark key="'" line="33" column="43" />
-        <mark key="[" line="4" column="61" />
-        <mark key="]" line="4" column="61" />
-        <mark key="." line="4" column="61" />
-        <mark key="^" line="4" column="67" />
+        <mark key="[" line="48" column="42" />
+        <mark key="]" line="48" column="49" />
+        <mark key="." line="48" column="49" />
+        <mark key="^" line="48" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/package.json" timestamp="1473994461535">
         <mark key="'" line="26" column="26" />
@@ -1319,12 +1319,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475232140374">
-        <mark key="'" line="18" column="16" />
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="35" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="35" />
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475463668434">
+        <mark key="'" line="17" column="16" />
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="30" column="5" />
+        <mark key="." line="30" column="5" />
+        <mark key="^" line="30" column="5" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/containers/RepoPage.js" timestamp="1473219038745">
         <mark key="'" line="9" column="0" />
@@ -1684,11 +1684,11 @@
       <jump line="34" column="43" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4444444</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>4444444</text>
+        <text>forEach</text>
       </register>
       <register name="/" type="4">
         <text>Red</text>
@@ -1697,31 +1697,31 @@
         <text encoding="base64">ICBtYXgtd2lkdGg6IDE1MHB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHRoPue3qOmbhjwvdGg+Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC90ZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giLz4K</text>
+        <text encoding="base64">ICAgIHRoaXMubWVkaWEuZmlsdGVyKGZ1bmN0aW9uIChpdGVtLCBpbmRleCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHRkPgo=</text>
+        <text encoding="base64">ICAgIHRoaXMubWVkaWEuZmlsdGVyKG1lZGlhID0+IG1lZGlhLmlkID09PSBtZWRpdW0uaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgZm9yPSJ0ZXN0NSI+PC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbSwgaW5kZXgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubWVkaWEuKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIGNsYXNzPSJmaWxsZWQtaW4iIGlkPSJmaWxsZWQtaW4tYm94IiBjaGVja2VkPSJjaGVja2VkIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgPHRoPue3qOmbhjwvdGg+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'/&quot;/g</text>
