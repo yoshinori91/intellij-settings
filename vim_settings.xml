@@ -89,12 +89,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/app.html" timestamp="1475557373872">
-        <mark key="'" line="16" column="26" />
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="6" column="49" />
-        <mark key="^" line="6" column="49" />
-        <mark key="." line="6" column="49" />
+      <file name="$USER_HOME$/wall/dm/app/assets/app/app.html" timestamp="1475560285836">
+        <mark key="'" line="17" column="26" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Report/index.js" timestamp="1473065023007">
         <mark key="'" line="1" column="0" />
@@ -330,6 +329,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="^" line="58" column="23" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" timestamp="1475559913875">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/login.component.ts" timestamp="1473921190597">
         <mark key="[" line="10" column="27" />
@@ -1031,6 +1036,13 @@
         <mark key="^" line="4" column="71" />
         <mark key="." line="4" column="71" />
       </file>
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.add.component.ts" timestamp="1475559436254">
+        <mark key="'" line="51" column="1" />
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Navigation.js" timestamp="1473666459867">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="21" column="47" />
@@ -1115,12 +1127,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/app.routing.ts" timestamp="1475226362037">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="8" column="44" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="8" column="44" />
+      <file name="$USER_HOME$/wall/dm/app/assets/app/app.routing.ts" timestamp="1475559953564">
+        <mark key="'" line="28" column="2" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/donald/build.sbt" timestamp="1474946068641">
         <mark key="'" line="10" column="10" />
@@ -1277,12 +1288,12 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/app.module.ts" timestamp="1475546093708">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="^" line="23" column="25" />
+      <file name="$USER_HOME$/wall/dm/app/assets/app/app.module.ts" timestamp="1475559894951">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="29" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/hero.service.ts" timestamp="1474005453723">
         <mark key="[" line="16" column="0" />
@@ -1347,7 +1358,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475549614666">
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475559411988">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -1589,8 +1600,8 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/views/index1.scala.html" timestamp="1475547113641">
-        <mark key="'" line="72" column="27" />
+      <file name="$USER_HOME$/wall/dm/app/views/index1.scala.html" timestamp="1475559716715">
+        <mark key="'" line="76" column="8" />
         <mark key="i" line="12" column="96" />
         <mark key="[" line="27" column="68" />
         <mark key="]" line="27" column="75" />
@@ -1612,11 +1623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="18" filename="$USER_HOME$/wall/dm/project/plugins.sbt" />
-      <jump line="1" column="36" filename="$USER_HOME$/wall/dm/project/plugins.sbt" />
-      <jump line="15" column="36" filename="$USER_HOME$/wall/dm/project/plugins.sbt" />
-      <jump line="0" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/app.html" />
-      <jump line="3" column="41" filename="$USER_HOME$/wall/dm/app/assets/app/app.html" />
       <jump line="37" column="9" filename="$USER_HOME$/wall/dm/build.sbt" />
       <jump line="34" column="26" filename="$USER_HOME$/wall/dm/conf/application.conf" />
       <jump line="40" column="5" filename="$USER_HOME$/wall/dm/build.sbt" />
@@ -1712,46 +1718,51 @@
       <jump line="11" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/app.html" />
       <jump line="16" column="26" filename="$USER_HOME$/wall/dm/app/assets/app/app.html" />
       <jump line="12" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/app.css" />
+      <jump line="52" column="1" filename="$USER_HOME$/wall/dm/app/assets/app/media.add.component.ts" />
+      <jump line="29" column="2" filename="$USER_HOME$/wall/dm/app/assets/app/app.routing.ts" />
+      <jump line="44" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/app.routing.ts" />
+      <jump line="76" column="8" filename="$USER_HOME$/wall/dm/app/views/index1.scala.html" />
+      <jump line="28" column="2" filename="$USER_HOME$/wall/dm/app/assets/app/app.routing.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>site</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>site</text>
       </register>
       <register name="/" type="4">
         <text>drop</text>
       </register>
-      <register name="0" type="4">
-        <text>transparent</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxpbWcgaWQ9InNpdGUtbG9nbyIgc3JjPSJhc3NldHMvaW1hZ2VzL2xvZ28ucG5nIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSJhc3NldHMvaW1hZ2VzL2xvZ28ucG5nIj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBiaXNxdWU7Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ym9keSB7Cg==</text>
+        <text encoding="base64">ICAgICAgRG9uYWxkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvaDI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8IS0tIERyb3Bkb3duIFN0cnVjdHVyZSAtLT4K</text>
+        <text encoding="base64">ICAgICAgRG9uYWxkIE1hbmFnZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8IS0tPGEgbWF0ZXJpYWxpemU9ImRyb3Bkb3duIiBjbGFzcz0nZHJvcGRvd24tYnV0dG9uIGJ0bicgaHJlZj0nIycgZGF0YS1hY3RpdmF0ZXM9J2Ryb3Bkb3duMSc+RHJvcCBNZSE8L2E+LS0+Cg==</text>
+        <text encoding="base64">ICAgIDxoMj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7CiAgICBwYXRoOiAibWVkaWEvYWRkIiwKICAgIGNvbXBvbmVudDogTWVkaWFBZGRpdGlvbkNvbXBvbmVudAogIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1hdGVyaWFsaXplIGZyb20gImFuZ3VsYXIyLW1hdGVyaWFsaXplIgo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'/&quot;/g</text>
