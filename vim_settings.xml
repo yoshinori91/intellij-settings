@@ -486,11 +486,11 @@
         <mark key="^" line="50" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.addition.html" timestamp="1475565902087">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="8" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.addition.html" timestamp="1475569305667">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="3" />
       </file>
       <file name="/HTML Fragment (app.component.ts:199).html" timestamp="1474610925624">
         <mark key="[" line="13" column="44" />
@@ -1727,40 +1727,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>名</text>
       </register>
       <register name="/" type="4">
         <text>drop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8aDMgY2xhc3M9ImZsb3ctdGV4dCI+44Oh44OH44Kj44Ki566h55CGPC9oMz4K</text>
+        <text encoding="base64">ICAgIDwhLS0gVVJMIC0tPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8L2Zvcm0+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCBwbGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyb3ciPgo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGxhYmVsPk1hdGVyaWFsaXplIE11bHRpcGxlIFNlbGVjdDwvbGFiZWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIzIj5PcHRpb24gMzwvb3B0aW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIyIj5PcHRpb24gMjwvb3B0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'/&quot;/g</text>
