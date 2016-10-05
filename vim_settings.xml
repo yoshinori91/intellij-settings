@@ -324,12 +324,12 @@
         <mark key="^" line="58" column="23" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" timestamp="1475638510399">
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" timestamp="1475641495925">
         <mark key="'" line="27" column="27" />
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="27" />
-        <mark key="^" line="27" column="27" />
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="68" />
+        <mark key="." line="27" column="68" />
+        <mark key="^" line="27" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/login.component.ts" timestamp="1473921190597">
         <mark key="[" line="10" column="27" />
@@ -1121,12 +1121,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/app.routing.ts" timestamp="1475638424175">
+      <file name="$USER_HOME$/wall/dm/app/assets/app/app.routing.ts" timestamp="1475641353720">
         <mark key="'" line="14" column="7" />
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="32" />
-        <mark key="." line="28" column="32" />
-        <mark key="^" line="28" column="32" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/donald/build.sbt" timestamp="1474946068641">
         <mark key="'" line="10" column="10" />
@@ -1720,8 +1719,8 @@
       <jump line="27" column="27" filename="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ReportComponent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="-" type="4">
         <text>ReportComponent</text>
@@ -1730,34 +1729,34 @@
         <text>router</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICBwYXRoOiAicmVwb3J0IiwKICAgIGNvbXBvbmVudDogUmVwb3J0Q29tcG9uZW50CiAgfSwK</text>
+        <text encoding="base64">ICAgIHBhdGg6ICJtZWRpYS9hZGQiLAogICAgY29tcG9uZW50OiBNZWRpYUFkZGl0aW9uQ29tcG9uZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBnb3RvU2l0ZShzaXRlOiBTaXRlKTogdm9pZCB7Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtNZWRpYVNlcnZpY2V9IGZyb20gIi4vbWVkaWEuc2VydmljZSIK</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudDogTWVkaWFBZGRpdGlvbkNvbXBvbmVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBsaW5rOiBzdHJpbmcgPSAibWVkaWEtc2l0ZS9lZGl0Igo=</text>
+        <text encoding="base64">ICAgIHBhdGg6ICJtZWRpYS9hZGQiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q09QWSBDT0RFCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2l0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBnb3RvU2l0ZShzaXRlOiBTaXRlKTogdm9pZCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtNZWRpYVNlcnZpY2V9IGZyb20gIi4vbWVkaWEuc2VydmljZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtTaXRlQ29tcG9uZW50fSBmcm9tICIuL3NpdGUuY29tcG9uZW50IjsK</text>
+        <text encoding="base64">ICAgIGxldCBsaW5rOiBzdHJpbmcgPSAibWVkaWEtc2l0ZS9lZGl0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'/&quot;/g</text>
