@@ -138,11 +138,6 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.component.ts" timestamp="1474874343144">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1473384998869">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="46" />
@@ -386,11 +381,6 @@
         <mark key="." line="15" column="60" />
         <mark key="^" line="15" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/media.html" timestamp="1475054745237">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/TodoList.js" timestamp="1472455081527">
         <mark key="'" line="16" column="9" />
         <mark key="[" line="9" column="16" />
@@ -559,11 +549,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/README.md" timestamp="1474954380944">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475648125308">
         <mark key="'" line="3" column="15" />
         <mark key="[" line="1" column="24" />
@@ -695,11 +680,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/models/Member.java" timestamp="1474954058936">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.ts" timestamp="1474005641715">
         <mark key="'" line="7" column="7" />
@@ -874,16 +854,6 @@
         <mark key="]" line="15" column="35" />
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
-      </file>
-      <file name="$USER_HOME$/wkt/donald3/dm/build.sbt" timestamp="1475056461211">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/wkt/donald3/dm/app/services/Media.java" timestamp="1475051452096">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/config/index.js" timestamp="1473387870220">
         <mark key="'" line="57" column="0" />
@@ -1067,10 +1037,11 @@
         <mark key="^" line="36" column="54" />
         <mark key="." line="36" column="54" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/controllers/PageController.java" timestamp="1475655085307">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/wall/dm/app/controllers/PageController.java" timestamp="1475657306919">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/review.component.ts" timestamp="1474455803678">
         <mark key="'" line="1" column="0" />
@@ -1363,11 +1334,6 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/wall/dm/tslint.json" timestamp="1475137552658">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/dashboard.component.ts" timestamp="1474886016336">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="8" column="32" />
@@ -1465,11 +1431,6 @@
         <mark key="]" line="6" column="49" />
         <mark key="^" line="13" column="20" />
         <mark key="." line="6" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/services/MediaService.java" timestamp="1474953839422">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/actions/mediaPage/index.js" timestamp="1473328709459">
         <mark key="[" line="3" column="16" />
@@ -1767,11 +1728,11 @@
       <jump line="28" column="3" filename="$USER_HOME$/wall/dm/app/assets/app/app.routing.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>router</text>
