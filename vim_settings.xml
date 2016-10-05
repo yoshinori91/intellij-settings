@@ -332,10 +332,10 @@
         <mark key="^" line="58" column="23" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" timestamp="1475574306150">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" timestamp="1475632987743">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/login.component.ts" timestamp="1473921190597">
         <mark key="[" line="10" column="27" />
@@ -496,12 +496,12 @@
         <mark key="^" line="50" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.addition.html" timestamp="1475572655353">
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.addition.html" timestamp="1475633315492">
         <mark key="'" line="19" column="9" />
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="56" column="9" />
-        <mark key="." line="56" column="9" />
-        <mark key="^" line="56" column="9" />
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="17" />
+        <mark key="." line="53" column="17" />
+        <mark key="^" line="53" column="17" />
       </file>
       <file name="/HTML Fragment (app.component.ts:199).html" timestamp="1474610925624">
         <mark key="[" line="13" column="44" />
@@ -1392,11 +1392,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475563911328">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475633107864">
+        <mark key="'" line="24" column="17" />
+        <mark key="[" line="32" column="37" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="37" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/containers/RepoPage.js" timestamp="1473219038745">
         <mark key="'" line="9" column="0" />
@@ -1657,7 +1657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="374" column="0" filename="$USER_HOME$/wall/dm/public/stylesheets/todomvc-app.css" />
       <jump line="96" column="0" filename="$USER_HOME$/wall/dm/public/stylesheets/main.css" />
       <jump line="0" column="0" filename="$USER_HOME$/wall/dm/tslint.json" />
       <jump line="9" column="41" filename="$USER_HOME$/wall/dm/tslint.json" />
@@ -1757,43 +1756,44 @@
       <jump line="1" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
       <jump line="3" column="15" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
       <jump line="19" column="9" filename="$USER_HOME$/wall/dm/app/assets/app/media.addition.html" />
+      <jump line="24" column="17" filename="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, index</text>
       </register>
       <register name="-" type="4">
-        <text>追加</text>
+        <text>, index</text>
       </register>
       <register name="/" type="4">
-        <text>drop</text>
+        <text>con</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8bGk+PGEgcm91dGVyTGluaz0iL21lZGlhL2FkZCIgY2xhc3M9ImZvbnQtY2wiPuODoeODh+OCo+OCoui/veWKoDwvYT48L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubWVkaWEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1lZGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIG1lZGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjttYXJnaW46IDEwcHgiPgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">44KiCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjttYXJnaW46IDEwcHgiPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1803,9 +1803,9 @@
       </register>
     </registers>
     <search>
-      <last-search>drop</last-search>
+      <last-search>con</last-search>
       <last-offset />
-      <last-pattern>drop</last-pattern>
+      <last-pattern>con</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1813,7 +1813,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Ng</entry>
         <entry>NgModule</entry>
         <entry>rxjs</entry>
         <entry>router</entry>
@@ -1833,6 +1832,7 @@
         <entry encoding="base64">XDwsXD4=</entry>
         <entry encoding="base64">XDxNYXRlcmlhbGlsemVEaXJlY3RpdmVcPg==</entry>
         <entry>drop</entry>
+        <entry>con</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
