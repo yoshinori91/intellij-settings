@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wall/dm/app/services/Media.java" timestamp="1475231578629">
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="33" column="49" />
-        <mark key="." line="33" column="49" />
-        <mark key="^" line="33" column="49" />
+      <file name="$USER_HOME$/wall/dm/app/services/Media.java" timestamp="1475649750605">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+      </file>
+      <file name="$USER_HOME$/wall/dm/app/models/Frame.java" timestamp="1475649557573">
+        <mark key="[" line="33" column="16" />
+        <mark key="]" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+        <mark key="^" line="33" column="19" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Nav.js" timestamp="1472547843977">
         <mark key="'" line="32" column="0" />
@@ -86,13 +92,7 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/app.html" timestamp="1475572751826">
-        <mark key="'" line="18" column="26" />
-        <mark key="[" line="3" column="49" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="50" />
-        <mark key="^" line="3" column="50" />
-      </file>
+      <file name="$USER_HOME$/wall/dm/app/assets/app/app.html" timestamp="1475648056016" />
       <file name="$USER_HOME$/test/dona/public/app/containers/Report/index.js" timestamp="1473065023007">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="46" column="0" />
@@ -169,11 +169,6 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/dashboard.component.ts" timestamp="1475547809247">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/wkt/donald3/dm/app/controllers/HomeController.java" timestamp="1475043836714">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="19" />
@@ -227,6 +222,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="24" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wall/dm/app/models/Page.java" timestamp="1475649719472">
+        <mark key="[" line="40" column="52" />
+        <mark key="]" line="40" column="55" />
+        <mark key="." line="40" column="55" />
+        <mark key="^" line="40" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/public/stylesheets/ma.sass" timestamp="1474879945878">
         <mark key="[" line="0" column="0" />
@@ -325,11 +326,11 @@
         <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" timestamp="1475641495925">
-        <mark key="'" line="27" column="27" />
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="68" />
-        <mark key="." line="27" column="68" />
-        <mark key="^" line="27" column="68" />
+        <mark key="'" line="1" column="27" />
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="68" />
+        <mark key="." line="1" column="68" />
+        <mark key="^" line="1" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/login.component.ts" timestamp="1473921190597">
         <mark key="[" line="10" column="27" />
@@ -487,10 +488,10 @@
       </file>
       <file name="$USER_HOME$/wall/dm/app/assets/app/media.addition.html" timestamp="1475635596028">
         <mark key="'" line="19" column="9" />
-        <mark key="[" line="59" column="33" />
-        <mark key="]" line="59" column="38" />
-        <mark key="." line="59" column="38" />
-        <mark key="^" line="59" column="38" />
+        <mark key="[" line="53" column="33" />
+        <mark key="]" line="53" column="38" />
+        <mark key="." line="53" column="38" />
+        <mark key="^" line="53" column="38" />
       </file>
       <file name="/HTML Fragment (app.component.ts:199).html" timestamp="1474610925624">
         <mark key="[" line="13" column="44" />
@@ -550,12 +551,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475571109502">
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475648125308">
         <mark key="'" line="3" column="15" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="61" column="7" />
-        <mark key="." line="57" column="44" />
-        <mark key="^" line="57" column="44" />
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/package.json" timestamp="1473994461535">
         <mark key="'" line="26" column="26" />
@@ -581,6 +582,13 @@
         <mark key="]" line="6" column="35" />
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/wall/dm/app/assets/app/page.service.ts" timestamp="1475648654339">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/same/app/views/main.scala.html" timestamp="1473990828755">
         <mark key="[" line="23" column="40" />
@@ -631,6 +639,9 @@
         <mark key="]" line="34" column="8" />
         <mark key="^" line="35" column="9" />
         <mark key="." line="34" column="8" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.11/srcs/play-json_2.11-2.5.8-sources.jar!/play/libs/Json.java" timestamp="1475042273969">
+        <mark key="'" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/wall/dm/app/views/index2.scala.html" timestamp="1475233519326">
         <mark key="[" line="22" column="0" />
@@ -729,6 +740,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/wall/dm/app/dtos/MediaForm.java" timestamp="1475647578570" />
       <file name="$USER_HOME$/workspace/dm/public/webpack.config.js" timestamp="1474001706840">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="0" column="0" />
@@ -781,7 +793,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/models/Site.java" timestamp="1475574266824" />
+      <file name="$USER_HOME$/wall/dm/app/models/Site.java" timestamp="1475649709320">
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
+      </file>
       <file name="$USER_HOME$/test/dona/client/app/app2.component.ts" timestamp="1473648411955">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -912,6 +929,9 @@
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/wall/dm/target/web/node-modules/main/webjars/@angular/core/index.js" timestamp="1475215302061">
+        <mark key="'" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/app.component.ts" timestamp="1473656802522">
         <mark key="[" line="0" column="0" />
@@ -1121,12 +1141,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/app.routing.ts" timestamp="1475641353720">
-        <mark key="'" line="14" column="7" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/donald/build.sbt" timestamp="1474946068641">
         <mark key="'" line="10" column="10" />
         <mark key="[" line="4" column="65" />
@@ -1283,11 +1297,7 @@
         <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/wall/dm/app/assets/app/app.module.ts" timestamp="1475635885353">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="16" />
+        <mark key="'" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/hero.service.ts" timestamp="1474005453723">
         <mark key="[" line="16" column="0" />
@@ -1449,6 +1459,9 @@
         <mark key="^" line="77" column="1" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/wall/dm/public/stylesheets/todomvc-app.css" timestamp="1475137333910">
+        <mark key="'" line="374" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/src/routes.js" timestamp="1473222817762">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="7" column="29" />
@@ -1475,7 +1488,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.service.ts" timestamp="1475548231061">
+      <file name="$USER_HOME$/wall/dm/app/assets/app/media.service.ts" timestamp="1475648619217">
         <mark key="'" line="10" column="68" />
         <mark key="[" line="29" column="23" />
         <mark key="]" line="29" column="29" />
@@ -1496,10 +1509,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/controllers/MediaController.java" timestamp="1475549629953">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/wall/dm/app/controllers/MediaController.java" timestamp="1475649658798">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/donadona/public/javascripts/app.ts" timestamp="1473395011992">
         <mark key="[" line="0" column="44" />
@@ -1570,6 +1585,9 @@
         <mark key="^" line="353" column="0" />
         <mark key="." line="353" column="0" />
       </file>
+      <file name="$USER_HOME$/wall/dm/target/web/public/main/lib/angular__platform-browser-dynamic/index.js" timestamp="1475215269261">
+        <mark key="'" line="15" column="39" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/webpack.config.js" timestamp="1473657989751">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
@@ -1617,8 +1635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="25" filename="$USER_HOME$/wall/dm/app/assets/app/app.ts" />
-      <jump line="25" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/app.ts" />
       <jump line="29" column="40" filename="$USER_HOME$/wall/dm/app/assets/app/app.ts" />
       <jump line="33" column="31" filename="$USER_HOME$/wall/dm/app/assets/app/app.ts" />
       <jump line="4" column="14" filename="$USER_HOME$/wall/dm/app/assets/app/app.ts" />
@@ -1717,46 +1733,48 @@
       <jump line="29" column="2" filename="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" />
       <jump line="27" column="27" filename="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" />
+      <jump line="36" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/page.service.ts" />
+      <jump line="58" column="0" filename="$USER_HOME$/wall/dm/app/controllers/MediaController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>site</text>
       </register>
       <register name="-" type="4">
-        <text>ReportComponent</text>
+        <text>site</text>
       </register>
       <register name="/" type="4">
         <text>router</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGg6ICJtZWRpYS9hZGQiLAogICAgY29tcG9uZW50OiBNZWRpYUFkZGl0aW9uQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">ICAgIEBPbmVUb01hbnkoY2FzY2FkZSA9IENhc2NhZGVUeXBlLkFMTCwgbWFwcGVkQnkgPSAic2l0ZSIpCiAgICBwdWJsaWMgTGlzdDxGcmFtZT4gZnJhbWVMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">QEVudGl0eQpAVGFibGUobmFtZSA9ICJtX3BhZ2UiKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudDogTWVkaWFBZGRpdGlvbkNvbXBvbmVudAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGg6ICJtZWRpYS9hZGQiLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwdWJsaWMgTGlzdDxGcmFtZT4gZnJhbWVMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAT25lVG9NYW55KGNhc2NhZGUgPSBDYXNjYWRlVHlwZS5BTEwsIG1hcHBlZEJ5ID0gInNpdGUiKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2l0ZQo=</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIHNpdGVJZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBnb3RvU2l0ZShzaXRlOiBTaXRlKTogdm9pZCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtNZWRpYVNlcnZpY2V9IGZyb20gIi4vbWVkaWEuc2VydmljZSIK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBsaW5rOiBzdHJpbmcgPSAibWVkaWEtc2l0ZS9lZGl0Igo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMTAvMDUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'/&quot;/g</text>
