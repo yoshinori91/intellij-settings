@@ -1278,12 +1278,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1475741073037">
+      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1475744009863">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="25" />
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="43" column="41" />
+        <mark key="^" line="43" column="41" />
+        <mark key="." line="43" column="41" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
@@ -1408,11 +1408,13 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1475741252773">
-        <mark key="'" line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1475736618739">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1475743198818">
+        <mark key="'" line="40" column="0" />
+        <mark key="j" line="39" column="0" />
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/store/configureStore.js" timestamp="1473322575220">
         <mark key="'" line="23" column="0" />
@@ -1693,7 +1695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="16" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
       <jump line="14" column="19" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
       <jump line="15" column="19" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
       <jump line="21" column="11" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
@@ -1793,55 +1794,56 @@
       <jump line="27" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="29" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="36" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="40" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>appD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXF1ZXN0KCkuYm9keSgpLmFzVGV4dCgpKTsK</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC51cmwgPSAiamRiYzpteXNxbDovL2RvbmFsZC5jdHppa2tqemh6dmIuYXAtbm9ydGhlYXN0LTEucmRzLmFtYXpvbmF3cy5jb20vZG9uYWxkIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8UGFnZT4gcGFnZXM7IAo=</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC51cmwgPSAiamRiYzpteXNxbDovL2xvY2FsaG9zdC9kYXRhYmFzZV9uYW1lIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmluKCJpZCIsIGlkcykK</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC51cmwgPSAiamRiYzpteXNxbDovL2xvY2FsaG9zdC9kYXRhYmFzZV9uYW1lIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC5kcml2ZXIgPSBjb20ubXlzcWwuamRiYy5Ecml2ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmZpbmRMaXN0KCk7Cg==</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC51cmwgPSAiamRiYzpteXNxbDovL2xvY2FsaG9zdC9zYW1wbGUxIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLndoZXJlKCkK</text>
+        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8UGFnZT4gcGFnZXM7IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlcy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgLmluKCJpZCIsIGlkcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXF1ZXN0KCkuYm9keSgpLmFzSnNvbigpKTsK</text>
+        <text encoding="base64">ICAgICAgLmZpbmRMaXN0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>appD</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>appD</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1849,8 +1851,6 @@
     </search>
     <history>
       <history-search>
-        <entry>drop</entry>
-        <entry>con</entry>
         <entry>site</entry>
         <entry>Site</entry>
         <entry encoding="base64">XDxTaXRlQ29tcG9uZW50XD4=</entry>
@@ -1869,6 +1869,8 @@
         <entry>mater</entry>
         <entry encoding="base64">XDxNYXRlcmlhbGl6ZURpcmVjdGl2ZVw+</entry>
         <entry>create</entry>
+        <entry>app</entry>
+        <entry>appD</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
