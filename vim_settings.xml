@@ -406,13 +406,6 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/page.ts" timestamp="1475660953169">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-      </file>
       <file name="$USER_HOME$/wkt/donald3/dm/app/models/Task.java" timestamp="1474956055070">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="26" column="0" />
@@ -625,6 +618,12 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page.list.component.ts" timestamp="1475729976766">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.css" timestamp="1473908949419">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="32" column="0" />
@@ -813,6 +812,12 @@
         <mark key="]" line="9" column="27" />
         <mark key="^" line="2" column="26" />
         <mark key="." line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1475730016881">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/services/MediaServiceImpl.java" timestamp="1474954478807">
         <mark key="'" line="9" column="30" />
@@ -1782,10 +1787,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>メディア管理</text>
+        <text>メディア管理画面 初期表示</text>
       </register>
       <register name="-" type="4">
-        <text>メディア管理</text>
+        <text>メディア管理画面 初期表示</text>
       </register>
       <register name="/" type="4">
         <text>base</text>
@@ -1794,31 +1799,31 @@
         <text encoding="base64">ICAgIDxiYXNlIGhyZWY9Ii8iPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudDogUGFnZUxpc3RDb21wb25lbnQK</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGg6ICJwYWdlIiwK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudDogQXBwQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMTAvMDYuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGg6ICJwYWdlcyIsCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudDogUGFnZUxpc3RDb21wb25lbnQK</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
