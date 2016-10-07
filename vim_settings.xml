@@ -340,6 +340,12 @@
         <mark key="^" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/conf/application.dev.conf" timestamp="1475820218575">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="43" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/wawm/app/controllers/Application.java" timestamp="1474070974366">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -1249,12 +1255,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1475815739362">
+      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1475819807875">
         <mark key="'" line="35" column="21" />
-        <mark key="[" line="47" column="37" />
-        <mark key="]" line="47" column="40" />
-        <mark key="^" line="47" column="40" />
-        <mark key="." line="47" column="40" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
@@ -1383,11 +1389,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1475815517599">
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1475820264395">
         <mark key="'" line="41" column="85" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1475816334409">
-        <mark key="'" line="40" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1475819868302">
+        <mark key="'" line="62" column="0" />
         <mark key="[" line="22" column="42" />
         <mark key="]" line="22" column="50" />
         <mark key="^" line="22" column="50" />
@@ -1476,10 +1482,6 @@
         <mark key="]" line="6" column="49" />
         <mark key="^" line="13" column="20" />
         <mark key="." line="6" column="49" />
-      </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" timestamp="1475736758706">
-        <mark key="'" line="3" column="4" />
-        <mark key="^" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/project/build.properties" timestamp="1474943662094">
         <mark key="[" line="1" column="0" />
@@ -1681,8 +1683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="15" filename="$USER_HOME$/wall/dm/app/assets/app/app.routing.ts" />
-      <jump line="7" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/site.component.ts" />
       <jump line="14" column="7" filename="$USER_HOME$/wall/dm/app/assets/app/app.routing.ts" />
       <jump line="29" column="2" filename="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/media.addition.component.ts" />
@@ -1737,7 +1737,6 @@
       <jump line="27" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="21" column="31" filename="$USER_HOME$/app/donald_manager/tslint.json" />
       <jump line="47" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
-      <jump line="62" column="2" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="59" column="49" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="15" column="2" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="61" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
@@ -1781,55 +1780,58 @@
       <jump line="31" column="25" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="40" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="9" column="33" filename="$USER_HOME$/app/donald_manager/tsconfig.json" />
+      <jump line="46" column="31" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="45" column="31" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="62" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJtZXNzYWdlIikK</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC51cmwgPSAiamRiYzpoMjptZW06cGxheSIK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>symbol</text>
+        <text>java</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJtZXNzYWdlIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImVzMjAxNS5wcm9taXNlIgo=</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC51cmwgPSAiamRiYzpoMjptZW06cGxheSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJtZXNzYWdlIikK</text>
+        <text encoding="base64">ZWJlYW4uZGVmYXVsdCA9IFsibW9kZWxzLioiXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJtZXNzYWdlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJtZXNzYWdlIikK</text>
+        <text encoding="base64">IyBZb3UgY2FuIGRpc2FibGUgZXZvbHV0aW9ucyBmb3IgYSBzcGVjaWZpYyBkYXRhc291cmNlIGlmIG5lY2Vzc2FyeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJtZXNzYWdlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ0eXBpbmdzL21haW4uZC50cyIsCg==</text>
+        <text encoding="base64">IyBwbGF5LmV2b2x1dGlvbnMuZW5hYmxlZD1mYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLk9ic2VydmFibGUuKCkK</text>
+        <text encoding="base64">IyBZb3UgY2FuIGRpc2FibGUgZXZvbHV0aW9ucyBpZiBuZWVkZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB+fn5+fgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
       </register>
     </registers>
     <search>
-      <last-search>symbol</last-search>
+      <last-search>java</last-search>
       <last-offset />
-      <last-pattern>symbol</last-pattern>
+      <last-pattern>java</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1837,7 +1839,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mater</entry>
         <entry encoding="base64">XDxNYXRlcmlhbGl6ZURpcmVjdGl2ZVw+</entry>
         <entry>create</entry>
         <entry>app</entry>
@@ -1857,6 +1858,7 @@
         <entry>symbole</entry>
         <entry>0.2.4</entry>
         <entry>symbol</entry>
+        <entry>java</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>

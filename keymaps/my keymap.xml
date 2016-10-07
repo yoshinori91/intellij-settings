@@ -1,7 +1,4 @@
 <keymap version="1" name="my keymap" parent="Default for XWin">
-  <action id="$Paste">
-    <keyboard-shortcut first-keystroke="shift insert" />
-  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="o" />
@@ -32,20 +29,16 @@
   <action id="CompareTwoFiles" />
   <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="EditorChooseLookupItemDot">
     <keyboard-shortcut first-keystroke="ctrl period" />
     <keyboard-shortcut first-keystroke="ctrl alt back_quote" second-keystroke="period" />
   </action>
   <action id="EditorDuplicate" />
-  <action id="EditorPaste">
-    <keyboard-shortcut first-keystroke="shift insert" />
-  </action>
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLine" />
-  <action id="EditorToggleColumnMode">
-    <keyboard-shortcut first-keystroke="shift alt insert" />
-    <keyboard-shortcut first-keystroke="ctrl v" />
-  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f3" />
