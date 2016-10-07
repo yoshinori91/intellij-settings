@@ -519,11 +519,12 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/tsconfig.json" timestamp="1475806231158">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/tsconfig.json" timestamp="1475808365090">
+        <mark key="'" line="1" column="13" />
+        <mark key="[" line="36" column="7" />
+        <mark key="]" line="36" column="20" />
+        <mark key="." line="36" column="20" />
+        <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/test/dona/public/front/app.js" timestamp="1472203031945">
         <mark key="'" line="7" column="35" />
@@ -643,6 +644,12 @@
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/page.list.component.ts" timestamp="1475747102972">
         <mark key="^" line="1" column="20" />
+      </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/account.component.ts" timestamp="1475808471084">
+        <mark key="[" line="4" column="60" />
+        <mark key="]" line="4" column="63" />
+        <mark key="." line="4" column="63" />
+        <mark key="^" line="4" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.css" timestamp="1473908949419">
         <mark key="[" line="0" column="0" />
@@ -836,11 +843,11 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1475806652164">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="16" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1475808436589">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/services/MediaServiceImpl.java" timestamp="1474954478807">
         <mark key="'" line="9" column="30" />
@@ -1756,7 +1763,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="18" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
       <jump line="5" column="9" filename="$USER_HOME$/wall/dm/app/assets/app/media.html" />
       <jump line="11" column="0" filename="$USER_HOME$/wall/dm/app/assets/app/app.html" />
       <jump line="16" column="26" filename="$USER_HOME$/wall/dm/app/assets/app/app.html" />
@@ -1856,46 +1862,47 @@
       <jump line="35" column="66" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="38" column="0" filename="$USER_HOME$/app/donald_manager/tsconfig.json" />
+      <jump line="1" column="13" filename="$USER_HOME$/app/donald_manager/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCIiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>exclude</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgImRvbSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a2sK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">ICAgICAgImVzNi1wcm9taXNlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJub2RlX21vZHVsZXMiLAo=</text>
+        <text encoding="base64">a2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiZXhjbHVkZSI6IFsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwcm9qZWN0L3RhcmdldCIK</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0YXJnZXQvd2ViIgo=</text>
+        <text encoding="base64">ICAgICJub2RlX21vZHVsZXMiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ3d3dyb290IiwK</text>
+        <text encoding="base64">ICAiZXhjbHVkZSI6IFsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0eXBpbmdzL2Jyb3dzZXIuZC50cyIsCg==</text>
+        <text encoding="base64">ICAgICJwcm9qZWN0L3RhcmdldCIK</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
