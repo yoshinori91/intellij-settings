@@ -380,12 +380,12 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" timestamp="1476250381956">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="30" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" timestamp="1476251881747">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="69" column="8" />
+        <mark key="]" line="69" column="9" />
+        <mark key="^" line="69" column="9" />
+        <mark key="." line="69" column="9" />
       </file>
       <file name="$USER_HOME$/test/dona/client/hello-world.component.ts" timestamp="1473650395663">
         <mark key="[" line="8" column="25" />
@@ -1802,9 +1802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
-      <jump line="7" column="27" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
-      <jump line="16" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="18" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="27" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="21" column="31" filename="$USER_HOME$/app/donald_manager/tslint.json" />
@@ -1867,7 +1864,6 @@
       <jump line="33" column="31" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
       <jump line="8" column="1" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-edit.component.ts" />
       <jump line="22" column="79" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
-      <jump line="10" column="81" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
       <jump line="37" column="20" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
       <jump line="38" column="98" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
       <jump line="3" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.component.ts" />
@@ -1902,46 +1898,50 @@
       <jump line="27" column="7" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
       <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
       <jump line="55" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
+      <jump line="20" column="30" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
+      <jump line="45" column="38" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
+      <jump line="77" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
+      <jump line="10" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBmb3I9InRlc3QzIj7mjIflrprjgarjgZc8L2xhYmVsPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>解除</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>jquery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgIDxsYWJlbD4gIEFsbCBJbXDjg5Xjg6njgrA8L2xhYmVsPgogICAgICAgIDxwPgogICAgICAgICAgPGlucHV0IGNsYXNzPSJ3aXRoLWdhcCIgbmFtZT0iZ3JvdXAxIiB0eXBlPSJyYWRpbyIgaWQ9InRlc3QxIiAvPgogICAgICAgICAgPGxhYmVsIGZvcj0idGVzdDEiPuioreWumjwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgY2xhc3M9IndpdGgtZ2FwIiBuYW1lPSJncm91cDEiIHR5cGU9InJhZGlvIiBpZD0idGVzdDIiIC8+CiAgICAgICAgICA8bGFiZWwgZm9yPSJ0ZXN0MiI+6Kej6ZmkPC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBjbGFzcz0id2l0aC1nYXAiIG5hbWU9Imdyb3VwMSIgdHlwZT0icmFkaW8iIGlkPSJ0ZXN0MyIgIC8+CiAgICAgICAgICA8bGFiZWwgZm9yPSJ0ZXN0MyI+5oyH5a6a44Gq44GXPC9sYWJlbD4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wgczYiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBmb3I9InRlc3QzIj7mjIflrprjgarjgZc8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dC1maWVsZCBjb2wgczYiPgogICAgICAgICAgPGlucHV0IGlkPSJwYWdlTmFtZSIgdHlwZT0idGV4dCIgdmFsdWU9Int7cGFnZS5wYWdlTmFtZX19Ij4KICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYWN0aXZlIiBmb3I9InBhZ2VOYW1lIj7jg5rjg7zjgrjlkI08L2xhYmVsPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCBjbGFzcz0id2l0aC1nYXAiIG5hbWU9Imdyb3VwMSIgdHlwZT0icmFkaW8iIGlkPSJ0ZXN0MyIgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBmb3I9InRlc3QzIj7mjIflrprjgarjgZc8L2xhYmVsPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCBjbGFzcz0id2l0aC1nYXAiIG5hbWU9Imdyb3VwMSIgdHlwZT0icmFkaW8iIGlkPSJ0ZXN0MyIgIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cD4K</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cD4K</text>
+        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8cD4K</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8cD4K</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
