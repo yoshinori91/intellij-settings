@@ -54,9 +54,9 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page.list.html" timestamp="1476264063867">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="42" column="13" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page.list.html" timestamp="1476332348045">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="97" />
         <mark key="." line="48" column="16" />
         <mark key="^" line="48" column="16" />
       </file>
@@ -387,12 +387,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" timestamp="1476265598247">
-        <mark key="'" line="67" column="59" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="57" column="26" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" timestamp="1476332600208">
+        <mark key="'" line="71" column="59" />
+        <mark key="[" line="43" column="87" />
+        <mark key="]" line="43" column="92" />
+        <mark key="." line="43" column="92" />
+        <mark key="^" line="43" column="92" />
       </file>
       <file name="$USER_HOME$/test/dona/client/hello-world.component.ts" timestamp="1473650395663">
         <mark key="[" line="8" column="25" />
@@ -1968,44 +1968,44 @@
       <jump line="29" column="18" filename="$USER_HOME$/app/donald_manager/app/models/Page.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYWN0aXZlIiBmb3I9InNpdGUiPuOCteOCpOODiOWQjTwvbGFiZWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYWN0aXZlIiBmb3I9InNpdGUtYnV0dG9uIj7jgrXjgqTjg4jlkI08L2xhYmVsPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSDjg5rjg7zjgrhOR+OCq+ODhuOCtOODqi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYWN0aXZlIiBmb3I9InNpdGUtYnV0dG9uIj7jgrXjgqTjg4jlkI08L2xhYmVsPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxwPjwvcD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9mb3JtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icm93Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSDjg5rjg7zjgrhOR+OCq+ODhuOCtOODqi0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icm93Ij4K</text>
+        <text encoding="base64">ICAgICAgPC9mb3JtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImFjdGl2ZSIgZm9yPSJwYWdlTmFtZSI+6YWN5L+h44K544OG44O844K/44K5PC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icm93Ij4K</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'false'/false/g</text>
