@@ -1000,14 +1000,10 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1476337527577">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="44" column="1" />
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1476339330841">
+        <mark key="'" line="45" column="0" />
         <mark key="k" line="12" column="0" />
-        <mark key="]" line="44" column="1" />
         <mark key="m" line="12" column="0" />
-        <mark key="^" line="44" column="14" />
-        <mark key="." line="44" column="1" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
         <mark key="'" line="1" column="17" />
@@ -1544,7 +1540,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1476337321221">
-        <mark key="'" line="87" column="23" />
+        <mark key="'" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" timestamp="1475055758595">
         <mark key="'" line="15" column="44" />
@@ -1552,11 +1548,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/D2CCategory.java" timestamp="1476337638295">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="15" />
+      <file name="$USER_HOME$/app/donald_manager/app/models/D2CCategory.java" timestamp="1476339282936">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1476246101346">
         <mark key="'" line="61" column="0" />
@@ -1810,11 +1806,11 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/PageCategory.java" timestamp="1476337864768">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/app/donald_manager/app/models/PageCategory.java" timestamp="1476339293756">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/wawm/project/plugins.sbt" timestamp="1474098671164">
         <mark key="[" line="4" column="58" />
@@ -1868,8 +1864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="21" filename="$USER_HOME$/app/donald_manager/target/web/node-modules/main/webjars/@angular/http/src/http.d.ts" />
-      <jump line="28" column="23" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
       <jump line="31" column="7" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
       <jump line="22" column="39" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
       <jump line="31" column="25" filename="$USER_HOME$/app/donald_manager/build.sbt" />
@@ -1968,13 +1962,15 @@
       <jump line="46" column="2" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="80" column="113" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="96" column="23" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="435" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
+      <jump line="441" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>('D2C1-5', '映画'),</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>('D2C1-5', '映画'),</text>
       </register>
       <register name="/" type="4">
         <text>d2c</text>
@@ -1983,28 +1979,28 @@
         <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGNhdGVnb3J5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gbV9kMmNfY2F0ZWdvcnkKKGNhdGVnb3J5X2lkLGNhdGVnb3J5KQpWQUxVRVMKKCdEMkMxJywgJ+OCouODvOODiOOBqOOCqOODs+OCv+ODvOODhuOCpOODs+ODoeODs+ODiCcpLAooJ0QyQzEtMScsICfmm7jnsY3jgajmloflraYnKSwKKCdEMkMxLTInLCAn6Iq46IO9L+OCtOOCt+ODg+ODlycpLAooJ0QyQzEtMycsICfnvo7ooZPlk4EnKSwKKCdEMkMxLTQnLCAn44Om44O844Oi44KiJyksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgbG9uZyBpZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAR2VuZXJhdGVkVmFsdWUK</text>
+        <text encoding="base64">ICBwdWJsaWMgbG9uZyBpZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBASWQK</text>
+        <text encoding="base64">ICBAR2VuZXJhdGVkVmFsdWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGNhdGVnb3J5MjsK</text>
+        <text encoding="base64">ICBASWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAiY2F0ZWdvcnlfaWQiKQo=</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGNhdGVnb3J5MjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ampra2sK</text>
+        <text encoding="base64">ICBAQ29sdW1uKG5hbWUgPSAiY2F0ZWdvcnlfaWQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ampra2sK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
