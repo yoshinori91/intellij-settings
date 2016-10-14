@@ -374,12 +374,12 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/application.dev.conf" timestamp="1476354054119">
+      <file name="$USER_HOME$/app/donald_manager/conf/application.dev.conf" timestamp="1476422490089">
         <mark key="'" line="16" column="7" />
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="37" column="16" />
-        <mark key="^" line="37" column="16" />
-        <mark key="." line="37" column="16" />
+        <mark key="[" line="33" column="45" />
+        <mark key="]" line="33" column="45" />
+        <mark key="^" line="33" column="45" />
+        <mark key="." line="33" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/wawm/app/controllers/Application.java" timestamp="1474070974366">
         <mark key="[" line="4" column="18" />
@@ -778,6 +778,9 @@
         <mark key="^" line="11" column="62" />
         <mark key="." line="11" column="62" />
       </file>
+      <file name="/Dummy.txt" timestamp="1476422657389">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/donald-manager/project/plugins.sbt" timestamp="1474947270519">
         <mark key="'" line="21" column="47" />
         <mark key="[" line="20" column="2" />
@@ -1012,14 +1015,14 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1476420797965">
-        <mark key="'" line="2" column="4" />
-        <mark key="k" line="30" column="0" />
-        <mark key="[" line="61" column="14" />
-        <mark key="m" line="30" column="0" />
-        <mark key="]" line="61" column="17" />
-        <mark key="." line="61" column="17" />
-        <mark key="^" line="61" column="17" />
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1476422400886">
+        <mark key="'" line="18" column="20" />
+        <mark key="k" line="31" column="0" />
+        <mark key="[" line="13" column="20" />
+        <mark key="m" line="31" column="0" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
         <mark key="'" line="1" column="17" />
@@ -1342,10 +1345,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/PageNgCategory.java" timestamp="1476420871349">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/app/donald_manager/app/models/PageNgCategory.java" timestamp="1476421762588">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
         <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/MediaPage/index.js" timestamp="1473734448905">
@@ -1505,7 +1508,7 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/Page.java" timestamp="1476420388395">
+      <file name="$USER_HOME$/app/donald_manager/app/models/Page.java" timestamp="1476421991725">
         <mark key="'" line="29" column="18" />
         <mark key="[" line="54" column="34" />
         <mark key="]" line="54" column="35" />
@@ -1543,6 +1546,12 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6405b70f-9fca-4b6d-84c8-ac9614aca86c/console.sql" timestamp="1476422670851">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/wall/dm/app/dropdwon.component.ts" timestamp="1475214134850">
         <mark key="'" line="12" column="7" />
         <mark key="[" line="0" column="0" />
@@ -1550,8 +1559,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1476413595942">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1476421964094">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="49" column="2" />
         <mark key="]" line="49" column="2" />
         <mark key="." line="49" column="2" />
@@ -1802,9 +1811,9 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/PageCategory.java" timestamp="1476419942640">
+      <file name="$USER_HOME$/app/donald_manager/app/models/PageCategory.java" timestamp="1476421759731">
         <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
+        <mark key="]" line="21" column="33" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
@@ -1860,27 +1869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
-      <jump line="14" column="7" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
-      <jump line="77" column="0" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
-      <jump line="17" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
-      <jump line="15" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
-      <jump line="55" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
-      <jump line="20" column="30" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
-      <jump line="45" column="38" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
-      <jump line="77" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
-      <jump line="10" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
-      <jump line="63" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.html" />
-      <jump line="34" column="0" filename="$USER_HOME$/app/donald_manager/app/models/Page.java" />
-      <jump line="8" column="17" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
-      <jump line="58" column="17" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
-      <jump line="89" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
-      <jump line="95" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
-      <jump line="74" column="20" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
-      <jump line="75" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
-      <jump line="78" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="81" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="83" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="8" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
@@ -1899,12 +1887,10 @@
       <jump line="77" column="45" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="79" column="48" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="90" column="50" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
-      <jump line="91" column="43" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="93" column="50" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="103" column="23" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="47" column="52" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="53" column="2" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
-      <jump line="94" column="64" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="7" column="2" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="80" column="113" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="96" column="23" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
@@ -1932,7 +1918,6 @@
       <jump line="37" column="0" filename="$USER_HOME$/app/donald_manager/app/models/Frame.java" />
       <jump line="42" column="38" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="123" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
-      <jump line="1" column="15" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="63" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
       <jump line="45" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="36" column="8" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
@@ -1960,43 +1945,67 @@
       <jump line="2" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.component.ts" />
       <jump line="61" column="17" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
       <jump line="2" column="4" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
+      <jump line="77" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
+      <jump line="14" column="28" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="136" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="1" column="65" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="61" column="1" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="62" column="23" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="64" column="20" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="66" column="2" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="67" column="23" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="69" column="23" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="91" column="56" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="92" column="53" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="94" column="56" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="110" column="62" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="111" column="24" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="113" column="60" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="124" column="21" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="125" column="24" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="127" column="21" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="128" column="24" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="130" column="21" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="131" column="24" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="18" column="20" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pageId</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>pageId</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkMmNfaWRcPg==</text>
+        <text>m_page</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAT25lVG9NYW55KGNhc2NhZGUgPSBDYXNjYWRlVHlwZS5BTEwsIG1hcHBlZEJ5ID0gInBhZ2UiKQogIEBKc29uTWFuYWdlZFJlZmVyZW5jZQogIHB1YmxpYyBMaXN0PFBhZ2VDYXRlZ29yeT4gcGFnZUNhdGVnb3JpZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">KDE0LCdEMkMyLTUnLCAn6Ieq5YuV6LuK5aOy6LK3NCcpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KDE1LCdEMkMyLTYnLCAn6Ieq5YuV6LuK44Kr44Or44OB44Oj44O8Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgRDJjQ2F0ZWdvcnkgZDJjQ2F0ZWdvcnk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGlkLCBwYWdlX2lkLCBkMmNfY2F0ZWdvcnlfaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihKc29uLnRvSnNvbihwYykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvayhKc29uLnRvSnNvbihwYykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihKc29uLnRvSnNvbihwYykpOwo=</text>
@@ -2006,9 +2015,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkMmNfaWRcPg==</last-search>
+      <last-search>m_page</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkMmNfaWRcPg==</last-pattern>
+      <last-pattern>m_page</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>'false'</last-substitute>
       <last-dir>1</last-dir>
@@ -2016,9 +2025,6 @@
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
-        <entry>jquery</entry>
-        <entry>frame</entry>
         <entry>drop</entry>
         <entry>'true'</entry>
         <entry>'false'</entry>
@@ -2036,6 +2042,9 @@
         <entry encoding="base64">XDxQYWdlQ2F0ZWdvcnlcPg==</entry>
         <entry>;</entry>
         <entry encoding="base64">XDxkMmNfaWRcPg==</entry>
+        <entry>ng</entry>
+        <entry>page</entry>
+        <entry>m_page</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>

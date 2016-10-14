@@ -2,6 +2,7 @@
   <component name="LocalDatabaseDriverManager" version="141+">
     <driver id="h2.unified" name="H2" dialect="H2">
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/h2-license.txt</url>
       </library>
