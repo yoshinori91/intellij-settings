@@ -1399,6 +1399,13 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" timestamp="1476681749053">
+        <mark key="'" line="21" column="56" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="15" />
+        <mark key="^" line="16" column="15" />
+        <mark key="." line="16" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/heroes.component.css" timestamp="1473909474273">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -1891,7 +1898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="48" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="90" column="50" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="93" column="50" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="103" column="23" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
@@ -1991,55 +1997,56 @@
       <jump line="1" column="36" filename="$USER_HOME$/app/donald_manager/app/assets/app/category-modal.component.ts" />
       <jump line="24" column="32" filename="$USER_HOME$/app/donald_manager/app/assets/app/category-modal.component.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/category-modal.component.ts" />
+      <jump line="23" column="56" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5mcmFtZSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R3JlZXRpbmdNb2RhbENvbXBvbmVudCA=</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>jpg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxhIG1hdGVyaWFsaXplPSJsZWFuTW9kYWwiIFttYXRlcmlhbGl6ZVBhcmFtc109Ilt7ZGlzbWlzc2libGU6IGZhbHNlfV0iCiAgICAgICBjbGFzcz0id2F2ZXMtZWZmZWN0IHdhdmVzLWxpZ2h0IGJ0biBtb2RhbC10cmlnZ2VyIiAoY2xpY2spPSJvbkNsaWNrKCkiPk1vZGFsPC9hPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5mcmFtZSkK</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iIyF1c2VyIj48aW1nIGNsYXNzPSJjaXJjbGUiIHNyYz0iaW1hZ2VzL3l1bmEuanBnIj48L2E+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZnJhbWUuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgPGltZyBjbGFzcz0iYmFja2dyb3VuZCIgc3JjPSJpbWFnZXMvb2ZmaWNlLmpwZyI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubW9kYWwucmVzb2x2ZSh0aGlzLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5mcmFtZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZnJhbWUuaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubW9kYWwucmVzb2x2ZSh0aGlzLm5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIG1vZGFsOiBNb2RhbENvbnRleHQpIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtNb2RhbENvbnRleHR9IGZyb20gIi4vbW9kYWwiCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIG1vZGFsOiBNb2RhbENvbnRleHQpIHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBgXSwK</text>
+        <text encoding="base64">aW1wb3J0IHtNb2RhbENvbnRleHR9IGZyb20gIi4vbW9kYWwiCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'false'/false/g</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>jpg</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>jpg</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>'false'</last-substitute>
       <last-dir>1</last-dir>
@@ -2047,7 +2054,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rul</entry>
         <entry>url</entry>
         <entry>pagecate</entry>
         <entry>category_id</entry>
@@ -2067,6 +2073,7 @@
         <entry>icom</entry>
         <entry>icon</entry>
         <entry>;</entry>
+        <entry>jpg</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
