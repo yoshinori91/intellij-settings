@@ -1028,10 +1028,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" timestamp="1476771926950">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" timestamp="1476773708591">
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="90" column="7" />
+        <mark key="." line="90" column="7" />
+        <mark key="^" line="90" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/same/conf/routes" timestamp="1473924279887">
         <mark key="[" line="6" column="70" />
@@ -1173,12 +1174,12 @@
         <mark key="." line="10" column="65" />
         <mark key="^" line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1476770463583">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="79" column="9" />
-        <mark key="]" line="79" column="17" />
-        <mark key="." line="79" column="17" />
-        <mark key="^" line="79" column="17" />
+      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1476773566384">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="10" column="137" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/same/.gitignore" timestamp="1473991288149">
         <mark key="[" line="14" column="10" />
@@ -1965,7 +1966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="28" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="136" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="61" column="1" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="62" column="23" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
@@ -2065,6 +2065,7 @@
       <jump line="34" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
       <jump line="31" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
       <jump line="41" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
+      <jump line="74" column="0" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
