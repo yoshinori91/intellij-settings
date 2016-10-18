@@ -1021,12 +1021,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" timestamp="1476777943527">
-        <mark key="'" line="93" column="48" />
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-        <mark key="^" line="3" column="30" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" timestamp="1476782379531">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="18" column="9" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/conf/routes" timestamp="1473924279887">
         <mark key="[" line="6" column="70" />
@@ -1440,12 +1439,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" timestamp="1476691121725">
-        <mark key="'" line="21" column="56" />
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="16" column="15" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" timestamp="1476782982720">
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="49" column="9" />
+        <mark key="." line="49" column="9" />
+        <mark key="^" line="49" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/heroes.component.css" timestamp="1473909474273">
         <mark key="[" line="68" column="0" />
@@ -1960,10 +1958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
-      <jump line="18" column="20" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
-      <jump line="14" column="23" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
-      <jump line="10" column="1" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="135" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="1" column="65" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
       <jump line="59" column="13" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
@@ -2060,55 +2054,59 @@
       <jump line="0" column="26" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
       <jump line="59" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
       <jump line="92" column="48" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
+      <jump line="16" column="41" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
+      <jump line="4" column="34" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
+      <jump line="15" column="93" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
+      <jump line="13" column="32" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>; font-size:14px</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4K</text>
       </register>
       <register name="-" type="4">
-        <text>; font-size:14px</text>
+        <text encoding="base64">bWF0ZXJpYWxpemUg</text>
       </register>
       <register name="/" type="4">
-        <text>png</text>
+        <text>jira3</text>
       </register>
-      <register name="0" type="4">
-        <text>class=&quot;aui-header-logo-device&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvaDE+Cg==</text>
+        <text encoding="base64">ICA8YSBocmVmPSIjIiBkYXRhLWFjdGl2YXRlcz0ic2xpZGUtb3V0IiBjbGFzcz0iYnV0dG9uLWNvbGxhcHNlIj48aSBjbGFzcz0ibWF0ZXJpYWwtaWNvbnMiPm1lbnU8L2k+PC9hPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQUFBRE9OQUxEIE1BTkFHRVIK</text>
+        <text encoding="base64">ICA8L3VsPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgIDxsaT48YSBjbGFzcz0id2F2ZXMtZWZmZWN0IiBocmVmPSIjISI+VGhpcmQgTGluayBXaXRoIFdhdmVzPC9hPjwvbGk+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gY2xhc3M9ImF1aS1oZWFkZXItbG9nby1kZXZpY2UiPgo=</text>
+        <text encoding="base64">ICAgIDxsaT48YSBjbGFzcz0ic3ViaGVhZGVyIj5TdWJoZWFkZXI8L2E+PC9saT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8bmF2IAo=</text>
+        <text encoding="base64">ICAgIDxsaT48ZGl2IGNsYXNzPSJkaXZpZGVyIj48L2Rpdj48L2xpPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcz0iYXVpLWhlYWRlci1sb2dvLWRldmljZSI+QVVJPC9zcGFuPjwvYT48L2gxPgo=</text>
+        <text encoding="base64">ICAgIDxsaT48YSBocmVmPSIjISI+U2Vjb25kIExpbms8L2E+PC9saT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGgxIGlkPSJsb2dvIiBjbGFzcz0iYXVpLWhlYWRlci1sb2dvIGF1aS1oZWFkZXItbG9nby1hdWkiPjxhIGhyZWY9Imh0dHA6Ly9leGFtcGxlLmNvbS8iPjxzcGFuCg==</text>
+        <text encoding="base64">ICAgIDxsaT48YSBocmVmPSIjISI+PGkgY2xhc3M9Im1hdGVyaWFsLWljb25zIj5jbG91ZDwvaT5GaXJzdCBMaW5rIFdpdGggSWNvbjwvYT48L2xpPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8aDEK</text>
+        <text encoding="base64">ICAgIDwvZGl2PjwvbGk+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8aDEgCg==</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iIyFlbWFpbCI+PHNwYW4gY2xhc3M9IndoaXRlLXRleHQgZW1haWwiPmpkYW5kdHVya0BnbWFpbC5jb208L3NwYW4+PC9hPgo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'false'/false/g</text>
       </register>
     </registers>
     <search>
-      <last-search>png</last-search>
+      <last-search>jira3</last-search>
       <last-offset />
-      <last-pattern>png</last-pattern>
+      <last-pattern>jira3</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>check</last-substitute>
       <last-dir>1</last-dir>
@@ -2116,8 +2114,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toggle</entry>
-        <entry>aaaa</entry>
         <entry encoding="base64">XDxlZGl0RnJhbWVWYWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxzaXRlXD4=</entry>
         <entry>select</entry>
@@ -2136,6 +2132,8 @@
         <entry>imp</entry>
         <entry>img</entry>
         <entry>png</entry>
+        <entry encoding="base64">XDxqaXJhM1w+</entry>
+        <entry>jira3</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
