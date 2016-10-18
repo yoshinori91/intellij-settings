@@ -683,12 +683,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.component.ts" timestamp="1476757574707">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.component.ts" timestamp="1476760955053">
         <mark key="'" line="22" column="19" />
-        <mark key="[" line="63" column="26" />
-        <mark key="]" line="64" column="13" />
-        <mark key="." line="64" column="13" />
-        <mark key="^" line="64" column="13" />
+        <mark key="[" line="63" column="25" />
+        <mark key="]" line="63" column="28" />
+        <mark key="." line="63" column="28" />
+        <mark key="^" line="63" column="28" />
       </file>
       <file name="$USER_HOME$/donadona/client/package.json" timestamp="1473395550416">
         <mark key="[" line="5" column="14" />
@@ -766,12 +766,12 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.component.html" timestamp="1476756271890">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.component.html" timestamp="1476760047365">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="142" column="57" />
-        <mark key="]" line="142" column="57" />
-        <mark key="." line="142" column="57" />
-        <mark key="^" line="142" column="64" />
+        <mark key="[" line="142" column="39" />
+        <mark key="]" line="142" column="39" />
+        <mark key="." line="142" column="39" />
+        <mark key="^" line="142" column="39" />
       </file>
       <file name="$USER_HOME$/wall/dm/app/Site.ts" timestamp="1475652287195">
         <mark key="[" line="0" column="44" />
@@ -2042,43 +2042,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgW2lkXT0iY2F0ZWdvcnkuaWQiLz4K</text>
+        <text encoding="base64">ICAgIGxldCBpZHM6IG51bWJlcltdID0gdGhpcy5zaXRlLnBhZ2VzWzBdLnBhZ2VDYXRlZ29yaWVzCiAgICAgIC5tYXAocGMgPT4gcGMuZDJjQ2F0ZWdvcnkuaWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHJ1ZSA6IGZhbAo=</text>
+        <text encoding="base64">ICAgICAgLm1hcChwYyA9PiBwYy5kMmNDYXRlZ29yeS5pZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlkcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgLm1hcChkMmMgPT4gZDJjLmlkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGhhbnRlaQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBhZ2UuY2F0ZWdvcnlJZCA9PSBkMmNDYXRlZ29yeS5pZCkgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLmZpbHRlcihkMmNJZCA9PiBpZHMuaW5kZXhPZihkMmNJZCkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'false'/false/g</text>
@@ -2089,7 +2089,7 @@
       <last-offset />
       <last-pattern>check</last-pattern>
       <last-replace>false</last-replace>
-      <last-substitute>;</last-substitute>
+      <last-substitute>check</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
