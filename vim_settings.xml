@@ -631,12 +631,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1476787695736">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1476928459336">
         <mark key="'" line="56" column="22" />
-        <mark key="[" line="54" column="73" />
-        <mark key="]" line="54" column="73" />
-        <mark key="." line="54" column="73" />
-        <mark key="^" line="54" column="81" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475663009356">
         <mark key="'" line="25" column="12" />
@@ -1035,9 +1035,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" timestamp="1476785329551">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="30" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" timestamp="1476927675036">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="75" />
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
@@ -1061,12 +1061,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1476425396190">
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1476928536360">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
-        <mark key="^" line="2" column="4" />
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
         <mark key="'" line="1" column="17" />
@@ -1181,12 +1181,11 @@
         <mark key="." line="10" column="65" />
         <mark key="^" line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1476787233596">
-        <mark key="'" line="18" column="90" />
-        <mark key="[" line="82" column="7" />
-        <mark key="]" line="82" column="7" />
-        <mark key="." line="82" column="7" />
-        <mark key="^" line="82" column="32" />
+      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1476927078575">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="80" column="32" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/.gitignore" timestamp="1473991288149">
         <mark key="[" line="14" column="10" />
@@ -2080,52 +2079,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>bode</text>
+        <text>main.css</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Ij4=</text>
+        <text>site name no.2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ij4K</text>
+        <text encoding="base64">ICAgICAgICBqago=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGgzPuW6g+WRiuODmuODvOOCuOS4gOimpzwvaDM+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxsaT48YSByb3V0ZXJMaW5rPSIvcmVwb3J0IiByb3V0ZXJMaW5rQWN0aXZlPSJhY3RpdmUiPuODrOODneODvOODiDwvYT48L2xpPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxsaT48YSByb3V0ZXJMaW5re3tzaXRlLnNpdGVOYW1lfX08L2xpPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGNvbnRlbnQgc3VjaCBhcyBhIHZlcnRpY2FsIG5hdiAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iYXVpLXBhZ2UtcGFuZWwtbmF2Ij4K</text>
+        <text encoding="base64">ICAgICAgICBuYXYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aDM+5bqD5ZGK44Oa44O844K45LiA6KanPC9oMz4K</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiIHJlbD0ic3R5bGVzaGVldCI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEAqPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9tYXRlcmlhbGl6ZS8wLjk3LjcvY3NzL21hdGVyaWFsaXplLm1pbi5jc3MiPipACg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/'false'/false/g</text>
       </register>
     </registers>
     <search>
-      <last-search>bode</last-search>
+      <last-search>main.css</last-search>
       <last-offset />
-      <last-pattern>bode</last-pattern>
+      <last-pattern>main.css</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>check</last-substitute>
       <last-dir>1</last-dir>
@@ -2133,7 +2132,6 @@
     </search>
     <history>
       <history-search>
-        <entry>select</entry>
         <entry>table</entry>
         <entry>tr</entry>
         <entry>check</entry>
@@ -2153,6 +2151,7 @@
         <entry>;</entry>
         <entry>button</entry>
         <entry>bode</entry>
+        <entry>main.css</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
