@@ -1185,11 +1185,8 @@
         <mark key="." line="10" column="65" />
         <mark key="^" line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1476927078575">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="80" column="32" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1477013878137">
+        <mark key="'" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/.gitignore" timestamp="1473991288149">
         <mark key="[" line="14" column="10" />
@@ -1944,8 +1941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
-      <jump line="55" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
       <jump line="89" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
       <jump line="0" column="26" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
       <jump line="59" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
@@ -2044,55 +2039,57 @@
       <jump line="45" column="26" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.html" />
       <jump line="37" column="34" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.html" />
       <jump line="62" column="16" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.html" />
+      <jump line="20" column="0" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
+      <jump line="10" column="0" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>checkbox</text>
+        <text>cdn</text>
       </register>
-      <register name="0" type="4">
-        <text>result</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy9hdWktY2RuLmF0bGFzc2lhbi5jb20vYXVpLWFkZy81LjkuNC9jc3MvYXVpLmNzcyIgbWVkaWE9ImFsbCI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdDogYm9vbGVhbgo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy9hdWktY2RuLmF0bGFzc2lhbi5jb20vYXVpLWFkZy81LjkuNC9jc3MvYXVpLmNzcyIgbWVkaWE9ImFsbCI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy9hdWktY2RuLmF0bGFzc2lhbi5jb20vYXVpLWFkZy81LjkuNC9jc3MvYXVpLmNzcyIgbWVkaWE9ImFsbCI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy9hdWktY2RuLmF0bGFzc2lhbi5jb20vYXVpLWFkZy81LjkuNC9jc3MvYXVpLmNzcyIgbWVkaWE9ImFsbCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy9hdWktY2RuLmF0bGFzc2lhbi5jb20vYXVpLWFkZy81LjkuNC9jc3MvYXVpLmNzcyIgbWVkaWE9ImFsbCI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9rZW5kby5hbGwubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5kZWxldGVkSWRzLmluZGV4T2Yoc2l0ZS5pZCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGVsZXRlZElkcy4K</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9InN0eWxlcy9rZW5kby5kZWZhdWx0Lm1vYmlsZS5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNpdGVra2tra2trCg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSAoT3B0aW9uYWwpIEtlbmRvIFVJIEh5YnJpZCBDU1MuIEluY2x1ZGUgb25seSBpZiB5b3Ugd2lsbCB1c2UgdGhlIG1vYmlsZSBkZXZpY2VzIGZlYXR1cmVzLiAtLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9qcXVlcnkubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>27</text>
       </register>
     </registers>
     <search>
-      <last-search>checkbox</last-search>
+      <last-search>cdn</last-search>
       <last-offset />
-      <last-pattern>checkbox</last-pattern>
+      <last-pattern>cdn</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>check</last-substitute>
       <last-dir>1</last-dir>
@@ -2100,8 +2097,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jira3</entry>
-        <entry>bode</entry>
         <entry>main.css</entry>
         <entry encoding="base64">XDxyb3V0ZXJcPg==</entry>
         <entry>false</entry>
@@ -2120,6 +2115,8 @@
         <entry>check</entry>
         <entry>page</entry>
         <entry>checkbox</entry>
+        <entry>mobile</entry>
+        <entry>cdn</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
