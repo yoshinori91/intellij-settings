@@ -1030,12 +1030,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" timestamp="1476955736197">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" timestamp="1477020326183">
         <mark key="'" line="18" column="44" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="69" />
-        <mark key="^" line="12" column="44" />
-        <mark key="." line="19" column="42" />
+        <mark key="[" line="12" column="83" />
+        <mark key="]" line="12" column="86" />
+        <mark key="^" line="12" column="86" />
+        <mark key="." line="12" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/same/conf/routes" timestamp="1473924279887">
         <mark key="[" line="6" column="70" />
@@ -2044,10 +2044,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>cdn</text>
