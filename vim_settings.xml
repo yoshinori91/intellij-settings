@@ -311,12 +311,12 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1477446097809">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1477449337144">
         <mark key="'" line="100" column="48" />
-        <mark key="[" line="56" column="70" />
-        <mark key="]" line="56" column="66" />
-        <mark key="^" line="56" column="66" />
-        <mark key="." line="56" column="66" />
+        <mark key="[" line="59" column="107" />
+        <mark key="]" line="59" column="111" />
+        <mark key="^" line="59" column="111" />
+        <mark key="." line="59" column="111" />
       </file>
       <file name="$USER_HOME$/test/dona/conf/routes" timestamp="1473650793330">
         <mark key="[" line="11" column="62" />
@@ -1546,12 +1546,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477445975786">
-        <mark key="'" line="37" column="26" />
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="39" column="25" />
-        <mark key="." line="39" column="25" />
-        <mark key="^" line="39" column="25" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477449459700">
+        <mark key="'" line="43" column="18" />
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1476353472230">
         <mark key="'" line="42" column="21" />
@@ -2133,7 +2133,6 @@
       <jump line="37" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="52" column="16" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="30" column="16" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="43" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="12" column="44" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="37" column="26" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="39" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
@@ -2162,46 +2161,47 @@
       <jump line="86" column="10" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="89" column="13" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="100" column="48" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="43" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFtjaGVja2VkXT0iIWludmFsaWRGbGFnIg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICBjb25zb2xlLmxvZygiY2hhbmdlRmxhZyIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFtjaGVja2VkXT0iIWludmFsaWRGbGFnIg==</text>
+        <text>addControl</text>
       </register>
       <register name="/" type="4">
         <text>first</text>
       </register>
       <register name="0" type="4">
-        <text>[page.siteName, Validators.required],</text>
+        <text>(change)=&quot;changeFlag()&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbnZhbGlkRmxhZzogRm9ybUNvbnRyb2wK</text>
+        <text encoding="base64">ICAgICBjb25zb2xlLmxvZygiY2hhbmdlRmxhZyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZWNvbmROYW1lOiBGb3JtQ29udHJvbAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZm9ybS5hZGRDb250cm9sKCJpbnZhbGlkRmxhZyIsIHRoaXMuaW52YWxpZEZsYWcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybS5maXJzdE5hbWUudmFsdWUpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaW52YWxpZEZsYWcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHRoaXMuZm9ybS4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5mb3JtLmFkZENvbnRyb2wodGhpcy5zZWNvbmROYW1lKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhZ2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZm9ybSA9IHRoaXMuZmIuZ3JvdXAoewogICAgICBpbnZhbGlkRmxhZzogW3BhZ2UuaW52YWxpZEZsYWcsIFZhbGlkYXRvcnMucmVxdWlyZWRdLAogICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgInNpdGVOYW1lIjogW3BhZ2Uuc2l0ZU5hbWUsIFZhbGlkYXRvcnMucmVxdWlyZWRdLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZm9ybS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgInVybCI6IFtwYWdlLnVybCwgVmFsaWRhdG9ycy5yZXF1aXJlZF0sCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZm9ybS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImZpcnN0TmFtZSI6IFtwYWdlLnBhZ2VOYW1lLCBWYWxpZGF0b3JzLnJlcXVpcmVkXSwK</text>
+        <text encoding="base64">ICBpbnZhbGlkRmxhZzogRm9ybUNvbnRyb2wK</text>
       </register>
       <register name=":" type="4">
         <text>36</text>
