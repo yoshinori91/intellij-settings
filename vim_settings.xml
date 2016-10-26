@@ -311,12 +311,12 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1477462264977">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1477465537902">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="44" />
-        <mark key="^" line="108" column="58" />
-        <mark key="." line="145" column="0" />
+        <mark key="[" line="139" column="22" />
+        <mark key="]" line="139" column="45" />
+        <mark key="^" line="139" column="45" />
+        <mark key="." line="139" column="45" />
       </file>
       <file name="$USER_HOME$/test/dona/conf/routes" timestamp="1473650793330">
         <mark key="[" line="11" column="62" />
@@ -2165,7 +2165,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>配信ステータス</text>
@@ -2177,16 +2177,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNlbnRlci1ibG9jayI+CiAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBbZGlzYWJsZWRdPSIhZm9ybS52YWxpZCI+5pu05pawPC9idXR0b24+CiAgICAgICAgICAgIDxidXR0b24gKGNsaWNrKT0iYmFjaygpIj7miLvjgos8L2J1dHRvbj4KICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNlbnRlci1ibG9jayI+CiAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBbZGlzYWJsZWRdPSIhZm9ybS52YWxpZCI+5pu05pawPC9idXR0b24+CiAgICAgICAgICAgIDxidXR0b24gKGNsaWNrKT0iYmFjaygpIj7miLvjgos8L2J1dHRvbj4KICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2195,13 +2195,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tJmx0OyEmbmRhc2g7ICAmbmRhc2g7Jmd0Oy0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPC9kaXY+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPC9kaXY+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tJmx0OyEmbmRhc2g7ICAmbmRhc2g7Jmd0Oy0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>36</text>
