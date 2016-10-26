@@ -311,12 +311,12 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1477465537902">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1477467228533">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="139" column="22" />
-        <mark key="]" line="139" column="45" />
-        <mark key="^" line="139" column="45" />
-        <mark key="." line="139" column="45" />
+        <mark key="[" line="139" column="44" />
+        <mark key="]" line="139" column="44" />
+        <mark key="^" line="139" column="50" />
+        <mark key="." line="139" column="44" />
       </file>
       <file name="$USER_HOME$/test/dona/conf/routes" timestamp="1473650793330">
         <mark key="[" line="11" column="62" />
@@ -2164,44 +2164,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGJ0bi1sZw==</text>
       </register>
       <register name="-" type="4">
-        <text>配信ステータス</text>
+        <text encoding="base64">IGJ0bi1sZw==</text>
       </register>
       <register name="/" type="4">
         <text>disa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMiI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIChjbGljayk9ImJhY2soKSI+5oi744KLPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNlbnRlci1ibG9jayI+CiAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBbZGlzYWJsZWRdPSIhZm9ybS52YWxpZCI+5pu05pawPC9idXR0b24+CiAgICAgICAgICAgIDxidXR0b24gKGNsaWNrKT0iYmFjaygpIj7miLvjgos8L2J1dHRvbj4KICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBOZXh0IFN0ZXAhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBpZD0ic2luZ2xlYnV0dG9uIiBuYW1lPSJzaW5nbGVidXR0b24iIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgY2VudGVyLWJsb2NrIj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00IGNlbnRlci1ibG9jayI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tJmx0OyEmbmRhc2g7ICAmbmRhc2g7Jmd0Oy0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>36</text>
