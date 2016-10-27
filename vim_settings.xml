@@ -184,12 +184,12 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1477471170766">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="50" column="67" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1477546421020">
+        <mark key="'" line="122" column="14" />
+        <mark key="[" line="146" column="19" />
+        <mark key="]" line="146" column="17" />
+        <mark key="^" line="146" column="17" />
+        <mark key="." line="146" column="17" />
       </file>
       <file name="$USER_HOME$/test/dona/conf/routes" timestamp="1473650793330">
         <mark key="[" line="11" column="62" />
@@ -874,12 +874,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477470675619">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="41" column="67" />
-        <mark key="]" line="41" column="67" />
-        <mark key="." line="41" column="67" />
-        <mark key="^" line="42" column="103" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477546019810">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="9" />
+        <mark key="." line="19" column="9" />
+        <mark key="^" line="19" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/mock-heroes.ts" timestamp="1474290775942">
         <mark key="[" line="10" column="23" />
@@ -1199,11 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="18" column="19" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="20" column="26" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.component.ts" />
-      <jump line="24" column="52" filename="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.component.ts" />
       <jump line="35" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="34" column="59" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="22" column="13" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
@@ -1299,55 +1294,60 @@
       <jump line="64" column="96" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="0" column="16" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="15" column="6" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="20" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="56" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="19" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="146" column="5" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="122" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>site</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>site</text>
       </register>
       <register name="/" type="4">
-        <text>angular2</text>
+        <text encoding="base64">XDxpc09wZW5lZFNpdGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ng2-bs3-modal</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxwICpuZ0lmPSJhbGxJbXAiPgogICAgICAgICAgICAiY29uZGl0aW9uIuOBjHRydWXjga7loLTlkIjjgIHooajnpLrjgIIKICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtOZzJCczNNb2RhbE1vZHVsZX0gZnJvbSAibmcyLWJzMy1tb2RhbC9uZzItYnMzLW1vZGFsIgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE5nMkJzM01vZGFsTW9kdWxlLAo=</text>
+        <text encoding="base64">ICAgICAgSGVsbG8hIQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtOZzJCczNNb2RhbE1vZHVsZX0gZnJvbSAibmcyLWJzMy1tb2RhbC9uZzItYnMzLW1vZGFsIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnbmcyLWJzMy1tb2RhbCc6IHtkZWZhdWx0RXh0ZW5zaW9uOiAnanMnfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnbmcyLWJzMy1tb2RhbCc6ICdhc3NldHMvbGliL25nMi1iczMtbW9kYWwnCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaXNPcGVuZWRTaXRlID0gdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnbmcyLWJzMy1tb2RhbCc6IHtkZWZhdWx0RXh0ZW5zaW9uOiAnanMnfQo=</text>
+        <text encoding="base64">ICAgIHNpdGVMaXN0UGFnZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J25nMi1iczMtbW9kYWwnOiAnbm9kZV9tb2R1bGVzL25nMi1iczMtbW9kYWwnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNvbmRpdGlvbiLjgYxmYWxzZeOBruWgtOWQiOOAgeihqOekuuOAggo=</text>
       </register>
       <register name=":" type="4">
         <text>36</text>
       </register>
     </registers>
     <search>
-      <last-search>angular2</last-search>
+      <last-search encoding="base64">XDxpc09wZW5lZFNpdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>angular2</last-pattern>
+      <last-pattern encoding="base64">XDxpc09wZW5lZFNpdGVcPg==</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -1355,7 +1355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fetch</entry>
         <entry>site</entry>
         <entry>toggle</entry>
         <entry>formcon</entry>
@@ -1375,6 +1374,7 @@
         <entry>build</entry>
         <entry>modal</entry>
         <entry>angular2</entry>
+        <entry encoding="base64">XDxpc09wZW5lZFNpdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
