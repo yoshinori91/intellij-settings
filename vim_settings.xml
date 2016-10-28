@@ -327,12 +327,12 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1477561330049">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="169" column="60" />
-        <mark key="]" line="169" column="60" />
-        <mark key="^" line="169" column="60" />
-        <mark key="." line="169" column="60" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1477619803564">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="132" column="46" />
+        <mark key="]" line="132" column="55" />
+        <mark key="^" line="132" column="55" />
+        <mark key="." line="132" column="55" />
       </file>
       <file name="$USER_HOME$/test/dona/conf/routes" timestamp="1473650793330">
         <mark key="[" line="11" column="62" />
@@ -1184,11 +1184,11 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1477379828682">
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1477619878102">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
         <mark key="^" line="40" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
@@ -2041,18 +2041,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="26" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="113" column="26" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="118" column="26" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="123" column="26" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="128" column="26" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="68" column="48" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="71" column="24" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="84" column="45" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="86" column="10" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="100" column="48" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="43" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="52" column="35" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="56" column="36" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="90" column="49" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="96" column="31" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
@@ -2075,7 +2066,6 @@
       <jump line="33" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="69" column="35" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="29" column="21" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="137" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="20" column="13" filename="$USER_HOME$/app/donald_manager/target/web/public/main/lib/ng2-bs3-modal/ng2-bs3-modal.js" />
       <jump line="19" column="39" filename="$USER_HOME$/app/donald_manager/target/web/public/main/lib/ng2-bs3-modal/ng2-bs3-modal.js" />
@@ -2141,55 +2131,65 @@
       <jump line="3" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="148" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="44" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="138" column="10" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="132" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="145" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="135" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="19" column="29" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="179" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="35" column="42" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="52" column="33" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>C</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihKc29uLnRvSnNvbihwYykpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text encoding="base64">Y2xhc3M9ImJ0biBidG4tcHJpbWFyeSIg</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>col</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7Yy5kMmNJZH19PC90ZD4K</text>
+      <register name="0" type="4">
+        <text>ホワイトリスト DSP設定</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihKc29uLnRvSnNvbihwYykpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS1EU1DoqK3lrpo8L2E+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08YSBocmVmPSIjYWFhIiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLWJsb2NrIiAoY2xpY2spPSJzbU1vZGFsLnNob3coKSI+44OW44Ot44OD44Kv44Oq44K544OILS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGNlbnRlci1waWxsIj7mm7TmlrA8L2J1dHRvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGQyYy5pZCA9PT0gcGFnZS5wYWdlSWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZDJjQ2F0ZWdvcmllcy5mb3JFYWNoKGQyYyA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHQ6IGJvb2xlYW4gPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGNlbnRlci1waWxsIj7mm7TmlrA8L2J1dHRvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGNlbnRlci1waWxsIj7mm7TmlrA8L2J1dHRvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>col</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>col</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -2197,9 +2197,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cName</entry>
-        <entry>prim</entry>
-        <entry>disa</entry>
         <entry>input</entry>
         <entry>Module</entry>
         <entry>build</entry>
@@ -2217,6 +2214,9 @@
         <entry>directive</entry>
         <entry>Directive</entry>
         <entry>;</entry>
+        <entry>button</entry>
+        <entry>row</entry>
+        <entry>col</entry>
       </history-search>
       <history-cmd>
         <entry>2,$d</entry>
