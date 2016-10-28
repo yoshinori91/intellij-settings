@@ -1542,12 +1542,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477639664349">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477641096522">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="81" column="4" />
-        <mark key="]" line="81" column="4" />
-        <mark key="." line="81" column="4" />
-        <mark key="^" line="81" column="4" />
+        <mark key="[" line="85" column="16" />
+        <mark key="]" line="85" column="34" />
+        <mark key="." line="85" column="34" />
+        <mark key="^" line="85" column="34" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1476353472230">
         <mark key="'" line="42" column="21" />
@@ -2132,43 +2132,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">Zm9ybSA=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">Zm9ybSA=</text>
       </register>
       <register name="/" type="4">
         <text>blockCate</text>
       </register>
-      <register name="0" type="4">
-        <text>initialCategoryForm</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY2hlY2tlZDogWywgVmFsaWRhdG9ycy5yZXF1aXJlZF0sCiAgICAgIGlkOiBbIiJdLAogICAgICBjYXRlZ29yeUlkOiBbIiJdLAogICAgICBjYXRlZ29yeU5hbWU6IFsiIl0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5pdGlhbENoZWNrZWQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tlZDogW3BhZ2UuZGlzcENhdGVnb3J5TmFtZSxdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIH0pCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIC8vICAgYmxvY2tDYXRlZ29yeTogbmV3IEZvcm1Db250cm9sKHt2YWx1ZTogcGFnZS5kaXNwQ2F0ZWdvcnlOYW1lLCBkaXNhYmxlZDogdHJ1ZX0pLAo=</text>
+        <text encoding="base64">ICAgICAgcG9zdGNvZGU6IFsiIl0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIC8vICAgY2F0ZWdvcnk6IG5ldyBGb3JtQ29udHJvbCh7dmFsdWU6IHBhZ2UuZGlzcENhdGVnb3J5TmFtZSwgZGlzYWJsZWQ6IHRydWV9KSwK</text>
+        <text encoding="base64">ICAgICAgc3RyZWV0OiBbIiIsIFZhbGlkYXRvcnMucmVxdWlyZWRdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIC8vICAgc2l0ZU5hbWU6IG5ldyBGb3JtQ29udHJvbCh7dmFsdWU6IHBhZ2Uuc2l0ZU5hbWUsIGRpc2FibGVkOiB0cnVlfSksCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLl9mYi5ncm91cCh7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIC8vICAgYWxsSW1wOiBuZXcgRm9ybUNvbnRyb2woYXMpLAo=</text>
+        <text encoding="base64">ICBpbml0aWFsQ2F0ZWdvcnlGb3JtKCk6IGFueSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIC8vICAgdXJsOiBuZXcgRm9ybUNvbnRyb2wocGFnZS51cmwpLAo=</text>
+        <text encoding="base64">aW5pdGlhbENoZWNrZWQK</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
