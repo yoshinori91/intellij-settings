@@ -1542,12 +1542,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477637704247">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477639664349">
         <mark key="'" line="62" column="0" />
-        <mark key="[" line="73" column="30" />
-        <mark key="]" line="73" column="30" />
-        <mark key="." line="73" column="30" />
-        <mark key="^" line="73" column="41" />
+        <mark key="[" line="81" column="4" />
+        <mark key="]" line="81" column="4" />
+        <mark key="." line="81" column="4" />
+        <mark key="^" line="81" column="4" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1476353472230">
         <mark key="'" line="42" column="21" />
@@ -2132,43 +2132,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>blockCate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2F0ZWdvcnk6W3BhZ2UuZGlzcENhdGVnb3J5TmFtZSxdCg==</text>
+      <register name="0" type="4">
+        <text>initialCategoryForm</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW5pdGlhbENoZWNrZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY2hlY2tlZDogW3BhZ2UuZGlzcENhdGVnb3J5TmFtZSxdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBkcyA9IHBhZ2UuaW52YWxpZEZsYWcgPyAiZW5hYmxlZCIgOiAiZGlzYWJsZWQiCiAgICBsZXQgYXMgPSBwYWdlLmFsbEltcCA/ICJlbmFibGVkIiA6ICJkaXNhYmxlZCIK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhZ2UpCg==</text>
+        <text encoding="base64">ICAgIC8vIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBkcyA9IHBhZ2UuaW52YWxpZEZsYWcgPyAiZW5hYmxlZCIgOiAiZGlzYWJsZWQiCiAgICBsZXQgYXMgPSBwYWdlLmFsbEltcCA/ICJlbmFibGVkIiA6ICJkaXNhYmxlZCIK</text>
+        <text encoding="base64">ICAgIC8vIC8vICAgYmxvY2tDYXRlZ29yeTogbmV3IEZvcm1Db250cm9sKHt2YWx1ZTogcGFnZS5kaXNwQ2F0ZWdvcnlOYW1lLCBkaXNhYmxlZDogdHJ1ZX0pLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZXREMmNDYXRlZ29yaWVzKCk6IHZvaWQgewogICAgdGhpcy5wYWdlLnBhZ2VDYXRlZ29yaWVzCiAgICAgIC5mb3JFYWNoKHBjID0+IHRoaXMuc2V0SXNTZWxlY3RlZE9mRDJjKHBjKSkKICB9CgogIHNldElzU2VsZWN0ZWRPZkQyYyhwQ2F0ZTogUGFnZUNhdGVnb3J5KTogdm9pZCB7CiAgICB0aGlzLmQyY0NhdGVnb3JpZXMuZm9yRWFjaChkMmMgPT4gewogICAgICBpZiAoZDJjLmlkID09PSBwQ2F0ZS5kMmNDYXRlZ29yeS5pZCkgewogICAgICAgIGQyYy5pc1NlbGVjdGVkID0gdHJ1ZQogICAgICB9CiAgICB9KQogIH0K</text>
+        <text encoding="base64">ICAgIC8vIC8vICAgY2F0ZWdvcnk6IG5ldyBGb3JtQ29udHJvbCh7dmFsdWU6IHBhZ2UuZGlzcENhdGVnb3J5TmFtZSwgZGlzYWJsZWQ6IHRydWV9KSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIC8vICAgc2l0ZU5hbWU6IG5ldyBGb3JtQ29udHJvbCh7dmFsdWU6IHBhZ2Uuc2l0ZU5hbWUsIGRpc2FibGVkOiB0cnVlfSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvcGVuTG9nbygpOiB2b2lkIHsKICAgIGNvbnNvbGUubG9nKCJ0ZXN0IikKICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIC8vICAgYWxsSW1wOiBuZXcgRm9ybUNvbnRyb2woYXMpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMK</text>
+        <text encoding="base64">ICAgIC8vIC8vICAgdXJsOiBuZXcgRm9ybUNvbnRyb2wocGFnZS51cmwpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
