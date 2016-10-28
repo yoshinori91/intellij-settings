@@ -1542,12 +1542,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477630419714">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477633987600">
         <mark key="'" line="27" column="63" />
-        <mark key="[" line="78" column="2" />
-        <mark key="]" line="78" column="2" />
-        <mark key="." line="78" column="2" />
-        <mark key="^" line="80" column="3" />
+        <mark key="[" line="77" column="90" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="79" column="18" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1476353472230">
         <mark key="'" line="42" column="21" />
@@ -2131,8 +2131,8 @@
       <jump line="27" column="63" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuZm9ybS5ncm91cAo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -2144,31 +2144,31 @@
         <text encoding="base64">ICAgICAgYmxvY2tDYXRlZ29yeTogbmV3IEZvcm1Db250cm9sKHt2YWx1ZTogcGFnZS5kaXNwQmxvY2tDYXRlZ29yeU5hbWUsIGRpc2FibGVkOiB0cnVlfSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmxvY2tDYXRlZ29yeTogbmV3IEZvcm1Db250cm9sKHt2YWx1ZTogcGFnZS5kaXNwQmxvY2tDYXRlZ29yeU5hbWUsIGRpc2FibGVkOiB0cnVlfSkpLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZm9ybS5ncm91cAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChuZXcgRm9ybUdyb3VwKHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFnZUNhdGVnb3J5OiBuZXcgRm9ybUdyb3VwKHt9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmxvY2tDYXRlZ29yeTogbmV3IEZvcm1Db250cm9sKHt2YWx1ZTogcGFnZS5kaXNwQmxvY2tDYXRlZ29yeU5hbWUsIGRpc2FibGVkOiB0cnVlfSkpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyZXByaWNhIikK</text>
+        <text encoding="base64">ICAgIChuZXcgRm9ybUdyb3VwKHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJtZXRlb3JhIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZDJjCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyZXByaWNhIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkMmMuaXNTZWxlY3RlZCA9IHRydWUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJtZXRlb3JhIikK</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
