@@ -1536,12 +1536,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477898440845">
-        <mark key="'" line="27" column="11" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="25" />
-        <mark key="." line="134" column="0" />
-        <mark key="^" line="137" column="38" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477901849181">
+        <mark key="'" line="75" column="2" />
+        <mark key="[" line="134" column="22" />
+        <mark key="]" line="134" column="22" />
+        <mark key="." line="134" column="22" />
+        <mark key="^" line="134" column="24" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1476353472230">
         <mark key="'" line="42" column="21" />
@@ -2024,9 +2024,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="11" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
-      <jump line="14" column="77" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
-      <jump line="48" column="9" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
       <jump line="49" column="31" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="40" column="33" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="1" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
@@ -2096,7 +2093,6 @@
       <jump line="19" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="34" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="35" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="50" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="52" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="107" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="108" column="27" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2106,11 +2102,9 @@
       <jump line="109" column="31" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="78" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="79" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="83" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="91" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="92" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="32" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="57" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="166" column="28" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="168" column="60" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="170" column="40" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
@@ -2124,55 +2118,61 @@
       <jump line="48" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="27" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="12" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/models/page.ts" />
+      <jump line="104" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="57" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="50" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="110" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="83" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="75" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYXJycy5mb3JFYWNoKGFyciA9PiB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>jjj</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>jjj</text>
       </register>
       <register name="/" type="4">
-        <text>is</text>
+        <text>show</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGQyYy5pZCA9PT0gcENhdGUuZDJjQ2F0ZWdvcnkuaWQpIHsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGFnZS5wYWdlQ2F0ZWdvcmllcy5sZW5naHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXJycy5mb3JFYWNoKGFyciA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucGFnZQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucGFnZS5wYWdlQ2F0ZWdvcmllcy4K</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaGlsZE1vZGFsLnNob3coKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGlmICh0eXBlb2YgdGhpcy5kMmNDYXRlZ29yaWVzICE9PSAidW5kZWZpbmVkIikgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wYWdlLnBhZ2VDYXRlZ29yaWVzLnB1c2goYXJyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
       </register>
     </registers>
     <search>
-      <last-search>is</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern>is</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute encoding="base64">XDxoaWRlQ2hpbGRNb2RhbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2180,17 +2180,13 @@
     </search>
     <history>
       <history-search>
-        <entry>hide</entry>
-        <entry encoding="base64">XDxoaWRlQ2hpbGRNb2RhbFw+</entry>
         <entry>;</entry>
         <entry>modal</entry>
-        <entry>open</entry>
         <entry encoding="base64">XDx0bXBEMmNcPg==</entry>
         <entry>lodash</entry>
         <entry>dash</entry>
         <entry>then</entry>
         <entry encoding="base64">XDxwYWdlQ2F0ZWdvcmllc1w+</entry>
-        <entry encoding="base64">XDxzZXREMmNDYXRlZ29yaWVzXD4=</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDxkMmNcPg==</entry>
         <entry>:</entry>
@@ -2200,6 +2196,10 @@
         <entry encoding="base64">XDxzZXRJc1NlbGVjdGVkT2ZEMmNcPg==</entry>
         <entry>changeFlag</entry>
         <entry>is</entry>
+        <entry>hide</entry>
+        <entry encoding="base64">XDxzZXREMmNDYXRlZ29yaWVzXD4=</entry>
+        <entry>open</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
