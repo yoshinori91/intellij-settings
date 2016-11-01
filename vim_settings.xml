@@ -1553,12 +1553,11 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477981591856">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477982371773">
         <mark key="'" line="124" column="6" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="50" column="8" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1476353472230">
         <mark key="'" line="42" column="21" />
@@ -2150,7 +2149,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHdhaXQK</text>
       </register>
       <register name="-" type="4">
         <text>hideChildModal(): void {</text>
@@ -2162,19 +2161,19 @@
         <text encoding="base64">LyRpZDxbMC05XSs+IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHdhaXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE9iamVjdC5zdAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNsZWVwCg==</text>
+        <text encoding="base64">ICAgIE9iamVjdC5zdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0b3AK</text>
+        <text encoding="base64">ICAgIHNsZWVwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0b3AK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -2186,7 +2185,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgUmVzdWx0IHVwZGF0ZShmaW5hbCBMb25nIGlkKSB7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oInVwZGF0ZSBwYWdlIik7CiAgICByZXR1cm4gbnVsbDsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
