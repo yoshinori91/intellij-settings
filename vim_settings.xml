@@ -1536,12 +1536,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477965064375">
-        <mark key="'" line="75" column="2" />
-        <mark key="[" line="136" column="11" />
-        <mark key="]" line="136" column="13" />
-        <mark key="." line="136" column="13" />
-        <mark key="^" line="136" column="13" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1477966284605">
+        <mark key="'" line="125" column="29" />
+        <mark key="[" line="127" column="14" />
+        <mark key="]" line="127" column="18" />
+        <mark key="." line="127" column="18" />
+        <mark key="^" line="127" column="18" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1476353472230">
         <mark key="'" line="42" column="21" />
@@ -2024,7 +2024,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="31" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="40" column="33" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="1" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="11" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
@@ -2124,13 +2123,14 @@
       <jump line="110" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="83" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="75" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="125" column="29" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jjj</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5TmFtZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>jjj</text>
+        <text>displayName</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -2139,31 +2139,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGFnZS5wYWdlQ2F0ZWdvcmllcy5sZW5naHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5TmFtZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jaGlsZE1vZGFsLnNob3coKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh0eXBlb2YgdGhpcy5kMmNDYXRlZ29yaWVzICE9PSAidW5kZWZpbmVkIikgewo=</text>
+        <text encoding="base64">ICAgICAgbGV0IGJlZm9yZTogc3RyaW5nID0gYy5kMmNDYXRlZ29yeS5jYXRlZ29yeQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wYWdlLnBhZ2VDYXRlZ29yaWVzLnB1c2goYXJyKQo=</text>
+        <text encoding="base64">ICAgICAgaWYoZGlzcGxheU5hbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>97</text>
