@@ -15,7 +15,6 @@
         <mark key="." line="34" column="2" />
         <mark key="^" line="34" column="2" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/target/web/public/main/lib/angular2-tree-component/lib/components/tree-node.component.ts" timestamp="1477292335631" />
       <file name="$USER_HOME$/app/donald_manager/target/web/public/main/lib/ng2-bootstrap/components/modal/modal.component.d.ts" timestamp="1477555713044">
         <mark key="'" line="3" column="26" />
       </file>
@@ -230,6 +229,12 @@
         <mark key="]" line="43" column="56" />
         <mark key="." line="43" column="56" />
         <mark key="^" line="43" column="56" />
+      </file>
+      <file name="$USER_HOME$/app/donald_manager/app/models/AdPageUpdateForm.java" timestamp="1478051160705">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/components/ListInfo.js" timestamp="1473217585458">
         <mark key="'" line="49" column="0" />
@@ -840,7 +845,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/tree-view.html" timestamp="1477276636714" />
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.ts" timestamp="1474005641715">
         <mark key="'" line="7" column="7" />
         <mark key="[" line="11" column="56" />
@@ -1191,12 +1195,12 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1478050040210">
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1478051345130">
         <mark key="'" line="53" column="10" />
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="60" column="26" />
-        <mark key="^" line="60" column="26" />
-        <mark key="." line="60" column="26" />
+        <mark key="[" line="62" column="34" />
+        <mark key="]" line="63" column="22" />
+        <mark key="." line="63" column="22" />
+        <mark key="^" line="63" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -1354,7 +1358,6 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/target/web/public/main/lib/angular2-tree-component/lib/models/tree.model.ts" timestamp="1477292238031" />
       <file name="$USER_HOME$/app/donald_manager/app/models/PageNotBiddingDsp.java" timestamp="1476239184103">
         <mark key="[" line="2" column="85" />
         <mark key="]" line="2" column="85" />
@@ -1834,7 +1837,6 @@
         <mark key="^" line="38" column="26" />
         <mark key="." line="18" column="66" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/target/web/public/main/lib/angular2-tree-component/lib/components/loading.component.ts" timestamp="1477293971815" />
       <file name="$USER_HOME$/test/dona/public/app/actions/mediaPage/index.js" timestamp="1473328709459">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="16" />
@@ -1971,7 +1973,6 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/target/web/public/main/lib/minimatch/minimatch.js" timestamp="1477547592842" />
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/controllers/MediaController.js" timestamp="1474431932244">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="10" />
@@ -2151,43 +2152,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>called update</text>
+        <text encoding="base64">c2l0ZU5hbWUg</text>
       </register>
       <register name="-" type="4">
-        <text>called update</text>
+        <text encoding="base64">c2l0ZU5hbWUg</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIEpzb25Ob2RlIGpzb24gPSByZXF1ZXN0KCkuYm9keSgpLmFzSnNvbigpOwo=</text>
+        <text encoding="base64">ICAgIHBhZ2Uuc2l0ZU5hbWUgPSBmb3JtLnNpdGVOYW1lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLmh0dHAucHV0KHRoaXMuYWRQYWdlRWRpdFVybCwgSlNPTi5zdHJpbmdpZnkoYWRGb3JtKSwge2hlYWRlcnM6IHRoaXMuaGVhZGVyc30pCg==</text>
+        <text encoding="base64">ICAgIHBhZ2Uuc2l0ZU5hbWUgPSBmb3JtLnNpdGVOYW1lOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UE9TVCAgICAgICAgL2FiY2QvJGlkPFswLTldKz4gICAgICAgICAgICAgICAgICBjb250cm9sbGVycy5QYWdlQ29udHJvbGxlci51cGRhdGUoaWQ6IExvbmcpCg==</text>
+        <text encoding="base64">ICAgIHBhZ2UuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGFkUGFnZUVkaXRVcmw6IHN0cmluZyA9ICJhYmNkLzE/Igo=</text>
+        <text encoding="base64">ICAgIHBhZ2UuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UFVUICAgICAgICAvYWQtbWd0L2FkLXBhZ2UvZWRpdCAgICAgICAgICAgICAgIGNvbnRyb2xsZXJzLlBhZ2VDb250cm9sbGVyLnVwZGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgIHBhZ2UuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaHR0cCkK</text>
+        <text encoding="base64">ICAgIGZvcm0uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihqc29uKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHRoaXMuZm9ybSkpCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY2FsbGVkIHVwZGF0ZSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VydmljZS51cGRhdGVBZFBhZ2UodGhpcy5mb3JtKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpzb25EYXRhKQo=</text>
+        <text encoding="base64">ICBTdHJpbmdkCg==</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
