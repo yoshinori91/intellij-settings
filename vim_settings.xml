@@ -906,12 +906,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1478063973059">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1478065214015">
         <mark key="'" line="51" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+        <mark key="^" line="30" column="2" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Home.js" timestamp="1473403956502">
         <mark key="'" line="22" column="21" />
@@ -2151,53 +2151,53 @@
       <jump line="51" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>pageId</text>
+        <text>openAdPage</text>
       </register>
       <register name="0" type="4">
         <text>makeAdPageList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJlZGl0QWRQYWdlIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFtgYXNzZXRzL2FwcC9wYWdlLmxpc3QuY3NzYF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoPjwvdGg+Cg==</text>
+        <text encoding="base64">ICBzdHlsZVVybHM6IFtgYXNzZXRzL2FwcC9wYWdlLmxpc3QuY3NzYF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGNsYXNzPSJ0ZXh0LWNlbnRlciI+6YWN5L+hPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPjwvdGg+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoIGNsYXNzPSJ0ZXh0LWNlbnRlciI+6YWN5L+hPC90aD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXNtIiAoY2xpY2spPSJlZGl0QWRQYWdlKHBhZ2UpIj48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1wZW5jaWwiPjwvc3Bhbj4KICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXNtIiAoY2xpY2spPSJlZGl0QWRQYWdlKHBhZ2UpIj48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1wZW5jaWwiPjwvc3Bhbj4KICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
       </register>
     </registers>
     <search>
-      <last-search>pageId</last-search>
+      <last-search>openAdPage</last-search>
       <last-offset />
-      <last-pattern>pageId</last-pattern>
+      <last-pattern>openAdPage</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute encoding="base64">XDxoaWRlQ2hpbGRNb2RhbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2205,7 +2205,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setValue</entry>
         <entry>form</entry>
         <entry>back</entry>
         <entry>changeChecked</entry>
@@ -2225,6 +2224,7 @@
         <entry>pageID</entry>
         <entry>pageid</entry>
         <entry>pageId</entry>
+        <entry>openAdPage</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/todo/user/g</entry>
