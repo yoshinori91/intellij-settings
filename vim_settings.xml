@@ -1191,12 +1191,12 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1477987205770">
-        <mark key="'" line="65" column="15" />
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="23" />
-        <mark key="^" line="57" column="35" />
-        <mark key="." line="57" column="23" />
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1478050040210">
+        <mark key="'" line="53" column="10" />
+        <mark key="[" line="60" column="24" />
+        <mark key="]" line="60" column="26" />
+        <mark key="^" line="60" column="26" />
+        <mark key="." line="60" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -2048,8 +2048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="73" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="90" column="19" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="42" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="47" column="36" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="99" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2129,7 +2127,6 @@
       <jump line="30" column="4" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="45" column="16" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="49" column="10" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="53" column="16" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="54" column="30" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="125" column="6" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2148,19 +2145,22 @@
       <jump line="59" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="18" column="10" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="52" column="16" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="53" column="10" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>called update</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>called update</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
-      <register name="0" type="4">
-        <text>adPageEditUrl</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIEpzb25Ob2RlIGpzb24gPSByZXF1ZXN0KCkuYm9keSgpLmFzSnNvbigpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLmh0dHAucHV0KHRoaXMuYWRQYWdlRWRpdFVybCwgSlNPTi5zdHJpbmdpZnkoYWRGb3JtKSwge2hlYWRlcnM6IHRoaXMuaGVhZGVyc30pCg==</text>
