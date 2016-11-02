@@ -664,12 +664,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1477558856774">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1478062528265">
         <mark key="'" line="37" column="46" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="76" />
-        <mark key="^" line="44" column="16" />
-        <mark key="." line="44" column="16" />
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="37" />
+        <mark key="^" line="46" column="37" />
+        <mark key="." line="46" column="37" />
       </file>
       <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475663009356">
         <mark key="'" line="25" column="12" />
@@ -906,12 +906,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1477299554790">
-        <mark key="'" line="17" column="22" />
-        <mark key="[" line="60" column="32" />
-        <mark key="]" line="61" column="26" />
-        <mark key="." line="61" column="26" />
-        <mark key="^" line="61" column="26" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1478063973059">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Home.js" timestamp="1473403956502">
         <mark key="'" line="22" column="21" />
@@ -994,12 +994,12 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1477987296588">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1478063136789">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="59" column="23" />
-        <mark key="." line="59" column="23" />
-        <mark key="^" line="59" column="23" />
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="14" />
+        <mark key="." line="36" column="14" />
+        <mark key="^" line="36" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/services/MediaServiceImpl.java" timestamp="1474954478807">
         <mark key="'" line="9" column="30" />
@@ -2049,7 +2049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="46" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="118" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="53" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2149,46 +2148,47 @@
       <jump line="53" column="10" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="145" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="51" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pageId</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>pageId</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYmxvY2tDYXRlZ29yeTogcmVzdWx0Cg==</text>
+      <register name="0" type="4">
+        <text>makeAdPageList</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWdlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybS5nZXQoImJsb2NrQ2F0ZWdvcnkiKS52YWx1ZSkK</text>
+        <text encoding="base64">ICBzdHlsZVVybHM6IFtgYXNzZXRzL2FwcC9wYWdlLmxpc3QuY3NzYF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybS5nZXQoImJsb2NrQ2F0ZWdvcnkiKS52YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPjwvdGg+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZ2Uuc2l0ZU5hbWUgPSBmb3JtLnNpdGVOYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoIGNsYXNzPSJ0ZXh0LWNlbnRlciI+6YWN5L+hPC90aD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZ2UuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZ2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXNtIiAoY2xpY2spPSJlZGl0QWRQYWdlKHBhZ2UpIj48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1wZW5jaWwiPjwvc3Bhbj4KICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZ2UuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
