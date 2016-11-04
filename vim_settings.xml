@@ -679,11 +679,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1478239006510">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1478243675469">
+        <mark key="'" line="64" column="22" />
+        <mark key="[" line="70" column="38" />
+        <mark key="]" line="70" column="41" />
+        <mark key="." line="70" column="41" />
+        <mark key="^" line="70" column="41" />
       </file>
       <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475663009356">
         <mark key="'" line="25" column="12" />
@@ -929,12 +930,11 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1478239429000">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="87" column="15" />
-        <mark key="]" line="87" column="24" />
-        <mark key="." line="87" column="24" />
-        <mark key="^" line="87" column="24" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1478243571622">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Home.js" timestamp="1473403956502">
         <mark key="'" line="22" column="21" />
@@ -2108,7 +2108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="45" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="136" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="46" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="63" column="13" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
@@ -2208,55 +2207,56 @@
       <jump line="11" column="36" filename="$USER_HOME$/app/donald_manager/app/assets/app/SiteService.ts" />
       <jump line="45" column="7" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
       <jump line="40" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
+      <jump line="64" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>abcde</text>
+        <text>hello</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>hello</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFNpdGVMaXN0Q29tcG9uZW50LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJuZ09uSW5pdCIpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZW1wYWx0ZWRkCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZ290bwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoZWxsbygpOiB2b2lkIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdXJsaWJkZAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJoZWxsbyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtJbmplY3RhYmxlfSBmb3JtICJAYW5ndWxhci9jb3JlIgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJuZ09uSW5pdCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGhpCg==</text>
+        <text encoding="base64">ICB0ZW1wYWx0ZWRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>46</text>
+        <text>70</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>hello</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>hello</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute encoding="base64">XDxoaWRlQ2hpbGRNb2RhbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2264,7 +2264,6 @@
     </search>
     <history>
       <history-search>
-        <entry>button</entry>
         <entry>edit</entry>
         <entry>info</entry>
         <entry>header</entry>
@@ -2284,9 +2283,9 @@
         <entry>ad</entry>
         <entry>site</entry>
         <entry>;</entry>
+        <entry>hello</entry>
       </history-search>
       <history-cmd>
-        <entry>1,$s/&quot;/'/g</entry>
         <entry>1,$d</entry>
         <entry>.,$d</entry>
         <entry>1,$s/'/&quot;/g</entry>
@@ -2306,6 +2305,7 @@
         <entry>180</entry>
         <entry>65</entry>
         <entry>46</entry>
+        <entry>70</entry>
       </history-cmd>
       <history-expr />
       <history-input />
