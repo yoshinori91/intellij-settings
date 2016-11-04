@@ -529,12 +529,12 @@
         <mark key="^" line="14" column="73" />
         <mark key="." line="14" column="73" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/Site.java" timestamp="1477040108746">
+      <file name="$USER_HOME$/app/donald_manager/app/models/Site.java" timestamp="1478253334859">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="32" />
-        <mark key="." line="24" column="31" />
-        <mark key="^" line="24" column="31" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="22" column="1" />
+        <mark key="^" line="22" column="1" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/components/User.js" timestamp="1473217664238">
         <mark key="'" line="26" column="0" />
@@ -1148,12 +1148,12 @@
         <mark key="^" line="2445" column="4" />
         <mark key="." line="2445" column="4" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1478223101152">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="13" column="21" />
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1478253366719">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="33" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
         <mark key="'" line="1" column="17" />
@@ -2113,9 +2113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="31" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="58" column="55" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
-      <jump line="50" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="19" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="51" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
@@ -2213,55 +2210,58 @@
       <jump line="33" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.edit.component.html" />
       <jump line="34" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.edit.component.html" />
       <jump line="3" column="10" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.edit.component.html" />
+      <jump line="28" column="24" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
+      <jump line="21" column="12" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
+      <jump line="20" column="12" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mobile</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>mobile</text>
       </register>
       <register name="/" type="4">
-        <text>Id</text>
+        <text>m_site</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBtb2JpbGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBtb2JpbGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+e3tmb3JtLnZhbHVlIHwganNvbiB9fTwvcD4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS0g44K144Kk44OI44Kr44OG44K044OqIC0tPgogICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCBjb2wtc20tMiI+44K144Kk44OI44Kr44OG44K044OqPC9sYWJlbD4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTYiPgogICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBmb3JtQ29udHJvbE5hbWU9InNpdGVDYXRlZ29yaWVzIiByZXF1aXJlZCBtYXhsZW5ndGg9IjUwMCI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMiI+CiAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi1ibG9jayI+44K144Kk44OI44Kr44OG44K044Oq6Kit5a6aPC9idXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb250cm9sLWxhYmVsIGNvbC1zbS0yIj7jg5fjg6njgqTjg5Djgrfjg7zjg53jg6rjgrfjg7w8L2xhYmVsPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHA+e3tmb3JtLnZhbHVlIHwganNvbiB9fTwvcD4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwhLS0g44K144Kk44OI44Kr44OG44K044OqIC0tPgogICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCBjb2wtc20tMiI+44K144Kk44OI44Kr44OG44K044OqPC9sYWJlbD4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTYiPgogICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBmb3JtQ29udHJvbE5hbWU9InNpdGVDYXRlZ29yaWVzIiByZXF1aXJlZCBtYXhsZW5ndGg9IjUwMCI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMiI+CiAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi1ibG9jayI+44K144Kk44OI44Kr44OG44K044Oq6Kit5a6aPC9idXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb250cm9sLWxhYmVsIGNvbC1zbS0yIj7jg5fjg6njgqTjg5Djgrfjg7zjg53jg6rjgrfjg7w8L2xhYmVsPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgZm9ybUNvbnRyb2xOYW1lPSJkb21haW4iIHJlcXVpcmVkIG1heGxlbmd0aD0iNTAwIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
       </register>
     </registers>
     <search>
-      <last-search>Id</last-search>
+      <last-search>m_site</last-search>
       <last-offset />
-      <last-pattern>Id</last-pattern>
+      <last-pattern>m_site</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute encoding="base64">XDxoaWRlQ2hpbGRNb2RhbFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2269,7 +2269,6 @@
     </search>
     <history>
       <history-search>
-        <entry>child</entry>
         <entry>show</entry>
         <entry encoding="base64">XDxQYWdlQ2F0ZWdvcnlcPg==</entry>
         <entry>ad-mgt</entry>
@@ -2289,6 +2288,7 @@
         <entry encoding="base64">PHA=</entry>
         <entry>box-body</entry>
         <entry>Id</entry>
+        <entry>m_site</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
