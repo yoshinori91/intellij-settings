@@ -151,12 +151,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.edit.component.ts" timestamp="1478249668008">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.edit.component.ts" timestamp="1478509337000">
         <mark key="'" line="37" column="9" />
-        <mark key="[" line="40" column="18" />
-        <mark key="]" line="42" column="41" />
-        <mark key="." line="42" column="41" />
-        <mark key="^" line="42" column="41" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1473384998869">
         <mark key="[" line="0" column="46" />
@@ -2156,8 +2155,8 @@
       <jump line="37" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AdPage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>AdPage</text>
@@ -2169,31 +2168,31 @@
         <text encoding="base64">ICB7CiAgICBwYXRoOiAiYWQtbWd0L3NpdGUvbGlzdCIsCiAgICBjb21wb25lbnQ6IFNpdGVMaXN0Q29tcG9uZW50CiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyB9LAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvLyAgIGNvbXBvbmVudDogUGFnZUVkaXRDb21wb25lbnQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvLyAgIHBhdGg6ICJwYWdlLzppZCIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvLyB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2l0ZS5kaXNwQ2F0ZWdvcnlOYW1lKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvLyB9LAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyAgIGNvbXBvbmVudDogUGFnZUVkaXRDb21wb25lbnQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyAgIHBhdGg6ICJwYWdlLzppZCIsCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+PC90ZD4K</text>
+        <text encoding="base64">ICAvLyB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zaXRlCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+PC90ZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
