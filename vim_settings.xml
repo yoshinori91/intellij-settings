@@ -936,11 +936,11 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1478243571622">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1478498388681">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Home.js" timestamp="1473403956502">
         <mark key="'" line="22" column="21" />
@@ -2217,8 +2217,8 @@
       <jump line="87" column="10" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -2230,28 +2230,28 @@
         <text encoding="base64">ICBwcml2YXRlIFByZWRpY2F0ZTxTdHJpbmc+IGNoZWNrQW55ID0gbmFtZSAtPiBuYW1lLnN0YXJ0c1dpdGgoIk4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IGxldHRlcikgewogICAgcmV0dXJuIG5hbWUgLT4gbmFtZS5zdGFydHNXaXRoKGxldHRlcik7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBib29sZWFuIGZuID0gY2hlY2tGbi5hcHBseSgiYWFhIik7Cg==</text>
+        <text encoding="base64">IGxldHRlcikgewogICAgcmV0dXJuIG5hbWUgLT4gbmFtZS5zdGFydHNXaXRoKGxldHRlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgCg==</text>
+        <text encoding="base64">ICBib29sZWFuIGZuID0gY2hlY2tGbi5hcHBseSgiYWFhIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
