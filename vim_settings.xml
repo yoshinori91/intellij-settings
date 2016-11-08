@@ -1536,12 +1536,12 @@
         <mark key="^" line="352" column="15" />
         <mark key="." line="352" column="15" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" timestamp="1478592368104">
-        <mark key="'" line="33" column="2" />
-        <mark key="[" line="58" column="10" />
-        <mark key="]" line="58" column="13" />
-        <mark key="^" line="58" column="13" />
-        <mark key="." line="58" column="13" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" timestamp="1478593728350">
+        <mark key="'" line="21" column="9" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/heroes.component.css" timestamp="1473909474273">
         <mark key="[" line="68" column="0" />
@@ -2122,7 +2122,6 @@
       <jump line="10" column="1" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="14" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="4" column="31" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
-      <jump line="21" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="39" column="5" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="31" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="41" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
@@ -2140,7 +2139,6 @@
       <jump line="0" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="6" column="5" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="7" column="27" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
-      <jump line="8" column="41" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="11" column="34" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="13" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="14" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.html" />
@@ -2160,55 +2158,57 @@
       <jump line="88" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="25" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="33" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
+      <jump line="8" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
+      <jump line="21" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>addItem(): void {</text>
       </register>
       <register name="/" type="4">
-        <text>con</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHtSb3V0ZXJ9IGZyb20gIkBhbmd1bGFyL3JvdXRlciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgb25lQXRBVGltZTogYm9vbGVhbiA9IHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnb3RvRWRpdFNpdGUocHApOiB2b2lkIHsK</text>
+        <text encoding="base64">ICBzaXRlczogU2l0ZVtdCiAgczogVHJlZVNpdGVbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPjwvYT57e3BwLnBOYW1lfX08L2xpPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGFjY29yZGlvbj4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMuaXRlbXMucHVzaChgSXRlbXMgJHt0aGlzLml0ZW1zLmxlbmd0aCArIDF9YCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBdCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyAgIH0K</text>
+        <text encoding="base64">ICBASW5wdXQoKSBwdWJsaWMgcGFuZWxDbGFzczogc3RyaW5nID0gInBhbmVsLXByaW1hcnkiCg==</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
       </register>
     </registers>
     <search>
-      <last-search>con</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>con</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>{</last-substitute>
       <last-dir>1</last-dir>
@@ -2216,7 +2216,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fetch</entry>
         <entry>getAll</entry>
         <entry>update</entry>
         <entry>All</entry>
@@ -2236,6 +2235,7 @@
         <entry>goto</entry>
         <entry>router</entry>
         <entry>con</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry>.,$d</entry>
