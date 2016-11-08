@@ -616,12 +616,12 @@
         <mark key="." line="35" column="10" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.html" timestamp="1478574332566">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.html" timestamp="1478575279164">
         <mark key="'" line="19" column="74" />
-        <mark key="[" line="82" column="37" />
-        <mark key="]" line="82" column="38" />
-        <mark key="." line="82" column="38" />
+        <mark key="[" line="32" column="42" />
+        <mark key="]" line="32" column="43" />
         <mark key="^" line="29" column="33" />
+        <mark key="." line="32" column="43" />
       </file>
       <file name="$USER_HOME$/test/dona/public/front/app.js" timestamp="1472203031945">
         <mark key="'" line="7" column="35" />
@@ -2155,8 +2155,8 @@
       <jump line="19" column="74" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQ29sbGFwc2libGUgR3JvdXAgRGFuZ2VyCg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -2168,31 +2168,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgQ29sbGFwc2libGUgR3JvdXAgSXRlbSAjMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgd29sZiBtb29uIG9mZmljaWEgYXV0ZSwgbm9uIGN1cGlkYXRhdCBza2F0ZWJvYXJkIGRvbG9yIGJydW5jaC4gRm9vZCB0cnVjayBxdWlub2EgbmVzY2l1bnQgbGFib3J1bQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQ29sbGFwc2libGUgR3JvdXAgRGFuZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvaDQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQ29sbGFwc2libGUgR3JvdXAgSXRlbSAjMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0iYm94LXRpdGxlIj4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgd29sZiBtb29uIG9mZmljaWEgYXV0ZSwgbm9uIGN1cGlkYXRhdCBza2F0ZWJvYXJkIGRvbG9yIGJydW5jaC4gRm9vZCB0cnVjayBxdWlub2EgbmVzY2l1bnQgbGFib3J1bQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvaDQ+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0iYm94LXRpdGxlIj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgd29sZiBtb29uIG9mZmljaWEgYXV0ZSwgbm9uIGN1cGlkYXRhdCBza2F0ZWJvYXJkIGRvbG9yIGJydW5jaC4gRm9vZCB0cnVjayBxdWlub2EgbmVzY2l1bnQgbGFib3J1bQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvaDQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJveC10aXRsZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0iYm94LXRpdGxlIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0iYm94LXRpdGxlIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
