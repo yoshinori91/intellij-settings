@@ -1620,12 +1620,12 @@
         <mark key="^" line="148" column="1" />
         <mark key="." line="114" column="10" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478674043039">
+      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478675897903">
         <mark key="'" line="30" column="37" />
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="13" />
-        <mark key="^" line="49" column="13" />
-        <mark key="." line="49" column="13" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="42" column="58" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
@@ -1811,8 +1811,8 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1478665950813">
-        <mark key="'" line="74" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1478675819719">
+        <mark key="'" line="55" column="5" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -2147,9 +2147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="23" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="104" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="21" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="37" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="44" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
@@ -2247,55 +2244,58 @@
       <jump line="11" column="20" filename="$USER_HOME$/app/donald_manager/conf/routes" />
       <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/conf/routes" />
       <jump line="69" column="8" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
+      <jump line="12" column="5" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="74" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="55" column="5" filename="$USER_HOME$/app/donald_manager/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGF0YWJhc2VfbmFtZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWJlYW4uZGVmYXVsdCA9ICZxdW90O21vZGVscy4qJnF1b3Q7PC9wcmU+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YWJhc2VfbmFtZSA=</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>fetchSites</text>
+        <text>mysql</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gbV9zaXRlCihpZCwgbmFtZSwgZG9tYWluLCBtb2JpbGUsIHByaXZhY3kpClZBTFVFUwooMSwnb2NvbW8nLCAnaHR0cDovL3NtdC5kb2NvbW8ubmUuanAvJywgdHJ1ZSxmYWxzZSksCigyLCdvZnRiYW5rJywgJ2h0dHA6Ly90b3BpY3Muc210LmRvY29tby5uZS5qcC8nLCB0cnVlLHRydWUpLAooMywndScsICdodHRwOi8vc2VydmljZS5zbXQuZG9jb21vLm5lLmpwLycsIHRydWUsdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2VyLnJvb3QgPSBERUJVRwo=</text>
+        <text encoding="base64">ZWJlYW4uZGVmYXVsdCA9ICZxdW90O21vZGVscy4qJnF1b3Q7PC9wcmU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGxheS5ldm9sdXRpb25zLmRiLmRlZmF1bHQuZW5hYmxlZCA9IGZhbHNlCg==</text>
+        <text encoding="base64">bG9nZ2VyLnJvb3QgPSBERUJVRwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGIuZGVmYXVsdC5sb2dTdGF0ZW1lbnRzID0gdHJ1ZQo=</text>
+        <text encoding="base64">cGxheS5ldm9sdXRpb25zLmRiLmRlZmF1bHQuZW5hYmxlZCA9IGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC5sb2dTdGF0ZW1lbnRzID0gdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGIuZGVmYXVsdC51cmw9ICAiamRiYzpteXNxbDovL2xvY2FsaG9zdC9maXJzdGRiP2NoYXJhY3RlckVuY29kaW5nPVVURjgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC51cmw9ICAiamRiYzpteXNxbDovL2xvY2FsaG9zdC9maXJzdGRiP2NoYXJhY3RlckVuY29kaW5nPVVURjgiCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5jbHVkZSAiYXBwbGljYXRpb24uY29uZiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZSAiYXBwbGljYXRpb24uY29uZiIK</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
       </register>
     </registers>
     <search>
-      <last-search>fetchSites</last-search>
+      <last-search>mysql</last-search>
       <last-offset />
-      <last-pattern>fetchSites</last-pattern>
+      <last-pattern>mysql</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>app</last-substitute>
       <last-dir>1</last-dir>
@@ -2316,13 +2316,13 @@
         <entry>site</entry>
         <entry>privacy</entry>
         <entry>default</entry>
-        <entry>mysql</entry>
         <entry>ap</entry>
         <entry>appDeven</entry>
         <entry>appDe</entry>
         <entry>app</entry>
         <entry>index</entry>
         <entry>fetchSites</entry>
+        <entry>mysql</entry>
       </history-search>
       <history-cmd>
         <entry>.,$d</entry>
