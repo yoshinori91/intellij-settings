@@ -1620,12 +1620,12 @@
         <mark key="^" line="148" column="1" />
         <mark key="." line="114" column="10" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478675897903">
+      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478677640854">
         <mark key="'" line="30" column="37" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="42" column="58" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="51" />
+        <mark key="^" line="42" column="51" />
+        <mark key="." line="42" column="51" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
@@ -2249,11 +2249,11 @@
       <jump line="55" column="5" filename="$USER_HOME$/app/donald_manager/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWJlYW4uZGVmYXVsdCA9ICZxdW90O21vZGVscy4qJnF1b3Q7PC9wcmU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>database_name</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>database_name</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
