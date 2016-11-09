@@ -960,12 +960,12 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/routes" timestamp="1478597676162">
-        <mark key="'" line="12" column="83" />
-        <mark key="[" line="17" column="83" />
-        <mark key="]" line="17" column="83" />
-        <mark key="^" line="17" column="82" />
-        <mark key="." line="17" column="83" />
+      <file name="$USER_HOME$/app/donald_manager/conf/routes" timestamp="1478672166669">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="82" />
+        <mark key="]" line="12" column="82" />
+        <mark key="^" line="12" column="82" />
+        <mark key="." line="12" column="82" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-mgt.tree.component.ts" timestamp="1477278656510">
         <mark key="[" line="0" column="31" />
@@ -1169,11 +1169,11 @@
         <mark key="^" line="2445" column="4" />
         <mark key="." line="2445" column="4" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1478670184669">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="13" column="22" />
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1478672931338">
+        <mark key="'" line="69" column="8" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="25" column="54" />
+        <mark key="." line="1" column="26" />
         <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
@@ -1246,8 +1246,12 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1478598246997">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1478671889005">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="57" column="45" />
+        <mark key="]" line="58" column="36" />
+        <mark key="^" line="58" column="36" />
+        <mark key="." line="58" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -1616,12 +1620,12 @@
         <mark key="^" line="148" column="1" />
         <mark key="." line="114" column="10" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478669701832">
+      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478671571987">
         <mark key="'" line="30" column="37" />
-        <mark key="[" line="48" column="37" />
-        <mark key="]" line="48" column="41" />
-        <mark key="." line="48" column="41" />
-        <mark key="^" line="48" column="41" />
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="32" />
+        <mark key="^" line="48" column="32" />
+        <mark key="." line="48" column="32" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
@@ -1790,7 +1794,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1478668700259">
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1478671016166">
+        <mark key="'" line="92" column="28" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="79" column="2" />
       </file>
@@ -2142,15 +2147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="6" column="38" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="8" column="38" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="11" column="36" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="12" column="36" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="25" column="21" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="29" column="21" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="36" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="10" column="40" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
       <jump line="7" column="23" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="104" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="21" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
@@ -2242,55 +2238,64 @@
       <jump line="75" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="16" column="22" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
       <jump line="73" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
+      <jump line="92" column="28" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="28" column="9" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="20" column="102" filename="$USER_HOME$/app/donald_manager/conf/routes" />
+      <jump line="12" column="82" filename="$USER_HOME$/app/donald_manager/conf/routes" />
+      <jump line="11" column="20" filename="$USER_HOME$/app/donald_manager/conf/routes" />
+      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/conf/routes" />
+      <jump line="69" column="8" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KDEsJ0QyQzEnLCAn44Ki44O844OI44Go44Ko44Oz44K/44O844OG44Kk44Oz44Oh44Oz44OIJyksCg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gbV9zaXRlCihpZCwgbmFtZSwgZG9tYWluLCBtb2JpbGUsIHByaXZhY3kpClZBTFVFUwooMSwnb2NvbW8nLCAnaHR0cDovL3NtdC5kb2NvbW8ubmUuanAvJywgdHJ1ZSxmYWxzZSksCigyLCdvZnRiYW5rJywgJ2h0dHA6Ly90b3BpY3Muc210LmRvY29tby5uZS5qcC8nLCB0cnVlLHRydWUpLAooMywndScsICdodHRwOi8vc2VydmljZS5zbXQuZG9jb21vLm5lLmpwLycsIHRydWUsdHJ1ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>app</text>
+        <text>fetchSites</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KDEsJ0QyQzEnLCAn44Ki44O844OI44Go44Ko44Oz44K/44O844OG44Kk44Oz44Oh44Oz44OIJyksCg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gbV9zaXRlCihpZCwgbmFtZSwgZG9tYWluLCBtb2JpbGUsIHByaXZhY3kpClZBTFVFUwooMSwnb2NvbW8nLCAnaHR0cDovL3NtdC5kb2NvbW8ubmUuanAvJywgdHJ1ZSxmYWxzZSksCigyLCdvZnRiYW5rJywgJ2h0dHA6Ly90b3BpY3Muc210LmRvY29tby5uZS5qcC8nLCB0cnVlLHRydWUpLAooMywndScsICdodHRwOi8vc2VydmljZS5zbXQuZG9jb21vLm5lLmpwLycsIHRydWUsdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGIuZGVmYXVsdC5sb2dTdGF0ZW1lbnRzID0gdHJ1ZQo=</text>
+        <text encoding="base64">cGxheS5ldm9sdXRpb25zLmRiLmRlZmF1bHQuZW5hYmxlZCA9IGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC5sb2dTdGF0ZW1lbnRzID0gdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGIuZGVmYXVsdC51cmw9ICAiamRiYzpteXNxbDovL2xvY2FsaG9zdC9maXJzdGRiP2NoYXJhY3RlckVuY29kaW5nPVVURjgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC51cmw9ICAiamRiYzpteXNxbDovL2xvY2FsaG9zdC9maXJzdGRiP2NoYXJhY3RlckVuY29kaW5nPVVURjgiCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5jbHVkZSAiYXBwbGljYXRpb24uY29uZiIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW5jbHVkZSAiYXBwbGljYXRpb24uY29uZiIK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpdmFjeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBtb2JpbGU7CiAgcHVibGljIGJvb2xlYW4gcHJpdmFjeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpdmFjeQo=</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
       </register>
     </registers>
     <search>
-      <last-search>app</last-search>
+      <last-search>fetchSites</last-search>
       <last-offset />
-      <last-pattern>app</last-pattern>
+      <last-pattern>fetchSites</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>app</last-substitute>
       <last-dir>1</last-dir>
@@ -2298,7 +2303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>{</entry>
         <entry>status</entry>
         <entry>one</entry>
         <entry>goto</entry>
@@ -2309,7 +2313,6 @@
         <entry>sites</entry>
         <entry>fetch</entry>
         <entry>paeg</entry>
-        <entry>index</entry>
         <entry>site</entry>
         <entry>privacy</entry>
         <entry>default</entry>
@@ -2318,6 +2321,8 @@
         <entry>appDeven</entry>
         <entry>appDe</entry>
         <entry>app</entry>
+        <entry>index</entry>
+        <entry>fetchSites</entry>
       </history-search>
       <history-cmd>
         <entry>.,$d</entry>
