@@ -1176,12 +1176,12 @@
         <mark key="^" line="2445" column="4" />
         <mark key="." line="2445" column="4" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1478682015963">
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1478690193745">
         <mark key="'" line="69" column="8" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="25" column="54" />
-        <mark key="." line="1" column="26" />
-        <mark key="^" line="13" column="22" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
         <mark key="'" line="1" column="17" />
@@ -1253,12 +1253,12 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1478685726666">
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1478690137339">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="57" column="22" />
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="57" column="27" />
+        <mark key="." line="57" column="27" />
+        <mark key="^" line="57" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -1627,12 +1627,12 @@
         <mark key="^" line="148" column="1" />
         <mark key="." line="114" column="10" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478686789150">
-        <mark key="'" line="34" column="18" />
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="32" column="40" />
-        <mark key="^" line="45" column="12" />
-        <mark key="." line="32" column="40" />
+      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478690667881">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="38" column="28" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
@@ -1801,12 +1801,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1478684797146">
-        <mark key="'" line="92" column="28" />
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="14" />
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1478690395987">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="142" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" timestamp="1475055758595">
         <mark key="'" line="15" column="44" />
@@ -1820,8 +1820,8 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1478686264703">
-        <mark key="'" line="70" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1478690513653">
+        <mark key="'" line="51" column="46" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -2159,9 +2159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="38" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="37" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="9" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.html" />
       <jump line="17" column="19" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.html" />
       <jump line="28" column="16" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.html" />
@@ -2259,55 +2256,58 @@
       <jump line="6" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="72" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="34" column="18" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
+      <jump line="38" column="0" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
+      <jump line="143" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" />
+      <jump line="51" column="46" filename="$USER_HOME$/app/donald_manager/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGxheS5ldm9sdXRpb25zLmVuYWJsZWQgPSB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>mysql</text>
+        <text>evo</text>
       </register>
       <register name="0" type="4">
         <text>?characterEncoding=UTF8</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">cGxheS5ldm9sdXRpb25zLmVuYWJsZWQgPSB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9kYi5kZWZhdWx0LnBhc3N3b3JkID0gIiIK</text>
+        <text encoding="base64">IyBCeSBjb252ZW50aW9uLCB0aGUgZGVmYXVsdCBkYXRhc291cmNlIGlzIG5hbWVkIGBkZWZhdWx0YAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9kYi5kZWZhdWx0LnVzZXJuYW1lID0gc2EK</text>
+        <text encoding="base64">IyBCeSBjb252ZW50aW9uLCB0aGUgZGVmYXVsdCBkYXRhc291cmNlIGlzIG5hbWVkIGBkZWZhdWx0YAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9kYi5kZWZhdWx0LnVybCA9ICJqZGJjOmgyOm1lbTpwbGF5O01PREU9TVlTUUwiCg==</text>
+        <text encoding="base64">IyBZb3UgY2FuIGRlY2xhcmUgYXMgbWFueSBkYXRhc291cmNlcyBhcyB5b3Ugd2FudC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9kYi5kZWZhdWx0LmRyaXZlciA9IG9yZy5oMi5Ecml2ZXIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZWJlYW4uZGVmYXVsdCA9IFsibW9kZWxzLioiXQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGIuZGVmYXVsdC5kcml2ZXIgPSBjb20ubXlzcWwuamRiYy5Ecml2ZXIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGIuZGVmYXVsdC51cmwgPSAiamRiYzpteXNxbDovLzEyNy4wLjAuMTozMzA2L2RtIgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJjb20uaDJkYXRhYmFzZSIgJSAiaDIiICUgIjEuNC4xOTEiLAo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlcy5zaXplKCkpOwo=</text>
+        <text encoding="base64">Ly9kYi5kZWZhdWx0LnBhc3N3b3JkID0gIiIK</text>
       </register>
       <register name=":" type="4">
         <text>59</text>
       </register>
     </registers>
     <search>
-      <last-search>mysql</last-search>
+      <last-search>evo</last-search>
       <last-offset />
-      <last-pattern>mysql</last-pattern>
+      <last-pattern>evo</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>app</last-substitute>
       <last-dir>1</last-dir>
@@ -2315,7 +2315,6 @@
     </search>
     <history>
       <history-search>
-        <entry>one</entry>
         <entry>goto</entry>
         <entry>router</entry>
         <entry>con</entry>
@@ -2335,6 +2334,7 @@
         <entry encoding="base64">XDxkZWZhdWx0XD4=</entry>
         <entry>default</entry>
         <entry>mysql</entry>
+        <entry>evo</entry>
       </history-search>
       <history-cmd>
         <entry>.,$d</entry>
