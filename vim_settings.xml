@@ -1616,12 +1616,11 @@
         <mark key="^" line="148" column="1" />
         <mark key="." line="114" column="10" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478664906978">
+      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478665863192">
         <mark key="'" line="30" column="37" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="39" column="37" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
@@ -1802,12 +1801,12 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1477893230377">
-        <mark key="'" line="38" column="27" />
-        <mark key="[" line="39" column="40" />
-        <mark key="]" line="39" column="40" />
-        <mark key="." line="39" column="40" />
-        <mark key="^" line="39" column="40" />
+      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1478665950813">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="38" column="40" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/store/configureStore.js" timestamp="1473322575220">
         <mark key="'" line="23" column="0" />
@@ -2138,13 +2137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="35" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
-      <jump line="129" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
-      <jump line="141" column="10" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
-      <jump line="126" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
-      <jump line="25" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
-      <jump line="46" column="1" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
       <jump line="65" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
       <jump line="143" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
       <jump line="55" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
@@ -2238,16 +2230,23 @@
       <jump line="37" column="0" filename="$USER_HOME$/app/donald_manager/conf/application.dev.conf" />
       <jump line="11" column="34" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
       <jump line="30" column="37" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
+      <jump line="40" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="72" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="9" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="56" column="5" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="53" column="15" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="1" column="24" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="75" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGIuZGVmYXVsdC5kcml2ZXIgPSBjb20ubXlzcWwuamRiYy5Ecml2ZXIKZGIuZGVmYXVsdC51cmwgPSAiamRiYzpteXNxbDovL2xvY2FsaG9zdC9kYXRhYmFzZV9uYW1lIgpkYi5kZWZhdWx0LnVzZXJuYW1lID0geW91cl9uYW1lCmRiLmRlZmF1bHQucGFzc3dvcmQgPSAieW91cl9wYXNzd29yZCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>app</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGIuZGVmYXVsdC5kcml2ZXIgPSBjb20ubXlzcWwuamRiYy5Ecml2ZXIKZGIuZGVmYXVsdC51cmwgPSAiamRiYzpteXNxbDovL2xvY2FsaG9zdC9kYXRhYmFzZV9uYW1lIgpkYi5kZWZhdWx0LnVzZXJuYW1lID0geW91cl9uYW1lCmRiLmRlZmF1bHQucGFzc3dvcmQgPSAieW91cl9wYXNzd29yZCIK</text>
@@ -2256,25 +2255,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5jbHVkZSAiYXBwbGljYXRpb24uY29uZiIK</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC51cmw9ICAiamRiYzpteXNxbDovL2xvY2FsaG9zdC9maXJzdGRiP2NoYXJhY3RlckVuY29kaW5nPVVURjgiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpdmFjeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBtb2JpbGU7CiAgcHVibGljIGJvb2xlYW4gcHJpdmFjeTsK</text>
+        <text encoding="base64">aW5jbHVkZSAiYXBwbGljYXRpb24uY29uZiIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpdmFjeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGFkLW1ndD48L2FkLW1ndD4K</text>
+        <text encoding="base64">ICBwdWJsaWMgYm9vbGVhbiBtb2JpbGU7CiAgcHVibGljIGJvb2xlYW4gcHJpdmFjeTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -2284,9 +2283,9 @@
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>app</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>app</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>{</last-substitute>
       <last-dir>1</last-dir>
@@ -2294,11 +2293,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ame</entry>
-        <entry>side</entry>
-        <entry>modal</entry>
-        <entry>Modal</entry>
-        <entry>class</entry>
         <entry>{</entry>
         <entry>status</entry>
         <entry>one</entry>
@@ -2314,6 +2308,11 @@
         <entry>site</entry>
         <entry>privacy</entry>
         <entry>default</entry>
+        <entry>mysql</entry>
+        <entry>ap</entry>
+        <entry>appDeven</entry>
+        <entry>appDe</entry>
+        <entry>app</entry>
       </history-search>
       <history-cmd>
         <entry>.,$d</entry>
