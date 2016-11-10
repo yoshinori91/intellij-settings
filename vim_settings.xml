@@ -1100,10 +1100,10 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" timestamp="1478767335316">
-        <mark key="[" line="41" column="49" />
-        <mark key="]" line="41" column="49" />
-        <mark key="." line="41" column="49" />
+      <file name="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" timestamp="1478768418802">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="16" column="36" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/index.js" timestamp="1473673906935">
         <mark key="'" line="29" column="23" />
@@ -2273,8 +2273,8 @@
       <jump line="15" column="78" filename="$USER_HOME$/app/donald_manager/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -2286,31 +2286,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY2FsbGVkIGluZGV4Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEV2b2x1dGlvbnMuYXBwbHlFdm9sdXRpb25zKGRhdGFiYXNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgZGF0YWJhc2UuZ2V0Q29ubmVjdGlvbigpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkYXRhYmFzZS5nZXRVcmwoKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c2V0bS5vdXQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRVcCgpIHsK</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBAQmVmb3JlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgRXZvbHV0aW9ucy5jbGVhbnVwRXZvbHV0aW9ucyhkYXRhYmFzZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEV2b2x1dGlvbnMuYXBwbHlFdm9sdXRpb25zKGRhdGFiYXNlKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgZGF0YWJhc2UuZ2V0Q29ubmVjdGlvbigpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkYXRhYmFzZS5nZXRVcmwoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/INSERT INTO /INSERT INTO dm./g</text>
