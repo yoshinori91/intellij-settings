@@ -1100,11 +1100,10 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" timestamp="1478765002659">
-        <mark key="[" line="17" column="54" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" timestamp="1478767335316">
+        <mark key="[" line="41" column="49" />
+        <mark key="]" line="41" column="49" />
+        <mark key="." line="41" column="49" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/index.js" timestamp="1473673906935">
         <mark key="'" line="29" column="23" />
@@ -1267,12 +1266,12 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1478762911478">
-        <mark key="'" line="160" column="0" />
-        <mark key="[" line="159" column="3" />
-        <mark key="]" line="162" column="16" />
-        <mark key="." line="162" column="16" />
-        <mark key="^" line="162" column="16" />
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1478767466462">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -1641,11 +1640,11 @@
         <mark key="^" line="148" column="1" />
         <mark key="." line="114" column="10" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478763776125">
-        <mark key="[" line="42" column="23" />
-        <mark key="]" line="42" column="26" />
-        <mark key="." line="42" column="26" />
-        <mark key="^" line="42" column="26" />
+      <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1478767128968">
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="27" />
+        <mark key="." line="42" column="27" />
+        <mark key="^" line="42" column="27" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
@@ -1814,7 +1813,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1478758954733">
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/1.sql" timestamp="1478767426372">
         <mark key="'" line="35" column="17" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="10" column="1" />
@@ -2275,43 +2274,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>pages</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFByZWRpY2F0ZTxTdHJpbmc+IHByZWRpID0gU3RyaW5nOjppc0VtcHR5Owo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY2FsbGVkIGluZGV4Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEV2b2x1dGlvbnMuYXBwbHlFdm9sdXRpb25zKGRhdGFiYXNlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgZGF0YWJhc2UuZ2V0Q29ubmVjdGlvbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkYXRhYmFzZS5nZXRVcmwoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApLmlzRXF1YWxUbyhPSyk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c2V0bS5vdXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFdTLnVybCgiaHR0cDovL2xvY2FsaG9zdDozMzMzIikuZ2V0KCkuZ2V0KCkuZ2V0U3RhdHVzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRVcCgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJ1bm5pbmcodGVzdFNlcnZlcigzMzMzKSwgbmV3IFJ1bm5hYmxlKCkgewo=</text>
+        <text encoding="base64">ICBAQmVmb3JlCg==</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/INSERT INTO /INSERT INTO dm./g</text>
