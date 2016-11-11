@@ -534,12 +534,12 @@
         <mark key="^" line="14" column="54" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.html" timestamp="1478866902611">
-        <mark key="'" line="11" column="37" />
-        <mark key="[" line="14" column="54" />
-        <mark key="]" line="14" column="54" />
-        <mark key="^" line="14" column="54" />
-        <mark key="." line="14" column="54" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.html" timestamp="1478868929536">
+        <mark key="'" line="11" column="22" />
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/media.service.ts" timestamp="1474005100877">
         <mark key="[" line="9" column="0" />
@@ -883,11 +883,11 @@
         <mark key="." line="142" column="39" />
         <mark key="^" line="142" column="39" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.ts" timestamp="1478866931156">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.ts" timestamp="1478868367622">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/wall/dm/app/Site.ts" timestamp="1475652287195">
         <mark key="[" line="0" column="44" />
@@ -2298,56 +2298,56 @@
       <jump line="6" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.ts" />
       <jump line="93" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
       <jump line="116" column="38" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
-      <jump line="11" column="37" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.html" />
+      <jump line="11" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkYXRhLXBhcmVudDoK</text>
+      <register name="&quot;" type="4">
+        <text>let site of sites</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>let site of sites</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2NvcmRpb25cPg==</text>
+        <text>box-group</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOWFg+OBq+aIu+OBmTxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXNoYXJlLWFsdCI+PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJveC1ib2R5Ij4KICAgICAgICAgICAgICAgICAgQW5pbWUKICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkYXRhLXBhcmVudDoK</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSB3ZSBhcmUgYWRkaW5nIHRoZSAucGFuZWwgY2xhc3Mgc28gYm9vdHN0cmFwLmpzIGNvbGxhcHNlIHBsdWdpbiBkZXRlY3RzIGl0IC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJnbHlwaGljb24tY2xhc3MiPmdseXBoaWNvbiBnbHlwaGljb24tbGlzdDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1mdyBmYS1hbmdsZS1kb3VibGUtZG93biI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQW5pbSBwYXJpYXR1ciBjbGljaGUgcmVwcmVoZW5kZXJpdCwgZW5pbSBlaXVzbW9kIGhpZ2ggbGlmZSBhY2N1c2FtdXMgdGVycnkgcmljaGFyZHNvbiBhZCBzcXVpZC4gMwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2l0ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJveC1ib2R5Ij4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fbWFrZUFkUGFnZUxpc3QodGhpcy5zaXRlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGlkPSJjb2xsYXBzZVRocmVlIiBjbGFzcz0icGFuZWwtY29sbGFwc2UgY29sbGFwc2UiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzb21ldGhpbmciKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2NvcmRpb25cPg==</last-search>
+      <last-search>box-group</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2NvcmRpb25cPg==</last-pattern>
+      <last-pattern>box-group</last-pattern>
       <last-replace>INSERT INTO dm.</last-replace>
       <last-substitute>console</last-substitute>
       <last-dir>1</last-dir>
@@ -2355,7 +2355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Tab</entry>
         <entry encoding="base64">XDxJbnB1dFw+</entry>
         <entry encoding="base64">XDxBZFBhZ2VMaXN0Q29tcG9uZW50XD4=</entry>
         <entry>hoge</entry>
@@ -2375,6 +2374,7 @@
         <entry>icon</entry>
         <entry>span</entry>
         <entry encoding="base64">XDxhY2NvcmRpb25cPg==</entry>
+        <entry>box-group</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
