@@ -527,12 +527,12 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.component.ts" timestamp="1478857071951">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="7" column="53" />
-        <mark key="]" line="7" column="53" />
-        <mark key="." line="7" column="53" />
-        <mark key="^" line="12" column="55" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.component.ts" timestamp="1478862343204">
+        <mark key="'" line="14" column="64" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="14" column="54" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.html" timestamp="1478856876447">
         <mark key="'" line="51" column="17" />
@@ -978,12 +978,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1478858328874">
-        <mark key="'" line="92" column="5" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="94" column="20" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1478863183499">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="111" column="38" />
+        <mark key="]" line="100" column="57" />
+        <mark key="." line="100" column="57" />
+        <mark key="^" line="100" column="57" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Home.js" timestamp="1473403956502">
         <mark key="'" line="22" column="21" />
@@ -1011,12 +1011,11 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" timestamp="1478857899940">
-        <mark key="'" line="17" column="9" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="0" column="31" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" timestamp="1478862376491">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="24" column="2" />
+        <mark key="." line="15" column="59" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/test/dona/client/tsconfig.json" timestamp="1473651162247">
         <mark key="[" line="2" column="17" />
@@ -1636,10 +1635,10 @@
         <mark key="^" line="352" column="15" />
         <mark key="." line="352" column="15" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" timestamp="1478847567375">
-        <mark key="[" line="6" column="58" />
-        <mark key="]" line="6" column="58" />
-        <mark key="." line="6" column="58" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" timestamp="1478860263090">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
         <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/heroes.component.css" timestamp="1473909474273">
@@ -2201,18 +2200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="82" filename="$USER_HOME$/app/donald_manager/conf/routes" />
-      <jump line="11" column="20" filename="$USER_HOME$/app/donald_manager/conf/routes" />
-      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/conf/routes" />
-      <jump line="69" column="8" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
-      <jump line="12" column="5" filename="$USER_HOME$/app/donald_manager/build.sbt" />
-      <jump line="74" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
-      <jump line="55" column="5" filename="$USER_HOME$/app/donald_manager/build.sbt" />
-      <jump line="9" column="26" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
-      <jump line="21" column="1" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
-      <jump line="5" column="0" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
-      <jump line="24" column="36" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
-      <jump line="7" column="10" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
       <jump line="12" column="16" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
       <jump line="36" column="5" filename="$USER_HOME$/app/donald_manager/conf/evolutions/dm/2.sql" />
       <jump line="120" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/dm/1.sql" />
@@ -2301,64 +2288,74 @@
       <jump line="60" column="1" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="25" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="92" column="5" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="26" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="32" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="12" column="56" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.component.ts" />
+      <jump line="14" column="64" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.component.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" />
+      <jump line="1" column="27" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" />
+      <jump line="25" column="16" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" />
+      <jump line="24" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="47" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="38" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpdGVzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>make</text>
+        <text>impo</text>
       </register>
-      <register name="0" type="4">
-        <text>this._makeAdPageList(site))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBuZ09uQ2hhbmdlcygpIHsKICAgIGNvbnNvbGUubG9nKCJUYWIgY2hhbmdlIikKICAgIGlmICh0aGlzLnNpdGVzICE9PSB1bmRlZmluZWQpIHsKICAgICAgY29uc29sZS5sb2codGhpcy5zaXRlcy5sZW5ndGgpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpdGVzKQo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2l0ZSkK</text>
+        <text encoding="base64">ICAgIHRoaXMucGFnZXMuZm9yRWFjaChwYWdlID0+IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcml2YXRlIHJvdXRlcjogUm91dGVyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIGh0dHA6IEh0dHAsIHByaXZhdGUgc2VydmljZTogUGFnZVNlcnZpY2UsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJBZG1ndExpc3QgY29uc3RydWN0b3IiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
       </register>
     </registers>
     <search>
-      <last-search>make</last-search>
+      <last-search>impo</last-search>
       <last-offset />
-      <last-pattern>make</last-pattern>
+      <last-pattern>impo</last-pattern>
       <last-replace>INSERT INTO dm.</last-replace>
-      <last-substitute>;</last-substitute>
+      <last-substitute>console</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>index</entry>
-        <entry>pages</entry>
         <entry>lists</entry>
         <entry>list</entry>
         <entry>adpage-list</entry>
@@ -2377,6 +2374,8 @@
         <entry encoding="base64">Pm4=</entry>
         <entry>;</entry>
         <entry>make</entry>
+        <entry>console</entry>
+        <entry>impo</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
