@@ -1113,11 +1113,12 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" timestamp="1479106580688">
-        <mark key="'" line="50" column="40" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" timestamp="1479109288216">
+        <mark key="'" line="60" column="3" />
+        <mark key="[" line="67" column="43" />
+        <mark key="]" line="67" column="44" />
+        <mark key="." line="67" column="44" />
+        <mark key="^" line="67" column="44" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/index.js" timestamp="1473673906935">
         <mark key="'" line="29" column="23" />
@@ -1867,12 +1868,12 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1479104558574">
-        <mark key="'" line="70" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1479108878798">
+        <mark key="'" line="71" column="0" />
         <mark key="[" line="13" column="10" />
-        <mark key="]" line="14" column="41" />
-        <mark key="." line="14" column="41" />
-        <mark key="^" line="14" column="41" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="48" />
+        <mark key="^" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/store/configureStore.js" timestamp="1473322575220">
         <mark key="'" line="23" column="0" />
@@ -2206,10 +2207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="78" filename="$USER_HOME$/app/donald_manager/conf/routes" />
-      <jump line="13" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="33" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="47" column="3" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
       <jump line="59" column="25" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="129" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
@@ -2300,19 +2297,23 @@
       <jump line="3" column="34" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="29" column="20" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="30" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="25" column="5" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="69" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="63" column="23" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="17" column="24" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="50" column="40" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="44" column="29" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="43" column="20" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="37" column="8" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="58" column="3" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1vCg==</text>
+      <register name="&quot;" type="4">
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>ind</text>
@@ -2321,31 +2322,31 @@
         <text encoding="base64">ICAgIC8vIEhUVFDjg6rjgq/jgqjjgrnjg4jpgIHkv6HjgZfjgIHntZDmnpzjgpLlj5fjgZHlj5bjgosKICAgIFJlc3VsdCByZXN1bHQgPSByb3V0ZShmYWtlUmVxdWVzdChHRVQsICIvYWQtbWd0L2FkLXBhZ2VzIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1vCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBpbmRleFplcm9SZXN1bHQoKSB7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1vY2sK</text>
+        <text encoding="base64">ICAgIE1vY2tpdG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1vY2sK</text>
+        <text encoding="base64">ICAgIG5ldyBNb2NrKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vCg==</text>
+        <text encoding="base64">ICAgIE1vY2tpdG8gbW9jCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIE1vY2sK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNpdGUgbW9ja2VkU2l0ZSA9IE1vY2soU2l0ZS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgIG9yZy5tb2NraXRvLk1vY2tpdG8gbW9jazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLio7Cg==</text>
+        <text encoding="base64">ICAgICJvcmcucG93ZXJtb2NrIiAlICJwb3dlcm1vY2siICUgIjEuNSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNpdGUgc2l0ZSA9IE1vY2tpdG8ubW9jayhTaXRlLmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXNzCg==</text>
+        <text encoding="base64">ICAgIE1vY2tpdG8gCg==</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
