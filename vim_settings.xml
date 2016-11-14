@@ -1119,10 +1119,11 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" timestamp="1479094306449">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" timestamp="1479100423240">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+        <mark key="^" line="32" column="33" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/index.js" timestamp="1473673906935">
         <mark key="'" line="29" column="23" />
@@ -2313,11 +2314,11 @@
       <jump line="127" column="22" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.3-sources.jar!/play/http/HttpEntity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEpzb24ubWFwcGVyKCkuCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>readTree()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>body</text>
@@ -2326,31 +2327,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXN1bHRzLnNpemUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEpzb24ubWFwcGVyKCkuCg==</text>
+        <text encoding="base64">ICAgIGpzb24uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEpzb24udG8K</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5yZWFzb25QaHJhc2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEpvc24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBzdHIgPSByZXN1bHQudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzdHIgPSByZXN1bHQuYm9keSgpLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBzdHIgPSBFbnRpdHlVdGlscy50b1N0cmluZyhyZXN1bHQuYm9keSgpKTsK</text>
+        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG0K</text>
+        <text encoding="base64">ICAgIEpzb24ubWFwcGVyKCkuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5mcm9tSnNvbihyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgIEpzb24udG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocmVzdWx0LmJvZHkoKSwgaXMoT0spKTsK</text>
+        <text encoding="base64">ICAgIEpvc24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocmVzdWx0LmNvbnRlbnRUeXBlKCkuZ2V0KCksIGlzKCJhcHBsaWNhdGlvbi9qc29uIikpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzdHIgPSByZXN1bHQudG9TdHJpbmcoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
