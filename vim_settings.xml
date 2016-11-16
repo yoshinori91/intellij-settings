@@ -112,6 +112,11 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="20" column="15" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/error.component.ts" timestamp="1479285418519">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Report/index.js" timestamp="1473065023007">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="46" column="0" />
@@ -163,12 +168,6 @@
         <mark key="]" line="10" column="27" />
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.edit.component.ts" timestamp="1478509337000">
-        <mark key="'" line="37" column="9" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1473384998869">
         <mark key="[" line="0" column="46" />
@@ -585,11 +584,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/modal-container.component.ts" timestamp="1476694869409">
-        <mark key="'" line="0" column="45" />
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="0" column="49" />
-        <mark key="." line="0" column="49" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/error.component.html" timestamp="1479286684835">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/donadona/cli/src/components/alert-button.component.ts" timestamp="1473399194820">
         <mark key="[" line="6" column="35" />
@@ -675,12 +674,6 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/wkt/donald3/dm/app/models/Pin.java" timestamp="1474970494656">
-        <mark key="'" line="18" column="14" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" timestamp="1471800492291">
         <mark key="'" line="27" column="5" />
@@ -779,12 +772,6 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.component.ts" timestamp="1478060997184">
-        <mark key="'" line="24" column="52" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/app/donald_manager/public/stylesheets/forms.css" timestamp="1477469458640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="0" />
@@ -880,7 +867,7 @@
         <mark key="." line="142" column="39" />
         <mark key="^" line="142" column="39" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.ts" timestamp="1478868367622">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.ts" timestamp="1479286654592">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -903,12 +890,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index1.scala.html" timestamp="1475054699444">
-        <mark key="'" line="18" column="10" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/app.component.ts" timestamp="1474005641715">
         <mark key="'" line="7" column="7" />
@@ -1004,11 +985,11 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" timestamp="1478862376491">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="15" column="59" />
-        <mark key="^" line="22" column="34" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" timestamp="1479286804033">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/test/dona/client/tsconfig.json" timestamp="1473651162247">
         <mark key="[" line="2" column="17" />
@@ -1073,11 +1054,12 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1479265595197">
-        <mark key="'" line="59" column="28" />
-        <mark key="]" line="34" column="35" />
-        <mark key="^" line="34" column="35" />
-        <mark key="." line="34" column="35" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1479286314659">
+        <mark key="'" line="84" column="20" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="86" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/services/MediaServiceImpl.java" timestamp="1474954478807">
         <mark key="'" line="9" column="30" />
@@ -1170,10 +1152,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" timestamp="1479280802015">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" timestamp="1479285024242">
         <mark key="'" line="13" column="18" />
-        <mark key="[" line="0" column="58" />
-        <mark key="]" line="0" column="58" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="55" />
         <mark key="." line="0" column="58" />
         <mark key="^" line="0" column="58" />
       </file>
@@ -1254,6 +1236,11 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/SiteController.java" timestamp="1479286230412">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/app.component.ts" timestamp="1473656802522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="27" />
@@ -1267,12 +1254,6 @@
         <mark key="." line="12" column="44" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.ts" timestamp="1478855345322">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/src/sagas/index.js" timestamp="1473217170703">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1280,11 +1261,11 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1479264363716">
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="31" />
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1479285893641">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="46" />
+        <mark key="." line="20" column="45" />
+        <mark key="^" line="20" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -1338,12 +1319,12 @@
         <mark key="." line="10" column="65" />
         <mark key="^" line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1479280545307">
-        <mark key="'" line="4" column="64" />
-        <mark key="[" line="93" column="19" />
-        <mark key="]" line="93" column="19" />
-        <mark key="." line="93" column="19" />
-        <mark key="^" line="93" column="26" />
+      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1479284995894">
+        <mark key="'" line="59" column="26" />
+        <mark key="[" line="18" column="117" />
+        <mark key="]" line="18" column="117" />
+        <mark key="." line="18" column="117" />
+        <mark key="^" line="16" column="116" />
       </file>
       <file name="$USER_HOME$/workspace/same/.gitignore" timestamp="1473991288149">
         <mark key="[" line="14" column="10" />
@@ -1607,12 +1588,6 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/my-app.component.ts" timestamp="1476694620307">
-        <mark key="'" line="26" column="1" />
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-      </file>
       <file name="$USER_HOME$/app/donald_manager/app/controllers/AdmgtController.java" timestamp="1478839520635">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -1632,8 +1607,12 @@
         <mark key="^" line="352" column="15" />
         <mark key="." line="352" column="15" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" timestamp="1479266450308">
-        <mark key="'" line="67" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" timestamp="1479286293729">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+        <mark key="^" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/heroes.component.css" timestamp="1473909474273">
         <mark key="[" line="68" column="0" />
@@ -1731,12 +1710,6 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/modal.ts" timestamp="1476694445679">
-        <mark key="'" line="67" column="1" />
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
-      </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.ts" timestamp="1474256643140">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="8" column="21" />
@@ -1789,12 +1762,6 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/Page.java" timestamp="1477379659678">
-        <mark key="'" line="29" column="18" />
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="35" column="31" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/wall/dm/app/assets/app/frame.ts" timestamp="1475660869019">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="14" />
@@ -1846,12 +1813,6 @@
         <mark key="^" line="142" column="0" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/project/plugins.sbt" timestamp="1475055758595">
-        <mark key="'" line="15" column="44" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/app/donald_manager/app/models/D2CCategory.java" timestamp="1476340891621">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
@@ -1900,18 +1861,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/greeting-modal.component.ts" timestamp="1476694352353">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="1" column="36" />
-        <mark key="." line="1" column="36" />
-      </file>
-      <file name="$USER_HOME$/wall/dm/app/assets/app/media.component.ts" timestamp="1475635375120">
-        <mark key="'" line="47" column="6" />
-        <mark key="[" line="32" column="37" />
-        <mark key="]" line="32" column="37" />
-        <mark key="." line="32" column="37" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/containers/RepoPage.js" timestamp="1473219038745">
         <mark key="'" line="9" column="0" />
@@ -2029,12 +1978,6 @@
         <mark key="]" line="7" column="21" />
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/app.module.ts" timestamp="1475054671651">
-        <mark key="'" line="19" column="3" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/wall/dm/app/assets/app/media.service.ts" timestamp="1475660899788">
         <mark key="'" line="34" column="0" />
@@ -2163,6 +2106,13 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.html" timestamp="1479286608126">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="6" column="107" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/dm/public/app/main.ts" timestamp="1474002055445">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="2" column="0" />
@@ -2190,17 +2140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="32" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="12" column="56" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.component.ts" />
-      <jump line="14" column="64" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.component.ts" />
-      <jump line="16" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" />
-      <jump line="1" column="27" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" />
-      <jump line="25" column="16" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" />
-      <jump line="24" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="47" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="38" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="45" column="19" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
       <jump line="6" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.ts" />
       <jump line="93" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
@@ -2279,66 +2218,77 @@
       <jump line="3" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="7" column="0" filename="$USER_HOME$/app/donald_manager/conf/routes" />
       <jump line="30" column="27" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="73" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
       <jump line="22" column="21" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="5" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="60" column="28" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
-      <jump line="47" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.html" />
       <jump line="44" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.html" />
       <jump line="1" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.html" />
       <jump line="13" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
       <jump line="4" column="64" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
+      <jump line="47" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.html" />
+      <jump line="29" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.html" />
+      <jump line="95" column="19" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
+      <jump line="99" column="0" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
+      <jump line="59" column="26" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
+      <jump line="9" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.html" />
+      <jump line="18" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
+      <jump line="37" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
+      <jump line="79" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
+      <jump line="38" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
+      <jump line="85" column="20" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
+      <jump line="10" column="24" filename="$USER_HOME$/app/donald_manager/app/assets/app/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJUYWIgY2hhbmdlIikK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text>han</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiYWRSZXF1ZXN0KCJEQiBjb25uZWN0aW9uIGVycm9yIik7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBiYWRSZXF1ZXN0KCJEQiBjb25uZWN0aW9uIGZhaWxzLiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1pbi13aWR0aDo4MDBweDsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJUYWIgY2hhbmdlIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJmZXRjaCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIC50aGVuKCgpID0+IHRoaXMuX21ha2VUcmVlKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBiYWRSZXF1ZXN0KCJzYW1wbGUiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9zZWN0aW9uPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNlY3Rpb24gY2xhc3M9ImNvbnRlbnQiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtc2c6IHN0cmluZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKG1zZyA9IG1zZykK</text>
       </register>
       <register name=":" type="4">
         <text>45</text>
       </register>
     </registers>
     <search>
-      <last-search>_</last-search>
+      <last-search>han</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
+      <last-pattern>han</last-pattern>
       <last-replace>INSERT INTO dm.</last-replace>
       <last-substitute>console</last-substitute>
       <last-dir>1</last-dir>
@@ -2346,9 +2296,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assert</entry>
-        <entry>test</entry>
-        <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry>page</entry>
         <entry>--</entry>
         <entry>String</entry>
@@ -2366,6 +2313,9 @@
         <entry>dash</entry>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry>_</entry>
+        <entry>font</entry>
+        <entry>catch</entry>
+        <entry>han</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/'true'/true/g</entry>
