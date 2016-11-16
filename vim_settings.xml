@@ -1113,12 +1113,12 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" timestamp="1479123961043">
-        <mark key="'" line="30" column="14" />
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="14" />
-        <mark key="^" line="28" column="14" />
+      <file name="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" timestamp="1479261199703">
+        <mark key="'" line="31" column="21" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="89" column="9" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/index.js" timestamp="1473673906935">
         <mark key="'" line="29" column="23" />
@@ -2207,9 +2207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
-      <jump line="51" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.html" />
-      <jump line="4" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
       <jump line="23" column="7" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
       <jump line="38" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
       <jump line="59" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.ts" />
@@ -2265,7 +2262,6 @@
       <jump line="17" column="24" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="50" column="40" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="44" column="29" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
-      <jump line="43" column="20" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="58" column="3" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="25" column="4" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="66" column="2" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
@@ -2275,10 +2271,8 @@
       <jump line="143" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="138" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="78" column="5" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="2" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="24" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="49" column="4" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="65" column="2" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
@@ -2300,62 +2294,68 @@
       <jump line="57" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="26" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="62" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="61" column="3" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
-      <jump line="22" column="2" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="29" column="21" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="37" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="42" column="20" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="30" column="14" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="43" column="4" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="22" column="2" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="71" column="3" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="91" column="4" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="76" column="10" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
+      <jump line="31" column="21" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>:73</text>
+        <text>printl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qIC0tLS0tLS0tLS0tLS0tLS0tLS0tICovCg==</text>
+        <text encoding="base64">ICAgIC8vIEpzb27mloflrZfliJfjgpJQT0pP44Gr5aSJ5o+bCiAgICBTdHJpbmcgcmVzdWx0WmVyb1N0ciA9IGNvbnRlbnRBc1N0cmluZyhyZXN1bHRaZXJvKTsKICAgIC8vIEpTT07mloflrZfliJfjgpJQT0pP44Gr5aSJ5o+bCiAgICBmaW5hbCBMaXN0PFNpdGU+IHplcm8gPQogICAgICBuZXcgT2JqZWN0TWFwcGVyKCkucmVhZFZhbHVlKHJlc3VsdFplcm9TdHIsIG5ldyBUeXBlUmVmZXJlbmNlPExpc3Q8U2l0ZT4+KCkgewogICAgICB9KTsKICAgIC8vIOODhuOCueODiO+8muODmOODg+ODgOODvOmDqAogICAgYXNzZXJ0VGhhdChyZXN1bHRaZXJvLnN0YXR1cygpLCBpcyhPSykpOwogICAgYXNzZXJ0VGhhdChyZXN1bHRaZXJvLmNvbnRlbnRUeXBlKCkuZ2V0KCksIGlzKCJhcHBsaWNhdGlvbi9qc29uIikpOwogICAgLy8g44OG44K544OI77ya44Oc44OH44Kj6YOoIOOCs+ODs+ODhuODs+ODhAogICAgYXNzZXJ0VGhhdCh6ZXJvLnNpemUoKSwgaXMoMCkpOwogICAgc3BpZWRTaXRlLmZpbmQgPSBhcmNoaXZhbEZpbmRlcjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoemVyby5zaXplKCksIGlzKDApKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoemVyby5zaXplKCksIGlzKDMpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC8vIOODhuOCueODiO+8muODnOODh+OCo+mDqCDjgrPjg7Pjg4bjg7Pjg4QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIGhvZ2UoKSB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocmVzdWx0WmVyby5jb250ZW50VHlwZSgpLmdldCgpLCBpcygiYXBwbGljYXRpb24vanNvbiIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIFNpdGUgc3BpZWRTaXRlID0gc3B5KFNpdGUuY2xhc3MpOwoKICAgIGZpbmFsIEZpbmRlciBtb2NrZWRGaW5kID0gbW9jayhGaW5kZXIuY2xhc3MpOwogICAgd2hlbihtb2NrZWRGaW5kLmFsbCgpKS50aGVuUmV0dXJuKG5ldyBBcnJheUxpc3Q8PigpKTsKICAgIHNwaWVkU2l0ZS5maW5kID0gbW9ja2VkRmluZDsKCiAgICBSZXN1bHQgcmVzdWx0WmVybyA9IG5ldyBQYWdlQ29udHJvbGxlcigpLmluZGV4KCk7CgogICAgU3RyaW5nIHJlc3VsdFplcm9TdHIgPSBjb250ZW50QXNTdHJpbmcocmVzdWx0WmVybyk7CiAgICAvLyBKU09O5paH5a2X5YiX44KSUE9KT+OBq+WkieaPmwogICAgZmluYWwgTGlzdDxTaXRlPiB6ZXJvID0KICAgICAgbmV3IE9iamVjdE1hcHBlcigpLnJlYWRWYWx1ZShyZXN1bHRaZXJvU3RyLCBuZXcgVHlwZVJlZmVyZW5jZTxMaXN0PFNpdGU+PigpIHsKICAgICAgfSk7CgogICAgYXNzZXJ0VGhhdCh6ZXJvLnNpemUoKSwgaXMoMCkpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocmVzdWx0WmVyby5zdGF0dXMoKSwgaXMoT0spKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIOODhuOCueODiO+8muODmOODg+ODgOODvOmDqAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoZW4obW9ja2VkRmluZC5hbGwoKSkudGhlblJldHVybihuZXcgQXJyYXlMaXN0PD4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3IE9iamVjdE1hcHBlcigpLnJlYWRWYWx1ZShyZXN1bHRaZXJvU3RyLCBuZXcgVHlwZVJlZmVyZW5jZTxMaXN0PFNpdGU+PigpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>45</text>
       </register>
     </registers>
     <search>
-      <last-search>:73</last-search>
+      <last-search>printl</last-search>
       <last-offset />
-      <last-pattern>:73</last-pattern>
+      <last-pattern>printl</last-pattern>
       <last-replace>INSERT INTO dm.</last-replace>
       <last-substitute>console</last-substitute>
       <last-dir>1</last-dir>
@@ -2363,8 +2363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gi</entry>
-        <entry>icon</entry>
         <entry>span</entry>
         <entry encoding="base64">XDxhY2NvcmRpb25cPg==</entry>
         <entry>box-group</entry>
@@ -2383,6 +2381,8 @@
         <entry encoding="base64">XDxtb2NrZWRQY1w+</entry>
         <entry>index</entry>
         <entry>:73</entry>
+        <entry>out</entry>
+        <entry>printl</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/'true'/true/g</entry>
