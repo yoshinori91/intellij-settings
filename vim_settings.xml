@@ -989,12 +989,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1479361406200">
-        <mark key="'" line="104" column="22" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="107" column="34" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1479362071332">
+        <mark key="'" line="111" column="22" />
+        <mark key="[" line="114" column="30" />
+        <mark key="]" line="110" column="1" />
+        <mark key="." line="110" column="1" />
+        <mark key="^" line="110" column="1" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Home.js" timestamp="1473403956502">
         <mark key="'" line="22" column="21" />
@@ -2163,7 +2163,7 @@
         <mark key="^" line="353" column="0" />
         <mark key="." line="353" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" timestamp="1479361390857">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" timestamp="1479361960138">
         <mark key="'" line="173" column="0" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -2228,8 +2228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="2" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="71" column="3" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="73" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="76" column="10" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
@@ -2328,19 +2326,21 @@
       <jump line="148" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" />
       <jump line="97" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="104" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="111" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGVzdFNhbXBsZSgpCg==</text>
+        <text encoding="base64">ICAvLyDmjIflrprjgZXjgozjgZ/jgrXjgqTjg4jnt6jpm4bnlLvpnaLjgavpgbfnp7vjgZnjgovjgIIKICBnb3RvRWRpdFNpdGUocGFnZTogUGFnZSk6IHZvaWQgewogICAgbGV0IGxpbmsgPSBbIi9hZC1tZ3Qvc2l0ZS9lZGl0IiwgcGFnZS5zaXRlSWRdCiAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShsaW5rKQogIH0K</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>navigate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwZW9wbGUgPSBbeyduYW1lJzogJ01hcnknLCAnaGVpZ2h0JzogMTYwfSwKICAgIHsnbmFtZSc6ICdJc2xhJywgJ2hlaWdodCc6IDgwfSwKICAgIHsnbmFtZSc6ICdTYW0nfV0KCiAgaGVpZ2h0X3RvdGFsID0gMAogIGhlaWdodF9jb3VudCA9IDAKCiAgdGVzdFNhbXBsZSgpOiB2b2lkIHsKCiAgICB0aGlzLnBlb3BsZS5maWx0ZXIocCA9PiBwLmhhc093blByb3BlcnR5KCJoZWlnaHQiKSkKCiAgICAvLyBmb3IgcGVyc29uIGluIHBlb3BsZToKICAgIC8vIGlmICdoZWlnaHQnIGluIHBlcnNvbjoKICAgIC8vIGhlaWdodF90b3RhbCArPSBwZXJzb25bJ2hlaWdodCddCiAgICAvLyBoZWlnaHRfY291bnQgKz0gMQogICAgLy8KICAgIC8vIGlmIGhlaWdodF9jb3VudCA+IDA6CiAgICAvLyBhdmVyYWdlX2hlaWdodCA9IGhlaWdodF90b3RhbCAvIGhlaWdodF9jb3VudAogICAgLy8KICAgIC8vIHByaW50CiAgICAvLyBhdmVyYWdlX2hlaWdodAogICAgLy8gIyA9PgogICAgLy8gMTIwCiAgfQo=</text>
+        <text encoding="base64">ICAvLyDmjIflrprjgZXjgozjgZ/jgrXjgqTjg4jnt6jpm4bnlLvpnaLjgavpgbfnp7vjgZnjgovjgIIKICBnb3RvRWRpdFNpdGUocGFnZTogUGFnZSk6IHZvaWQgewogICAgbGV0IGxpbmsgPSBbIi9hZC1tZ3Qvc2l0ZS9lZGl0IiwgcGFnZS5zaXRlSWRdCiAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShsaW5rKQogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRoaXMudGVzdFNhbXBsZSgpCg==</text>
@@ -2374,9 +2374,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>navigate</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>navigate</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -2384,7 +2384,6 @@
     </search>
     <history>
       <history-search>
-        <entry>font</entry>
         <entry>catch</entry>
         <entry>han</entry>
         <entry>deleteAd</entry>
@@ -2404,6 +2403,7 @@
         <entry>'</entry>
         <entry>console.log</entry>
         <entry>console</entry>
+        <entry>navigate</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
