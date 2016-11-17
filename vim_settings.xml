@@ -989,11 +989,11 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1479360480210">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="107" column="22" />
-        <mark key="]" line="107" column="22" />
-        <mark key="." line="107" column="22" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1479361406200">
+        <mark key="'" line="104" column="22" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
         <mark key="^" line="107" column="34" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Home.js" timestamp="1473403956502">
@@ -2163,12 +2163,12 @@
         <mark key="^" line="353" column="0" />
         <mark key="." line="353" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" timestamp="1479360393503">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="74" column="2" />
-        <mark key="." line="60" column="51" />
-        <mark key="^" line="60" column="51" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" timestamp="1479361390857">
+        <mark key="'" line="173" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="59" column="51" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/webpack.config.js" timestamp="1473657989751">
         <mark key="[" line="0" column="0" />
@@ -2228,7 +2228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="22" column="2" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="75" column="0" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
       <jump line="71" column="3" filename="$USER_HOME$/app/donald_manager/test/controllers/PageControllerTest.java" />
@@ -2328,55 +2327,56 @@
       <jump line="186" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.html" />
       <jump line="148" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" />
       <jump line="97" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="104" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMudGVzdFNhbXBsZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwZW9wbGUgPSBbeyduYW1lJzogJ01hcnknLCAnaGVpZ2h0JzogMTYwfSwKICAgIHsnbmFtZSc6ICdJc2xhJywgJ2hlaWdodCc6IDgwfSwKICAgIHsnbmFtZSc6ICdTYW0nfV0KCiAgaGVpZ2h0X3RvdGFsID0gMAogIGhlaWdodF9jb3VudCA9IDAKCiAgdGVzdFNhbXBsZSgpOiB2b2lkIHsKCiAgICB0aGlzLnBlb3BsZS5maWx0ZXIocCA9PiBwLmhhc093blByb3BlcnR5KCJoZWlnaHQiKSkKCiAgICAvLyBmb3IgcGVyc29uIGluIHBlb3BsZToKICAgIC8vIGlmICdoZWlnaHQnIGluIHBlcnNvbjoKICAgIC8vIGhlaWdodF90b3RhbCArPSBwZXJzb25bJ2hlaWdodCddCiAgICAvLyBoZWlnaHRfY291bnQgKz0gMQogICAgLy8KICAgIC8vIGlmIGhlaWdodF9jb3VudCA+IDA6CiAgICAvLyBhdmVyYWdlX2hlaWdodCA9IGhlaWdodF90b3RhbCAvIGhlaWdodF9jb3VudAogICAgLy8KICAgIC8vIHByaW50CiAgICAvLyBhdmVyYWdlX2hlaWdodAogICAgLy8gIyA9PgogICAgLy8gMTIwCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnJlZHVjZSgpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMudGVzdFNhbXBsZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcC5oZWlnaHQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcC5uYW1lCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGVvcGxlLm1hcAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG8K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIDEyMAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vICMgPT4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIGF2ZXJhZ2VfaGVpZ2h0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIHByaW50Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvCg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMK</text>
+        <text encoding="base64">ICAgIC8vIGF2ZXJhZ2VfaGVpZ2h0ID0gaGVpZ2h0X3RvdGFsIC8gaGVpZ2h0X2NvdW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -2384,7 +2384,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_</entry>
         <entry>font</entry>
         <entry>catch</entry>
         <entry>han</entry>
@@ -2394,7 +2393,6 @@
         <entry encoding="base64">XDxwYWdlVXJsXD4=</entry>
         <entry>json</entry>
         <entry>change</entry>
-        <entry>console</entry>
         <entry encoding="base64">XDxkZWxldGVkQWRQYWdlc1w+</entry>
         <entry encoding="base64">XDxjaGlsZE1vZGFsXD4=</entry>
         <entry>tarash</entry>
@@ -2404,6 +2402,8 @@
         <entry>delete</entry>
         <entry>update</entry>
         <entry>'</entry>
+        <entry>console.log</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
