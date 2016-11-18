@@ -1211,12 +1211,12 @@
         <mark key="^" line="2445" column="4" />
         <mark key="." line="2445" column="4" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1479436413389">
-        <mark key="'" line="1233" column="10" />
-        <mark key="[" line="1232" column="12" />
-        <mark key="]" line="1232" column="14" />
-        <mark key="." line="1232" column="14" />
-        <mark key="^" line="1232" column="14" />
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1479437200298">
+        <mark key="'" line="1261" column="7" />
+        <mark key="[" line="1260" column="12" />
+        <mark key="]" line="1260" column="13" />
+        <mark key="." line="1260" column="13" />
+        <mark key="^" line="1260" column="13" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
         <mark key="'" line="1" column="17" />
@@ -2217,9 +2217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
-      <jump line="39" column="0" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
-      <jump line="1" column="0" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
       <jump line="6" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="13" column="0" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
       <jump line="44" column="0" filename="$USER_HOME$/app/donald_manager/conf/application.conf" />
@@ -2317,13 +2314,16 @@
       <jump line="830" column="22" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
       <jump line="835" column="12" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
       <jump line="1233" column="10" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
+      <jump line="1265" column="8" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
+      <jump line="801" column="15" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
+      <jump line="1261" column="7" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>donald</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>donald</text>
       </register>
       <register name="/" type="4">
         <text>`</text>
@@ -2335,28 +2335,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KDEzLDMsIDE1KTsK</text>
+        <text encoding="base64">KDMsJ3Bvc3RncmVzJywgJ2h0dHA6Ly9zZXJ2aWNlLnNtdC5kb2NvbW8ubmUuanAvJywgdHJ1ZSx0cnVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KDEyLDMsIDEzKSwK</text>
+        <text encoding="base64">KDIsJ29mdGJhbmsnLCAnaHR0cDovL3RvcGljcy5zbXQuZG9jb21vLm5lLmpwLycsIHRydWUsdHJ1ZSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KDExLDIsIDEyKSwK</text>
+        <text encoding="base64">KDEsJ29jb21vJywgJ2h0dHA6Ly9zbXQuZG9jb21vLm5lLmpwLycsIHRydWUsZmFsc2UpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KDEwLDIsIDExKSwK</text>
+        <text encoding="base64">VkFMVUVTCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KDksMiwgMTApLAo=</text>
+        <text encoding="base64">KGlkLCBuYW1lLCBkb21haW4sIG1vYmlsZSwgcHJpdmFjeSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KDgsMiwgOSksCg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gZG0ubV9zaXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KDcsMiwgOCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KDYsMSwgNyksCg==</text>
+        <text encoding="base64">KDEzLDMsIDE1KTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2AvL2c=</text>
@@ -2373,7 +2373,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>update</entry>
         <entry>'</entry>
         <entry>console.log</entry>
@@ -2392,6 +2391,7 @@
         <entry>enable</entry>
         <entry>enabled</entry>
         <entry>&quot;</entry>
+        <entry>m_site</entry>
         <entry>`</entry>
       </history-search>
       <history-cmd>
