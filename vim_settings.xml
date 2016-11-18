@@ -1211,8 +1211,10 @@
         <mark key="^" line="2445" column="4" />
         <mark key="." line="2445" column="4" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1479378306115">
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1479431744701">
         <mark key="'" line="38" column="8" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/utils/strings.js" timestamp="1472024599235">
         <mark key="'" line="1" column="17" />
@@ -2316,7 +2318,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyYWRpby1pbmxpbmUgY29sLXNtLTEiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6MzVweCI+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJwcC1yYWRpbzEiPgogICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9Im9wdGlvbnNSYWRpb3MiIGlkPSJwcC1yYWRpbzEiIHZhbHVlPSJlbmFibGVkIiBjaGVja2VkPgogICAgICAgICAgICAgICAgICDmnInlirkKICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gZG0ubV9kMmNfY2F0ZWdvcnkKKGlkLGQyY19pZCwgY2F0ZWdvcnkpClZBTFVFUwooMSwnRDJDMTAnLCAnMTAxMCcpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -2324,8 +2326,8 @@
       <register name="/" type="4">
         <text>enabled</text>
       </register>
-      <register name="0" type="4">
-        <text>17</text>
+      <register name="0" type="2">
+        <text encoding="base64">SU5TRVJUIElOVE8gZG0ubV9kMmNfY2F0ZWdvcnkKKGlkLGQyY19pZCwgY2F0ZWdvcnkpClZBTFVFUwooMSwnRDJDMTAnLCAnMTAxMCcpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyYWRpby1pbmxpbmUgY29sLXNtLTEiIHN0eWxlPSJwYWRkaW5nLWxlZnQ6MzVweCI+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJwcC1yYWRpbzEiPgogICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9Im9wdGlvbnNSYWRpb3MiIGlkPSJwcC1yYWRpbzEiIHZhbHVlPSJlbmFibGVkIiBjaGVja2VkPgogICAgICAgICAgICAgICAgICDmnInlirkKICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
