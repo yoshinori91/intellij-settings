@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="prod" type="Native" />
+      <mapping ext="stg" type="PLAIN_TEXT" />
       <mapping pattern="tsconfig.js" type="VTL" />
     </extensionMap>
   </component>
