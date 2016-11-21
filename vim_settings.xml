@@ -1686,12 +1686,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1479704782004">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1479705637053">
         <mark key="'" line="189" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="196" column="51" />
-        <mark key="." line="66" column="0" />
+        <mark key="[" line="65" column="24" />
+        <mark key="]" line="65" column="31" />
+        <mark key="^" line="65" column="31" />
+        <mark key="." line="65" column="31" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1479448083738">
         <mark key="'" line="44" column="0" />
@@ -2314,16 +2314,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>blockDsp</text>
+        <text>banner</text>
       </register>
       <register name="-" type="4">
-        <text>blockDsp</text>
+        <text>banner</text>
       </register>
       <register name="/" type="4">
         <text>block</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCItLS0tPT09PT09LS0tLSIgKyBwYWdlLnBhZ2VXU2VhdHMubGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZm9ybS5jb250cm9sc1siYmFubmVyIl0uZGlzYWJsZSh7b25seVNlbGY6IHRydWV9KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIHRoaXMuZm9ybS5jb250cm9sc1sid1NlYXQiXS5kaXNhYmxlKHtvbmx5U2VsZjogdHJ1ZX0pCg==</text>
