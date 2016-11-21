@@ -1691,12 +1691,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1479717282810">
-        <mark key="'" line="150" column="9" />
-        <mark key="[" line="89" column="25" />
-        <mark key="]" line="89" column="29" />
-        <mark key="^" line="89" column="29" />
-        <mark key="." line="89" column="29" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1479718379040">
+        <mark key="'" line="59" column="58" />
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="30" column="1" />
+        <mark key="^" line="30" column="1" />
+        <mark key="." line="30" column="1" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1479710248960">
         <mark key="'" line="44" column="0" />
@@ -1883,8 +1883,8 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1479364130989">
-        <mark key="'" line="71" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1479718058146">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -2219,9 +2219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="19" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="109" column="29" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="53" column="0" filename="$USER_HOME$/app/donald_manager/app/models/Page.java" />
       <jump line="24" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.ts" />
       <jump line="54" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.ts" />
       <jump line="26" column="19" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.ts" />
@@ -2290,7 +2287,6 @@
       <jump line="66" column="28" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="121" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="116" column="73" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="59" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="43" column="30" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="189" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2319,55 +2315,59 @@
       <jump line="95" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="153" column="41" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="150" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="21" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="23" column="29" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="59" column="58" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dHJ1ZQogICAgICAg</text>
-      </register>
-      <register name="-" type="4">
-        <text>$</text>
-      </register>
-      <register name="/" type="4">
-        <text>showChild</text>
-      </register>
-      <register name="0" type="4">
-        <text>Validators.maxLength(254)</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">dHJ1ZQogICAgICAg</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBvblN1Ym1pdCgpIHsKICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybSkKICAgIHRoaXMuc2VydmljZS51cGRhdGVBZFBhZ2UodGhpcy5mb3JtKQogIH0K</text>
-      </register>
-      <register name="5" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">ICAvLwo=</text>
       </register>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+      <register name="/" type="4">
+        <text>;</text>
+      </register>
+      <register name="0" type="4">
+        <text>[</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAvLwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBzaXRlczogU2l0ZVtdCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">dHJ1ZQogICAgICAg</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiBjb25zb2xlLmxvZyh0aGlzLnBhZ2UucGFnZU5nRG9tYWlucy5sZW5ndGgpKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBvblN1Ym1pdCgpIHsKICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybSkKICAgIHRoaXMuc2VydmljZS51cGRhdGVBZFBhZ2UodGhpcy5mb3JtKQogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwbGF5Lmh0dHAucm91dGVyID0gbXkuYXBwbGljYXRpb24uUm91dGVzCg==</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBEZWZhdWx0IHRvIFJvdXRlcyBpbiB0aGUgcm9vdCBwYWNrYWdlIChhbmQgY29uZi9yb3V0ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiBjb25zb2xlLmxvZyh0aGlzLnBhZ2UucGFnZU5nRG9tYWlucy5sZW5ndGgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>8</text>
       </register>
     </registers>
     <search>
-      <last-search>showChild</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern>showChild</last-pattern>
+      <last-pattern>;</last-pattern>
       <last-replace />
       <last-substitute>pageName</last-substitute>
       <last-dir>1</last-dir>
@@ -2375,8 +2375,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbWFrZURpc3BsYXllZE5hbWVcPg==</entry>
-        <entry encoding="base64">XDxfbWFrZVNpdGVMaXN0XD4=</entry>
         <entry>:</entry>
         <entry>has</entry>
         <entry>!==</entry>
@@ -2388,13 +2386,15 @@
         <entry>dsp</entry>
         <entry>wSeat</entry>
         <entry>block</entry>
-        <entry>;</entry>
         <entry>max</entry>
         <entry>pagename</entry>
         <entry>pageName</entry>
         <entry>changeDis</entry>
         <entry encoding="base64">XDxzZXRJc1NlbGVjdGVkT2ZEMmNVcGRhdGVcPg==</entry>
         <entry>showChild</entry>
+        <entry>lo%ash</entry>
+        <entry>lodash</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
         <entry>ou</entry>
