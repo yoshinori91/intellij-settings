@@ -360,12 +360,12 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1479462231818">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1479690533426">
         <mark key="'" line="98" column="96" />
-        <mark key="[" line="86" column="73" />
-        <mark key="]" line="86" column="78" />
-        <mark key="^" line="86" column="78" />
-        <mark key="." line="86" column="78" />
+        <mark key="[" line="119" column="90" />
+        <mark key="]" line="119" column="90" />
+        <mark key="^" line="114" column="61" />
+        <mark key="." line="119" column="90" />
       </file>
       <file name="$USER_HOME$/test/dona/conf/routes" timestamp="1473650793330">
         <mark key="[" line="11" column="62" />
@@ -1232,8 +1232,8 @@
         <mark key="^" line="2445" column="4" />
         <mark key="." line="2445" column="4" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1479439731649">
-        <mark key="'" line="1260" column="17" />
+      <file name="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" timestamp="1479690817268">
+        <mark key="'" line="1251" column="8" />
         <mark key="[" line="806" column="2" />
         <mark key="]" line="806" column="4" />
         <mark key="." line="806" column="2" />
@@ -2249,7 +2249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="13" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
       <jump line="22" column="27" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.html" />
       <jump line="38" column="90" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.html" />
       <jump line="48" column="68" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.html" />
@@ -2349,43 +2348,44 @@
       <jump line="179" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="177" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="133" column="8" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="1251" column="8" filename="$USER_HOME$/app/donald_manager/conf/evolutions/default/2.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>P</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>dsp</text>
       </register>
       <register name="0" type="4">
         <text>page.banners.length</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJiYW5uZXIgc2l6ZSA9ICIgKyBwYWdlLmJhbm5lcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBibGFjayBEU1AgLS0+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCBjb2wtc20tMiI+44OW44Op44OD44Kv44Oq44K544OIIERTUDwvbGFiZWw+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTYiPgogICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGZvcm1Db250cm9sTmFtZT0iYmxvY2tDYXRlZ29yeSI+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTIiPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi1ibG9jayIgdHlwZT0iYnV0dG9uIiAoY2xpY2spPSJzaG93Q2hpbGRNb2RhbCgpIj7jg5bjg6njg4Pjgq/jg6rjgrnjg4ggRFNQ6Kit5a6aCiAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiYXR0cjogc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJiYW5uZXIgc2l6ZSA9ICIgKyBwYWdlLmJhbm5lcnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBidHlwZTogc3RyaW5nCg==</text>
+        <text encoding="base64">ICBiYXR0cjogc3RyaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLm1hcAo=</text>
+        <text encoding="base64">ICBidHlwZTogc3RyaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiYW5uZXJzOgo=</text>
+        <text encoding="base64">ICAgICAgLm1hcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiYW5uZXJzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBfbWFrZURpc3BDYXRlKGNhdGVzOiBhbnlbXSk6IHN0cmluZyB7CiAgICBpZiAoY2F0ZXMubGVuZ3RoID09PSAwKSByZXR1cm4gIuOCq+ODhuOCtOODquOBquOBlyIKICAgIGxldCByZXN1bHQgPSBjYXRlcy5tYXAoY2F0ZSA9PiBjYXRlLmNhdGVnb3J5LmNhdGVnb3J5KS5qb2luKCIsIikKICAgIHJldHVybiByZXN1bHQubGVuZ3RoIDw9IDgwID8KICAgICAgcmVzdWx0IDogcmVzdWx0LnNsaWNlKDAsIDgwKSArICIgICBldGMuIgogIH0KCiAgX21ha2VEaXNwRG9tYWluKHBhZ2U6IFBhZ2UpOiBzdHJpbmcgewogICAgaWYgKHBhZ2UucGFnZU5nRG9tYWlucy5sZW5ndGggPT09IDApIHJldHVybiAi44OW44Ot44OD44Kv44OJ44Oh44Kk44Oz44Gq44GXIgogICAgbGV0IHJlc3VsdCA9IHBhZ2UucGFnZU5nRG9tYWlucy5tYXAoZG1uPT4gZG1uLmRvbWFpbikuam9pbigiLCIpCiAgICByZXR1cm4gcmVzdWx0Lmxlbmd0aCA8PSA4MCA/CiAgICAgIHJlc3VsdCA6IHJlc3VsdC5zbGljZSgwLCA4MCkgKyAiICAgZXRjLiIKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBfbWFrZURpc3BDYXRlKGNhdGVzOiBhbnlbXSk6IHN0cmluZyB7CiAgICBpZiAoY2F0ZXMubGVuZ3RoID09PSAwKSByZXR1cm4gIuOCq+ODhuOCtOODquOBquOBlyIKICAgIGxldCByZXN1bHQgPSBjYXRlcy5tYXAoY2F0ZSA9PiBjYXRlLmNhdGVnb3J5LmNhdGVnb3J5KS5qb2luKCIsIikKICAgIHJldHVybiByZXN1bHQubGVuZ3RoIDw9IDgwID8KICAgICAgcmVzdWx0IDogcmVzdWx0LnNsaWNlKDAsIDgwKSArICIgICBldGMuIgogIH0KCiAgX21ha2VEaXNwRG9tYWluKHBhZ2U6IFBhZ2UpOiBzdHJpbmcgewogICAgaWYgKHBhZ2UucGFnZU5nRG9tYWlucy5sZW5ndGggPT09IDApIHJldHVybiAi44OW44Ot44OD44Kv44OJ44Oh44Kk44Oz44Gq44GXIgogICAgbGV0IHJlc3VsdCA9IHBhZ2UucGFnZU5nRG9tYWlucy5tYXAoZG1uPT4gZG1uLmRvbWFpbikuam9pbigiLCIpCiAgICByZXR1cm4gcmVzdWx0Lmxlbmd0aCA8PSA4MCA/CiAgICAgIHJlc3VsdCA6IHJlc3VsdC5zbGljZSgwLCA4MCkgKyAiICAgZXRjLiIKICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -2395,9 +2395,9 @@
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>dsp</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>dsp</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -2405,7 +2405,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sc</entry>
         <entry>d2c</entry>
         <entry>m_site</entry>
         <entry>site</entry>
@@ -2425,6 +2424,7 @@
         <entry encoding="base64">XDxfbWFrZURpc3BsYXlOYW1lXD4=</entry>
         <entry encoding="base64">XDxfbWFrZURpc3BsYXlEb21haW5cPg==</entry>
         <entry>;</entry>
+        <entry>dsp</entry>
       </history-search>
       <history-cmd>
         <entry>62</entry>
