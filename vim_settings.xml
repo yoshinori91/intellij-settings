@@ -694,10 +694,11 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/d2cCategory.ts" timestamp="1479796815413">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/d2cCategory.ts" timestamp="1479797910773">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/translations/de.json" timestamp="1471800492291">
         <mark key="'" line="27" column="5" />
@@ -1692,12 +1693,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1479796598395">
-        <mark key="'" line="204" column="23" />
-        <mark key="[" line="121" column="12" />
-        <mark key="]" line="121" column="12" />
-        <mark key="^" line="25" column="9" />
-        <mark key="." line="121" column="12" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1479798059028">
+        <mark key="'" line="202" column="23" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="^" line="162" column="28" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1479710248960">
         <mark key="'" line="44" column="0" />
@@ -2323,10 +2324,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpcyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>selected</text>
+        <text>pCate</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -2335,31 +2336,31 @@
         <text>(click)=&quot;showCategoryModal()&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpcyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGFnZS5wYWdlQ2F0ZWdvcmllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gICBhYWEgPT4gYmJiID0gYmJiLmFhYQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBwdWJsaWMgc3RhdGljIHZvaWQgaG9nZShmaW5hbCBTdHJpbmcgYWFhKSB7Cg==</text>
+        <text encoding="base64">ICBpcyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhdGVnb3JpZXMpCg==</text>
+        <text encoding="base64">ICBpcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VydmljZS5nZXRDYXRlZ29yaWVzKCkKICAgICAgLnRoZW4oZDJjQyA9PiB0aGlzLmQyY0NhdGVnb3JpZXNGb3JNZGwgPSBkMmNDKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucGFnZS5wYWdlQ2F0ZWdvcmllcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvbXIpCg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gICBhYWEgPT4gYmJiID0gYmJiLmFhYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhYWEoaXRlbXM6IGFueVtdKTogdm9pZCB7CiAgICBwYWdlID0+IHBhZ2UuaXRlbXMuZm9yRWFjaChpdGVtID0+IGl0ZW0uaGFzT3duUHJvcGVydHkoKSkKICB9Cg==</text>
+        <text encoding="base64">ICAvLyBwdWJsaWMgc3RhdGljIHZvaWQgaG9nZShmaW5hbCBTdHJpbmcgYWFhKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/;//g</text>
