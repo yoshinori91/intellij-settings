@@ -1693,12 +1693,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1479798059028">
-        <mark key="'" line="202" column="23" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="162" column="28" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1479799353443">
+        <mark key="'" line="182" column="19" />
+        <mark key="[" line="272" column="2" />
+        <mark key="]" line="272" column="8662" />
+        <mark key="^" line="272" column="8662" />
+        <mark key="." line="272" column="8662" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1479710248960">
         <mark key="'" line="44" column="0" />
@@ -2221,9 +2221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/app/donald_manager/app/models/Page.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/models/page.ts" />
-      <jump line="4" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/models/pageWSeat.ts" />
       <jump line="145" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="66" column="28" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="121" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
@@ -2321,6 +2318,9 @@
       <jump line="199" column="23" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="158" column="43" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="206" column="23" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="149" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="180" column="35" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="181" column="19" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2330,7 +2330,7 @@
         <text>pCate</text>
       </register>
       <register name="/" type="4">
-        <text>show</text>
+        <text>page</text>
       </register>
       <register name="0" type="4">
         <text>(click)=&quot;showCategoryModal()&quot;</text>
@@ -2367,9 +2367,9 @@
       </register>
     </registers>
     <search>
-      <last-search>show</last-search>
+      <last-search>page</last-search>
       <last-offset />
-      <last-pattern>show</last-pattern>
+      <last-pattern>page</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -2377,7 +2377,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRJc1NlbGVjdGVkT2ZEMmNcPg==</entry>
         <entry encoding="base64">XDxkMmNDYXRlZ29yaWVzXD4=</entry>
         <entry>json start</entry>
         <entry>;</entry>
@@ -2397,6 +2396,7 @@
         <entry>showChild</entry>
         <entry>childModal</entry>
         <entry>show</entry>
+        <entry>page</entry>
       </history-search>
       <history-cmd>
         <entry>97</entry>
