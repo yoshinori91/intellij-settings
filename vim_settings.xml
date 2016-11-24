@@ -1396,12 +1396,12 @@
         <mark key="." line="10" column="65" />
         <mark key="^" line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1479284995894">
-        <mark key="'" line="59" column="26" />
-        <mark key="[" line="18" column="117" />
-        <mark key="]" line="18" column="117" />
-        <mark key="." line="18" column="117" />
-        <mark key="^" line="16" column="116" />
+      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1479978330480">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="36" />
+        <mark key="." line="52" column="36" />
+        <mark key="^" line="52" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/same/.gitignore" timestamp="1473991288149">
         <mark key="[" line="14" column="10" />
@@ -2264,7 +2264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="123" column="37" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="119" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="136" column="34" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2364,16 +2363,17 @@
       <jump line="90" column="32" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="5" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="20" column="46" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+      <register name="&quot;" type="4">
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text>lodash</text>
       </register>
       <register name="0" type="4">
         <text>domainsUrl</text>
@@ -2410,9 +2410,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_</last-search>
+      <last-search>lodash</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
+      <last-pattern>lodash</last-pattern>
       <last-replace>d2cCateModal</last-replace>
       <last-substitute>categoryModal</last-substitute>
       <last-dir>1</last-dir>
@@ -2420,7 +2420,6 @@
     </search>
     <history>
       <history-search>
-        <entry>changeChe</entry>
         <entry>categoryModal</entry>
         <entry>hide</entry>
         <entry>NgCatge</entry>
@@ -2440,6 +2439,7 @@
         <entry>csv</entry>
         <entry>params</entry>
         <entry>_</entry>
+        <entry>lodash</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
