@@ -771,12 +771,11 @@
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/PageNgDomainCsv.java" timestamp="1479972126967">
+      <file name="$USER_HOME$/app/donald_manager/app/models/PageNgDomainCsv.java" timestamp="1479975024948">
         <mark key="'" line="11" column="22" />
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="23" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/report.component.ts" timestamp="1474455757816">
         <mark key="[" line="6" column="13" />
@@ -1337,12 +1336,12 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1479973392468">
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1479975789157">
         <mark key="'" line="108" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="115" column="34" />
-        <mark key="." line="115" column="34" />
-        <mark key="^" line="115" column="34" />
+        <mark key="[" line="118" column="55" />
+        <mark key="]" line="118" column="54" />
+        <mark key="." line="118" column="54" />
+        <mark key="^" line="118" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -2367,43 +2366,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgLy8gQ3N2TWFuYWdlciDjgpLlj5blvpfjgZfjgb7jgZnjgII=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgLy8gQ3N2TWFuYWdlciDjgpLlj5blvpfjgZfjgb7jgZnjgII=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
       </register>
-      <register name="0" type="4">
-        <text>PageNgDomainCsv</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgbm9uZS5kb21haW4gPSAi44GT44Gu6KGM44KS5raI44GX44Gm44CB5bqD5ZGK44Oa44O844K4SUTjgajjg4njg6HjgqTjg7PjgpLlhaXlipvjgZfjgabjgY/jgaDjgZXjgYTjgIIiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENzdi5zYXZlKGNzdiwgZmlsZSwgY2ZnLCBuZXcgQ3N2RW50aXR5TWFuYWdlcjw+KFBhZ2VOZ0RvbWFpbkNzdi5jbGFzcykpOwo=</text>
+        <text encoding="base64">Ly8gICAgICBub25lLmRvbWFpbiA9ICLjgZPjga7ooYzjgpLmtojjgZfjgabjgIHluoPlkYrjg5rjg7zjgrhJROOBqOODieODoeOCpOODs+OCkuWFpeWKm+OBl+OBpuOBj+OBoOOBleOBhOOAgiI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbm9uZS5kb21haW4gPSAiYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYSI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIENzdkNvbmZpZyBjZmcgPSBuZXcgQ3N2Q29uZmlnKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbmFsICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB2aWF0ZSAK</text>
+        <text encoding="base64">ICBwdWJsaWMgUGFnZU5nQ2F0ZWdvcnkoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZXhwb3J0Iik7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/categoryModal/d2cCateModal/g</text>
