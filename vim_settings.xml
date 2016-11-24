@@ -373,12 +373,12 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1479953767042">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1479954680089">
         <mark key="'" line="72" column="24" />
-        <mark key="[" line="253" column="16" />
-        <mark key="]" line="253" column="31" />
-        <mark key="." line="253" column="31" />
-        <mark key="^" line="253" column="31" />
+        <mark key="[" line="82" column="88" />
+        <mark key="]" line="82" column="88" />
+        <mark key="." line="82" column="88" />
+        <mark key="^" line="82" column="86" />
       </file>
       <file name="$USER_HOME$/test/dona/conf/routes" timestamp="1473650793330">
         <mark key="[" line="11" column="62" />
@@ -1705,12 +1705,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1479953796969">
-        <mark key="'" line="174" column="22" />
-        <mark key="[" line="45" column="2" />
-        <mark key="]" line="45" column="2" />
-        <mark key="." line="45" column="2" />
-        <mark key="^" line="44" column="24" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1479954714591">
+        <mark key="'" line="180" column="22" />
+        <mark key="[" line="113" column="24" />
+        <mark key="]" line="113" column="28" />
+        <mark key="." line="113" column="28" />
+        <mark key="^" line="113" column="28" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/conf/application.conf" timestamp="1479710248960">
         <mark key="'" line="44" column="0" />
@@ -2360,16 +2360,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibG9ja0NhdGVnb3J5SWRzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dGhpcy5wYWdlLnBhZ2VOZ0NhdGVnb3JpZXMubWFwKHA9PnAuY2F0ZWdvcnkuaWQp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc2hvd1NpdGVNb2RhbCgpOiB2b2lkIHsKICAgIHRoaXMuc2VydmljZS5mZXRjaElkQW5kTmFtZU9mU2l0ZXMoKQogICAgICAudGhlbihzaXRlcyA9PiB0aGlzLnNpdGVzRm9yTWRsID0gc2l0ZXMpCiAgICAgIC50aGVuKCgpID0+IHRoaXMuc2VsZWN0U2l0ZSgpLnNob3coKSkKICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
