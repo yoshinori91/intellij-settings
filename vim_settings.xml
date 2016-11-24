@@ -1337,12 +1337,12 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1479977341894">
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1479981305449">
         <mark key="'" line="108" column="0" />
-        <mark key="[" line="104" column="37" />
-        <mark key="]" line="104" column="37" />
-        <mark key="." line="104" column="37" />
-        <mark key="^" line="104" column="37" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="125" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -2367,10 +2367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXIoZmlsZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>.as()</text>
       </register>
       <register name="/" type="4">
         <text>lodash</text>
@@ -2379,31 +2379,31 @@
         <text>domainsUrl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXIoZmlsZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ICAgIHJlbmRlciAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RzZW0ub3V0Cg==</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjc3ZEb3dubG9hZCIpCg==</text>
+        <text encoding="base64">ICAgIFN5c3RzZW0ub3V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgXyBmcm9tICJsb2Rhc2giCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjc3ZEb3dubG9hZCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgXyBmcm9tICJsb2Rhc2giCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/categoryModal/d2cCateModal/g</text>
