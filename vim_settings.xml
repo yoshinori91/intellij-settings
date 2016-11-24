@@ -1139,12 +1139,12 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1479977405125">
-        <mark key="'" line="20" column="46" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="92" column="6" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1479979475669">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="91" column="18" />
+        <mark key="]" line="92" column="43" />
+        <mark key="." line="92" column="43" />
+        <mark key="^" line="92" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/services/MediaServiceImpl.java" timestamp="1474954478807">
         <mark key="'" line="9" column="30" />
@@ -2264,8 +2264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="37" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="119" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="136" column="34" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="130" column="28" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="127" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2364,10 +2362,12 @@
       <jump line="5" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="20" column="46" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
+      <jump line="83" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
+      <jump line="76" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>index</text>
@@ -2379,31 +2379,31 @@
         <text>domainsUrl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RzZW0ub3V0Cg==</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjc3ZEb3dubG9hZCIpCg==</text>
+        <text encoding="base64">ICAgIFN5c3RzZW0ub3V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgXyBmcm9tICJsb2Rhc2giCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjc3ZEb3dubG9hZCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgXyBmcm9tICJsb2Rhc2giCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICBub25lLmRvbWFpbiA9ICLjgZPjga7ooYzjgpLmtojjgZfjgabjgIHluoPlkYrjg5rjg7zjgrhJROOBqOODieODoeOCpOODs+OCkuWFpeWKm+OBl+OBpuOBj+OBoOOBleOBhOOAgiI7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbm9uZS5kb21haW4gPSAiYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/categoryModal/d2cCateModal/g</text>
