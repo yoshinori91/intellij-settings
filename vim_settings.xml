@@ -1139,8 +1139,8 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1480036853072">
-        <mark key="'" line="91" column="17" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1480037939053">
+        <mark key="'" line="19" column="36" />
         <mark key="[" line="90" column="68" />
         <mark key="]" line="91" column="16" />
         <mark key="." line="91" column="16" />
@@ -2264,7 +2264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="28" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="127" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="49" column="12" filename="$USER_HOME$/app/donald_manager/tslint.json" />
       <jump line="0" column="2" filename="$USER_HOME$/app/donald_manager/tslint.json" />
@@ -2364,6 +2363,7 @@
       <jump line="76" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="91" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="127" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="19" column="36" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
