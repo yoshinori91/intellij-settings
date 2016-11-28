@@ -379,11 +379,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1480318223607">
-        <mark key="[" line="87" column="18" />
-        <mark key="]" line="88" column="11" />
-        <mark key="^" line="88" column="11" />
-        <mark key="." line="88" column="11" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1480319611625">
+        <mark key="[" line="131" column="18" />
+        <mark key="]" line="131" column="24" />
+        <mark key="^" line="103" column="18" />
+        <mark key="." line="131" column="18" />
       </file>
       <file name="$USER_HOME$/test/dona/conf/routes" timestamp="1473650793330">
         <mark key="[" line="11" column="62" />
@@ -2457,17 +2457,17 @@
       <jump line="94" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb250cm9sLWxhYmVsIGNvbC1zbS0yIj7jg5Djg4rjg7zvvIjmnqDvvIk8L2xhYmVsPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS02Ij4KICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBmb3JtQ29udHJvbE5hbWU9ImJhbm5lciI+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTIiPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi1ibG9jayIgKGNsaWNrKT0ic2hvd0Jhbm5lck1vZGFsKCkiPuODkOODiuODvOioreWumjwvYnV0dG9uPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCgogICAgICAgICAgICA8IS0tIGJhbm5lciAtLT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="-" type="4">
-        <text>バナー設定</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>banner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMSI+CiAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXByaW1hcnkgYnRuLWJsb2NrIiAoY2xpY2spPSJzaG93QmFubmVyTW9kYWwoKSI+44OQ44OK44O86Kit5a6aPC9idXR0b24+CiAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImNvbnRyb2wtbGFiZWwgY29sLXNtLTIiPuODkOODiuODvO+8iOaeoO+8iTwvbGFiZWw+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb250cm9sLWxhYmVsIGNvbC1zbS0yIj7jg5Djg4rjg7zvvIjmnqDvvIk8L2xhYmVsPgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS02Ij4KICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBmb3JtQ29udHJvbE5hbWU9ImJhbm5lciI+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTIiPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi1ibG9jayIgKGNsaWNrKT0ic2hvd0Jhbm5lck1vZGFsKCkiPuODkOODiuODvOioreWumjwvYnV0dG9uPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCgogICAgICAgICAgICA8IS0tIGJhbm5lciAtLT4K</text>
