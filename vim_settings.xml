@@ -712,11 +712,11 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/d2cCategory.ts" timestamp="1480297653071">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-        <mark key="^" line="2" column="11" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/d2cCategory.ts" timestamp="1480299524639">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/wkt/donald3/dm/app/models/Pin.java" timestamp="1474970494656">
         <mark key="'" line="18" column="14" />
@@ -1772,11 +1772,11 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1480297804642">
-        <mark key="'" line="172" column="23" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1480299902664">
+        <mark key="'" line="183" column="2" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
@@ -2345,8 +2345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
-      <jump line="76" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="91" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="19" column="36" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
       <jump line="127" column="25" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
@@ -2445,55 +2443,57 @@
       <jump line="146" column="8" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="164" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="173" column="23" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="251" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="183" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2codGhpcy5kMmNDYXRlZ29yaWVzRm9yTWRsKSkK</text>
+        <text encoding="base64">ICAgICAgYy5sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>d2cId</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text>split</text>
       </register>
       <register name="0" type="4">
         <text>category</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2codGhpcy5kMmNDYXRlZ29yaWVzRm9yTWRsKSkK</text>
+        <text encoding="base64">ICAgICAgYy5sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGQ+e3tibm4ucG9zaXRpb259fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAuZm9yRWFjaChjcyA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYXRlZ29yeTogRDJjQ2F0ZWdvcnkK</text>
+        <text encoding="base64">ICAgICAgICBjLmNhdGVnb3J5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYXRlZ29yeUlkOiBudW1iZXIK</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMTEvMjUuCg==</text>
+        <text encoding="base64">ICAgICAgICBjLmJlbG9uZ2luZyA9IGNzLmxlbmd0aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXRlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMTEvMjUuCg==</text>
+        <text encoding="base64">ICAgICAgICBjcy4K</text>
       </register>
       <register name=":" type="4">
         <text>16</text>
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search>split</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern>split</last-pattern>
       <last-replace>d2cCateModal</last-replace>
       <last-substitute>Ban</last-substitute>
       <last-dir>1</last-dir>
@@ -2501,7 +2501,6 @@
     </search>
     <history>
       <history-search>
-        <entry>{{</entry>
         <entry>pathc</entry>
         <entry>block</entry>
         <entry>;</entry>
@@ -2521,6 +2520,7 @@
         <entry>modal</entry>
         <entry>forModal</entry>
         <entry>select</entry>
+        <entry>split</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/INSERT INTO /INSERT INTO dm./g</entry>
