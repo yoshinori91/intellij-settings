@@ -15,6 +15,12 @@
         <mark key="." line="34" column="2" />
         <mark key="^" line="34" column="2" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ms_bootstrap.html" timestamp="1480398789590">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Nav.js" timestamp="1472547843977">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="8" column="10" />
@@ -124,6 +130,11 @@
         <mark key="]" line="20" column="15" />
         <mark key="^" line="4" column="14" />
         <mark key="." line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/error.component.ts" timestamp="1479285418519">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Report/index.js" timestamp="1473065023007">
         <mark key="'" line="1" column="0" />
@@ -329,6 +340,11 @@
         <mark key="]" line="5" column="17" />
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/DispUtil.ts" timestamp="1479460861900">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/client/index.html" timestamp="1473649810876">
         <mark key="[" line="9" column="0" />
@@ -706,11 +722,6 @@
         <mark key="^" line="78" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/d2cCategory.ts" timestamp="1480304775620">
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-      </file>
       <file name="$USER_HOME$/wkt/donald3/dm/app/models/Pin.java" timestamp="1474970494656">
         <mark key="'" line="18" column="14" />
         <mark key="[" line="0" column="0" />
@@ -754,6 +765,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/BannerBlockAttribute.ts" timestamp="1480067888697">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1480390936680">
         <mark key="'" line="162" column="0" />
@@ -932,6 +948,11 @@
         <mark key="." line="14" column="1" />
         <mark key="^" line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/utils/form.validation.ts" timestamp="1479711551843">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/page-detail.component.html" timestamp="1476760047365">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="142" column="39" />
@@ -976,6 +997,12 @@
         <mark key="]" line="11" column="62" />
         <mark key="^" line="11" column="62" />
         <mark key="." line="11" column="62" />
+      </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" timestamp="1480400102053">
+        <mark key="'" line="18" column="11" />
+        <mark key="[" line="15" column="83" />
+        <mark key="]" line="15" column="83" />
+        <mark key="." line="15" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/donald-manager/project/plugins.sbt" timestamp="1474947270519">
         <mark key="'" line="21" column="47" />
@@ -1865,13 +1892,12 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" timestamp="1480396743936">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" timestamp="1480400034196">
         <mark key="p" line="0" column="33" />
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="54" column="29" />
-        <mark key="." line="48" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1473666812975">
         <mark key="[" line="5" column="0" />
@@ -2091,12 +2117,10 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" timestamp="1480322499363">
-        <mark key="'" line="49" column="23" />
-        <mark key="[" line="25" column="57" />
-        <mark key="]" line="25" column="57" />
-        <mark key="^" line="49" column="23" />
-        <mark key="." line="25" column="57" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" timestamp="1480399461773">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/actions/mediaPage/index.js" timestamp="1473328709459">
         <mark key="[" line="3" column="16" />
@@ -2123,12 +2147,12 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" timestamp="1480397660531">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" timestamp="1480399998305">
         <mark key="'" line="38" column="11" />
-        <mark key="[" line="85" column="8" />
-        <mark key="]" line="102" column="10" />
-        <mark key="^" line="102" column="10" />
-        <mark key="." line="102" column="10" />
+        <mark key="[" line="85" column="28" />
+        <mark key="]" line="85" column="28" />
+        <mark key="^" line="85" column="28" />
+        <mark key="." line="85" column="28" />
       </file>
       <file name="$USER_HOME$/test/dona/client/app.module.ts" timestamp="1473650413790">
         <mark key="[" line="11" column="16" />
@@ -2226,6 +2250,13 @@
         <mark key="]" line="21" column="15" />
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/multiselect.ts" timestamp="1480398890072">
+        <mark key="'" line="18" column="25" />
+        <mark key="[" line="1" column="49" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="1" column="49" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/index.js" timestamp="1473318529343">
         <mark key="[" line="4" column="21" />
@@ -2349,15 +2380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/app/donald_manager/app/models/Banner.java" />
-      <jump line="134" column="40" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="5" column="1" filename="$USER_HOME$/app/donald_manager/app/assets/app/models/bannerMimeType.ts" />
-      <jump line="15" column="33" filename="$USER_HOME$/app/donald_manager/app/assets/app/models/banner.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/models/banner.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="142" column="30" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="143" column="29" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="144" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="145" column="20" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="146" column="21" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="148" column="20" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
@@ -2449,55 +2471,64 @@
       <jump line="52" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
       <jump line="72" column="16" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="77" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="62" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect.ts" />
+      <jump line="24" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect.ts" />
+      <jump line="100" column="1" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect.ts" />
+      <jump line="18" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect.ts" />
+      <jump line="59" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
+      <jump line="54" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
+      <jump line="270" column="1" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
+      <jump line="62" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
+      <jump line="18" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>multiple</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>multiple</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>radio</text>
+        <text encoding="base64">XDxOR19WQUxVRV9BQ0NFU1NPUlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gKm5nSWY9ImJubi5zZWN1cmUiIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tc20iCiAgICAgICAgICAgICAgICAgIChjbGljayk9ImNoYW5nZVNlY3VyZUZsYWcoYm5uKSI+5pyJ5Yq5CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgIDxidXR0b24gKm5nSWY9IiFibm4uc2VjdXJlIiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXdhcm5pbmcgYnRuLXNtIgogICAgICAgICAgICAgICAgICAoY2xpY2spPSJjaGFuZ2VTZWN1cmVGbGFnKGJubikiPueEoeWKuQogICAgICAgICAgPC9idXR0b24+Cg==</text>
+      <register name="0" type="4">
+        <text>ss-multiselect-dropdown</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBpZHg6IG51bWJlciA9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtNdWx0aXNlbGVjdH0gZnJvbSAiLi9tdWx0aXNlbGVjdCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkaXJlY3RpdmVzOiBbTXVsdGlzZWxlY3RdLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjaGFuZ2VGbGFnKGI6IGJvb2xlYW4pIHsKICAgIHJldHVybiBiID0+ICFiCiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHtNdWx0aXNlbGVjdH0gZnJvbSAiLi9tdWx0aXNlbGVjdCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0icmFkaW8taW5saW5lIj48aW5wdXQgdHlwZT0icmFkaW8iIFtuYW1lXT0iYm5uLmlkIiBbY2hlY2tlZF09ImJubi50b3BGcmFtZSI+5pyJ5Yq5PC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgIE11bHRpc2VsZWN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0icmFkaW8taW5saW5lIj48aW5wdXQgdHlwZT0icmFkaW8iIFtuYW1lXT0iYm5uLmlkIiBbY2hlY2tlZF09IiFibm4udG9wRnJhbWUiPueEoeWKuTwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICBkaXJlY3RpdmU6IE11bHRpc2VsZWN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkaXJlY3RpdmVzOiBbTXVsdGlzZWxlY3RdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBpZHg6IG51bWJlciA9IHRoaXMuYmFubmVycy5maW5kSW5kZXgoYiA9PiBiLmlkID09PSBibm4uaWQpCg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvc2VsZWN0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGluZGV4TnVtCg==</text>
+        <text encoding="base64">ICAgICAgPG9wdGlvbiB2YWx1ZT0iLm5ldCI+Lk5ldDwvb3B0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>16</text>
       </register>
     </registers>
     <search>
-      <last-search>radio</last-search>
+      <last-search encoding="base64">XDxOR19WQUxVRV9BQ0NFU1NPUlw+</last-search>
       <last-offset />
-      <last-pattern>radio</last-pattern>
+      <last-pattern encoding="base64">XDxOR19WQUxVRV9BQ0NFU1NPUlw+</last-pattern>
       <last-replace>d2cCateModal</last-replace>
       <last-substitute>Ban</last-substitute>
       <last-dir>1</last-dir>
@@ -2505,8 +2536,6 @@
     </search>
     <history>
       <history-search>
-        <entry>show</entry>
-        <entry>Ban</entry>
         <entry>modal</entry>
         <entry>forModal</entry>
         <entry>select</entry>
@@ -2525,6 +2554,8 @@
         <entry>goto</entry>
         <entry>input</entry>
         <entry>radio</entry>
+        <entry encoding="base64">XDxNVUxUSVNFTEVDVF9WQUxVRV9BQ0NFU1NPUlw+</entry>
+        <entry encoding="base64">XDxOR19WQUxVRV9BQ0NFU1NPUlw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/INSERT INTO /INSERT INTO dm./g</entry>
