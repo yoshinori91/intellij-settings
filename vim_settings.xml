@@ -1875,13 +1875,13 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" timestamp="1480468951924">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" timestamp="1480471750987">
         <mark key="p" line="0" column="33" />
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="19" column="25" />
+        <mark key="'" line="58" column="24" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="61" column="52" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1473666812975">
         <mark key="[" line="5" column="0" />
@@ -2062,12 +2062,12 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/banner.ts" timestamp="1480329276918">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/banner.ts" timestamp="1480470752603">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="19" />
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+        <mark key="^" line="23" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/qiita-npm-i-angular2/hello-world.component2.ts" timestamp="1473737533279">
         <mark key="[" line="3" column="24" />
@@ -2132,12 +2132,12 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" timestamp="1480468961491">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" timestamp="1480471548084">
         <mark key="'" line="77" column="11" />
-        <mark key="[" line="83" column="97" />
-        <mark key="]" line="83" column="97" />
-        <mark key="." line="83" column="97" />
-        <mark key="^" line="83" column="97" />
+        <mark key="[" line="78" column="85" />
+        <mark key="]" line="78" column="99" />
+        <mark key="." line="78" column="99" />
+        <mark key="^" line="78" column="99" />
       </file>
       <file name="$USER_HOME$/test/dona/client/app.module.ts" timestamp="1473650413790">
         <mark key="[" line="11" column="16" />
@@ -2365,8 +2365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
-      <jump line="9" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
       <jump line="88" column="10" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
       <jump line="89" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
       <jump line="70" column="23" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
@@ -2465,55 +2463,57 @@
       <jump line="69" column="42" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
       <jump line="82" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
       <jump line="75" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="63" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="60" column="24" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNlbGVjdGVkT3B0aW9uczogbnVtYmVyW10K</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB0aGlzLmJhbm5lcnMuZm9yRWFjaChiID0+IGIucG9zID0gdGhpcy5jb252ZXJ0TnVtVG9Qb3MoYi5wb3NpdGlvbikpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>selected</text>
+        <text encoding="base64">XDxCYW5uZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNlbGVjdGVkT3B0aW9uczogbnVtYmVyW10K</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihwYWdlID0+IHRoaXMuYmFubmVycyA9IHRoaXMuc2V0QmFubmVyTGlzdChwYWdlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB0aGlzLmJhbm5lcnMuZm9yRWFjaChiID0+IGIucG9zID0gdGhpcy5jb252ZXJ0TnVtVG9Qb3MoYi5wb3NpdGlvbikpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMubW9kZWwpCg==</text>
+        <text encoding="base64">ICAgIC8vIGJhbm5lci5zZWxlY3RlZEJtdCA9IGJhbm5lci5iYW5uZXJNaW1lVHlwZXMubWFwKGJtdCA9PiBibXQubWltZVR5cGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJhbm5lci5pc1RvcEZyYW1lID0gYmFubmVyLnRvcEZyYW1lID8gImVuYWJsZWQiIDogImRpc2FibGVkIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhbm5lci5pc1NlY3VyZSA9IGJhbm5lci5zZWN1cmUgPyAiZW5hYmxlZCIgOiAiZGlzYWJsZWQiCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHtpZDogMTEsIG5hbWU6ICdTdXJ2ZXlzJ30sCiAgICB7aWQ6IDEyLCBuYW1lOiAnVGV4dCBPbmx5J30sCiAgICB7aWQ6IDEzLCBuYW1lOiAnVXNlciBJbnRlcmFjdGl2ZSd9LAogICAge2lkOiAxNCwgbmFtZTogJ1dpbmRvdyBEaWFsb2cnfSwKICAgIHtpZDogMTUsIG5hbWU6ICdIYXMgQXVkaW8gT24vT2ZmIEJ1dHRvbid9LA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHtpZDogMCwgbmFtZTogJ1VuZGVmaW5lZCd9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihwYWdlID0+IHBhZ2UuYmFubmVycyA9PiB0aGlzLnNldEJhbm5lckxpc3QocGFnZSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIGJhbm5lci5iYW5uZXJCbG9ja1R5cGVzLm1hcChiYnQgPT4gYmJ0LmJsb2NrVHlwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBzZWxlY3RlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGJhbm5lci5iYW5uZXJCbG9ja0F0dHJpYnV0ZXMK</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/;//g</text>
       </register>
     </registers>
     <search>
-      <last-search>selected</last-search>
+      <last-search encoding="base64">XDxCYW5uZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>selected</last-pattern>
+      <last-pattern encoding="base64">XDxCYW5uZXJcPg==</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -2521,8 +2521,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRvVW5zZWxlY3RcPg==</entry>
-        <entry encoding="base64">XDxkeW5hbWljVGl0bGVNYXhJdGVtc1w+</entry>
         <entry>selectedOptions</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVOdW1TZWxlY3RlZFw+</entry>
@@ -2541,6 +2539,8 @@
         <entry>options</entry>
         <entry>selectedOp</entry>
         <entry>selected</entry>
+        <entry encoding="base64">XDxiYW5uZXJcPg==</entry>
+        <entry encoding="base64">XDxCYW5uZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/INSERT INTO /INSERT INTO dm./g</entry>
