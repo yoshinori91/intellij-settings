@@ -1826,12 +1826,13 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" timestamp="1480567168348">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" timestamp="1480569360997">
         <mark key="p" line="0" column="33" />
-        <mark key="'" line="142" column="29" />
-        <mark key="[" line="139" column="18" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+        <mark key="'" line="143" column="29" />
+        <mark key="[" line="141" column="56" />
+        <mark key="]" line="141" column="57" />
+        <mark key="^" line="141" column="22" />
+        <mark key="." line="141" column="57" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1473666812975">
         <mark key="[" line="5" column="0" />
@@ -2393,44 +2394,44 @@
       <jump line="109" column="13" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRzaGkK</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>deleteBanners</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihiYW5uZXJzLnNpemUoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">LmZpbHRlcihiIC0+IGIuaGFzT3duUHJvcGVydHkoImlkIikp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRzaGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihiYW5uZXJzLmdldCgwKS5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihiYW5uZXJzLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZGVsZXRlZEJhbm5lcnMuZmlsdGVyKGIgPT4gY29uc29sZS5sb2coYi5oYXNPd25Qcm9wZXJ0eSgiaWQiKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmluKCJhZF9wYWdlX2lkIiwgaWQpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYmFubmVycy5maWx0ZXIoYiA9PiBjb25zb2xlLmxvZyhiLmhhc093blByb3BlcnR5KCJpZCIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJhbm5lcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJhbm5lcikK</text>
       </register>
       <register name=":" type="4">
         <text>157</text>
