@@ -369,10 +369,10 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1480412088218">
-        <mark key="'" line="36" column="17" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="178" column="7" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1480556744456">
+        <mark key="'" line="309" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="11" />
       </file>
       <file name="$USER_HOME$/test/dona/conf/routes" timestamp="1473650793330">
         <mark key="[" line="11" column="62" />
@@ -739,10 +739,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1480411956392">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="37" column="18" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1480557751636">
+        <mark key="'" line="139" column="63" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="127" column="23" />
         <mark key="." line="5" column="36" />
         <mark key="^" line="5" column="35" />
       </file>
@@ -1010,6 +1010,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="25" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1480557668028">
+        <mark key="'" line="125" column="39" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Home.js" timestamp="1473403956502">
         <mark key="'" line="22" column="21" />
@@ -1324,12 +1330,11 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1480554276009">
-        <mark key="'" line="136" column="21" />
-        <mark key="[" line="105" column="28" />
-        <mark key="]" line="105" column="28" />
-        <mark key="." line="105" column="28" />
-        <mark key="^" line="105" column="28" />
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1480556429664">
+        <mark key="'" line="154" column="21" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -1821,12 +1826,13 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" timestamp="1480500296567">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" timestamp="1480557601465">
         <mark key="p" line="0" column="33" />
-        <mark key="'" line="69" column="9" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+        <mark key="'" line="13" column="9" />
+        <mark key="[" line="113" column="27" />
+        <mark key="]" line="126" column="27" />
+        <mark key="." line="126" column="27" />
+        <mark key="^" line="126" column="27" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1473666812975">
         <mark key="[" line="5" column="0" />
@@ -2059,12 +2065,11 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" timestamp="1480499851494">
-        <mark key="'" line="40" column="50" />
-        <mark key="[" line="48" column="66" />
-        <mark key="]" line="48" column="75" />
-        <mark key="^" line="48" column="75" />
-        <mark key="." line="48" column="75" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" timestamp="1480557758400">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/client/app.module.ts" timestamp="1473650413790">
         <mark key="[" line="11" column="16" />
@@ -2286,35 +2291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="33" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="202" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="119" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="34" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="35" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="117" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="61" column="19" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="86" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="114" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="116" column="10" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="186" column="82" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="189" column="32" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="193" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="234" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="237" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="81" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="222" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="65" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="158" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="205" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="151" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="147" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="148" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="104" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="152" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="145" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="71" column="58" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
-      <jump line="11" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
       <jump line="79" column="13" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
       <jump line="235" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
       <jump line="236" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/multiselect-dropdown.ts" />
@@ -2386,55 +2362,84 @@
       <jump line="87" column="16" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="136" column="21" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="14" column="0" filename="$USER_HOME$/app/donald_manager/app/models/Banner.java" />
+      <jump line="29" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="138" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="309" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="25" column="34" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
+      <jump line="93" column="7" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
+      <jump line="64" column="32" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
+      <jump line="10" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
+      <jump line="23" column="30" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
+      <jump line="3" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
+      <jump line="81" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="19" column="6" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="60" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="25" column="28" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="101" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="113" column="26" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="116" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="117" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="118" column="23" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="122" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="126" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="12" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="13" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="68" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="125" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
+      <jump line="139" column="63" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
+      <jump line="125" column="39" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ダイアログ</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>updateIn</text>
       </register>
-      <register name="0" type="4">
-        <text>searchBannersInAdPageId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICBhcmlhLWxhYmVsbGVkYnk9Im15U21hbGxNb2RhbExhYmVsIgogICAgIGFyaWEtaGlkZGVuPSJ0cnVlIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBICg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB1cGRhdGVkTW9kYWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZWxldGVkQmFubmVycy5zaXplKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihqc29uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYmFubmVycy4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhbm5lci5wb3NpdGlvbgo=</text>
+        <text encoding="base64">ICAgICBhcmlhLWxhYmVsbGVkYnk9Im15U21hbGxNb2RhbExhYmVsIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucG9zcy5maW5kKHAgPT4gcC5pZCA9PT0gYmFubmVyLnBvc2l0aW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/;//g</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>updateIn</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>updateIn</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -2442,13 +2447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>options</entry>
-        <entry>selectedOp</entry>
-        <entry>selected</entry>
-        <entry encoding="base64">XDxiYW5uZXJcPg==</entry>
-        <entry encoding="base64">XDxCYW5uZXJcPg==</entry>
-        <entry>Select</entry>
-        <entry>default</entry>
         <entry>setSelected</entry>
         <entry>console.</entry>
         <entry>ad_page_id</entry>
@@ -2461,7 +2459,14 @@
         <entry encoding="base64">XDxhZFBhZ2VJZFw+</entry>
         <entry>ngMOdel</entry>
         <entry>ngModel</entry>
+        <entry>section</entry>
+        <entry>show</entry>
+        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVkTW9kYWxcPg==</entry>
+        <entry>showUpdate</entry>
         <entry>update</entry>
+        <entry encoding="base64">XDx1cGRhdGVJbnZhbGlkRmxhZ1w+</entry>
+        <entry>updateIn</entry>
       </history-search>
       <history-cmd>
         <entry>.,$s/INSERT INTO /INSERT INTO dm./g</entry>
