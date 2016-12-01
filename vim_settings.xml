@@ -1721,12 +1721,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1480412236666">
-        <mark key="'" line="305" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="22" />
-        <mark key="." line="304" column="22" />
-        <mark key="^" line="304" column="22" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1480575088273">
+        <mark key="'" line="286" column="0" />
+        <mark key="[" line="281" column="38" />
+        <mark key="]" line="281" column="38" />
+        <mark key="." line="281" column="38" />
+        <mark key="^" line="281" column="38" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
@@ -2291,9 +2291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="4" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="15" column="4" filename="$USER_HOME$/app/donald_manager/app/models/Banner.java" />
-      <jump line="125" column="9" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="45" column="16" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="52" column="10" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="122" column="23" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
@@ -2391,55 +2388,58 @@
       <jump line="135" column="29" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
       <jump line="46" column="16" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="118" column="38" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="102" column="20" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="224" column="8" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="286" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAg44OG44O844OW44Or6aCF55uu44GuKuOBr+OAgeW/hemgiOmgheebruOBp+OBmeOAggo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICsgIiAiICs=</text>
       </register>
       <register name="-" type="4">
-        <text>※必須</text>
+        <text encoding="base64">ICsgIiAiICs=</text>
       </register>
       <register name="/" type="4">
-        <text>change</text>
+        <text encoding="base64">XDxfbWFrZURpc3BCYW5uZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>※必須</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAg44OG44O844OW44Or6aCF55uu44GuKuOBr+OAgeW/hemgiOmgheebruOBp+OBmeOAggo=</text>
+        <text encoding="base64">ICAgICAgICBibm4ucG9zaXRpb24pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBibm4ucG9zaXRpb24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAg44OG44O844OW44Or6aCF55uu44GuKuOBr+OAgeW/hemgiOmgheebruOBp+OBmeOAggo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBpZD0iYm5uLml0ZW1ObyIgY2xhc3M9ImJ0bi1ncm91cCI+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB1cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIG5hbWU9InNleCIgdmFsdWU9ImJubi5zZWN1cmUiPueEoeWKuQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBpZD0iYm5uLml0ZW1ObyIgY2xhc3M9ImJ0bi1ncm91cCI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBbbmdNb2RlbF09IntjaGVja2VkOiBibm4uc2VjdXJlID09IGZhbHNlfSIgKG5nTW9kZWxDaGFuZ2UpPSJtb2RlbC5zZXg9J2ZlbWFsZSciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB1cAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhbHVlPSJibm4uc2VjdXJlIj7mnInlirk8YnI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIG5hbWU9InNleCIgdmFsdWU9ImJubi5zZWN1cmUiPueEoeWKuQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBbbmdNb2RlbF09IntjaGVja2VkOiBibm4uc2VjdXJlID09IHRydWV9IiAobmdNb2RlbENoYW5nZSk9Im9uQ2hhbmdlKCkiIG5hbWU9InNleCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBbbmdNb2RlbF09IntjaGVja2VkOiBibm4uc2VjdXJlID09IGZhbHNlfSIgKG5nTW9kZWxDaGFuZ2UpPSJtb2RlbC5zZXg9J2ZlbWFsZSciCg==</text>
       </register>
       <register name=":" type="4">
-        <text>157</text>
+        <text>123</text>
       </register>
     </registers>
     <search>
-      <last-search>change</last-search>
+      <last-search encoding="base64">XDxfbWFrZURpc3BCYW5uZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>change</last-pattern>
+      <last-pattern encoding="base64">XDxfbWFrZURpc3BCYW5uZXJcPg==</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -2447,7 +2447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ngMOdel</entry>
         <entry>ngModel</entry>
         <entry>section</entry>
         <entry>show</entry>
@@ -2467,9 +2466,9 @@
         <entry>edit</entry>
         <entry>checkbox</entry>
         <entry>change</entry>
+        <entry encoding="base64">XDxfbWFrZURpc3BCYW5uZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>70</entry>
         <entry>45</entry>
         <entry>w</entry>
         <entry>71</entry>
@@ -2489,6 +2488,7 @@
         <entry>16</entry>
         <entry>1,$s/;//g</entry>
         <entry>157</entry>
+        <entry>123</entry>
       </history-cmd>
       <history-expr />
       <history-input />
