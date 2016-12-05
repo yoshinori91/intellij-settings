@@ -1132,12 +1132,12 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1480585892956">
-        <mark key="'" line="130" column="3" />
-        <mark key="[" line="136" column="33" />
-        <mark key="]" line="136" column="37" />
-        <mark key="." line="136" column="37" />
-        <mark key="^" line="136" column="37" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" timestamp="1480925885089">
+        <mark key="'" line="27" column="2" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="102" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/services/MediaServiceImpl.java" timestamp="1474954478807">
         <mark key="'" line="9" column="30" />
@@ -2311,7 +2311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="38" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
       <jump line="102" column="20" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="224" column="8" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="286" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2411,13 +2410,14 @@
       <jump line="55" column="72" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
       <jump line="142" column="72" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
       <jump line="134" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="27" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/services/page.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>posNum</text>
@@ -2426,31 +2426,31 @@
         <text encoding="base64">ICAgIC8vIOiqrOaYjuWkieaVsAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvLyAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvLyAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAKICBwcml2YXRlIGFkUGFnZUlkOiBudW1iZXIK</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAKICBwcml2YXRlIGFkUGFnZUlkOiBudW1iZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtLmhpZGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1cGRhdGVkKG06IGFueSk6IGFueSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
