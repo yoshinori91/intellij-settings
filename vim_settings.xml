@@ -1861,12 +1861,12 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.html" timestamp="1479778192581">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.html" timestamp="1480996620764">
         <mark key="'" line="21" column="8" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="77" column="23" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="40" column="18" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/bannerMimeType.ts" timestamp="1480068085597">
         <mark key="[" line="1" column="18" />
@@ -2497,44 +2497,44 @@
       <jump line="17" column="20" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>page.url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>page.url</text>
+        <text>glyphicon glyphicon-trash</text>
       </register>
       <register name="/" type="4">
         <text>edit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEViZWFuLmRlbGV0ZUFsbChkZWxldGVkUGFnZU5nQ2F0ZWdvcmllcyk7CiAgICBFYmVhbi5pbnNlcnRBbGwodXBkYXRlZFBhZ2VOZ0NhdGVnb3JpZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tc20iIChjbGljayk9Im1vdmVUb0RlbGV0ZWRUYWJsZShzaXRlKSI+PHNwYW4KICAgICAgICAgICAgY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tdHJhc2giPjwvc3Bhbj4KICAgICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBhcyA9IHBhZ2UuYWxsSW1wID8gImVuYWJsZWQiIDogImRpc2FibGVkIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBkcyA9IHBhZ2UuaW52YWxpZEZsYWcgPyAiZW5hYmxlZCIgOiAiZGlzYWJsZWQiCg==</text>
+        <text encoding="base64">ICAgIGxldCBhcyA9IHBhZ2UuYWxsSW1wID8gImVuYWJsZWQiIDogImRpc2FibGVkIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEFsbCBJbXAg44Go6YWN5L+h44K544OG44O844K/44K544Gu44Op44K444Kq44Oc44K/44Oz55SoCg==</text>
+        <text encoding="base64">ICAgIGxldCBkcyA9IHBhZ2UuaW52YWxpZEZsYWcgPyAiZW5hYmxlZCIgOiAiZGlzYWJsZWQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIC8vIEFsbCBJbXAg44Go6YWN5L+h44K544OG44O844K/44K544Gu44Op44K444Kq44Oc44K/44Oz55SoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5ibG9ja0RvbWFpblVybCA9ICJhZC1tZ3QvYWQtcGFnZS8iICsgaWQgKyAiL2Rvd25sb2FkL2RvbWFpbnMiCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihwYWdlID0+IHRoaXMuc2V0UGFnZShwYWdlKSkK</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5ibG9ja0RvbWFpblVybCA9ICJhZC1tZ3QvYWQtcGFnZS8iICsgaWQgKyAiL2Rvd25sb2FkL2RvbWFpbnMiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihwYWdlID0+IHRoaXMucGFnZSA9IHBhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihwYWdlID0+IHRoaXMuc2V0UGFnZShwYWdlKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXJ2aWNlLmdldEFkUGFnZShpZCkK</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihwYWdlID0+IHRoaXMucGFnZSA9IHBhZ2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGlkID0gK3BhcmFtc1siaWQiXQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXJ2aWNlLmdldEFkUGFnZShpZCkK</text>
       </register>
       <register name=":" type="4">
         <text>138</text>
