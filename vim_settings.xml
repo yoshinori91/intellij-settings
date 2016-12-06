@@ -1378,12 +1378,12 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1481006970627">
-        <mark key="'" line="206" column="0" />
-        <mark key="[" line="116" column="10" />
-        <mark key="]" line="116" column="15" />
-        <mark key="." line="116" column="15" />
-        <mark key="^" line="116" column="15" />
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1481010050320">
+        <mark key="'" line="195" column="31" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="138" column="3" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -2393,9 +2393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="37" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
-      <jump line="56" column="40" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="86" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
       <jump line="90" column="24" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
       <jump line="91" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
       <jump line="92" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
@@ -2492,56 +2489,59 @@
       <jump line="116" column="23" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" />
       <jump line="163" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" />
       <jump line="358" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" />
-      <jump line="196" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="205" column="20" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="129" column="31" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="137" column="20" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="196" column="31" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>update</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>update</text>
       </register>
       <register name="/" type="4">
-        <text>addAdPage</text>
+        <text encoding="base64">XDx1cGRhdGVkUGFnZU5nQ2F0ZWdvcmllc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhZ2UuaW52YWxpZEZsYWcgPSBmb3JtLmludmFsaWRGbGFnID09ICJlbmFibGVkIiA/IHRydWUgOiBmYWxzZTsKICAgIHBhZ2UuYWxsSW1wID0gZm9ybS5hbGxJbXAgPT0gImVuYWJsZWQiID8gdHJ1ZSA6IGZhbHNlOwogICAgcGFnZS5wYWdlTmFtZSA9IGZvcm0ucGFnZU5hbWU7CiAgICBwYWdlLnVybCA9IGZvcm0udXJsOwogICAgcGFnZS5zaXRlID0gU2l0ZS5maW5kLmJ5SWQoZm9ybS5zaXRlSWQpOwo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8UGFnZU5vdEJpZGRpbmdEc3A+IHVwZGF0ZWROb3RCaWRkaW5nRHNwcyA9IGZvcm0uYmxvY2tEc3BJZHMuc3RyZWFtKCkKICAgICAgLm1hcChjSWQgLT4gewogICAgICAgIFBhZ2VOb3RCaWRkaW5nRHNwIHBjID0gbmV3IFBhZ2VOb3RCaWRkaW5nRHNwKCk7CiAgICAgICAgcGMucGFnZSA9IHBhZ2U7CiAgICAgICAgcGMuZHNwID0gRHNwLmZpbmQuYnlJZChjSWQpOwogICAgICAgIHJldHVybiBwYzsKICAgICAgfSkKICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICBFYmVhbi5kZWxldGVBbGwoZGVsZXRlZE5vdEJpZGRpbmdEc3BzKTsKICAgIEViZWFuLmluc2VydEFsbCh1cGRhdGVkTm90QmlkZGluZ0RzcHMpOwoKICAgIC8vIOODm+ODr+OCpOODiOODquOCueODiOOCt+ODvOODiAogICAgZmluYWwgTGlzdDxQYWdlV1NlYXQ+IGRlbGV0ZWRQYWdlV1NlYXRzID0KICAgICAgUGFnZUNvbnRyb2xsZXJIZWxwZXIuZmluZFdTZWF0c0J5QWRQYWdlSWQoaWQpOwogICAgZmluYWwgTGlzdDxQYWdlV1NlYXQ+IHVwZGF0ZWRQYWdlV1NlYXRzID0gZm9ybS53U2VhdElkcy5zdHJlYW0oKQogICAgICAubWFwKGNJZCAtPiB7CiAgICAgICAgUGFnZVdTZWF0IHBjID0gbmV3IFBhZ2VXU2VhdCgpOwogICAgICAgIHBjLnBhZ2UgPSBwYWdlOwogICAgICAgIHBjLnNlYXQgPSBEc3BTZWF0LmZpbmQuYnlJZChjSWQpOwogICAgICAgIHJldHVybiBwYzsKICAgICAgfSkKICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgRWJlYW4uZGVsZXRlQWxsKGRlbGV0ZWRQYWdlV1NlYXRzKTsKICAgIEViZWFuLmluc2VydEFsbCh1cGRhdGVkUGFnZVdTZWF0cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZ2UuaW4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFBhZ2UK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhZ2Uuc2l0ZSA9IFNpdGUuZmluZC5ieUlkKGZvcm0uc2l0ZUlkKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZ2UudXJsID0gZm9ybS51cmw7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZ2UucGFnZU5hbWUgPSBmb3JtLnBhZ2VOYW1lOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZ2UuYWxsSW1wID0gZm9ybS5hbGxJbXAgPT0gImVuYWJsZWQiID8gdHJ1ZSA6IGZhbHNlOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZ2UuaW52YWxpZEZsYWcgPSBmb3JtLmludmFsaWRGbGFnID09ICJlbmFibGVkIiA/IHRydWUgOiBmYWxzZTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8UGFnZU5nQ2F0ZWdvcnk+IHVwZGF0ZWRQYWdlTmdDYXRlZ29yaWVzID0gZm9ybS5ibG9ja0NhdGVnb3J5SWRzLnN0cmVhbSgpCiAgICAgIC5tYXAoY0lkIC0+IHsKICAgICAgICBQYWdlTmdDYXRlZ29yeSBwYyA9IG5ldyBQYWdlTmdDYXRlZ29yeSgpOwogICAgICAgIHBjLnBhZ2UgPSBwYWdlOwogICAgICAgIHBjLmNhdGVnb3J5ID0gRDJjQ2F0ZWdvcnkuZmluZC5ieUlkKGNJZCk7CiAgICAgICAgcmV0dXJuIHBjOwogICAgICB9KQogICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgIEViZWFuLmluc2VydEFsbCh1cGRhdGVkUGFnZU5nQ2F0ZWdvcmllcyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8UGFnZU5nQ2F0ZWdvcnk+IHVwZGF0ZWRQYWdlTmdDYXRlZ29yaWVzID0gZm9ybS5ibG9ja0NhdGVnb3J5SWRzLnN0cmVhbSgpCiAgICAgIC5tYXAoY0lkIC0+IHsKICAgICAgICBQYWdlTmdDYXRlZ29yeSBwYyA9IG5ldyBQYWdlTmdDYXRlZ29yeSgpOwogICAgICAgIHBjLnBhZ2UgPSBwYWdlOwogICAgICAgIHBjLmNhdGVnb3J5ID0gRDJjQ2F0ZWdvcnkuZmluZC5ieUlkKGNJZCk7CiAgICAgICAgcmV0dXJuIHBjOwogICAgICB9KQogICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgIEViZWFuLmluc2VydEFsbCh1cGRhdGVkUGFnZU5nQ2F0ZWdvcmllcyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgUGFnZUNvbnRyb2xsZXJIZWxwZXIuZmluZFdTZWF0c0J5QWRQYWdlSWQoaWQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8UGFnZVdTZWF0PiBkZWxldGVkUGFnZVdTZWF0cyA9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEViZWFuLmRlbGV0ZUFsbChkZWxldGVkUGFnZVdTZWF0cyk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgUmVzdWx0IGFkZEFkUGFnZSgpIHsKICAgIGZpbmFsIEpzb25Ob2RlIGpzb24gPSByZXF1ZXN0KCkuYm9keSgpLmFzSnNvbigpOwogICAgZmluYWwgQWRQYWdlVXBkYXRlRm9ybSBmb3JtID0gSnNvbi5mcm9tSnNvbihqc29uLCBBZFBhZ2VVcGRhdGVGb3JtLmNsYXNzKTsKICAgIHJldHVybiBvaygpOwoKICB9Cg==</text>
+        <text encoding="base64">ICAgIEViZWFuLmRlbGV0ZUFsbChkZWxldGVkTm90QmlkZGluZ0RzcHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>138</text>
       </register>
     </registers>
     <search>
-      <last-search>addAdPage</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVkUGFnZU5nQ2F0ZWdvcmllc1w+</last-search>
       <last-offset />
-      <last-pattern>addAdPage</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVkUGFnZU5nQ2F0ZWdvcmllc1w+</last-pattern>
       <last-replace />
       <last-substitute>update</last-substitute>
       <last-dir>1</last-dir>
@@ -2549,7 +2549,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PHA=</entry>
         <entry encoding="base64">XDxzaG93U2l0ZU1vZGFsXD4=</entry>
         <entry>showSite</entry>
         <entry>changeSite</entry>
@@ -2569,6 +2568,7 @@
         <entry encoding="base64">XDxzZWxlY3RTaXRlXD4=</entry>
         <entry encoding="base64">XDxfbWFrZURpc3BCYW5uZXJcPg==</entry>
         <entry>addAdPage</entry>
+        <entry encoding="base64">XDx1cGRhdGVkUGFnZU5nQ2F0ZWdvcmllc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
