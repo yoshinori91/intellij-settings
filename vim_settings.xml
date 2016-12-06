@@ -2330,12 +2330,12 @@
         <mark key="^" line="353" column="0" />
         <mark key="." line="353" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" timestamp="1480994544552">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" timestamp="1480995671892">
         <mark key="'" line="17" column="20" />
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="37" />
+        <mark key="[" line="83" column="12" />
+        <mark key="]" line="83" column="13" />
+        <mark key="^" line="83" column="13" />
+        <mark key="." line="83" column="13" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/webpack.config.js" timestamp="1473657989751">
         <mark key="[" line="0" column="0" />
@@ -2498,10 +2498,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>edit</text>
+        <text>page.url</text>
       </register>
       <register name="-" type="4">
-        <text>edit</text>
+        <text>page.url</text>
       </register>
       <register name="/" type="4">
         <text>edit</text>
@@ -2510,31 +2510,31 @@
         <text encoding="base64">ICAgIEViZWFuLmRlbGV0ZUFsbChkZWxldGVkUGFnZU5nQ2F0ZWdvcmllcyk7CiAgICBFYmVhbi5pbnNlcnRBbGwodXBkYXRlZFBhZ2VOZ0NhdGVnb3JpZXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGxldCBhcyA9IHBhZ2UuYWxsSW1wID8gImVuYWJsZWQiIDogImRpc2FibGVkIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiAqbmdJZj0icGFnZSI+Cg==</text>
+        <text encoding="base64">ICAgIGxldCBkcyA9IHBhZ2UuaW52YWxpZEZsYWcgPyAiZW5hYmxlZCIgOiAiZGlzYWJsZWQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEFsbCBJbXAg44Go6YWN5L+h44K544OG44O844K/44K544Gu44Op44K444Kq44Oc44K/44Oz55SoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8UGFnZVdTZWF0PiBwYWdlV1NlYXRzID0gUGFnZVdTZWF0LmZpbmQucXVlcnkoKQogICAgICAud2hlcmUoKQogICAgICAuaW4oImlkIiwgZm9ybS53U2VhdElkcykKICAgICAgLmZpbmRMaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5ibG9ja0RvbWFpblVybCA9ICJhZC1tZ3QvYWQtcGFnZS8iICsgaWQgKyAiL2Rvd25sb2FkL2RvbWFpbnMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihwYWdlID0+IHRoaXMuc2V0UGFnZShwYWdlKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihwYWdlID0+IHRoaXMucGFnZSA9IHBhZ2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXJ2aWNlLmdldEFkUGFnZShpZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMK</text>
+        <text encoding="base64">ICAgICAgbGV0IGlkID0gK3BhcmFtc1siaWQiXQo=</text>
       </register>
       <register name=":" type="4">
         <text>138</text>
