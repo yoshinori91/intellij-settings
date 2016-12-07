@@ -513,6 +513,11 @@
         <mark key="." line="15" column="60" />
         <mark key="^" line="15" column="60" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/models/DspSeat.java" timestamp="1480586308631">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/TodoList.js" timestamp="1472455081527">
         <mark key="'" line="16" column="9" />
         <mark key="[" line="9" column="16" />
@@ -1544,6 +1549,11 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/models/PageNotBiddingDsp.java" timestamp="1480491569923">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+      </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/site.ts" timestamp="1479785464752">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="6" />
@@ -1917,6 +1927,11 @@
         <mark key="]" line="21" column="15" />
         <mark key="^" line="21" column="15" />
         <mark key="." line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/CategoryMaster.java" timestamp="1481081985068">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/hero.service.ts" timestamp="1474005453723">
         <mark key="[" line="16" column="0" />
@@ -2476,8 +2491,8 @@
       <jump line="86" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.edit.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>リ</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>リ</text>
@@ -2489,34 +2504,34 @@
         <text encoding="base64">ICAgICAganNvbkRhdGEsIHtoZWFkZXJzOiB0aGlzLmhlYWRlcnN9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpzb25EYXRhKQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMTIvMDcuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpdGVGb3JtKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpzb25EYXRhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAganNvbkRhdGEsIHtoZWFkZXI6IHRoaXMuaGVhZGVyc30pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAganNvbkRhdGEsIHtoZWFkZXJzOiB0aGlzLmhlYWRlcnN9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpdGVGb3JtKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGhhbmRsZUVycm9yKGVycm9yOiBhbnkpOiBQcm9taXNlPGFueT4gewogICAgY29uc29sZS5lcnJvcigiQW4gZXJyb3Igb2NjdXJyZWQiLCBlcnJvcikKICAgIHJldHVybiBQcm9taXNlLnJlamVjdChlcnJvci5tZXNzYWdlIHx8IGVycm9yKQogIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihqc29uKTsK</text>
+        <text encoding="base64">ICAgICAganNvbkRhdGEsIHtoZWFkZXI6IHRoaXMuaGVhZGVyc30pCg==</text>
       </register>
       <register name=":" type="4">
         <text>351</text>
