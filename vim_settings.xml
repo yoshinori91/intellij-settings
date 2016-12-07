@@ -183,12 +183,12 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.edit.component.ts" timestamp="1481092177384">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.edit.component.ts" timestamp="1481093131233">
         <mark key="'" line="55" column="78" />
-        <mark key="[" line="55" column="79" />
-        <mark key="]" line="55" column="78" />
-        <mark key="." line="55" column="78" />
-        <mark key="^" line="55" column="78" />
+        <mark key="[" line="55" column="74" />
+        <mark key="]" line="55" column="84" />
+        <mark key="." line="55" column="84" />
+        <mark key="^" line="55" column="84" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/reducers/media.js" timestamp="1473384998869">
         <mark key="[" line="0" column="46" />
@@ -2445,8 +2445,8 @@
       <jump line="22" column="76" filename="$USER_HOME$/app/donald_manager/conf/routes" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -2458,34 +2458,34 @@
         <text>siteCategories</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgc2l0ZUNhdGVnb3J5SWRzOiBbc2l0ZS5zaXRlQ2F0ZWdvcmllcy5tYXAocz0+cy4pXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzaXRlSWQ6IG51bWJlcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjYXRlZ29yeUlkOiBudW1iZXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBzaXRlQ2F0ZWdvcnk6IFNpdGVDYXRlZ29yeQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjYXRlZ29yeTogRDJjQ2F0ZWdvcnkK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBzaXRlSWQ6IG51bWJlcgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBjYXRlZ29yeUlkOiBudW1iZXIK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBzaXRlQ2F0ZWdvcnk6IFNpdGVDYXRlZ29yeQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjYXRlZ29yeTogRDJjQ2F0ZWdvcnkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYXRlZ29yeQo=</text>
+        <text encoding="base64">ICBjYXRlZ29yeUlkOiBudW1iZXIK</text>
       </register>
       <register name=":" type="4">
         <text>351</text>
