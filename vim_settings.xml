@@ -761,12 +761,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1481167752942">
-        <mark key="'" line="168" column="0" />
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="14" column="54" />
-        <mark key="." line="14" column="54" />
-        <mark key="^" line="14" column="54" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1481169626772">
+        <mark key="'" line="173" column="11" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="12" />
+        <mark key="." line="37" column="12" />
+        <mark key="^" line="30" column="30" />
       </file>
       <file name="$USER_HOME$/wall/dm/app/assets/app/media.html" timestamp="1475663009356">
         <mark key="'" line="25" column="12" />
@@ -2383,7 +2383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
       <jump line="63" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
       <jump line="50" column="10" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
       <jump line="62" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.ts" />
@@ -2483,34 +2482,35 @@
       <jump line="128" column="21" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="18" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="19" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="163" column="11" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiPg==</text>
       </register>
       <register name="-" type="4">
-        <text>fetch</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiPg==</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAVmlld0NoaWxkKCJ1cGRhdGVkTW9kYWwiKQogIHB1YmxpYyB1cGRhdGVkTW9kYWw6IGFueQo=</text>
+        <text encoding="base64">ICAgICAgICA8dGg+PGlucHV0IHR5cGU9InRleHQiPjwvdGg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGg+PGlucHV0IHR5cGU9InRleHQiPjwvdGg+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2519,13 +2519,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyDjgrTjg5/nrrHjgpLkuIDmjoPjgZnjgosK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0IDogcmVzdWx0LnNsaWNlKDAsIDUwKSArICIgICBldGMuIgo=</text>
+        <text encoding="base64">ICAvLyDjgrTjg5/nrrHjgpLkuIDmjoPjgZnjgosK</text>
       </register>
       <register name=":" type="4">
         <text>370</text>
