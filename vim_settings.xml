@@ -1372,6 +1372,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/SiteController.java" timestamp="1481622428738">
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="27" column="26" />
+        <mark key="^" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+      </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.ts" timestamp="1481598687474">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="60" column="9" />
@@ -2484,17 +2490,17 @@
       <jump line="380" column="8" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCB0aGlzLmJhbm5lcnMgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>bbb</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>bbb</text>
       </register>
       <register name="/" type="4">
         <text>updateBa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIE9iamVjdE1hcHBlciBtYXBwZXIgPSBuZXcgT2JqZWN0TWFwcGVyKCk7CiAgICBmaW5hbCBMaXN0PEJhbm5lcj4gYm5ucyA9CiAgICAgIG1hcHBlci5yZWFkVmFsdWUoanNvbi50b1N0cmluZygpLCBuZXcgVHlwZVJlZmVyZW5jZTxMaXN0PEJhbm5lcj4+KCkgewogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmJiIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCB0aGlzLmJhbm5lcnMgKQo=</text>
