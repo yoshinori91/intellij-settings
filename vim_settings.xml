@@ -774,12 +774,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1481591517681">
-        <mark key="'" line="215" column="22" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="200" column="15" />
-        <mark key="." line="216" column="85" />
-        <mark key="^" line="216" column="85" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1481701875713">
+        <mark key="'" line="183" column="0" />
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="37" />
+        <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/target/web/sass/main/app/hoge.css" timestamp="1481697839023">
         <mark key="[" line="0" column="0" />
@@ -1491,12 +1491,12 @@
         <mark key="." line="10" column="65" />
         <mark key="^" line="10" column="65" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1481699143077">
+      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1481700169453">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="97" column="20" />
-        <mark key="]" line="97" column="24" />
-        <mark key="." line="97" column="24" />
-        <mark key="^" line="97" column="24" />
+        <mark key="]" line="97" column="30" />
+        <mark key="." line="97" column="30" />
+        <mark key="^" line="97" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/same/.gitignore" timestamp="1473991288149">
         <mark key="[" line="14" column="10" />
@@ -2400,7 +2400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="34" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="86" column="45" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="87" column="40" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="130" column="24" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2500,46 +2499,47 @@
       <jump line="1" column="0" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
       <jump line="24" column="71" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
       <jump line="3" column="0" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
+      <jump line="192" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>green</text>
+        <text>配信</text>
       </register>
       <register name="-" type="4">
-        <text>green</text>
+        <text>配信</text>
       </register>
       <register name="/" type="4">
-        <text>green</text>
+        <text>style</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDBhNjVhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aDF7Y29sb3I6cmVkfQo=</text>
+        <text encoding="base64">ICAgICAgPHRyPgogICAgICAgIDx0aD48L3RoPgogICAgICA8L3RyPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGggY2xhc3M9InRleHQtY2VudGVyIj7jgqLjgq/jgrfjg6fjg7M8L3RoPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyojIHNvdXJjZU1hcHBpbmdVUkw9aG9nZS5jc3MubWFwICovCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGg+PC90aD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGg+PGlucHV0IHR5cGU9InRleHQiPjwvdGg+CiAgICAgICAgPHRoPjxpbnB1dCB0eXBlPSJ0ZXh0Ij48L3RoPgogICAgICAgIDx0aD48aW5wdXQgdHlwZT0idGV4dCI+PC90aD4KICAgICAgICA8dGg+PGlucHV0IHR5cGU9InRleHQiPjwvdGg+CiAgICAgICAgPHRoPjxpbnB1dCB0eXBlPSJ0ZXh0Ij48L3RoPgogICAgICAgIDx0aD48aW5wdXQgdHlwZT0idGV4dCI+PC90aD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ib3dlciIgJSAiY29tcGFzcy1taXhpbnMiICUgIjAuMTIuNyIK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIOe3qOmbhuODnOOCv+ODsyAtLT4KICAgICAgICA8dGQgYWxpZ249ImNlbnRlciI+CiAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXNtIiAoY2xpY2spPSJnb3RvRWRpdEFkUGFnZShwYWdlKSI+PHNwYW4KICAgICAgICAgICAgY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tcGVuY2lsIj48L3NwYW4+CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tc20iIChjbGljayk9Im1vdmVUb0RlbGV0ZWRUYWJsZShwYWdlKSI+PHNwYW4KICAgICAgICAgICAgY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tdHJhc2giPjwvc3Bhbj4KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgIDwvdGQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aDF7Y29sb3I6cmVkfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzb2x2ZXJzICs9IFJlc29sdmVyLnVybCgiR2l0SHViIHJlcG9zaXRvcnkiLCB1cmwoImh0dHA6Ly9zaGFnZ3l5ZXRpLmdpdGh1Yi5pby9yZWxlYXNlcyIpKShSZXNvbHZlci5pdnlTdHlsZVBhdHRlcm5zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJkZWZhdWx0IiAlICJzYnQtc2FzcyIgJSAiMC4xLjkiKQo=</text>
+        <text encoding="base64">LyojIHNvdXJjZU1hcHBpbmdVUkw9aG9nZS5jc3MubWFwICovCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -2549,9 +2549,9 @@
       </register>
     </registers>
     <search>
-      <last-search>green</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>green</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxzZWxlY3RDYXRlZ29yaWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2559,7 +2559,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ad</entry>
         <entry>changeSite</entry>
         <entry>poss</entry>
         <entry>bnn.posNum</entry>
@@ -2579,6 +2578,7 @@
         <entry>resolvers</entry>
         <entry>skin</entry>
         <entry>green</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
         <entry>54</entry>
