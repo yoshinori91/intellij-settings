@@ -1158,11 +1158,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="2" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/project/plugins.sbt" timestamp="1481682555528">
+      <file name="$USER_HOME$/app/donald_manager/project/plugins.sbt" timestamp="1481685244572">
         <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="57" />
-        <mark key="^" line="17" column="57" />
-        <mark key="." line="17" column="57" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/client/app/app2.component.ts" timestamp="1473648411955">
         <mark key="[" line="12" column="0" />
@@ -1831,6 +1831,12 @@
         <mark key="^" line="315" column="30" />
         <mark key="." line="314" column="0" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/hoge.sass" timestamp="1481684031774">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+      </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/containers/HomePage/messages.js" timestamp="1471714158336">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="14" column="3" />
@@ -2030,12 +2036,10 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1479968674684">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="53" />
+      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1481685258732">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/store/configureStore.js" timestamp="1473322575220">
         <mark key="'" line="23" column="0" />
@@ -2394,8 +2398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="303" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="99" column="31" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="181" column="27" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="122" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2494,58 +2496,60 @@
       <jump line="380" column="8" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="280" column="21" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="285" column="47" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
+      <jump line="79" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIEpTT07jgYvjgonmm7TmlrDlr77osaHjga5CYW5uZXLjga5JROOCkuaKveWHuuOBmeOCiwogICAgZmluYWwgTGlzdDxMb25nPiBpZHMgPSBibm5zLnN0cmVhbSgpCiAgICAgIC5maWx0ZXIoYiAtPiBiLmlkICE9IDApCiAgICAgIC5tYXAoYiAtPiBiLmlkKQogICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>bbb</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hCYW5uZXJzSW5BZFBhZ2VJZFw+</text>
+        <text>resolvers</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmJiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEpTT07jgYvjgonmm7TmlrDlr77osaHjga5CYW5uZXLjga5JROOCkuaKveWHuuOBmeOCiwogICAgZmluYWwgTGlzdDxMb25nPiBpZHMgPSBibm5zLnN0cmVhbSgpCiAgICAgIC5maWx0ZXIoYiAtPiBiLmlkICE9IDApCiAgICAgIC5tYXAoYiAtPiBiLmlkKQogICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihqc29uKTsK</text>
+        <text encoding="base64">ICAgICJvcmcud2ViamFycy5ib3dlciIgJSAiY29tcGFzcy1taXhpbnMiICUgIjAuMTIuNyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UFVUICAgICAgICAvYWQtbWd0L2Jhbm5lcnMvdXBkYXRlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuUGFnZUNvbnRyb2xsZXIudXBkYXRlQWxsQmFubmVycwpHRVQgICAgICAgIC9hZC1tZ3QvYmFubmVyLWFsbCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250cm9sbGVycy5QYWdlQ29udHJvbGxlci5mZXRjaEFsbEJhbm5lcnMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R0VUICAgICAgICAvYWQtbWd0L2Jhbm5lci1hbGwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuUGFnZUNvbnRyb2xsZXIuZmV0Y2hBbGxCYW5uZXJzKCkK</text>
+        <text encoding="base64">cmVzb2x2ZXJzICs9IFJlc29sdmVyLnVybCgiR2l0SHViIHJlcG9zaXRvcnkiLCB1cmwoImh0dHA6Ly9zaGFnZ3l5ZXRpLmdpdGh1Yi5pby9yZWxlYXNlcyIpKShSZXNvbHZlci5pdnlTdHlsZVBhdHRlcm5zKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCB0aGlzLmJhbm5lcnMgKQo=</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJkZWZhdWx0IiAlICJzYnQtc2FzcyIgJSAiMC4xLjkiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8TG9uZz4gZGVsZXRlZElkID0gYm5ucy5zdHJlYW0oKQogICAgICAuZmlsdGVyKGJubiAtPiBQYWdlLmZpbmQuYnlJZChibm4uYWRQYWdlSWQpICE9IG51bGwpCiAgICAgIC5tYXAoYm5ubiAtPiBibm5uLmlkKQogICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCiAgICBmaW5hbCBMaXN0PEJhbm5lcj4gZGVsZXRlZEJhbm5lciA9IEJhbm5lci5maW5kLnF1ZXJ5KCkKICAgICAgLndoZXJlKCkKICAgICAgLmluKCJpZCIsIGRlbGV0ZWRJZCkKICAgICAgLmZpbmRMaXN0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaQo=</text>
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuaXJ1bmRhaWEuc2J0IiAlICJzYnQtc2Fzc2lmeSIgJSAiMS40LjciKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29sb3IK</text>
       </register>
       <register name=":" type="4">
         <text>283</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hCYW5uZXJzSW5BZFBhZ2VJZFw+</last-search>
+      <last-search>resolvers</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hCYW5uZXJzSW5BZFBhZ2VJZFw+</last-pattern>
+      <last-pattern>resolvers</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxzZWxlY3RDYXRlZ29yaWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2553,9 +2557,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ngOn</entry>
-        <entry>svae</entry>
-        <entry>upate</entry>
         <entry>save</entry>
         <entry>showModal</entry>
         <entry>ad</entry>
@@ -2573,6 +2574,9 @@
         <entry>updateBa</entry>
         <entry encoding="base64">XDxpZHNcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hCYW5uZXJzSW5BZFBhZ2VJZFw+</entry>
+        <entry>res</entry>
+        <entry encoding="base64">XDxyZXNvbHZlcnNcPg==</entry>
+        <entry>resolvers</entry>
       </history-search>
       <history-cmd>
         <entry>54</entry>
