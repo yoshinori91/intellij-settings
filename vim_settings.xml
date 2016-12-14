@@ -2036,10 +2036,10 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1481685258732">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1481696517031">
+        <mark key="[" line="57" column="47" />
+        <mark key="]" line="57" column="47" />
+        <mark key="." line="57" column="47" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/store/configureStore.js" timestamp="1473322575220">
         <mark key="'" line="23" column="0" />
@@ -2500,11 +2500,11 @@
       <jump line="79" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>bbb</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>resolvers</text>
