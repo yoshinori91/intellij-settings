@@ -1405,12 +1405,11 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1481613499587">
-        <mark key="'" line="372" column="8" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="246" column="56" />
-        <mark key="." line="246" column="56" />
-        <mark key="^" line="246" column="56" />
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1481677945556">
+        <mark key="'" line="279" column="47" />
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="279" column="0" />
+        <mark key="." line="279" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -2388,8 +2387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="295" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="299" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="303" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="99" column="31" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2488,58 +2485,60 @@
       <jump line="68" column="13" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
       <jump line="260" column="12" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="380" column="8" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="280" column="21" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="285" column="47" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UFVUICAgICAgICAvYWQtbWd0L2Jhbm5lcnMvdXBkYXRlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuUGFnZUNvbnRyb2xsZXIudXBkYXRlQWxsQmFubmVycwpHRVQgICAgICAgIC9hZC1tZ3QvYmFubmVyLWFsbCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250cm9sbGVycy5QYWdlQ29udHJvbGxlci5mZXRjaEFsbEJhbm5lcnMoKQo=</text>
+        <text encoding="base64">ICAgIC8vIEpTT07jgYvjgonmm7TmlrDlr77osaHjga5CYW5uZXLjga5JROOCkuaKveWHuuOBmeOCiwogICAgZmluYWwgTGlzdDxMb25nPiBpZHMgPSBibm5zLnN0cmVhbSgpCiAgICAgIC5maWx0ZXIoYiAtPiBiLmlkICE9IDApCiAgICAgIC5tYXAoYiAtPiBiLmlkKQogICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCg==</text>
       </register>
       <register name="-" type="4">
         <text>bbb</text>
       </register>
       <register name="/" type="4">
-        <text>updateBa</text>
+        <text encoding="base64">XDxzZWFyY2hCYW5uZXJzSW5BZFBhZ2VJZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmJiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UFVUICAgICAgICAvYWQtbWd0L2Jhbm5lcnMvdXBkYXRlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuUGFnZUNvbnRyb2xsZXIudXBkYXRlQWxsQmFubmVycwpHRVQgICAgICAgIC9hZC1tZ3QvYmFubmVyLWFsbCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250cm9sbGVycy5QYWdlQ29udHJvbGxlci5mZXRjaEFsbEJhbm5lcnMoKQo=</text>
+        <text encoding="base64">ICAgIC8vIEpTT07jgYvjgonmm7TmlrDlr77osaHjga5CYW5uZXLjga5JROOCkuaKveWHuuOBmeOCiwogICAgZmluYWwgTGlzdDxMb25nPiBpZHMgPSBibm5zLnN0cmVhbSgpCiAgICAgIC5maWx0ZXIoYiAtPiBiLmlkICE9IDApCiAgICAgIC5tYXAoYiAtPiBiLmlkKQogICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R0VUICAgICAgICAvYWQtbWd0L2Jhbm5lci1hbGwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuUGFnZUNvbnRyb2xsZXIuZmV0Y2hBbGxCYW5uZXJzKCkK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihqc29uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCB0aGlzLmJhbm5lcnMgKQo=</text>
+        <text encoding="base64">UFVUICAgICAgICAvYWQtbWd0L2Jhbm5lcnMvdXBkYXRlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuUGFnZUNvbnRyb2xsZXIudXBkYXRlQWxsQmFubmVycwpHRVQgICAgICAgIC9hZC1tZ3QvYmFubmVyLWFsbCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250cm9sbGVycy5QYWdlQ29udHJvbGxlci5mZXRjaEFsbEJhbm5lcnMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8TG9uZz4gZGVsZXRlZElkID0gYm5ucy5zdHJlYW0oKQogICAgICAuZmlsdGVyKGJubiAtPiBQYWdlLmZpbmQuYnlJZChibm4uYWRQYWdlSWQpICE9IG51bGwpCiAgICAgIC5tYXAoYm5ubiAtPiBibm5uLmlkKQogICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCiAgICBmaW5hbCBMaXN0PEJhbm5lcj4gZGVsZXRlZEJhbm5lciA9IEJhbm5lci5maW5kLnF1ZXJ5KCkKICAgICAgLndoZXJlKCkKICAgICAgLmluKCJpZCIsIGRlbGV0ZWRJZCkKICAgICAgLmZpbmRMaXN0KCk7Cg==</text>
+        <text encoding="base64">R0VUICAgICAgICAvYWQtbWd0L2Jhbm5lci1hbGwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuUGFnZUNvbnRyb2xsZXIuZmV0Y2hBbGxCYW5uZXJzKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCB0aGlzLmJhbm5lcnMgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8TG9uZz4gZGVsZXRlZElkID0gYm5ucy5zdHJlYW0oKQogICAgICAuZmlsdGVyKGJubiAtPiBQYWdlLmZpbmQuYnlJZChibm4uYWRQYWdlSWQpICE9IG51bGwpCiAgICAgIC5tYXAoYm5ubiAtPiBibm5uLmlkKQogICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCiAgICBmaW5hbCBMaXN0PEJhbm5lcj4gZGVsZXRlZEJhbm5lciA9IEJhbm5lci5maW5kLnF1ZXJ5KCkKICAgICAgLndoZXJlKCkKICAgICAgLmluKCJpZCIsIGRlbGV0ZWRJZCkKICAgICAgLmZpbmRMaXN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYi5pZCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpc0NoZWNrZWQ6IGJvb2xlYW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>89</text>
+        <text>283</text>
       </register>
     </registers>
     <search>
-      <last-search>updateBa</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hCYW5uZXJzSW5BZFBhZ2VJZFw+</last-search>
       <last-offset />
-      <last-pattern>updateBa</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hCYW5uZXJzSW5BZFBhZ2VJZFw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxzZWxlY3RDYXRlZ29yaWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2547,8 +2546,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5kU2FtZUlkXD4=</entry>
-        <entry>set</entry>
         <entry>ngOn</entry>
         <entry>svae</entry>
         <entry>upate</entry>
@@ -2567,10 +2564,10 @@
         <entry>update</entry>
         <entry>_</entry>
         <entry>updateBa</entry>
+        <entry encoding="base64">XDxpZHNcPg==</entry>
+        <entry encoding="base64">XDxzZWFyY2hCYW5uZXJzSW5BZFBhZ2VJZFw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2AvL2c=</entry>
-        <entry>68</entry>
         <entry>54</entry>
         <entry>8</entry>
         <entry>145</entry>
@@ -2589,6 +2586,8 @@
         <entry>370</entry>
         <entry>164</entry>
         <entry>89</entry>
+        <entry>282</entry>
+        <entry>283</entry>
       </history-cmd>
       <history-expr />
       <history-input />
