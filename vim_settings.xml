@@ -1807,12 +1807,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1481857082576">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" timestamp="1481864290561">
         <mark key="'" line="146" column="2" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="96" column="66" />
-        <mark key="." line="177" column="0" />
+        <mark key="[" line="98" column="54" />
+        <mark key="]" line="98" column="60" />
+        <mark key="^" line="98" column="60" />
+        <mark key="." line="98" column="60" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/hoge.sass" timestamp="1481684031774">
         <mark key="[" line="1" column="8" />
@@ -2475,8 +2475,8 @@
       <jump line="146" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0ZWRJZHMuZmluZChzID0+IHRoaXMuYWFhKHMsIG1kbC5pZCkpID8K</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
