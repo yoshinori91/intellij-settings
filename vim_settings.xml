@@ -296,11 +296,11 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/logback.xml" timestamp="1476353636522">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="33" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="33" />
+      <file name="$USER_HOME$/app/donald_manager/conf/logback.xml" timestamp="1481871318206">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="39" />
+        <mark key="^" line="15" column="39" />
       </file>
       <file name="$USER_HOME$/test/dona/client/index.ts" timestamp="1473650477227">
         <mark key="[" line="8" column="0" />
@@ -2476,10 +2476,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>DEBUG</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
