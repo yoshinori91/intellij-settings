@@ -296,11 +296,12 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/logback.xml" timestamp="1481871318206">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="15" column="39" />
-        <mark key="^" line="15" column="39" />
+      <file name="$USER_HOME$/app/donald_manager/conf/logback.xml" timestamp="1481873399291">
+        <mark key="'" line="19" column="23" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/test/dona/client/index.ts" timestamp="1473650477227">
         <mark key="[" line="8" column="0" />
@@ -1396,12 +1397,12 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1481855125285">
-        <mark key="'" line="361" column="27" />
-        <mark key="[" line="140" column="39" />
-        <mark key="]" line="140" column="39" />
-        <mark key="." line="140" column="39" />
-        <mark key="^" line="140" column="39" />
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1481873411882">
+        <mark key="'" line="149" column="12" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -2373,8 +2374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="49" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="27" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="27" column="23" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2473,58 +2472,60 @@
       <jump line="151" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="90" column="16" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="146" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
+      <jump line="148" column="12" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="19" column="23" filename="$USER_HOME$/app/donald_manager/conf/logback.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DEBUG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBGbHVlbnRMb2dnZXIgTE9HID0gRmx1ZW50TG9nZ2VyLmdldExvZ2dlcigiYXBwIiwgIjEyNy4wLjAuMSIsIDI0MjI0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>ERROR</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text encoding="base64">XDxGSUxFX0FQUExJQ0FUSU9OXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc2VsZWN0ZWRJZHMuZmluZChzID0+IHMgPT09IG1kbC5pZCkgPwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0ZWRJZHMuZmluZChzID0+IHRoaXMuYWFhKHMsIG1kbC5pZCkpID8K</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBGbHVlbnRMb2dnZXIgTE9HID0gRmx1ZW50TG9nZ2VyLmdldExvZ2dlcigiYXBwIiwgIjEyNy4wLjAuMSIsIDI0MjI0KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgYWFhKGE6YW55LCBiOmFueSk6Ym9vbGVhbiB7CiAgICBjb25zb2xlLmxvZyhhICsgIiAgOyAgIiArIGIpCiAgICByZXR1cm4gYSA9PT0gYiA/IHRydWUgOiBmYWxzZQogIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEZsdWVudExvZ2dlciBMT0cgPSBGbHVlbnRMb2dnZXIuZ2V0TG9nZ2VyKCJhcHAiLCIxMjcuMC4wLjEiLCAyNDIyNCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZm9yCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZElkcy5maW5kKHMgPT4gcyA9PT0gbWRsLmlkKSA/Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc2VsZWN0ZWRJZHMuZmluZChzID0+IHRoaXMuYWFhKHMsIG1kbC5pZCkpID8K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWRsLmlkKQo=</text>
+        <text encoding="base64">CiAgYWFhKGE6YW55LCBiOmFueSk6Ym9vbGVhbiB7CiAgICBjb25zb2xlLmxvZyhhICsgIiAgOyAgIiArIGIpCiAgICByZXR1cm4gYSA9PT0gYiA/IHRydWUgOiBmYWxzZQogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkSWRzKQo=</text>
+        <text encoding="base64">ICAgICAgZm9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZElkcy5maW5kKHMgPT4gcyA9PT0gbWRsLmlkKSA/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>215</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search encoding="base64">XDxGSUxFX0FQUExJQ0FUSU9OXD4=</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern encoding="base64">XDxGSUxFX0FQUExJQ0FUSU9OXD4=</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -2532,7 +2533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>noLib</entry>
         <entry encoding="base64">XDxmZXRjaEJhbm5lcnNcPg==</entry>
         <entry>fetchBanners</entry>
         <entry>;</entry>
@@ -2552,6 +2552,7 @@
         <entry>select</entry>
         <entry>show</entry>
         <entry>console</entry>
+        <entry encoding="base64">XDxGSUxFX0FQUExJQ0FUSU9OXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>278</entry>
