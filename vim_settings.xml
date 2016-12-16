@@ -2308,12 +2308,12 @@
         <mark key="^" line="353" column="0" />
         <mark key="." line="353" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" timestamp="1481795512354">
-        <mark key="'" line="20" column="16" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="257" column="1" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" timestamp="1481852200301">
+        <mark key="'" line="21" column="16" />
+        <mark key="[" line="2" column="67" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/tsconfig.json" timestamp="1474290585855">
         <mark key="[" line="6" column="15" />
@@ -2476,7 +2476,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9ybUdyb3VwLCBGb3JtQ29udHJvbCwgVmFsaWRhdG9ycywgRm9ybUJ1aWxkZXIgfSBmcm9tICJAYW5ndWxhci9mb3JtcyIK</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9ybUdyb3VwLCBWYWxpZGF0b3JzLCBGb3JtQnVpbGRlciB9IGZyb20gIkBhbmd1bGFyL2Zvcm1zIgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -2488,34 +2488,34 @@
         <text>fetchBannersByAdPageId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9ybUdyb3VwLCBGb3JtQ29udHJvbCwgVmFsaWRhdG9ycywgRm9ybUJ1aWxkZXIgfSBmcm9tICJAYW5ndWxhci9mb3JtcyIK</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9ybUdyb3VwLCBWYWxpZGF0b3JzLCBGb3JtQnVpbGRlciB9IGZyb20gIkBhbmd1bGFyL2Zvcm1zIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY2NjIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFBhZ2UgZnJvbSAiLi9tb2RlbHMvcGFnZSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmJiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYWFhIik7Cg==</text>
+        <text encoding="base64">ICB0bXBTaXRlczogU2l0ZVtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCAiLS0tLS0tLS0tLS0tLS0tLS0tLWl0ZW0gaXRlbSIgKQo=</text>
+        <text encoding="base64">ICB0bXBEMmNzOiBEMmNDYXRlZ29yeVtdCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjaGFuZ2VTaXRlKCBpdGVtOiBhbnkgKTogdm9pZCB7CiAgICBjb25zb2xlLmxvZyggIml0ZW0gaXRlbSIgKQogICAgdGhpcy5jaGFuZ2VDaGVja2VkKCBpdGVtICkKICB9Cg==</text>
+        <text encoding="base64">ICBteUZvcm06IEZvcm1Hcm91cAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCB0aGlzLmZvcm0uZ2V0KCAic2l0ZUlkIiApLnZhbHVlICkK</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9ybUdyb3VwLCBGb3JtQ29udHJvbCwgVmFsaWRhdG9ycywgRm9ybUJ1aWxkZXIgfSBmcm9tICJAYW5ndWxhci9mb3JtcyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGwuCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY2NjIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/;//g</text>
