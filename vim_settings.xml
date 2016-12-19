@@ -1411,12 +1411,11 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1482124315157">
-        <mark key="'" line="382" column="19" />
-        <mark key="[" line="402" column="31" />
-        <mark key="]" line="402" column="37" />
-        <mark key="." line="402" column="37" />
-        <mark key="^" line="402" column="37" />
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1482126036118">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="443" column="0" />
+        <mark key="." line="443" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -2393,8 +2392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="34" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.ts" />
       <jump line="252" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
       <jump line="336" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="69" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2493,46 +2490,48 @@
       <jump line="12" column="12" filename="$USER_HOME$/app/donald_manager/conf/routes" />
       <jump line="13" column="12" filename="$USER_HOME$/app/donald_manager/conf/routes" />
       <jump line="14" column="12" filename="$USER_HOME$/app/donald_manager/conf/routes" />
+      <jump line="443" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.apply(form);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBGdW5jdGlvbjxTaXRlVXBkYXRlRm9ybSwgRnVuY3Rpb248U2l0ZVVwZGF0ZUZvcm0sIFNpdGU+PiBjcmVhdGUgPSBmb3JtIC0+IHsKICAgIHJldHVybiBzaXRlIC0+IHsKICAgICAgc2l0ZS5zaXRlTmFtZSA9IGZvcm0uc2l0ZU5hbWU7CiAgICB9OwogIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.apply(form);</text>
+        <text>Site</text>
       </register>
       <register name="/" type="4">
         <text>ad-mgt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0ZWRJZHMuZmluZChzID0+IHMgPT09IG1kbC5pZCkgPwo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIFNpdGUgc2l0ZSA9IG5ldyBTaXRlKCk7CiAgICBzaXRlLm5hbWUgPSBmb3JtLnNpdGVOYW1lOwogICAgc2l0ZS5kb21haW4gPSBmb3JtLmRvbWFpbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBGdW5jdGlvbjxTaXRlVXBkYXRlRm9ybSwgRnVuY3Rpb248U2l0ZVVwZGF0ZUZvcm0sIFNpdGU+PiBjcmVhdGUgPSBmb3JtIC0+IHsKICAgIHJldHVybiBzaXRlIC0+IHsKICAgICAgc2l0ZS5zaXRlTmFtZSA9IGZvcm0uc2l0ZU5hbWU7CiAgICB9OwogIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHNpdGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcy4K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZpYW5sCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzaXRlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihmb3JtKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzaXRlIC0+IHsKICAgICAgc2l0ZS5uYW1lID0gZm9ybS5zaXRlTmFtZTsKICAgICAgcmV0dXJuIHNpdGU7CiAgICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBGaW5kZXI8TG9uZywgU2l0ZUNhdGVnb3J5PiBmaW5kID0gbmV3IEZpbmRlcjw+KFNpdGVDYXRlZ29yeS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
