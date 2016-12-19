@@ -659,9 +659,9 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/Dsp.java" timestamp="1481087601468">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="15" column="21" />
+      <file name="$USER_HOME$/app/donald_manager/app/models/Dsp.java" timestamp="1482131546765">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="26" />
         <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="21" />
       </file>
@@ -931,11 +931,10 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/Category.java" timestamp="1482128291875">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="37" />
+      <file name="$USER_HOME$/app/donald_manager/app/models/Category.java" timestamp="1482132181314">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/services/api.js" timestamp="1473239537731">
         <mark key="'" line="3" column="0" />
@@ -1577,7 +1576,12 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/PageNotBiddingDsp.java" timestamp="1482128262003" />
+      <file name="$USER_HOME$/app/donald_manager/app/models/PageNotBiddingDsp.java" timestamp="1482132227537">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/site.ts" timestamp="1481709105606">
         <mark key="'" line="4" column="11" />
         <mark key="[" line="16" column="2" />
@@ -1783,7 +1787,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/BannerBlockType.java" timestamp="1480067060434">
+      <file name="$USER_HOME$/app/donald_manager/app/models/BannerBlockType.java" timestamp="1482131620261">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="21" />
         <mark key="." line="22" column="21" />
@@ -1978,7 +1982,6 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/public/javascripts/multiple-select/multiple-select.jquery.json" timestamp="1481790750392" />
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/assets/app/dashboard.component.ts" timestamp="1474886016336">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="8" column="32" />
@@ -2487,41 +2490,41 @@
       <jump line="43" column="6" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.add.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cMas</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBASm9pbkNvbHVtbihuYW1lID0gImNhdGVnb3J5X21hc3Rlcl9pZCIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>cMas</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXRlQ2F0ZWdvcnlJZHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2lkKTsK</text>
+        <text encoding="base64">ICBASm9pbkNvbHVtbihuYW1lID0gImlkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMK</text>
+        <text encoding="base64">ICBASm9pbkNvbHVtbihuYW1lID0gImNhdGVnb3J5X21hc3Rlcl9pZCIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
+        <text encoding="base64">ICBASm9pbkNvbHVtbihuYW1lID0gImlkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2lkKTsK</text>
+        <text encoding="base64">ICBEMkMxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNpZCk7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2lkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNpZCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
