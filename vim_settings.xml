@@ -942,12 +942,12 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/SiteCategory.java" timestamp="1482135377660">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="10" />
-        <mark key="." line="10" column="5" />
+      <file name="$USER_HOME$/app/donald_manager/app/models/SiteCategory.java" timestamp="1482139578636">
+        <mark key="'" line="8" column="17" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="26" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.treeview.component.ts" timestamp="1481778235167">
         <mark key="'" line="34" column="14" />
@@ -1400,13 +1400,13 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1482135648924">
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1482139549352">
         <mark key="'" line="21" column="0" />
         <mark key="j" line="427" column="57" />
-        <mark key="[" line="452" column="24" />
-        <mark key="]" line="452" column="57" />
-        <mark key="." line="452" column="57" />
-        <mark key="^" line="452" column="57" />
+        <mark key="[" line="456" column="56" />
+        <mark key="]" line="456" column="65" />
+        <mark key="." line="456" column="65" />
+        <mark key="^" line="456" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -2485,47 +2485,47 @@
       <jump line="43" column="6" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.add.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBASm9pbkNvbHVtbihuYW1lID0gImlkIikK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXRlQ2F0ZWdvcnlJZHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4iKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLm5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBASm9pbkNvbHVtbihuYW1lID0gImlkIikK</text>
+        <text encoding="base64">ICAgIFMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigifn5+fn5+fn5+fn5+fn5+fn5+fn5+fiIpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2lkKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2l0ZS5pZCk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIExpc3Q8U2l0ZUNhdGVnb3J5PiBzc3NzID0gU2l0ZUNhdGVnb3J5LmZpbmQucXVlcnkoKQogICAgICAud2hlcmUoKQogICAgICAuaW4oImlkIiwgZm9ybS5zaXRlQ2F0ZWdvcnlJZHMpCiAgICAgIC5maW5kTGlzdCgpOwogICAgRWJlYW4uZGVsZXRlQWxsKHNzc3MpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdoZXJlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEViZWFuLmluc2VydEFsbAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBASm9pbkNvbHVtbihuYW1lID0gImNhdGVnb3J5X21hc3Rlcl9pZCIpCg==</text>
+        <text encoding="base64">ICAgIEViZWFuLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASm9pbkNvbHVtbihuYW1lID0gImlkIikK</text>
+        <text encoding="base64">ICAgIGZvcm0uc2l0ZUNhdGVnb3J5SWRzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>437</text>
