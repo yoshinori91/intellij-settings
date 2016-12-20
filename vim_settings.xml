@@ -1400,12 +1400,11 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1482195982369">
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1482198954809">
         <mark key="'" line="21" column="0" />
-        <mark key="j" line="427" column="57" />
-        <mark key="[" line="448" column="0" />
-        <mark key="]" line="448" column="0" />
-        <mark key="." line="448" column="0" />
+        <mark key="[" line="427" column="0" />
+        <mark key="]" line="427" column="0" />
+        <mark key="." line="427" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -1951,8 +1950,8 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/Page.java" timestamp="1482114338532">
-        <mark key="'" line="17" column="23" />
+      <file name="$USER_HOME$/app/donald_manager/app/models/Page.java" timestamp="1482199229304">
+        <mark key="'" line="56" column="0" />
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="19" />
         <mark key="^" line="11" column="19" />
@@ -2298,11 +2297,11 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/PageCategory.java" timestamp="1480491443775">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="14" column="1" />
+      <file name="$USER_HOME$/app/donald_manager/app/models/PageCategory.java" timestamp="1482199253221">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/wawm/project/plugins.sbt" timestamp="1474098671164">
         <mark key="[" line="4" column="58" />
@@ -2382,7 +2381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="69" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="147" column="19" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
       <jump line="133" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
@@ -2482,10 +2480,11 @@
       <jump line="443" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="22" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="43" column="6" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.add.component.ts" />
+      <jump line="56" column="0" filename="$USER_HOME$/app/donald_manager/app/models/Page.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNpdGUuc2l0ZUNhdGVnb3JpZXMuZm9yRWFjaChhIC0+IFN5c3RlbS5vdXQucHJpbnRsbihhLmNhdGVnb3J5KSk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -2497,34 +2496,34 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLm5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNpdGUuc2l0ZUNhdGVnb3JpZXMuZm9yRWFjaChhIC0+IFN5c3RlbS5vdXQucHJpbnRsbihhLmNhdGVnb3J5KSk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNpdGUuc2l0ZUNhdGVnb3JpZXMuZm9yRWFjaChhIC0+IFN5c3RlbS5vdXQucHJpbnRsbihhLmNhdGVnb3J5KSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLnByaXZhY3kpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLm1vYmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLnByaXZhY3kpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLmRvbWFpbik7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLm1vYmlsZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLm5hbWUpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLmRvbWFpbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4iKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLm5hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4iKTsK</text>
       </register>
       <register name=":" type="4">
         <text>437</text>
