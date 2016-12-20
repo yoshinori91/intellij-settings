@@ -1709,11 +1709,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/models/PageNgCategory.java" timestamp="1480491449863">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/app/donald_manager/app/models/PageNgCategory.java" timestamp="1482200069990">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/controllers/PageControllerHelper.java" timestamp="1480936297059">
         <mark key="[" line="35" column="11" />
@@ -2483,11 +2483,11 @@
       <jump line="56" column="0" filename="$USER_HOME$/app/donald_manager/app/models/Page.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXRlQ2F0ZWdvcnlJZHNcPg==</text>
