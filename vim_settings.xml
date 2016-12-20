@@ -1400,13 +1400,12 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1482139549352">
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1482195982369">
         <mark key="'" line="21" column="0" />
         <mark key="j" line="427" column="57" />
-        <mark key="[" line="456" column="56" />
-        <mark key="]" line="456" column="65" />
-        <mark key="." line="456" column="65" />
-        <mark key="^" line="456" column="65" />
+        <mark key="[" line="448" column="0" />
+        <mark key="]" line="448" column="0" />
+        <mark key="." line="448" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -2485,8 +2484,8 @@
       <jump line="43" column="6" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.add.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNpdGUuc2l0ZUNhdGVnb3JpZXMuZm9yRWFjaChhIC0+IFN5c3RlbS5vdXQucHJpbnRsbihhLmNhdGVnb3J5KSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -2498,34 +2497,34 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLm5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFMK</text>
+        <text encoding="base64">ICAgIHNpdGUuc2l0ZUNhdGVnb3JpZXMuZm9yRWFjaChhIC0+IFN5c3RlbS5vdXQucHJpbnRsbihhLmNhdGVnb3J5KSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCIpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PCIpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U2l0ZUNhdGVnb3J5PiBzc3NzID0gU2l0ZUNhdGVnb3J5LmZpbmQucXVlcnkoKQogICAgICAud2hlcmUoKQogICAgICAuaW4oImlkIiwgZm9ybS5zaXRlQ2F0ZWdvcnlJZHMpCiAgICAgIC5maW5kTGlzdCgpOwogICAgRWJlYW4uZGVsZXRlQWxsKHNzc3MpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLnByaXZhY3kpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoZXJlCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLm1vYmlsZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEUK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLmRvbWFpbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEViZWFuLmluc2VydEFsbAo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzaXRlLm5hbWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEViZWFuLgo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcm0uc2l0ZUNhdGVnb3J5SWRzLgo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>437</text>
