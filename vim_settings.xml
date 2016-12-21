@@ -2540,7 +2540,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>132</text>
+        <text>80</text>
       </register>
     </registers>
     <search>
@@ -2576,7 +2576,6 @@
         <entry>sql</entry>
       </history-search>
       <history-cmd>
-        <entry>123</entry>
         <entry>1,$d</entry>
         <entry>138</entry>
         <entry>351</entry>
@@ -2596,6 +2595,7 @@
         <entry>17</entry>
         <entry>437</entry>
         <entry>132</entry>
+        <entry>80</entry>
       </history-cmd>
       <history-expr />
       <history-input />
