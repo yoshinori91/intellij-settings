@@ -367,8 +367,8 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1482391733632">
-        <mark key="'" line="97" column="8" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1482394220764">
+        <mark key="'" line="103" column="30" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="64" />
         <mark key="." line="107" column="73" />
@@ -1379,8 +1379,8 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1482219016894">
-        <mark key="'" line="16" column="56" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" timestamp="1482393699792">
+        <mark key="'" line="383" column="8" />
         <mark key="[" line="401" column="8" />
         <mark key="]" line="402" column="5" />
         <mark key="^" line="402" column="5" />
@@ -1533,6 +1533,11 @@
         <mark key="]" line="18" column="11" />
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
+      </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.html" timestamp="1482394027135">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/AddTodo.js" timestamp="1472454549853">
         <mark key="'" line="2" column="8" />
@@ -1714,6 +1719,11 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tab.component.ts" timestamp="1481795555479">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/client/tsconfig.json" timestamp="1473651162247">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="18" />
@@ -1774,12 +1784,12 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.html" timestamp="1482391952797">
-        <mark key="'" line="14" column="45" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
-        <mark key="^" line="177" column="81" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.html" timestamp="1482393509406">
+        <mark key="'" line="175" column="15" />
+        <mark key="[" line="52" column="53" />
+        <mark key="]" line="52" column="53" />
+        <mark key="." line="52" column="53" />
+        <mark key="^" line="52" column="53" />
       </file>
       <file name="$USER_HOME$/test/dona/public/front/reducers/index.js" timestamp="1472202975705">
         <mark key="'" line="21" column="21" />
@@ -2366,9 +2376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/app/donald_manager/app/models/Page.java" />
-      <jump line="94" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
-      <jump line="1" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.html" />
       <jump line="23" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.add.component.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
       <jump line="14" column="16" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.html" />
@@ -2466,16 +2473,19 @@
       <jump line="10" column="45" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.html" />
       <jump line="14" column="45" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.html" />
       <jump line="97" column="8" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
+      <jump line="175" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.html" />
+      <jump line="383" column="8" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.html" />
+      <jump line="103" column="30" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>広告管理</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>広告管理</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>btn</text>
+        <text>input</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8bGk+PGEgcm91dGVyTGluaz0iL2FkbWd0Ij7luoPlkYrnrqHnkIY8L2E+PC9saT4K</text>
@@ -2515,9 +2525,9 @@
       </register>
     </registers>
     <search>
-      <last-search>btn</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern>btn</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -2525,7 +2535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hide</entry>
         <entry>hideModal</entry>
         <entry>onSubmit</entry>
         <entry>prevent</entry>
@@ -2545,6 +2554,7 @@
         <entry>primary</entry>
         <entry>btm</entry>
         <entry>btn</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
