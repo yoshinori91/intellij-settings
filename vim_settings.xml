@@ -248,11 +248,11 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.component.ts" timestamp="1482889535584">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="24" column="13" />
-        <mark key="^" line="24" column="13" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.component.ts" timestamp="1482891250214">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/media.service.ts" timestamp="1474005100877">
         <mark key="[" line="9" column="0" />
@@ -2105,11 +2105,11 @@
         <mark key="." line="54" column="35" />
         <mark key="^" line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.component.html" timestamp="1482888371647">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.component.html" timestamp="1482890979875">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="6" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/bannerMimeType.ts" timestamp="1480068085597">
         <mark key="[" line="1" column="18" />
@@ -2501,46 +2501,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDoiIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pageEdit</text>
+        <text>&quot;banner&quot;</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhZ2VFZGl0OiIiLAo=</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDoiIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGF0dXM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1bml0OiB0ID0+IHQsCg==</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzaXRlLWxpc3QtY29tcG9uZW50Pjwvc2l0ZS1saXN0LWNvbXBvbmVudD4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBASW5wdXQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASW5wdXQgb3Blbgo=</text>
+        <text encoding="base64">ICAgIHRhYkxpc3QgLAo=</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
