@@ -1081,12 +1081,12 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/conf/routes" timestamp="1482728705573">
+      <file name="$USER_HOME$/app/donald_manager/conf/routes" timestamp="1482917246032">
         <mark key="'" line="9" column="90" />
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="63" />
-        <mark key="." line="31" column="63" />
-        <mark key="^" line="31" column="63" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="92" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/pageNotBiddingDsp.ts" timestamp="1481015551564">
         <mark key="'" line="5" column="9" />
@@ -2500,7 +2500,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFncmVlZCkK</text>
+        <text encoding="base64">R0VUICAgICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuQXBwbGljYXRpb24uaW5kZXgK</text>
       </register>
       <register name="-" type="4">
         <text>boolean</text>
@@ -2509,37 +2509,37 @@
         <text>etc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFZvdGVyQ29tcG9uZW50LAo=</text>
+        <text encoding="base64">R0VUICAgICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuQXBwbGljYXRpb24uaW5kZXgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFncmVlZCkK</text>
+        <text encoding="base64">R0VUICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2b3RlKGFncmVlZDpib29sZWFuKSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFncmVlZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjaGlsZCIpCg==</text>
+        <text encoding="base64">ICB2b3RlKGFncmVlZDpib29sZWFuKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJwYXJlbnQiKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjaGlsZCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtWb3RlckNvbXBvbmVudH0gZnJvbSAiLi92b3Rlci5jb21wb25lbnQiCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJwYXJlbnQiKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHtWb3RlckNvbXBvbmVudH0gZnJvbSAiLi92b3Rlci5jb21wb25lbnQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHtWb3RlckNvbXBvbmVudH0gZnJvbSAiLi92b3Rlci5jb21wb25lbnQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTYvMTIvMjguCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
