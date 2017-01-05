@@ -359,11 +359,8 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/vote.taker.component.ts" timestamp="1482915990179">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/vote.taker.component.ts" timestamp="1483582304866">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/client/index.html" timestamp="1473649810876">
         <mark key="[" line="9" column="0" />
@@ -2499,47 +2496,47 @@
       <jump line="63" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">R0VUICAgICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuQXBwbGljYXRpb24uaW5kZXgK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>etc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R0VUICAgICAgICAvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuQXBwbGljYXRpb24uaW5kZXgK</text>
+        <text encoding="base64">ICB2b3RlcnMgPSBbJ01yLiBJUScsICdNcy4gVW5pdmVyc2UnLCAnQm9tYmFzdG8nLCAnTWFnbml0ZSddOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R0VUICAgICAK</text>
+        <text encoding="base64">ICB2b3RlcnMgPSBbJ01yLiBJUScsICdNcy4gVW5pdmVyc2UnLCAnQm9tYmFzdG8nLCAnTWFnbml0ZSddOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFncmVlZCkK</text>
+        <text encoding="base64">ICAgIGFncmVlZCA/IHRoaXMuYWdyZWVkKysgOiB0aGlzLmRpc2FncmVlZCsrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2b3RlKGFncmVlZDpib29sZWFuKSB7Cg==</text>
+        <text encoding="base64">R0VUICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjaGlsZCIpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFncmVlZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJwYXJlbnQiKQo=</text>
+        <text encoding="base64">ICB2b3RlKGFncmVlZDpib29sZWFuKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtWb3RlckNvbXBvbmVudH0gZnJvbSAiLi92b3Rlci5jb21wb25lbnQiCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJjaGlsZCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtWb3RlckNvbXBvbmVudH0gZnJvbSAiLi92b3Rlci5jb21wb25lbnQiCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJwYXJlbnQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHtWb3RlckNvbXBvbmVudH0gZnJvbSAiLi92b3Rlci5jb21wb25lbnQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">aW1wb3J0IHtWb3RlckNvbXBvbmVudH0gZnJvbSAiLi92b3Rlci5jb21wb25lbnQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
