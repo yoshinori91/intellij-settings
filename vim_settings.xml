@@ -668,6 +668,11 @@
         <mark key="]" line="13" column="27" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.tree.node.component.ts" timestamp="1483666643217">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/dm/public/package.json" timestamp="1474000200646">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="16" />
@@ -2547,7 +2552,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPWY9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>notFound</text>
@@ -2559,34 +2564,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBDb21wbGV0aW9uU3RhZ2U8UmVzdWx0PiBvbkhhbmRsZXJOb3RGb3VuZChSZXF1ZXN0SGVhZGVyIHJlcXVlc3QpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPWY9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBvblN0YXJ0KHBsYXkuQXBwbGljYXRpb24gY29uZmlnKSB7CiAgICBzdXBlci5iZWZvcmVTdGFydChjb25maWcpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0IHRlc3QgdGVzdCB0ZXN0IHRlc3QiKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPWY9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Iik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb21wbGV0aW9uU3RhZ2UuCg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBvblN0YXJ0KHBsYXkuQXBwbGljYXRpb24gY29uZmlnKSB7CiAgICBzdXBlci5iZWZvcmVTdGFydChjb25maWcpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0IHRlc3QgdGVzdCB0ZXN0IHRlc3QiKTsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb21wbGV0aW9uU3RhZ2UuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBSZXN1bHQuY2xhc3MubmV3SW5zdGFuY2UoKS4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBSZXN1bHQuY2xhc3MubmV3SW5zdGFuY2UoKS4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
