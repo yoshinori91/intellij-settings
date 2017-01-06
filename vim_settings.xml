@@ -634,11 +634,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.component.html" timestamp="1483602778840">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/app/donald_manager/app/controllers/ErrorHandler.java" timestamp="1483606790704">
         <mark key="'" line="34" column="1" />
       </file>
@@ -1944,11 +1939,11 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" timestamp="1481795359319">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" timestamp="1483672767990">
         <mark key="'" line="81" column="17" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/reducers/paginate.js" timestamp="1473217012386">
         <mark key="'" line="62" column="0" />
@@ -2148,11 +2143,6 @@
         <mark key="]" line="54" column="35" />
         <mark key="." line="54" column="35" />
         <mark key="^" line="6" column="5" />
-      </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/admgt.component.html" timestamp="1483596445969">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/bannerMimeType.ts" timestamp="1480068085597">
         <mark key="[" line="1" column="18" />
@@ -2556,17 +2546,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.edit.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Rourter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Rourter</text>
+        <text encoding="base64">dHlwZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>router</text>
+        <text>onChange</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtGb3JtR3JvdXAsIEZvcm1CdWlsZGVyLCBWYWxpZGF0b3JzfSBmcm9tICJAYW5ndWxhci9mb3JtcyIK</text>
+        <text encoding="base64">ICAgIGxldCB0YXJnZXQ6bnVtYmVyID0gdGhpcy5iYW5uZXJzLmZpbmRJbmRleChiID0+IGIuaXRlbU5vID09PSBibm4uaXRlbU5vKQogICAgdGhpcy5iYW5uZXJzW3RhcmdldF0uc2VsZWN0ZWRCYmEgPSBlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2575,37 +2565,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgJCBmcm9tICJqcXVlcnkubWluIgo=</text>
+        <text encoding="base64">ICBvbkNoYW5nZShlOmFueSwgYm5uOkJhbm5lciwgYmI6YW55KTp2b2lkIHsKICAgIGxldCB0YXJnZXQ6bnVtYmVyID0gdGhpcy5iYW5uZXJzLmZpbmRJbmRleChiID0+IGIuaXRlbU5vID09PSBibm4uaXRlbU5vKQogICAgaWYoYmIudHlwZSkKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzaG93IikK</text>
+        <text encoding="base64">ICAgIHRoaXMuYmFubmVyc1t0YXJnZXRdLmJiID0gZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICQoIiNtYWludmlldyIpLmFkZENsYXNzKCJzdGFja2VkIikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICQoIiNtYWludmlldyIpLmFkZENsYXNzKCJzdGFja2VkIikK</text>
+        <text encoding="base64">ICAgdGhpcy4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAqIGFzIHRvYXN0ciBmcm9tICJ0b2EiCg==</text>
+        <text encoding="base64">ICBvbkNoYWduZShlOiBhbnksIGJubjogQmFubmVyKTp2b2lkIHsKICAgIHJldHVybiBibm4gPT4gewogICAgICBsZXQgdGFyZ2V0OiBudW1iZXIgPSB0aGlzLmJhbm5lcnMuZmluZEluZGV4KCBiID0+IGIuaXRlbU5vID09PSBibm4uaXRlbU5vICkKICAgIH0KICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICQoKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgdG9hc3RyIGZyb20gInRvYSIK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5iYW5uZXJzW2Jubl0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgJCBmcm9tICdqcXVlcnknCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
       </register>
     </registers>
     <search>
-      <last-search>router</last-search>
+      <last-search>onChange</last-search>
       <last-offset />
-      <last-pattern>router</last-pattern>
+      <last-pattern>onChange</last-pattern>
       <last-replace />
       <last-substitute>etc</last-substitute>
       <last-dir>1</last-dir>
@@ -2613,8 +2603,6 @@
     </search>
     <history>
       <history-search>
-        <entry>site</entry>
-        <entry>expand</entry>
         <entry>gotoSite</entry>
         <entry encoding="base64">XDxkcm9wZG93blw+</entry>
         <entry>onHandle</entry>
@@ -2633,6 +2621,8 @@
         <entry encoding="base64">XDxzaXRlQ2F0ZWdvcnlJZHNcPg==</entry>
         <entry>_value</entry>
         <entry>router</entry>
+        <entry>onChage</entry>
+        <entry>onChange</entry>
       </history-search>
       <history-cmd>
         <entry>1,$d</entry>
