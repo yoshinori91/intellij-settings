@@ -660,11 +660,12 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1484039249580">
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1484040267560">
         <mark key="'" line="224" column="0" />
-        <mark key="[" line="241" column="0" />
-        <mark key="]" line="241" column="0" />
-        <mark key="." line="241" column="0" />
+        <mark key="[" line="340" column="27" />
+        <mark key="]" line="340" column="82" />
+        <mark key="." line="340" column="82" />
+        <mark key="^" line="340" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -2509,10 +2510,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>find.all());</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>find.all());</text>
       </register>
       <register name="/" type="4">
         <text>updateBanners</text>
