@@ -1947,11 +1947,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" timestamp="1484013191905">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" timestamp="1484014304147">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="93" column="14" />
+        <mark key="]" line="93" column="31" />
+        <mark key="." line="93" column="31" />
+        <mark key="^" line="93" column="31" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/reducers/paginate.js" timestamp="1473217012386">
         <mark key="'" line="62" column="0" />
@@ -2562,10 +2563,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=========</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YmFubmVyTWltZVR5cGVzLm1hcChiYm0gPT4gYmJtLm1pbWVUeXBlKQ==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>selectedBba</text>
