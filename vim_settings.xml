@@ -660,12 +660,11 @@
         <mark key="^" line="129" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1484034015281">
-        <mark key="'" line="237" column="0" />
-        <mark key="[" line="234" column="23" />
-        <mark key="]" line="234" column="39" />
-        <mark key="." line="234" column="39" />
-        <mark key="^" line="234" column="39" />
+      <file name="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" timestamp="1484039249580">
+        <mark key="'" line="224" column="0" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/index.ts" timestamp="1473998642133">
         <mark key="[" line="0" column="0" />
@@ -1793,12 +1792,12 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.html" timestamp="1484032867113">
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.html" timestamp="1484039093618">
         <mark key="'" line="98" column="0" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="100" column="14" />
-        <mark key="." line="99" column="75" />
-        <mark key="^" line="99" column="75" />
+        <mark key="[" line="186" column="50" />
+        <mark key="]" line="186" column="57" />
+        <mark key="." line="186" column="57" />
+        <mark key="^" line="186" column="57" />
       </file>
       <file name="$USER_HOME$/test/dona/public/front/reducers/index.js" timestamp="1472202975705">
         <mark key="'" line="21" column="21" />
@@ -1904,12 +1903,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" timestamp="1484033125715">
-        <mark key="'" line="182" column="2" />
-        <mark key="[" line="183" column="32" />
-        <mark key="]" line="183" column="47" />
-        <mark key="." line="183" column="47" />
-        <mark key="^" line="183" column="47" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" timestamp="1484038924022">
+        <mark key="'" line="178" column="0" />
+        <mark key="[" line="63" column="26" />
+        <mark key="]" line="64" column="1" />
+        <mark key="." line="64" column="1" />
+        <mark key="^" line="64" column="1" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/reducers/paginate.js" timestamp="1473217012386">
         <mark key="'" line="62" column="0" />
@@ -2110,11 +2109,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/bannerMimeType.ts" timestamp="1484025109914">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/bannerMimeType.ts" timestamp="1484036495926">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.list.component.html" timestamp="1482741827954">
         <mark key="'" line="84" column="14" />
@@ -2137,12 +2136,12 @@
         <mark key="." line="9" column="60" />
         <mark key="^" line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" timestamp="1484025768561">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="^" line="90" column="66" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" timestamp="1484038919654">
+        <mark key="'" line="84" column="25" />
+        <mark key="[" line="89" column="21" />
+        <mark key="]" line="89" column="36" />
+        <mark key="." line="89" column="36" />
+        <mark key="^" line="89" column="36" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/app.js" timestamp="1473666812975">
         <mark key="[" line="5" column="0" />
@@ -2292,8 +2291,8 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" timestamp="1484025541958">
-        <mark key="'" line="112" column="44" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" timestamp="1484037564162">
+        <mark key="'" line="183" column="54" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
@@ -2407,25 +2406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="3" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.3-sources.jar!/play/GlobalSettings.java" />
-      <jump line="99" column="55" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.3-sources.jar!/play/GlobalSettings.java" />
-      <jump line="495" column="11" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="22" column="13" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.3-sources.jar!/play/mvc/Result.java" />
-      <jump line="145" column="27" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.3-sources.jar!/play/mvc/Result.java" />
-      <jump line="20" column="15" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="5" column="19" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="154" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="75" column="21" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="347" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="1" column="55" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="57" column="42" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="348" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.edit.component.ts" />
-      <jump line="142" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.ts" />
-      <jump line="141" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="30" column="55" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.add.component.ts" />
-      <jump line="17" column="27" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
-      <jump line="18" column="30" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" />
       <jump line="47" column="22" filename="$USER_HOME$/app/donald_manager/app/assets/app/site.add.component.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/app/donald_manager/build.sbt" />
       <jump line="56" column="21" filename="$USER_HOME$/app/donald_manager/build.sbt" />
@@ -2459,7 +2439,6 @@
       <jump line="71" column="13" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
       <jump line="68" column="8" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
       <jump line="69" column="12" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
-      <jump line="139" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
       <jump line="144" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
       <jump line="45" column="13" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
       <jump line="90" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
@@ -2507,52 +2486,72 @@
       <jump line="134" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
       <jump line="182" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
       <jump line="233" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="88" column="24" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
+      <jump line="158" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
+      <jump line="167" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
+      <jump line="189" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
+      <jump line="139" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
+      <jump line="124" column="32" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
+      <jump line="185" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
+      <jump line="180" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
+      <jump line="183" column="54" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
+      <jump line="86" column="8" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="155" column="16" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="11" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="84" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
+      <jump line="140" column="21" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
+      <jump line="87" column="32" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
+      <jump line="178" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
+      <jump line="150" column="34" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="153" column="37" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="166" column="56" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
+      <jump line="224" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bnnsget(0).adPageId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>bnnsget(0).adPageId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>updateBanners</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihibm5zLmdldCgwKS5hZFBhZ2VJZCk7Cg==</text>
+        <text encoding="base64">ICAgIGJubi5wb3NpdGlvbiA9IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKGJubnMuZ2V0KDApLnNlbGVjdGVkQmJhWzBdKTsK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2codGhpcy5taW1lVHlwZSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tPS09LT0tPS09PS09LS09PT09PT09PT09PT09PT09PS09LS0tPS09LS09LT0tLT0iKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihibm5zLmdldCgwKS5zZWxlY3RlZEJiYSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gY29uc29sZS5sb2codGhpcy5taW1lVHlwZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFycmF5cy5hc0xpc3QoYm5ucy5nZXQoMCkuc2VsZWN0ZWRCYmEpLnN0cmVhbShhIC0+IFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcudmFsdWVPZihhKSkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJubnMuZ2V0KDApLnNlbGVjdGVkQmJhCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihibm5zLmdldCgwKS5zZWxlY3RlZEJiYSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tPS09LT0tPS09PS09LS09PT09PT09PT09PT09PT09PS09LS0tPS09LS09LT0tLT0iKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihibm5zLmdldCgwKS5zZWxlY3RlZEJiYSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgYm5ucy5zdHJlYW0oKS5mb3JFYWNoKGIgLT4gewovLyAgICAgIGIucGFnZSA9IFBhZ2UuZmluZC5ieUlkKGIuYWRQYWdlSWQpOwovLyAgICAgIGIuaWQgPSBudWxsOwovLyAgICB9KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tPS09LT0tPS09PS09LS09PT09PT09PT09PT09PT09PS09LS0tPS09LS09LT0tLT0iKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihqc29uLnRvU3RyaW5nKCkpOwogICAgU3lzdGVtLm91dC5wcmludGxuKGJubnMuZ2V0KDApLmFkUGFnZUlkKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tPS09LT0tPS09PS09LS09PT09PT09PT09PT09PT09PS09LS0tPS09LS09LT0tLT0iKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJibXQiKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJiYnQiKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gdGhpcy5taW1lVHlwZS5zb3J0KChhLCBiKSA9PiBhLmlkIDwgYi5pZCA/IC0xIDogMSkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAVHJhbnNpZW50CiAgcHVibGljIGludCBwb3NOdW07Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYmFubmVyc1swXS5zZWxlY3RlZEJtdCkK</text>
       </register>
       <register name=":" type="4">
-        <text>80</text>
+        <text>282</text>
       </register>
     </registers>
     <search>
@@ -2566,25 +2565,25 @@
     </search>
     <history>
       <history-search>
-        <entry>router</entry>
-        <entry>onChage</entry>
-        <entry>ngOnInit</entry>
-        <entry encoding="base64">XDxfXD4=</entry>
-        <entry encoding="base64">XDxjb3VudFw+</entry>
-        <entry>_</entry>
-        <entry>selectedBba</entry>
-        <entry>onChange</entry>
-        <entry>banner</entry>
         <entry>Banners</entry>
         <entry>mime_type</entry>
         <entry>mime</entry>
         <entry encoding="base64">XDxkZWxldGVkQmFubmVyc1w+</entry>
         <entry>on</entry>
-        <entry>setBanner</entry>
         <entry encoding="base64">XDxiYW5uZXJzXD4=</entry>
         <entry encoding="base64">XDxwb3NOdW1cPg==</entry>
         <entry>posNum</entry>
         <entry>update</entry>
+        <entry>selectedBmt</entry>
+        <entry>bannersTypes</entry>
+        <entry>bannerTypes</entry>
+        <entry>add</entry>
+        <entry>console.log</entry>
+        <entry>setBanner</entry>
+        <entry>set</entry>
+        <entry>setBa</entry>
+        <entry>filter</entry>
+        <entry encoding="base64">XDxpZFw+</entry>
         <entry>updateBanners</entry>
       </history-search>
       <history-cmd>
@@ -2595,7 +2594,6 @@
         <entry>370</entry>
         <entry>164</entry>
         <entry>89</entry>
-        <entry>282</entry>
         <entry>283</entry>
         <entry>w</entry>
         <entry>159</entry>
@@ -2608,6 +2606,7 @@
         <entry>437</entry>
         <entry>132</entry>
         <entry>80</entry>
+        <entry>282</entry>
       </history-cmd>
       <history-expr />
       <history-input />
