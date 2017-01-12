@@ -1075,11 +1075,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1484190605949">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1484196641133">
+        <mark key="'" line="25" column="14" />
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="43" column="40" />
+        <mark key="." line="43" column="40" />
+        <mark key="^" line="43" column="40" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Home.js" timestamp="1473403956502">
         <mark key="'" line="22" column="21" />
@@ -2421,12 +2422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
-      <jump line="398" column="4" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="450" column="23" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="451" column="4" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="455" column="26" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="52" column="23" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="57" column="20" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="191" column="17" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="225" column="25" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
@@ -2521,58 +2516,64 @@
       <jump line="99" column="18" filename="$USER_HOME$/app/donald_manager/target/web/node-modules/main/webjars/@angular/router/src/router.d.ts" />
       <jump line="108" column="18" filename="$USER_HOME$/app/donald_manager/target/web/node-modules/main/webjars/@angular/router/src/router.d.ts" />
       <jump line="89" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="158" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="61" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="24" column="9" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="31" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="156" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="23" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmkK</text>
+        <text encoding="base64">ICAgIHdvcmtlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>navigate</text>
+        <text>work</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG4uZGF0YXRhYmxlcy5uZXQvMS4xMC4xMy9jc3MvanF1ZXJ5LmRhdGFUYWJsZXMubWluLmNzcyI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmkK</text>
+        <text encoding="base64">ICAgIHdvcmtlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCB3b3JrZXIgPSBuZXcgV29ya2VyKCJ0ZXN0MTExMS5qcyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgd29ya2VyID0gbmV3IFdvcmtlcigidGVzdC5qcyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuZ0FmdGVyVmlld0luaXQoKSB7CiAgICBqUXVlcnkodGhpcy5pbnB1dC5uYXRpdmVFbGVtZW50KS5kYXRlcGlja2VyKCk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGxldCB3b3JrZXIgPSBuZXcgV29ya2VyKCJ0ZXN0LmpzIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICBsZXQgd29ya2VyID0gbmV3IFdvcmtlcigidGVzdC5qcyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCAjaW5wdXQgdHlwZT0idGV4dCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxteS1qcXVlcnk+PC9teS1qcXVlcnk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEpRdWVyeUNvbXBvbmVudCwK</text>
+        <text encoding="base64">ICBuZ0FmdGVyVmlld0luaXQoKSB7CiAgICBqUXVlcnkodGhpcy5pbnB1dC5uYXRpdmVFbGVtZW50KS5kYXRlcGlja2VyKCk7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
       </register>
     </registers>
     <search>
-      <last-search>navigate</last-search>
+      <last-search>work</last-search>
       <last-offset />
-      <last-pattern>navigate</last-pattern>
+      <last-pattern>work</last-pattern>
       <last-replace />
       <last-substitute>etc</last-substitute>
       <last-dir>1</last-dir>
@@ -2580,8 +2581,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxldGVkQmFubmVyc1w+</entry>
-        <entry>on</entry>
         <entry encoding="base64">XDxiYW5uZXJzXD4=</entry>
         <entry encoding="base64">XDxwb3NOdW1cPg==</entry>
         <entry>posNum</entry>
@@ -2600,6 +2599,8 @@
         <entry encoding="base64">XDxKUXVlcnlTdGF0aWNcPg==</entry>
         <entry>jquery</entry>
         <entry>navigate</entry>
+        <entry>test</entry>
+        <entry>work</entry>
       </history-search>
       <history-cmd>
         <entry>138</entry>
