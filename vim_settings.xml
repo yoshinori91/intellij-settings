@@ -1075,12 +1075,8 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1484196641133">
-        <mark key="'" line="25" column="14" />
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="43" column="40" />
-        <mark key="." line="43" column="40" />
-        <mark key="^" line="43" column="40" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1484197896900">
+        <mark key="'" line="52" column="5" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Home.js" timestamp="1473403956502">
         <mark key="'" line="22" column="21" />
@@ -1450,11 +1446,8 @@
         <mark key="^" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" timestamp="1484111930024">
-        <mark key="'" line="98" column="0" />
+        <mark key="'" line="96" column="0" />
         <mark key="[" line="10" column="36" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/donadona/client/src/index.html" timestamp="1473398153290">
         <mark key="'" line="19" column="0" />
@@ -1475,13 +1468,6 @@
         <mark key="]" line="10" column="65" />
         <mark key="." line="10" column="65" />
         <mark key="^" line="10" column="65" />
-      </file>
-      <file name="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" timestamp="1484187632433">
-        <mark key="'" line="32" column="69" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="29" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/same/.gitignore" timestamp="1473991288149">
         <mark key="[" line="14" column="10" />
@@ -2422,7 +2408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="20" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="191" column="17" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="225" column="25" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="13" column="90" filename="$USER_HOME$/app/donald_manager/conf/routes" />
@@ -2522,6 +2507,7 @@
       <jump line="31" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="156" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="23" column="14" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
+      <jump line="52" column="5" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2531,7 +2517,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>work</text>
+        <text>worker</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG4uZGF0YXRhYmxlcy5uZXQvMS4xMC4xMy9jc3MvanF1ZXJ5LmRhdGFUYWJsZXMubWluLmNzcyI+Cg==</text>
@@ -2571,9 +2557,9 @@
       </register>
     </registers>
     <search>
-      <last-search>work</last-search>
+      <last-search>worker</last-search>
       <last-offset />
-      <last-pattern>work</last-pattern>
+      <last-pattern>worker</last-pattern>
       <last-replace />
       <last-substitute>etc</last-substitute>
       <last-dir>1</last-dir>
@@ -2581,7 +2567,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYW5uZXJzXD4=</entry>
         <entry encoding="base64">XDxwb3NOdW1cPg==</entry>
         <entry>posNum</entry>
         <entry>update</entry>
@@ -2601,6 +2586,7 @@
         <entry>navigate</entry>
         <entry>test</entry>
         <entry>work</entry>
+        <entry>worker</entry>
       </history-search>
       <history-cmd>
         <entry>138</entry>
