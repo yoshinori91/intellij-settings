@@ -1075,12 +1075,11 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1484188795003">
-        <mark key="'" line="8" column="31" />
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="15" column="29" />
+      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1484190605949">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/Home.js" timestamp="1473403956502">
         <mark key="'" line="22" column="21" />
@@ -2422,7 +2421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
       <jump line="136" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
       <jump line="398" column="4" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="450" column="23" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
@@ -2522,10 +2520,11 @@
       <jump line="90" column="18" filename="$USER_HOME$/app/donald_manager/target/web/node-modules/main/webjars/@angular/router/src/router.d.ts" />
       <jump line="99" column="18" filename="$USER_HOME$/app/donald_manager/target/web/node-modules/main/webjars/@angular/router/src/router.d.ts" />
       <jump line="108" column="18" filename="$USER_HOME$/app/donald_manager/target/web/node-modules/main/webjars/@angular/router/src/router.d.ts" />
+      <jump line="89" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmkK</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -2537,7 +2536,7 @@
         <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG4uZGF0YXRhYmxlcy5uZXQvMS4xMC4xMy9jc3MvanF1ZXJ5LmRhdGFUYWJsZXMubWluLmNzcyI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmkK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2546,25 +2545,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBuZ0FmdGVyVmlld0luaXQoKSB7CiAgICBqUXVlcnkodGhpcy5pbnB1dC5uYXRpdmVFbGVtZW50KS5kYXRlcGlja2VyKCk7CiAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBuZ0FmdGVyVmlld0luaXQoKSB7CiAgICBqUXVlcnkodGhpcy5pbnB1dC5uYXRpdmVFbGVtZW50KS5kYXRlcGlja2VyKCk7CiAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCAjaW5wdXQgdHlwZT0idGV4dCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxteS1qcXVlcnk+PC9teS1qcXVlcnk+Cg==</text>
+        <text encoding="base64">ICAgIDxpbnB1dCAjaW5wdXQgdHlwZT0idGV4dCI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEpRdWVyeUNvbXBvbmVudCwK</text>
+        <text encoding="base64">ICAgIDxteS1qcXVlcnk+PC9teS1qcXVlcnk+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxoND4ge3tzZWxlY3RlZFZhbHVlfX08L2g0Pgo=</text>
+        <text encoding="base64">ICAgIEpRdWVyeUNvbXBvbmVudCwK</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
