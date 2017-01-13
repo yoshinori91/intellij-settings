@@ -143,12 +143,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.edit.component.html" timestamp="1483598148570">
-        <mark key="'" line="87" column="10" />
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-      </file>
       <file name="$USER_HOME$/test/dona/conf/routes" timestamp="1473650793330">
         <mark key="[" line="11" column="62" />
         <mark key="]" line="11" column="67" />
@@ -370,11 +364,20 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
+      <file name="$USER_HOME$/app/recoplus_manager/app/views/index.scala.html" timestamp="1484286170887">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/blockDsp.ts" timestamp="1480581855210">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="11" />
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/app/recoplus_manager/app/assets/app/app.module.ts" timestamp="1484288240792">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.html" timestamp="1484187623250">
         <mark key="[" line="18" column="0" />
@@ -515,6 +518,11 @@
         <mark key="]" line="18" column="22" />
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="22" />
+      </file>
+      <file name="$USER_HOME$/app/recoplus_manager/app/controllers/Application.java" timestamp="1484288257239">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/public/stylesheets/main.scss" timestamp="1474875368694">
         <mark key="[" line="0" column="0" />
@@ -804,6 +812,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/app/recoplus_manager/app/assets/app/sample.ts" timestamp="1484286271920">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="4" column="44" />
+      </file>
       <file name="$USER_HOME$/test/dona/client/app.component.ts" timestamp="1473650948135">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="27" />
@@ -990,6 +1004,12 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/app/recoplus_manager/app/views/index2.scala.html" timestamp="1484286191499">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="24" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/app/donald_manager/app/models/D2CCategory.java" timestamp="1476340891621">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
@@ -1001,12 +1021,6 @@
         <mark key="]" line="31" column="7" />
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
-      </file>
-      <file name="$USER_HOME$/app/donald_manager/build.sbt" timestamp="1483669050996">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dm/public/hello-world.component.ts" timestamp="1473998725514">
         <mark key="[" line="0" column="0" />
@@ -1202,12 +1216,6 @@
         <mark key="^" line="25" column="5" />
         <mark key="." line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/site.add.component.ts" timestamp="1483669675663">
-        <mark key="'" line="47" column="1" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/app/components/Nav.js" timestamp="1472547843977">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="8" column="10" />
@@ -1352,13 +1360,19 @@
         <mark key="." line="43" column="56" />
         <mark key="^" line="43" column="56" />
       </file>
-      <file name="$USER_HOME$/app/reco-manger/app/assets/app/hero-search.component.ts" timestamp="1484204619469" />
       <file name="$USER_HOME$/test/dona/public/src/components/List.ts" timestamp="1473217531570">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="34" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/app/recoplus_manager/app/views/index1.scala.html" timestamp="1484288225007">
+        <mark key="'" line="75" column="18" />
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="75" column="18" />
+        <mark key="." line="75" column="18" />
+        <mark key="^" line="75" column="18" />
       </file>
       <file name="$USER_HOME$/test/dona/client/index.ts" timestamp="1473650477227">
         <mark key="[" line="8" column="0" />
@@ -1476,12 +1490,6 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.add.component.html" timestamp="1483596679699">
-        <mark key="'" line="293" column="0" />
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-      </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/app.routing.ts" timestamp="1483667753280">
         <mark key="'" line="63" column="2" />
         <mark key="[" line="36" column="15" />
@@ -1500,6 +1508,11 @@
         <mark key="]" line="8" column="25" />
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/app/recoplus_manager/app/assets/app/main.ts" timestamp="1484288065208">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/components/TodoList.js" timestamp="1472455081527">
         <mark key="'" line="16" column="9" />
@@ -1806,6 +1819,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="2" />
       </file>
+      <file name="$USER_HOME$/app/recoplus_manager/tslint.json" timestamp="1484287730656">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/app/models/MediaJson.java" timestamp="1472616888322">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="67" column="0" />
@@ -1942,10 +1960,6 @@
         <mark key="]" line="8" column="1" />
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
-      </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" timestamp="1484111930024">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/reducers/paginate.js" timestamp="1473217012386">
         <mark key="'" line="62" column="0" />
@@ -2101,6 +2115,13 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="22" column="21" />
       </file>
+      <file name="$USER_HOME$/app/recoplus_manager/app/assets/app/app.ts" timestamp="1484288517198">
+        <mark key="'" line="5" column="34" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/wawm/public/app/app.ts" timestamp="1474072411415">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="13" column="23" />
@@ -2125,6 +2146,13 @@
         <mark key="]" line="75" column="39" />
         <mark key="^" line="75" column="39" />
         <mark key="." line="75" column="39" />
+      </file>
+      <file name="$USER_HOME$/app/recoplus_manager/app/assets/app/services/data.service.ts" timestamp="1484288390288">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/dm-entry.component.html" timestamp="1476770258719">
         <mark key="[" line="0" column="0" />
@@ -2329,12 +2357,6 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" timestamp="1484037564162">
-        <mark key="'" line="183" column="54" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/same/public/client/app/dashboard.component.css" timestamp="1473909066904">
         <mark key="'" line="74" column="0" />
         <mark key="[" line="77" column="0" />
@@ -2444,25 +2466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
-      <jump line="167" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
-      <jump line="189" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
-      <jump line="139" column="2" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
-      <jump line="124" column="32" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
-      <jump line="185" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
-      <jump line="180" column="4" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
-      <jump line="183" column="54" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.html" />
-      <jump line="86" column="8" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
-      <jump line="155" column="16" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
-      <jump line="11" column="17" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
-      <jump line="84" column="25" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.edit.component.ts" />
-      <jump line="140" column="21" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
-      <jump line="87" column="32" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
-      <jump line="178" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
-      <jump line="150" column="34" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="153" column="37" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="166" column="56" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
-      <jump line="224" column="0" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="333" column="41" filename="$USER_HOME$/app/donald_manager/app/controllers/PageController.java" />
       <jump line="98" column="0" filename="$USER_HOME$/app/donald_manager/app/assets/app/banner.list.component.ts" />
       <jump line="37" column="16" filename="$USER_HOME$/app/donald_manager/app/views/index1.scala.html" />
@@ -2544,58 +2547,77 @@
       <jump line="59" column="23" filename="$USER_HOME$/.ivy2/cache/org.webjars.npm/angular__http/jars/angular__http-2.4.2.jar!/META-INF/resources/webjars/angular__http/2.4.2/src/http.d.ts" />
       <jump line="60" column="8" filename="$USER_HOME$/.ivy2/cache/org.webjars.npm/angular__http/jars/angular__http-2.4.2.jar!/META-INF/resources/webjars/angular__http/2.4.2/src/http.d.ts" />
       <jump line="77" column="32" filename="$USER_HOME$/.ivy2/cache/org.webjars.npm/angular__http/jars/angular__http-2.4.2.jar!/META-INF/resources/webjars/angular__http/2.4.2/src/http.d.ts" />
+      <jump line="77" column="6" filename="$USER_HOME$/app/recoplus_manager/app/views/index1.scala.html" />
+      <jump line="21" column="51" filename="$USER_HOME$/app/recoplus_manager/app/views/index.scala.html" />
+      <jump line="23" column="49" filename="$USER_HOME$/app/recoplus_manager/app/views/index.scala.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/app/recoplus_manager/app/views/index.scala.html" />
+      <jump line="9" column="42" filename="$USER_HOME$/app/recoplus_manager/app/assets/app/app.ts" />
+      <jump line="1" column="34" filename="$USER_HOME$/app/recoplus_manager/app/assets/app/app.ts" />
+      <jump line="4" column="34" filename="$USER_HOME$/app/recoplus_manager/app/assets/app/app.ts" />
+      <jump line="62" column="13" filename="$USER_HOME$/app/recoplus_manager/tslint.json" />
+      <jump line="33" column="5" filename="$USER_HOME$/app/recoplus_manager/tslint.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/app/recoplus_manager/tslint.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/app/recoplus_manager/tslint.json" />
+      <jump line="95" column="0" filename="$USER_HOME$/app/recoplus_manager/tslint.json" />
+      <jump line="94" column="0" filename="$USER_HOME$/app/recoplus_manager/tslint.json" />
+      <jump line="2" column="1" filename="$USER_HOME$/app/recoplus_manager/tslint.json" />
+      <jump line="54" column="0" filename="$USER_HOME$/app/recoplus_manager/app/views/index1.scala.html" />
+      <jump line="14" column="0" filename="$USER_HOME$/app/recoplus_manager/app/assets/app/services/data.service.ts" />
+      <jump line="20" column="0" filename="$USER_HOME$/app/recoplus_manager/app/assets/app/services/data.service.ts" />
+      <jump line="75" column="18" filename="$USER_HOME$/app/recoplus_manager/app/views/index1.scala.html" />
+      <jump line="5" column="2" filename="$USER_HOME$/app/recoplus_manager/app/assets/app/services/data.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmdldCh1cmwpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>term</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>pipe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG4uZGF0YXRhYmxlcy5uZXQvMS4xMC4xMy9jc3MvanF1ZXJ5LmRhdGFUYWJsZXMubWluLmNzcyI+Cg==</text>
+        <text encoding="base64">ICAgIHtpZDoxLCBuYW1lOiJub18xX25hbWUiLCBwcmljZToxMH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmdldCh1cmwpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmdldCgiZXRzIikK</text>
+        <text encoding="base64">ICBkYXRhOk5EYXRhW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmdldCgidHNldCIpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmdldCgiZGFzbGtqa2xmaiIpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgaW5kZXgoKSB7CiAgICAgICAgLyoqIGNoYW5nZSB0aGUgdGVtcGxhdGUgaGVyZSB0byB1c2UgYSBkaWZmZXJlbnQgd2F5IG9mIGNvbXBpbGF0aW9uIGFuZCBsb2FkaW5nIG9mIHRoZSB0cyBuZzIgYXBwLgogICAgICAgICAqIGluZGV4KCkgIDogICAgZG9lcyBubyB0cyBjb21waWxhdGlvbiBpbiBhZHZhbmNlLiB0aGUgdHMgZmlsZXMgYXJlIGRvd25sb2FkIGJ5IHRoZSBicm93c2VyIGFuZCBjb21waWxlZCB0aGVyZSB0byBqcy4KICAgICAgICAgKiBpbmRleDEoKSA6ICAgIGNvbXBpbGVzIHRoZSB0cyBmaWxlcyB0byBpbmRpdmlkdWFsIGpzIGZpbGVzLiBTeXN0ZW1qcyBsb2FkcyB0aGUgaW5kaXZpZHVhbCBmaWxlcy4KICAgICAgICAgKiBpbmRleDIoKSA6ICAgIGFkZCB0aGUgb3B0aW9uIC1EdHNDb21waWxlTW9kZT1zdGFnZSB0byB5b3VyIHNidCB0YXNrIC4gRi5pLiAnc2J0IH5ydW4gLUR0c0NvbXBpbGVNb2RlPXN0YWdlJyB0aGlzIHdpbGwgcHJvZHVjZSB0aGUgYXBwIGFzIG9uZSBzaW5nbGUganMgZmlsZS4KICAgICAgICAgKi8KICAgICAgICByZXR1cm4gb2soaW5kZXgxLnJlbmRlcigpKTsKICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IFNhbXBsZSBmcm9tICIuL3NhbXBsZSIK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmdldCgiZGFzbGtqa2xmaiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmdldCgiYXNsa2RmamFqayIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmdldCgiYXBwLyIpCg==</text>
+        <text encoding="base64">ICBuRGF0YTpORGF0YVtdID0gWwogICAge2lkOjEsIG5hbWU6Im5vXzFfbmFtZSIsIHByaWNlOjEwfSwKICAgIHtpZDoyLCBuYW1lOiJub18yX25hbWUiLCBwcmljZToyMH0sCiAgICB7aWQ6MywgbmFtZToibm9fM19uYW1lIiwgcHJpY2U6MzB9LAogICAge2lkOjQsIG5hbWU6Im5vXzRfbmFtZSIsIHByaWNlOjQwfV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLnRlcm0oImFwcC8iKQo=</text>
+        <text encoding="base64">ICAgIDxzYW1wbGUtYXBwPjwvc2FtcGxlLWFwcD4K</text>
       </register>
       <register name=":" type="4">
-        <text>10</text>
+        <text>1,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>pipe</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>pipe</last-pattern>
       <last-replace />
       <last-substitute>etc</last-substitute>
       <last-dir>1</last-dir>
@@ -2603,8 +2625,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bannerTypes</entry>
-        <entry>add</entry>
         <entry>console.log</entry>
         <entry>setBanner</entry>
         <entry>set</entry>
@@ -2623,9 +2643,10 @@
         <entry>node</entry>
         <entry>types</entry>
         <entry>get</entry>
+        <entry>todo</entry>
+        <entry>pipe</entry>
       </history-search>
       <history-cmd>
-        <entry>138</entry>
         <entry>351</entry>
         <entry>377</entry>
         <entry>370</entry>
@@ -2645,6 +2666,7 @@
         <entry>80</entry>
         <entry>282</entry>
         <entry>10</entry>
+        <entry>1,$d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
