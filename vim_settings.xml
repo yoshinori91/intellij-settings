@@ -1934,12 +1934,12 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/app/recoplus_manager/build.sbt" timestamp="1484294199787">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="33" column="54" />
-        <mark key="]" line="33" column="54" />
-        <mark key="^" line="33" column="54" />
-        <mark key="." line="33" column="54" />
+      <file name="$USER_HOME$/app/recoplus_manager/build.sbt" timestamp="1484296794458">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="32" column="54" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/app.component.ts" timestamp="1473656802522">
         <mark key="[" line="0" column="0" />
@@ -2594,8 +2594,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/app/recoplus_manager/app/assets/app/storage.worker.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;odata&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;odata&quot;</text>
@@ -2607,31 +2607,31 @@
         <text encoding="base64">ICAgIHtpZDoxLCBuYW1lOiJub18xX25hbWUiLCBwcmljZToxMH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTcvMDEvMTMuCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTcvMDEvMTMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIFN0b3JhZ2VXb3JrZXIgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIFN0b3JhZ2VXb3JrZXIgewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
