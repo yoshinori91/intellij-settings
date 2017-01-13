@@ -442,6 +442,12 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
+      <file name="$USER_HOME$/app/recoplus_manager/app/assets/app/nw.client.ts" timestamp="1484294133459">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/play-angular2-typescript/app/views/index.scala.html" timestamp="1474348693956">
         <mark key="[" line="23" column="45" />
         <mark key="]" line="23" column="45" />
@@ -1928,12 +1934,12 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/app/recoplus_manager/build.sbt" timestamp="1484291858330">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="31" column="44" />
-        <mark key="]" line="32" column="3" />
-        <mark key="^" line="32" column="3" />
-        <mark key="." line="32" column="3" />
+      <file name="$USER_HOME$/app/recoplus_manager/build.sbt" timestamp="1484294199787">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="33" column="54" />
+        <mark key="]" line="33" column="54" />
+        <mark key="^" line="33" column="54" />
+        <mark key="." line="33" column="54" />
       </file>
       <file name="$USER_HOME$/test/dona/public/app/app.component.ts" timestamp="1473656802522">
         <mark key="[" line="0" column="0" />
@@ -2033,11 +2039,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/app/recoplus_manager/app/assets/app/storage.worker.ts" timestamp="1484292961229">
+      <file name="$USER_HOME$/app/recoplus_manager/app/assets/app/storage.worker.ts" timestamp="1484293810724">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
         <mark key="^" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/wk/react-boilerplate/app/routes.js" timestamp="1472792039730">
@@ -2589,10 +2595,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGV0IA==</text>
+        <text>&quot;odata&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IA==</text>
+        <text>&quot;odata&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNvbHZlRnJvbVdlYmphcnNOb2RlTW9kdWxlc0Rpclw+</text>
@@ -2601,28 +2607,28 @@
         <text encoding="base64">ICAgIHtpZDoxLCBuYW1lOiJub18xX25hbWUiLCBwcmljZToxMH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTcvMDEvMTMuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIFN0b3JhZ2VXb3JrZXIgewo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIFN0b3JhZ2VXb3JrZXIgewo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
