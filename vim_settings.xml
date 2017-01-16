@@ -137,6 +137,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/app3/recoplus_manager/ui/src/app/app.component.ts" timestamp="1484540468921">
+        <mark key="'" line="8" column="21" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/test/dona/client/index.html" timestamp="1473649810876">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -208,7 +214,6 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/app2/recoplus_manager/ui/node_modules/angular-cli/addon/ng2/blueprints/ng2/files/__path__/app/app.component.ts" timestamp="1484538225365" />
       <file name="$USER_HOME$/wall/dm/app/assets/app/app.css" timestamp="1475733199295">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="10" column="0" />
@@ -311,9 +316,6 @@
         <mark key="." line="53" column="38" />
         <mark key="^" line="53" column="38" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.webjars.npm/angular__http/jars/angular__http-2.4.2.jar!/META-INF/resources/webjars/angular__http/2.4.2/src/http.d.ts" timestamp="1484206210148">
-        <mark key="'" line="77" column="32" />
-      </file>
       <file name="/HTML Fragment (app.component.ts:199).html" timestamp="1474610925624">
         <mark key="[" line="13" column="44" />
         <mark key="]" line="15" column="45" />
@@ -371,9 +373,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/app/recoplus_manager/app/views/index.scala.html" timestamp="1484286170887">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/app/donald_manager/app/assets/app/models/blockDsp.ts" timestamp="1480581855210">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="11" />
@@ -403,8 +402,12 @@
         <mark key="." line="16" column="58" />
         <mark key="^" line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/target/web/node-modules/main/webjars/@angular/router/src/router.d.ts" timestamp="1484188776352">
-        <mark key="'" line="108" column="18" />
+      <file name="$USER_HOME$/app3/recoplus_manager/ui/tslint.json" timestamp="1484540413866">
+        <mark key="'" line="68" column="5" />
+        <mark key="[" line="65" column="7" />
+        <mark key="]" line="65" column="12" />
+        <mark key="." line="65" column="12" />
+        <mark key="^" line="65" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/wawm/public/app/app.main.ts" timestamp="1474092929829">
         <mark key="[" line="2" column="3" />
@@ -652,9 +655,6 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/app/reco-manger/target/web/node-modules/main/webjars/rxjs/Observable.d.ts" timestamp="1484202623208">
-        <mark key="'" line="48" column="94" />
-      </file>
       <file name="$USER_HOME$/test/dona/public/app/config/index.js" timestamp="1473387870220">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="5" column="0" />
@@ -693,6 +693,12 @@
         <mark key="." line="806" column="2" />
         <mark key="^" line="804" column="3" />
       </file>
+      <file name="$USER_HOME$/app3/recoplus_manager/ui/src/app/app.component.html" timestamp="1484539704888">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/zzz/public/app/components/Home.js" timestamp="1471922795711">
         <mark key="'" line="25" column="18" />
         <mark key="[" line="2" column="8" />
@@ -705,9 +711,6 @@
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/app/reco-manger/target/web/node-modules/main/webjars/rxjs/Subject.d.ts" timestamp="1484202536816">
-        <mark key="'" line="36" column="37" />
       </file>
       <file name="$USER_HOME$/test/dona/public/src/sagas/index.js" timestamp="1473217170703">
         <mark key="'" line="129" column="0" />
@@ -1791,9 +1794,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" timestamp="1484197896900">
-        <mark key="'" line="52" column="5" />
-      </file>
       <file name="$USER_HOME$/app/donald_manager/conf/routes" timestamp="1484028001765">
         <mark key="'" line="20" column="96" />
         <mark key="[" line="31" column="90" />
@@ -2331,9 +2331,6 @@
         <mark key="." line="11" column="53" />
         <mark key="^" line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/app/reco-manger/target/web/node-modules/main/webjars/@angular/http/src/http.d.ts" timestamp="1484202686130">
-        <mark key="'" line="77" column="32" />
-      </file>
       <file name="$USER_HOME$/donadona/client/src/app/app.ts" timestamp="1473397883881">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="4" column="38" />
@@ -2511,10 +2508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="3" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
-      <jump line="65" column="18" filename="$USER_HOME$/app/donald_manager/app/assets/app/app.module.ts" />
-      <jump line="9" column="48" filename="$USER_HOME$/app/donald_manager/app/assets/app/jquery.component.ts" />
-      <jump line="56" column="7" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="9" column="31" filename="$USER_HOME$/app/donald_manager/app/assets/app/ad-page.list.component.ts" />
       <jump line="253" column="21" filename="$USER_HOME$/app/donald_manager/target/web/node-modules/main/webjars/@angular/router/src/router.d.ts" />
       <jump line="275" column="4" filename="$USER_HOME$/app/donald_manager/target/web/node-modules/main/webjars/@angular/router/src/router.d.ts" />
@@ -2611,16 +2604,20 @@
       <jump line="62" column="0" filename="$USER_HOME$/app2/recoplus_manager/build.sbt" />
       <jump line="43" column="13" filename="$USER_HOME$/app2/recoplus_manager/build.sbt" />
       <jump line="47" column="6" filename="$USER_HOME$/app2/recoplus_manager/build.sbt" />
+      <jump line="73" column="6" filename="$USER_HOME$/app3/recoplus_manager/ui/tslint.json" />
+      <jump line="69" column="12" filename="$USER_HOME$/app3/recoplus_manager/ui/tslint.json" />
+      <jump line="68" column="5" filename="$USER_HOME$/app3/recoplus_manager/ui/tslint.json" />
+      <jump line="8" column="21" filename="$USER_HOME$/app3/recoplus_manager/ui/src/app/app.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>single</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydW5CdWlsZFw+</text>
+        <text>double</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHtpZDoxLCBuYW1lOiJub18xX25hbWUiLCBwcmljZToxMH0sCg==</text>
@@ -2632,37 +2629,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTcvMDEvMTMuCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkazMgb24gMTcvMDEvMTMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIFN0b3JhZ2VXb3JrZXIgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIFN0b3JhZ2VXb3JrZXIgewo=</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydW5CdWlsZFw+</last-search>
+      <last-search>double</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydW5CdWlsZFw+</last-pattern>
+      <last-pattern>double</last-pattern>
       <last-replace />
       <last-substitute>etc</last-substitute>
       <last-dir>1</last-dir>
@@ -2670,8 +2667,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxKUXVlcnlTdGF0aWNcPg==</entry>
-        <entry>jquery</entry>
         <entry>navigate</entry>
         <entry>test</entry>
         <entry>work</entry>
@@ -2690,6 +2685,8 @@
         <entry>Key</entry>
         <entry encoding="base64">XDxidWlsZFw+</entry>
         <entry encoding="base64">XDxydW5CdWlsZFw+</entry>
+        <entry>semi</entry>
+        <entry>double</entry>
       </history-search>
       <history-cmd>
         <entry>351</entry>
