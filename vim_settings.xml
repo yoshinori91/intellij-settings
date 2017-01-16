@@ -137,12 +137,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/app3/recoplus_manager/ui/src/app/app.component.ts" timestamp="1484544859847">
+      <file name="$USER_HOME$/app3/recoplus_manager/ui/src/app/app.component.ts" timestamp="1484546082121">
         <mark key="'" line="8" column="21" />
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="17" />
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="25" />
       </file>
       <file name="$USER_HOME$/test/dona/client/index.html" timestamp="1473649810876">
         <mark key="[" line="9" column="0" />
@@ -2612,10 +2612,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>!!!!!&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>!!!!!&quot;</text>
       </register>
       <register name="/" type="4">
         <text>single</text>
