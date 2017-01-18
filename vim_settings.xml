@@ -1659,6 +1659,12 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
+      <file name="$USER_HOME$/app0/recoplus_manager/build.sbt" timestamp="1484714378138">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/test/dona/public/app/containers/AddTodo.js" timestamp="1472454549853">
         <mark key="'" line="2" column="8" />
         <mark key="[" line="27" column="28" />
@@ -2455,7 +2461,6 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/app3/recoplus_manager/ui/webpack.config.js" timestamp="1484553278615" />
       <file name="$USER_HOME$/wall/dm/app/controllers/MediaController.java" timestamp="1475656606227">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="12" column="15" />
@@ -2649,10 +2654,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
@@ -2666,29 +2671,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHMgIDoiYXBwLmNvbXBvbmVudC5zY3NzIgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHMgIDpbImFwcC5jb21wb25lbnQuc2NzcyJdCg==</text>
+        <text encoding="base64">ICBzdHlsZVVybHMgIDoiYXBwLmNvbXBvbmVudC5zY3NzIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtb2R1bGVJZCAgIDptb2R1bGUuaWQsCg==</text>
+        <text encoding="base64">ICBzdHlsZVVybHMgIDpbImFwcC5jb21wb25lbnQuc2NzcyJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBtb2R1bGVJZCAgIDptb2R1bGUuaWQsCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgImVycm9yICIsCg==</text>
+        <text encoding="base64">ICBtb2R1bGVJZCAgIDptb2R1bGUuaWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImVycm9yICIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$d</text>
