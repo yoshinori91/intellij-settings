@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Kotlin/Add '@JvmOverloads' annotation" />
+    <ignoreAction name="Kotlin/Convert to secondary constructor" />
+  </component>
+</application>
