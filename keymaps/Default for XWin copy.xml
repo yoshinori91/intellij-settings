@@ -43,6 +43,9 @@
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
@@ -51,6 +54,7 @@
   <action id="GotoSuperMethod" />
   <action id="HippieCompletion" />
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceVariable" />
   <action id="ReformatCode" />
   <action id="Replace" />
   <action id="SearchEverywhere">
@@ -59,5 +63,6 @@
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="Vcs.Push" />
+  <action id="VimPluginToggle" />
   <action id="openAssertEqualsDiff" />
 </keymap>
