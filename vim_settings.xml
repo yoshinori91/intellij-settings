@@ -29,18 +29,16 @@
         <mark key="." line="23" column="88" />
         <mark key="^" line="23" column="88" />
       </file>
+      <file name="/a.dummy" timestamp="1498628727493">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/controller/HelloController.kt" timestamp="1498615577020">
         <mark key="[" line="33" column="53" />
         <mark key="]" line="33" column="65" />
         <mark key="." line="33" column="65" />
         <mark key="^" line="33" column="65" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/model/security/AuthorityName.java" timestamp="1498625504234">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="32" />
-        <mark key="." line="3" column="32" />
-        <mark key="^" line="3" column="32" />
-      </file>
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/model/security/AuthorityName.java" timestamp="1498630355003" />
       <file name="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/entity/Salespeople.java" timestamp="1498548410452">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -77,6 +75,7 @@
         <mark key="." line="7" column="83" />
         <mark key="^" line="7" column="83" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.1.4.RELEASE/759112952c5e0e948601b869b420faf0e535c35d/spring-security-core-4.1.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1498631480415" />
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/config/SecurityConfigurer.java" timestamp="1498443061887">
         <mark key="'" line="53" column="30" />
         <mark key="[" line="48" column="8" />
@@ -156,7 +155,7 @@
         <mark key="^" line="36" column="14" />
         <mark key="." line="36" column="14" />
       </file>
-      <file name="/a.sql" timestamp="1498626329156">
+      <file name="/a.sql" timestamp="1498630929015">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/service/LoginUserDetailsService.kt" timestamp="1498548177613">
@@ -206,11 +205,12 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/model/security/Authority.java" timestamp="1498626400481">
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/model/security/Authority.java" timestamp="1498630363738">
         <mark key="'" line="14" column="18" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtUser.java" timestamp="1498625891498">
         <mark key="'" line="73" column="11" />
@@ -310,6 +310,7 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/Application.java" timestamp="1498556944626" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/rest/Person.java" timestamp="1498616321151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
@@ -335,11 +336,11 @@
         <mark key="." line="10" column="56" />
         <mark key="^" line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/model/security/User.java" timestamp="1498626581398">
-        <mark key="[" line="67" column="20" />
-        <mark key="]" line="67" column="24" />
-        <mark key="." line="67" column="24" />
-        <mark key="^" line="67" column="24" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/model/security/User.java" timestamp="1498629669378">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="23" column="4" />
       </file>
       <file name="$USER_HOME$/wk3/react-boilerplate/app/routes.js" timestamp="1498110714887">
         <mark key="[" line="20" column="14" />
@@ -352,6 +353,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/User.java" timestamp="1498631325442">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="12" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="25" column="19" />
       </file>
       <file name="$USER_HOME$/dev99/wm/build.gradle" timestamp="1498556888255">
         <mark key="[" line="35" column="0" />
@@ -390,7 +397,7 @@
         <mark key="." line="4" column="74" />
         <mark key="^" line="4" column="74" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/JwtUserDetailsServiceImpl.java" timestamp="1498622104877">
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/JwtUserDetailsServiceImpl.java" timestamp="1498629292384">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="23" />
@@ -433,18 +440,18 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtAuthenticationEntryPoint.java" timestamp="1498616348606">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginUserDetails.java" timestamp="1498615560621" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtAuthenticationEntryPoint.java" timestamp="1498628999411">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" timestamp="1498627072083">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="35" column="52" />
-        <mark key="]" line="36" column="49" />
-        <mark key="." line="36" column="49" />
-        <mark key="^" line="36" column="49" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" timestamp="1498629348574">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/entity/SalespeopleRepository.java" timestamp="1498546723477">
         <mark key="[" line="6" column="22" />
@@ -503,18 +510,18 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1498627993868">
+      <file name="/dummy.sql" timestamp="1498630228916">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498627458742">
+      <file name="/Dummy.txt" timestamp="1498630245242">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wk3/react-boilerplate/app/components/Step3/index.js" timestamp="1498130047202">
         <mark key="[" line="10" column="0" />
@@ -588,7 +595,7 @@
         <mark key="." line="52" column="67" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1498627255589">
+      <file name="/fragment.java" timestamp="1498630406718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -704,10 +711,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlcm5hbWU7Cg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2tlbkhlYWRlclw+</text>
@@ -716,31 +723,31 @@
         <text encoding="base64">CWVuYWJsZWQgQk9PTEVBTiBub3QgbnVsbCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlcm5hbWU7Cg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcm5hbWU7Cg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sb2dnaW5nLkxvZzsKaW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sb2dnaW5nLkxvZ0ZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nIGxvZ2dlciA9IExvZ0ZhY3RvcnkuZ2V0TG9nKHRoaXMuZ2V0Q2xhc3MoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChMb25nIGlkKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcm5hbWUoKSB7CiAgICAgICAgcmV0dXJuIHVzZXJuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFVzZXJuYW1lKFN0cmluZyB1c2VybmFtZSkgewogICAgICAgIHRoaXMudXNlcm5hbWUgPSB1c2VybmFtZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldFBhc3N3b3JkKCkgewogICAgICAgIHJldHVybiBwYXNzd29yZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRQYXNzd29yZChTdHJpbmcgcGFzc3dvcmQpIHsKICAgICAgICB0aGlzLnBhc3N3b3JkID0gcGFzc3dvcmQ7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRGaXJzdG5hbWUoKSB7CiAgICAgICAgcmV0dXJuIGZpcnN0bmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRGaXJzdG5hbWUoU3RyaW5nIGZpcnN0bmFtZSkgewogICAgICAgIHRoaXMuZmlyc3RuYW1lID0gZmlyc3RuYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TGFzdG5hbWUoKSB7CiAgICAgICAgcmV0dXJuIGxhc3RuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldExhc3RuYW1lKFN0cmluZyBsYXN0bmFtZSkgewogICAgICAgIHRoaXMubGFzdG5hbWUgPSBsYXN0bmFtZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEVtYWlsKCkgewogICAgICAgIHJldHVybiBlbWFpbDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRFbWFpbChTdHJpbmcgZW1haWwpIHsKICAgICAgICB0aGlzLmVtYWlsID0gZW1haWw7CiAgICB9CgogICAgcHVibGljIEJvb2xlYW4gZ2V0RW5hYmxlZCgpIHsKICAgICAgICByZXR1cm4gZW5hYmxlZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRFbmFibGVkKEJvb2xlYW4gZW5hYmxlZCkgewogICAgICAgIHRoaXMuZW5hYmxlZCA9IGVuYWJsZWQ7CiAgICB9CgogICAgcHVibGljIExpc3Q8QXV0aG9yaXR5PiBnZXRBdXRob3JpdGllcygpIHsKICAgICAgICByZXR1cm4gYXV0aG9yaXRpZXM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0QXV0aG9yaXRpZXMoTGlzdDxBdXRob3JpdHk+IGF1dGhvcml0aWVzKSB7CiAgICAgICAgdGhpcy5hdXRob3JpdGllcyA9IGF1dGhvcml0aWVzOwogICAgfQoKICAgIHB1YmxpYyBEYXRlIGdldExhc3RQYXNzd29yZFJlc2V0RGF0ZSgpIHsKICAgICAgICByZXR1cm4gbGFzdFBhc3N3b3JkUmVzZXREYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldExhc3RQYXNzd29yZFJlc2V0RGF0ZShEYXRlIGxhc3RQYXNzd29yZFJlc2V0RGF0ZSkgewogICAgICAgIHRoaXMubGFzdFBhc3N3b3JkUmVzZXREYXRlID0gbGFzdFBhc3N3b3JkUmVzZXREYXRlOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhdXRoVG9rZW4uc3RhcnRzV2l0aCgiQmVhcmVyICIpCiAgICAgICAgLy8gU3RyaW5nIGF1dGhUb2tlbiA9IGhlYWRlci5zdWJzdHJpbmcoNyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odG9rZW5IZWFkZXIpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFzc3dvcmRFbmNvZGVyKCJwYXNzd29yZCIpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChMb25nIGlkKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgfQoKICAgIHB1YmxpYyBBdXRob3JpdHlOYW1lIGdldE5hbWUoKSB7CiAgICAgICAgcmV0dXJuIG5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShBdXRob3JpdHlOYW1lIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQoKICAgIHB1YmxpYyBMaXN0PFVzZXI+IGdldFVzZXJzKCkgewogICAgICAgIHJldHVybiB1c2VyczsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRVc2VycyhMaXN0PFVzZXI+IHVzZXJzKSB7CiAgICAgICAgdGhpcy51c2VycyA9IHVzZXJzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKQo=</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
