@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/WmUserFactory.java" timestamp="1498637822132">
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/WmUserFactory.java" timestamp="1498639144333">
         <mark key="[" line="15" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="17" column="28" />
       </file>
       <file name="$USER_HOME$/dev4/theo/wm/server/src/main/java/com/money_design/wm/service/UserInfoRepository.java" timestamp="1497859988362">
         <mark key="[" line="6" column="0" />
@@ -645,7 +648,7 @@
         <text>(name = &quot;LASTPASSWORDRESETDATE&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXN0UGFzc3dvcmRSZXNldERhdGVcPg==</text>
+        <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQXV0aGVudGljYXRlZFVzZXIub2YodXNlci4pCg==</text>
@@ -682,9 +685,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXN0UGFzc3dvcmRSZXNldERhdGVcPg==</last-search>
+      <last-search encoding="base64">XDwiXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXN0UGFzc3dvcmRSZXNldERhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
       <last-replace>date</last-replace>
       <last-substitute>year</last-substitute>
       <last-dir>1</last-dir>
@@ -692,8 +695,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setAllowed</entry>
-        <entry encoding="base64">XDxjb3JzQ29uZmlndXJhdGlvblw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxTaWduYXR1cmVFeGNlcHRpb25cPg==</entry>
         <entry>jpa</entry>
@@ -712,6 +713,8 @@
         <entry encoding="base64">XDx1c2VyRGV0YWlsc1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDx0b2tlbkhlYWRlclw+</entry>
         <entry encoding="base64">XDxsYXN0UGFzc3dvcmRSZXNldERhdGVcPg==</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/CUSTOMERS/PERFORMANCE/g</entry>
