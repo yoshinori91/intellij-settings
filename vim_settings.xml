@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/WmUserFactory.java" timestamp="1498639144333">
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/WmUserFactory.java" timestamp="1498639649462">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="17" column="28" />
         <mark key="^" line="17" column="28" />
@@ -23,6 +23,9 @@
       </file>
       <file name="/a.dummy" timestamp="1498637455709">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev88/theo/wm/client/server/index.js" timestamp="1498640943009">
+        <mark key="'" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/controller/HelloController.kt" timestamp="1498615577020">
         <mark key="[" line="33" column="53" />
@@ -77,6 +80,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/wm/client/package.json" timestamp="1498641019029" />
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/authentication/AuthenticationProviderImpl.java" timestamp="1498033694863">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="37" column="103" />
@@ -164,12 +168,16 @@
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/test/java/com/money_design/wm/controller/ProfilingApiClientTest.java" timestamp="1498557105181">
+        <mark key="'" line="272" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/theo/wm/client/app/containers/MyPagePage/constants.js" timestamp="1496366232012">
         <mark key="[" line="8" column="58" />
         <mark key="]" line="8" column="63" />
         <mark key="." line="8" column="63" />
         <mark key="^" line="8" column="63" />
       </file>
+      <file name="$USER_HOME$/wk3/react-boilerplate/package.json" timestamp="1498640998799" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/JwtFilter.java" timestamp="1498616226083">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -539,7 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="33" filename="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/service/LoginService.kt" />
       <jump line="4" column="36" filename="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/service/LoginService.kt" />
       <jump line="5" column="36" filename="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/service/LoginService.kt" />
       <jump line="19" column="12" filename="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/service/LoginService.kt" />
@@ -639,6 +646,7 @@
       <jump line="20" column="23" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtUser.java" />
       <jump line="26" column="15" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtUser.java" />
       <jump line="32" column="37" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtUser.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev88/theo/wm/client/server/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
