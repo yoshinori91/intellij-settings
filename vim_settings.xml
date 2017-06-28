@@ -210,10 +210,11 @@
         <mark key="." line="14" column="5" />
         <mark key="^" line="14" column="5" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/client/.gitignore" timestamp="1498642003153">
+      <file name="$USER_HOME$/dev88/theo/wm/client/.gitignore" timestamp="1498644835755">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="11" column="4" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498561390672">
         <mark key="[" line="14" column="2" />
@@ -340,6 +341,12 @@
         <mark key="]" line="4" column="74" />
         <mark key="." line="4" column="74" />
         <mark key="^" line="4" column="74" />
+      </file>
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/AuthenticatedUser.java" timestamp="1498635392224">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/JwtUserDetailsServiceImpl.java" timestamp="1498637090652">
         <mark key="'" line="31" column="0" />
