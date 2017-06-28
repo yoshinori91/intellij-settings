@@ -177,7 +177,7 @@
         <mark key="." line="8" column="63" />
         <mark key="^" line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/wk3/react-boilerplate/package.json" timestamp="1498640998799" />
+      <file name="$USER_HOME$/wk3/react-boilerplate/package.json" timestamp="1498641613925" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/JwtFilter.java" timestamp="1498616226083">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -224,6 +224,11 @@
         <mark key="]" line="14" column="5" />
         <mark key="." line="14" column="5" />
         <mark key="^" line="14" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev88/theo/wm/client/.gitignore" timestamp="1498642003153">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498561390672">
         <mark key="[" line="14" column="2" />
@@ -649,8 +654,17 @@
       <jump line="56" column="0" filename="$USER_HOME$/dev88/theo/wm/client/server/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3RlcGhhbiBvbiAxMS4wMy4xNi4KICovCg==</text>
+      <register name="&quot;" type="4">
+        <text># Don't check auto-generated stuff into git
+coverage
+build
+node_modules
+stats.json
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea</text>
       </register>
       <register name="-" type="4">
         <text>(name = &quot;LASTPASSWORDRESETDATE&quot;)</text>
@@ -661,11 +675,20 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQXV0aGVudGljYXRlZFVzZXIub2YodXNlci4pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3RlcGhhbiBvbiAxMS4wMy4xNi4KICovCg==</text>
+      <register name="1" type="4">
+        <text># Don't check auto-generated stuff into git
+coverage
+build
+node_modules
+stats.json
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3RlcGhhbiBvbiAyMC4wMy4xNi4KICovCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3RlcGhhbiBvbiAxMS4wMy4xNi4KICovCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3RlcGhhbiBvbiAyMC4wMy4xNi4KICovCg==</text>
@@ -680,13 +703,13 @@
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3RlcGhhbiBvbiAyMC4wMy4xNi4KICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3RlcGhhbiBvbiAyMC4wMy4xNi4KICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcm5hbWUoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMudXNlcm5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VXNlcm5hbWUoU3RyaW5nIHVzZXJuYW1lKSB7CiAgICAgICAgdGhpcy51c2VybmFtZSA9IHVzZXJuYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0UGFzc3dvcmQoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMucGFzc3dvcmQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UGFzc3dvcmQoU3RyaW5nIHBhc3N3b3JkKSB7CiAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwo=</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc3RlcGhhbiBvbiAyMC4wMy4xNi4KICovCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcm5hbWUoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMudXNlcm5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VXNlcm5hbWUoU3RyaW5nIHVzZXJuYW1lKSB7CiAgICAgICAgdGhpcy51c2VybmFtZSA9IHVzZXJuYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0UGFzc3dvcmQoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMucGFzc3dvcmQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UGFzc3dvcmQoU3RyaW5nIHBhc3N3b3JkKSB7CiAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
