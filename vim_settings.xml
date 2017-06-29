@@ -439,7 +439,7 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498715741577">
+      <file name="/Dummy.txt" timestamp="1498718953095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -451,7 +451,9 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev777/theo/build.gradle" timestamp="1498717795066" />
+      <file name="$USER_HOME$/dev777/theo/build.gradle" timestamp="1498719022654">
+        <mark key="'" line="63" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/dto/LoginUserDetails.java" timestamp="1498545626103">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="12" />
@@ -503,7 +505,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1498715741568">
+      <file name="/fragment.java" timestamp="1498718953090">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -516,7 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="9" filename="$USER_HOME$/dev/theo/wm/server/src/main/java/com/money_design/wm/Application.java" />
       <jump line="52" column="24" filename="$USER_HOME$/dev/theo/wm/server/src/main/java/com/money_design/wm/Application.java" />
       <jump line="7" column="41" filename="$USER_HOME$/dev/theo/wm/server/src/main/java/com/money_design/wm/Application.java" />
       <jump line="370" column="42" filename="$USER_HOME$/dev99/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
@@ -616,6 +617,7 @@
       <jump line="17" column="0" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/UserDetailsServiceImpl.java" />
       <jump line="20" column="55" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/UserDetailsServiceImpl.java" />
       <jump line="2" column="27" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/UserDetailsServiceImpl.java" />
+      <jump line="63" column="39" filename="$USER_HOME$/dev777/theo/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -625,7 +627,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>entity</text>
+        <text>wm</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">VXNlclJlcG9zaXRvcnkg</text>
@@ -662,9 +664,9 @@
       </register>
     </registers>
     <search>
-      <last-search>entity</last-search>
+      <last-search>wm</last-search>
       <last-offset />
-      <last-pattern>entity</last-pattern>
+      <last-pattern>wm</last-pattern>
       <last-replace>date</last-replace>
       <last-substitute>year</last-substitute>
       <last-dir>1</last-dir>
@@ -672,7 +674,6 @@
     </search>
     <history>
       <history-search>
-        <entry>put</entry>
         <entry>labe</entry>
         <entry>se</entry>
         <entry>secu</entry>
@@ -692,6 +693,7 @@
         <entry encoding="base64">XDx1bmF1dGhvcml6ZWRIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxidWlsZFdlYlw+</entry>
         <entry>entity</entry>
+        <entry>wm</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/CUSTOMERS/PERFORMANCE/g</entry>
