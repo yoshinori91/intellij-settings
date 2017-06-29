@@ -299,6 +299,9 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="23" column="4" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/theo/core/src/main/java/com/money_design/theo/web/portfolio/PortfolioStatusComputer.java" timestamp="1498709721232">
+        <mark key="'" line="27" column="4" />
+      </file>
       <file name="$USER_HOME$/wk3/react-boilerplate/app/routes.js" timestamp="1498110714887">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="18" />
@@ -387,11 +390,18 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/theo/core/src/main/java/com/money_design/theo/web/portfolio/PortfolioStatus.java" timestamp="1498709703278" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtAuthenticationEntryPoint.java" timestamp="1498628999411">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" timestamp="1498709595206">
+        <mark key="'" line="52" column="62" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/entity/SalespeopleRepository.java" timestamp="1498546723477">
         <mark key="[" line="6" column="22" />
@@ -411,11 +421,6 @@
         <mark key="]" line="10" column="36" />
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
-      </file>
-      <file name="$USER_HOME$/dev/theo/wm/client/package.json" timestamp="1498646652487">
-        <mark key="'" line="296" column="28" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="24" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/CustomersController.java" timestamp="1498703438892">
         <mark key="]" line="8" column="17" />
@@ -497,9 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="72" filename="$USER_HOME$/dev/theo/theo/server/src/main/java/com/money_design/theo/web/auth/AuthConfiguration.java" />
-      <jump line="21" column="39" filename="$USER_HOME$/dev/theo/theo/server/src/main/java/com/money_design/theo/web/auth/AuthConfiguration.java" />
-      <jump line="102" column="61" filename="$USER_HOME$/dev/theo/theo/server/src/main/java/com/money_design/theo/web/auth/AuthConfiguration.java" />
       <jump line="16" column="0" filename="$USER_HOME$/wk3/react-boilerplate/server/index.js" />
       <jump line="14" column="7" filename="$USER_HOME$/wk3/react-boilerplate/server/index.js" />
       <jump line="15" column="4" filename="$USER_HOME$/wk3/react-boilerplate/server/index.js" />
@@ -597,55 +599,58 @@
       <jump line="283" column="20" filename="$USER_HOME$/dev88/theo/wm/client/package.json" />
       <jump line="233" column="23" filename="$USER_HOME$/dev88/theo/wm/client/package.json" />
       <jump line="51" column="0" filename="$USER_HOME$/dev88/theo/wm/server/src/main/resources/config/application.yml" />
+      <jump line="25" column="39" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" />
+      <jump line="51" column="62" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" />
+      <jump line="215" column="4" filename="$USER_HOME$/dev88/theo/theo/core/src/main/java/com/money_design/theo/web/portfolio/PortfolioStatusComputer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIlNwcmluZ0phdmFBdXRvd2lyaW5nSW5zcGVjdGlvbiIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>loca</text>
+        <text encoding="base64">XDx1bmF1dGhvcml6ZWRIYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbihzY2FuQmFzZVBhY2thZ2VzPSAiY29tLm1vbmV5LWRlc2lnbi53bSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9ARW5hYmxlSnBhUmVwb3NpdG9yaWVzKCJjb20ubW9uZXlfZGVzaWduLndtLmVudGl0eSIpCg==</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIlNwcmluZ0phdmFBdXRvd2lyaW5nSW5zcGVjdGlvbiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">Ly9ARW5hYmxlSnBhUmVwb3NpdG9yaWVzKCJjb20ubW9uZXlfZGVzaWduLndtLmVudGl0eSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIiR7cm91dGVzfSIpCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlIaWJlcm5hdGVKcGFBdXRvQ29uZmlndXJhdGlvbi5jbGFzcywK</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIiR7cm91dGVzfSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlIaWJlcm5hdGVKcGFBdXRvQ29uZmlndXJhdGlvbi5jbGFzcywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBVc2Vyc1JlcG9zaXRvcnkgZXh0ZW5kcyBKcGFSZXBvc2l0b3J5PFVzZXJzRW50aXR5LCBMb25nPiB7CiAgCg==</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">cHVibGljIGludGVyZmFjZSBVc2Vyc1JlcG9zaXRvcnkgZXh0ZW5kcyBKcGFSZXBvc2l0b3J5PFVzZXJzRW50aXR5LCBMb25nPiB7CiAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
       </register>
     </registers>
     <search>
-      <last-search>loca</last-search>
+      <last-search encoding="base64">XDx1bmF1dGhvcml6ZWRIYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>loca</last-pattern>
+      <last-pattern encoding="base64">XDx1bmF1dGhvcml6ZWRIYW5kbGVyXD4=</last-pattern>
       <last-replace>date</last-replace>
       <last-substitute>year</last-substitute>
       <last-dir>1</last-dir>
@@ -653,7 +658,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUcmFjZVNlcnZpY2VHcnBjXD4=</entry>
         <entry>google</entry>
         <entry>dev</entry>
         <entry>put</entry>
@@ -673,6 +677,7 @@
         <entry>scroll</entry>
         <entry>banner</entry>
         <entry>loca</entry>
+        <entry encoding="base64">XDx1bmF1dGhvcml6ZWRIYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/CUSTOMERS/PERFORMANCE/g</entry>
