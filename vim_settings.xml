@@ -329,6 +329,9 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/mydc/server/src/main/java/life/mydc/Application.java" timestamp="1498740282146">
+        <mark key="'" line="22" column="17" />
+      </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/resources/application.properties" timestamp="1498733841460">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="13" />
@@ -369,7 +372,7 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498739104053">
+      <file name="/Dummy.txt" timestamp="1498740290545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -498,7 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="30" filename="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/service/LoginService.java" />
       <jump line="17" column="12" filename="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/config/CorsConfig.kt" />
       <jump line="133" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.9.RELEASE/ac31864038a1c31d5a49c1bef84e5af4a162a655/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/web/cors/CorsConfiguration.java" />
       <jump line="19" column="4" filename="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/config/CorsConfig.java" />
@@ -598,6 +600,7 @@
       <jump line="28" column="9" filename="$USER_HOME$/dev123/theo/wm/server/build.gradle" />
       <jump line="8" column="29" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/HelloController.java" />
       <jump line="22" column="48" filename="$USER_HOME$/dev88/theo/build.gradle" />
+      <jump line="22" column="17" filename="$USER_HOME$/dev88/theo/mydc/server/src/main/java/life/mydc/Application.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -607,7 +610,7 @@
         <text>(exclude = DataSource.class)</text>
       </register>
       <register name="/" type="4">
-        <text>wm</text>
+        <text encoding="base64">XDxEYXRhU291cmNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBKUEEgKEpwYUJhc2VDb25maWd1cmF0aW9uLCBIaWJlcm5hdGVKcGFBdXRvQ29uZmlndXJhdGlvbikK</text>
@@ -644,9 +647,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wm</last-search>
+      <last-search encoding="base64">XDxEYXRhU291cmNlXD4=</last-search>
       <last-offset />
-      <last-pattern>wm</last-pattern>
+      <last-pattern encoding="base64">XDxEYXRhU291cmNlXD4=</last-pattern>
       <last-replace>date</last-replace>
       <last-substitute>year</last-substitute>
       <last-dir>1</last-dir>
@@ -654,7 +657,6 @@
     </search>
     <history>
       <history-search>
-        <entry>security</entry>
         <entry>device</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUF1ZGllbmNlXD4=</entry>
         <entry encoding="base64">XDx1c2VyRGV0YWlsc1NlcnZpY2VcPg==</entry>
@@ -674,6 +676,7 @@
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</entry>
         <entry>wm</entry>
+        <entry encoding="base64">XDxEYXRhU291cmNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/CUSTOMERS/PERFORMANCE/g</entry>
