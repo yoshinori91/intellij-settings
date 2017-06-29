@@ -316,6 +316,13 @@
         <mark key="^" line="28" column="24" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/dev123/theo/build.gradle" timestamp="1498723808096">
+        <mark key="'" line="62" column="28" />
+        <mark key="[" line="57" column="77" />
+        <mark key="]" line="57" column="81" />
+        <mark key="^" line="57" column="81" />
+        <mark key="." line="57" column="81" />
+      </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/repository/UsersRepository.java" timestamp="1498702655296">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="10" />
@@ -537,10 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="24" filename="$USER_HOME$/dev/theo/wm/server/src/main/java/com/money_design/wm/Application.java" />
-      <jump line="7" column="41" filename="$USER_HOME$/dev/theo/wm/server/src/main/java/com/money_design/wm/Application.java" />
-      <jump line="370" column="42" filename="$USER_HOME$/dev99/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
-      <jump line="378" column="41" filename="$USER_HOME$/dev99/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
       <jump line="385" column="36" filename="$USER_HOME$/dev99/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
       <jump line="392" column="41" filename="$USER_HOME$/dev99/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
       <jump line="15" column="47" filename="$USER_HOME$/dev99/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
@@ -637,6 +640,10 @@
       <jump line="20" column="55" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/UserDetailsServiceImpl.java" />
       <jump line="2" column="27" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/UserDetailsServiceImpl.java" />
       <jump line="63" column="39" filename="$USER_HOME$/dev777/theo/build.gradle" />
+      <jump line="16" column="51" filename="$USER_HOME$/dev123/theo/build.gradle" />
+      <jump line="65" column="28" filename="$USER_HOME$/dev123/theo/build.gradle" />
+      <jump line="64" column="34" filename="$USER_HOME$/dev123/theo/build.gradle" />
+      <jump line="62" column="28" filename="$USER_HOME$/dev123/theo/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -646,7 +653,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>application</text>
+        <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">VXNlclJlcG9zaXRvcnkg</text>
@@ -683,17 +690,16 @@
       </register>
     </registers>
     <search>
-      <last-search>application</last-search>
+      <last-search encoding="base64">XDxzZXJ2ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>application</last-pattern>
+      <last-pattern encoding="base64">XDxzZXJ2ZXJcPg==</last-pattern>
       <last-replace>date</last-replace>
       <last-substitute>year</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>se</entry>
         <entry>secu</entry>
         <entry>security</entry>
         <entry>device</entry>
@@ -711,8 +717,9 @@
         <entry encoding="base64">XDx1bmF1dGhvcml6ZWRIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxidWlsZFdlYlw+</entry>
         <entry>entity</entry>
-        <entry>wm</entry>
         <entry>application</entry>
+        <entry>wm</entry>
+        <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/CUSTOMERS/PERFORMANCE/g</entry>
