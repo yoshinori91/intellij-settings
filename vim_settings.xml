@@ -15,6 +15,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="55" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/UserRepository.java" timestamp="1498711703597">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+      </file>
       <file name="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/config/CorsConfig.java" timestamp="1498539224335">
         <mark key="[" line="23" column="88" />
         <mark key="]" line="23" column="88" />
@@ -149,6 +155,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/wm/api-server/src/main/java/com/money_design/wm/WmApplication.java" timestamp="1498710861146" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/Users.java" timestamp="1498636391356">
         <mark key="[" line="58" column="11" />
         <mark key="]" line="58" column="11" />
@@ -339,6 +346,11 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/UserDetailsServiceImpl.java" timestamp="1498711467432">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/wk3/react-boilerplate/app/containers/Step3Page/sagas.js" timestamp="1498442760908">
         <mark key="[" line="5" column="55" />
         <mark key="]" line="5" column="57" />
@@ -488,7 +500,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1498701057986">
+      <file name="/fragment.java" timestamp="1498711919936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -603,11 +615,11 @@
       <jump line="215" column="4" filename="$USER_HOME$/dev88/theo/theo/core/src/main/java/com/money_design/theo/web/portfolio/PortfolioStatusComputer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIlNwcmluZ0phdmFBdXRvd2lyaW5nSW5zcGVjdGlvbiIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>JpaRepository</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>JpaRepository</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bmF1dGhvcml6ZWRIYW5kbGVyXD4=</text>
@@ -616,31 +628,31 @@
         <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbihzY2FuQmFzZVBhY2thZ2VzPSAiY29tLm1vbmV5LWRlc2lnbi53bSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIlNwcmluZ0phdmFBdXRvd2lyaW5nSW5zcGVjdGlvbiIpCg==</text>
+        <text encoding="base64">QENvbXBvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9ARW5hYmxlSnBhUmVwb3NpdG9yaWVzKCJjb20ubW9uZXlfZGVzaWduLndtLmVudGl0eSIpCg==</text>
+        <text encoding="base64">QENvbmZpZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIlNwcmluZ0phdmFBdXRvd2lyaW5nSW5zcGVjdGlvbiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Ly9ARW5hYmxlSnBhUmVwb3NpdG9yaWVzKCJjb20ubW9uZXlfZGVzaWduLndtLmVudGl0eSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIiR7cm91dGVzfSIpCg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlIaWJlcm5hdGVKcGFBdXRvQ29uZmlndXJhdGlvbi5jbGFzcywK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIiR7cm91dGVzfSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">CQlIaWJlcm5hdGVKcGFBdXRvQ29uZmlndXJhdGlvbi5jbGFzcywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBVc2Vyc1JlcG9zaXRvcnkgZXh0ZW5kcyBKcGFSZXBvc2l0b3J5PFVzZXJzRW50aXR5LCBMb25nPiB7CiAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
