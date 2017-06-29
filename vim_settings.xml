@@ -456,10 +456,11 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/build.gradle" timestamp="1498716792715">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/build.gradle" timestamp="1498727398767">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498532863922">
         <mark key="[" line="14" column="16" />
@@ -479,7 +480,7 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498727038497">
+      <file name="/Dummy.txt" timestamp="1498727303786">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -545,10 +546,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1498727038488">
+      <file name="/fragment.java" timestamp="1498727311047">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/service/JwtUserDetailsServiceImpl.java" timestamp="1498616773944">
         <mark key="[" line="0" column="28" />
@@ -660,11 +662,11 @@
       <jump line="73" column="41" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/Application.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgamRiYzpteXNxbDovL2xvY2FsaG9zdDoxMzMwNy93bV9kYgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LSAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>testuser</text>
+        <text encoding="base64">LSAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2ZXJcPg==</text>
