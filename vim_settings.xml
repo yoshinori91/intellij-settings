@@ -474,6 +474,12 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/wk88/wm/server/build.gradle" timestamp="1498732540191">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="30" column="60" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1498730871676">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -657,10 +663,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CnRhc2sgaGVsbG8gewoJZG9MYXN0IHsKCQlwcmludGxuICdIZWxsbyB3b3JsZCEnCgl9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQk=</text>
+        <text>web</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</text>
@@ -669,31 +675,31 @@
         <text encoding="base64">VXNlclJlcG9zaXRvcnkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnRhc2sgaGVsbG8gewoJZG9MYXN0IHsKCQlwcmludGxuICdIZWxsbyB3b3JsZCEnCgl9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CnRhc2sgaGVsbG8gewoJZG9MYXN0IHsKCQlwcmludGxuICdIZWxsbyB3b3JsZCEnCgl9Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uKGV4Y2x1ZGU9e0RhdGFTb3VyY2VBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CS0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgamRiYzpteXNxbDovL2xvY2FsaG9zdDoxMzMwNy93bV9kYgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uKGV4Y2x1ZGU9e0RhdGFTb3VyY2VBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CS0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgamRiYzpteXNxbDovL2xvY2FsaG9zdDoxMzMwNy93bV9kYgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uKGV4Y2x1ZGU9e0RhdGFTb3VyY2VBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
