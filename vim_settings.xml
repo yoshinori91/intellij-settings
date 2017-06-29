@@ -115,10 +115,12 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="93" />
       </file>
-      <file name="$USER_HOME$/dev123/theo/wm/server/build.gradle" timestamp="1498726667414">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/dev123/theo/wm/server/build.gradle" timestamp="1498730952995">
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/theo/wm/server/src/main/java/com/money_design/wm/auth/AuthConfig.java" timestamp="1498028347158">
         <mark key="[" line="15" column="0" />
@@ -367,11 +369,11 @@
         <mark key="." line="31" column="65" />
         <mark key="^" line="31" column="65" />
       </file>
-      <file name="$USER_HOME$/dev123/theo/wm/server/src/main/java/com/money_design/wm/WmApplication.java" timestamp="1498726846058">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="62" />
-        <mark key="." line="7" column="62" />
-        <mark key="^" line="7" column="62" />
+      <file name="$USER_HOME$/dev123/theo/wm/server/src/main/java/com/money_design/wm/WmApplication.java" timestamp="1498731080042">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/wk3/react-boilerplate/app/components/Login/index.js" timestamp="1498129195714">
         <mark key="[" line="20" column="58" />
@@ -472,7 +474,7 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498729984855">
+      <file name="/Dummy.txt" timestamp="1498730871676">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -538,7 +540,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1498729984851">
+      <file name="/fragment.java" timestamp="1498730840399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -552,7 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="47" filename="$USER_HOME$/dev99/theo/theo/server/src/main/java/com/money_design/theo/core/service/ProfileService.java" />
       <jump line="173" column="11" filename="$USER_HOME$/dev99/theo/theo/server/src/main/java/com/money_design/theo/core/service/ProfileService.java" />
       <jump line="47" column="13" filename="$USER_HOME$/dev99/theo/theo/server/src/main/java/com/money_design/theo/core/entity/ProfileForecastReturnEntity.java" />
       <jump line="22" column="30" filename="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/service/LoginService.java" />
@@ -652,10 +653,11 @@
       <jump line="38" column="1" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/Application.java" />
       <jump line="73" column="41" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/Application.java" />
       <jump line="7" column="0" filename="$USER_HOME$/dev88/theo/mydc/server/build.gradle" />
+      <jump line="28" column="9" filename="$USER_HOME$/dev123/theo/wm/server/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnRhc2sgaGVsbG8gewoJZG9MYXN0IHsKCQlwcmludGxuICdIZWxsbyB3b3JsZCEnCgl9Cn0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQk=</text>
@@ -667,28 +669,28 @@
         <text encoding="base64">VXNlclJlcG9zaXRvcnkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnRhc2sgaGVsbG8gewoJZG9MYXN0IHsKCQlwcmludGxuICdIZWxsbyB3b3JsZCEnCgl9Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgamRiYzpteXNxbDovL2xvY2FsaG9zdDoxMzMwNy93bV9kYgo=</text>
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uKGV4Y2x1ZGU9e0RhdGFTb3VyY2VBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uKGV4Y2x1ZGU9e0RhdGFTb3VyY2VBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
+        <text encoding="base64">CS0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgamRiYzpteXNxbDovL2xvY2FsaG9zdDoxMzMwNy93bV9kYgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBLZWVwIHRoZSBjb25uZWN0aW9uIGFsaXZlIGlmIGlkbGUgZm9yIGEgbG9uZyB0aW1lIChuZWVkZWQgaW4gcHJvZHVjdGlvbikKc3ByaW5nLmRhdGFzb3VyY2UudGVzdFdoaWxlSWRsZSA9IHRydWUKc3ByaW5nLmRhdGFzb3VyY2UudmFsaWRhdGlvblF1ZXJ5ID0gU0VMRUNUIDEK</text>
+        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uKGV4Y2x1ZGU9e0RhdGFTb3VyY2VBdXRvQ29uZmlndXJhdGlvbi5jbGFzc30pCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
