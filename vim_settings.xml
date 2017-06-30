@@ -75,11 +75,11 @@
         <mark key="." line="7" column="83" />
         <mark key="^" line="7" column="83" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/UsersRepository.java" timestamp="1498744331879">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/UsersRepository.java" timestamp="1498794023532">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/dto/LoginUserDetails.java" timestamp="1498545838985">
         <mark key="[" line="9" column="0" />
@@ -93,13 +93,6 @@
         <mark key="^" line="37" column="103" />
         <mark key="." line="37" column="103" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/resources/config/application.yml" timestamp="1498721236618">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="48" column="20" />
-      </file>
       <file name="$USER_HOME$/dev88/theo/wm/client/app/components/Login/index.js" timestamp="1498642994138">
         <mark key="[" line="20" column="50" />
         <mark key="]" line="20" column="50" />
@@ -111,13 +104,6 @@
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="93" />
-      </file>
-      <file name="$USER_HOME$/dev123/theo/wm/server/build.gradle" timestamp="1498730952995">
-        <mark key="'" line="28" column="9" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/theo/wm/server/src/main/java/com/money_design/wm/auth/AuthConfig.java" timestamp="1498028347158">
         <mark key="[" line="15" column="0" />
@@ -132,10 +118,10 @@
         <mark key="." line="48" column="43" />
       </file>
       <file name="$USER_HOME$/dev88/theo/regularDeposit/server/src/main/java/com/money_design/theo/regular_deposit/server/settings/RegularDepositDataSourceProperties.java" timestamp="1498788906745" />
-      <file name="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" timestamp="1498790212707">
-        <mark key="'" line="20" column="22" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="63" />
+      <file name="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" timestamp="1498791764126">
+        <mark key="'" line="34" column="32" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/dev4/theo/wm/server/src/main/java/com/money_design/wm/service/LoginService.java" timestamp="1497859662281">
         <mark key="[" line="36" column="14" />
@@ -154,13 +140,6 @@
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/UserDetailsServiceImpl.java" timestamp="1498715381882">
-        <mark key="'" line="2" column="27" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="14" column="11" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/wk3/react-boilerplate/app/containers/Step3Page/sagas.js" timestamp="1498442760908">
         <mark key="[" line="5" column="55" />
@@ -231,10 +210,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/mydc/server/build.gradle" timestamp="1498734919735">
+      <file name="$USER_HOME$/dev88/theo/mydc/server/build.gradle" timestamp="1498793309011">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/DataSourceConfiguration.java" timestamp="1498789332634">
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/DataSourceConfiguration.java" timestamp="1498791263254">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="14" column="9" />
@@ -276,11 +255,10 @@
         <mark key="^" line="0" column="95" />
         <mark key="." line="0" column="95" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/resources/application.yml" timestamp="1498788976748">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="3" column="6" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/resources/application.yml" timestamp="1498792952183">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/rest/Person.java" timestamp="1498637118040">
         <mark key="[" line="2" column="0" />
@@ -302,13 +280,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="28" column="24" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev123/theo/build.gradle" timestamp="1498726693603">
-        <mark key="'" line="198" column="48" />
-        <mark key="[" line="63" column="50" />
-        <mark key="]" line="63" column="51" />
-        <mark key="^" line="63" column="51" />
-        <mark key="." line="63" column="51" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/repository/UsersRepository.java" timestamp="1498702655296">
         <mark key="[" line="5" column="0" />
@@ -337,11 +308,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/Users.java" timestamp="1498790045684">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-        <mark key="^" line="9" column="5" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/Users.java" timestamp="1498792986094">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="2" />
+        <mark key="^" line="14" column="2" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/User.java" timestamp="1498637000982">
         <mark key="[" line="63" column="11" />
@@ -349,6 +320,7 @@
         <mark key="^" line="63" column="23" />
         <mark key="." line="63" column="11" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/regularDeposit/server/src/main/java/com/money_design/theo/regular_deposit/server/settings/DataSourceConfiguration.java" timestamp="1498791944209" />
       <file name="$USER_HOME$/dev99/wm/build.gradle" timestamp="1498737130035">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="64" />
@@ -430,12 +402,12 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/build.gradle" timestamp="1498790221245">
-        <mark key="'" line="20" column="19" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="33" column="10" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/build.gradle" timestamp="1498793323140">
+        <mark key="'" line="36" column="58" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="33" />
+        <mark key="." line="37" column="33" />
+        <mark key="^" line="37" column="33" />
       </file>
       <file name="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498532863922">
         <mark key="[" line="14" column="16" />
@@ -500,11 +472,11 @@
         <mark key="." line="30" column="24" />
         <mark key="^" line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/WmApplication.java" timestamp="1498788613553">
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="18" column="70" />
-        <mark key="." line="18" column="70" />
-        <mark key="^" line="18" column="70" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/WmApplication.java" timestamp="1498793805572">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="1" />
       </file>
       <file name="$USER_HOME$/dev88/theo/regularDeposit/server/src/main/java/com/money_design/theo/regular_deposit/server/RegularDepositServerConfiguration.java" timestamp="1498788478311" />
       <file name="$USER_HOME$/wk3/react-boilerplate/app/containers/HomePage/index.js" timestamp="1498129435680">
@@ -513,6 +485,7 @@
         <mark key="^" line="17" column="41" />
         <mark key="." line="17" column="41" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/regularDeposit/server/src/main/resources/application.yml" timestamp="1498793250769" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/WmDatabaseConfiguration.java" timestamp="1498742075399">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -537,22 +510,15 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/HelloController.java" timestamp="1498744409723">
-        <mark key="'" line="10" column="29" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="17" column="54" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/HelloController.java" timestamp="1498793650326">
+        <mark key="'" line="11" column="29" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="54" />
+        <mark key="." line="18" column="54" />
+        <mark key="^" line="18" column="54" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="4" filename="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/config/CorsConfig.java" />
-      <jump line="17" column="4" filename="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/config/CorsConfig.java" />
-      <jump line="18" column="4" filename="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/config/CorsConfig.java" />
-      <jump line="20" column="39" filename="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/config/JwtFilter.java" />
-      <jump line="18" column="29" filename="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/config/JwtFilter.java" />
-      <jump line="35" column="24" filename="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/config/JwtFilter.kt" />
-      <jump line="41" column="4" filename="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/config/JwtFilter.java" />
       <jump line="10" column="84" filename="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/service/LoginUserDetailsService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/service/LoginUserDetailsService.java" />
       <jump line="62" column="32" filename="$USER_HOME$/dev88/theo/wm/server/build.gradle" />
@@ -642,59 +608,66 @@
       <jump line="22" column="48" filename="$USER_HOME$/dev88/theo/build.gradle" />
       <jump line="22" column="17" filename="$USER_HOME$/dev88/theo/mydc/server/src/main/java/life/mydc/Application.java" />
       <jump line="20" column="19" filename="$USER_HOME$/dev88/theo/wm/server/build.gradle" />
-      <jump line="44" column="42" filename="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" />
       <jump line="24" column="52" filename="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" />
       <jump line="19" column="22" filename="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" />
       <jump line="20" column="22" filename="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" />
+      <jump line="36" column="54" filename="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" />
+      <jump line="44" column="44" filename="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" />
+      <jump line="46" column="58" filename="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" />
+      <jump line="35" column="32" filename="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" />
+      <jump line="29" column="24" filename="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" />
+      <jump line="34" column="32" filename="$USER_HOME$/dev88/theo/regularDeposit/server/build.gradle" />
+      <jump line="32" column="27" filename="$USER_HOME$/dev88/theo/wm/server/build.gradle" />
+      <jump line="34" column="58" filename="$USER_HOME$/dev88/theo/wm/server/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8JY29tcGlsZSgnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItam9vcScpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LkNydWRSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>ｋble</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>mysql</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWpkYmMnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS56YXh4ZXI6SGlrYXJpQ1AnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JY29tcGlsZSgnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItam9vcScpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5yZXBvc2l0b3J5LkNydWRSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtanBhJykK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5qcGEucmVwb3NpdG9yeS5KcGFSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih3bURhdGFiYXNlUHJvcGVydGllcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih3bURhdGFiYXNlUHJvcGVydGllcy5nZXRVcmwoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLmpkYmMuSmRiY1RlbXBsYXRlQXV0b0NvbmZpZ3VyYXRpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGtkazkxIG9uIDE3LzA2LzMwLgogKi8K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgSmRiY1RlbXBsYXRlQXV0b0NvbmZpZ3VyYXRpb24uY2xhc3MgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGtkazkxIG9uIDE3LzA2LzMwLgogKi8K</text>
+        <text encoding="base64">Ly9ARW50aXR5U2NhbihiYXNlUGFja2FnZXMgPSB7ImNvbS5tb25leV9kZXNpZ24ud20uZW50aXR5In0gKQovL0BFbmFibGVKcGFSZXBvc2l0b3JpZXMoYmFzZVBhY2thZ2VzID0geyJjb20ubW9uZXlfZGVzaWduLndtLmVudGl0eSJ9KQovL0BFbmFibGVBdXRvQ29uZmlndXJhdGlvbigKLy8gICAgZXhjbHVkZSA9IHtEYXRhU291cmNlQXV0b0NvbmZpZ3VyYXRpb24uY2xhc3MsCi8vICAgICAgICBEYXRhU291cmNlVHJhbnNhY3Rpb25NYW5hZ2VyQXV0b0NvbmZpZ3VyYXRpb24uY2xhc3MsCi8vICAgICAgICBIaWJlcm5hdGVKcGFBdXRvQ29uZmlndXJhdGlvbi5jbGFzcywgRW50aXR5TWFuYWdlckZhY3RvcnkuY2xhc3N9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5qcGEucmVwb3NpdG9yeS5jb25maWcuRW5hYmxlSnBhUmVwb3NpdG9yaWVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>mysql</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>mysql</last-pattern>
       <last-replace>date</last-replace>
       <last-substitute>year</last-substitute>
       <last-dir>1</last-dir>
@@ -702,12 +675,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyRGV0YWlsc1NlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDx0b2tlbkhlYWRlclw+</entry>
-        <entry encoding="base64">XDxsYXN0UGFzc3dvcmRSZXNldERhdGVcPg==</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry encoding="base64">XDwiXD4=</entry>
-        <entry>moment</entry>
         <entry>history</entry>
         <entry>scroll</entry>
         <entry>banner</entry>
@@ -722,6 +689,12 @@
         <entry encoding="base64">XDxEYXRhU291cmNlXD4=</entry>
         <entry>jpa</entry>
         <entry>data</entry>
+        <entry>hikari</entry>
+        <entry>tomcat</entry>
+        <entry>commons</entry>
+        <entry>dbcp</entry>
+        <entry>jdbc</entry>
+        <entry>mysql</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/CUSTOMERS/PERFORMANCE/g</entry>
