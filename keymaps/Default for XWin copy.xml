@@ -52,6 +52,9 @@
   </action>
   <action id="GotoLine" />
   <action id="GotoSuperMethod" />
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
   <action id="HippieCompletion" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceVariable" />
@@ -62,6 +65,10 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt 7" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="Vcs.Push" />
   <action id="VimPluginToggle" />
   <action id="openAssertEqualsDiff" />
