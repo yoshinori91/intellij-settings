@@ -30,14 +30,13 @@
       <file name="/a.dummy" timestamp="1498817002050">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wk3/jwt-spring-security-demo/src/main/java/org/zerhusen/model/security/User.java" timestamp="1498805604780" />
       <file name="$USER_HOME$/dev123/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" timestamp="1498725987154">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="66" />
         <mark key="^" line="7" column="66" />
         <mark key="." line="7" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/controller/HelloController.kt" timestamp="1498615577020">
+      <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/controller/HelloController.kt" timestamp="1498818002912">
         <mark key="[" line="33" column="53" />
         <mark key="]" line="33" column="65" />
         <mark key="." line="33" column="65" />
@@ -91,8 +90,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/wk3/jwt-spring-security-demo/src/main/java/org/zerhusen/security/service/JwtUserDetailsServiceImpl.java" timestamp="1498806395260" />
-      <file name="$USER_HOME$/wk3/jwt-spring-security-demo/src/main/java/org/zerhusen/security/service/JwtAuthenticationResponse.java" timestamp="1498807040358" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/AuthorizationTokenUtil.java" timestamp="1498816457784">
         <mark key="'" line="150" column="22" />
         <mark key="[" line="150" column="28" />
@@ -192,7 +189,6 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="37" column="67" />
       </file>
-      <file name="$USER_HOME$/wk3/jwt-spring-security-demo/src/main/java/org/zerhusen/security/controller/AuthenticationRestController.java" timestamp="1498808123593" />
       <file name="$USER_HOME$/wk3/react-boilerplate/app/containers/Step3Page/sagas.js" timestamp="1498442760908">
         <mark key="[" line="5" column="55" />
         <mark key="]" line="5" column="57" />
@@ -211,8 +207,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.1.4.RELEASE/759112952c5e0e948601b869b420faf0e535c35d/spring-security-core-4.1.4.RELEASE-sources.jar!/org/springframework/security/authentication/ProviderManager.java" timestamp="1498809753648" />
-      <file name="$USER_HOME$/wk3/jwt-spring-security-demo/src/main/java/org/zerhusen/security/JwtUserFactory.java" timestamp="1498805953543" />
       <file name="$USER_HOME$/dev/theo/wm/client/app/containers/LoginPage/index.js" timestamp="1498096886278">
         <mark key="[" line="13" column="30" />
         <mark key="]" line="13" column="35" />
@@ -225,7 +219,6 @@
         <mark key="." line="11" column="59" />
         <mark key="^" line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/wk3/jwt-spring-security-demo/src/main/java/org/zerhusen/security/JwtUser.java" timestamp="1498805291171" />
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/service/WmUserDetailsService.kt" timestamp="1498190820814">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="17" column="30" />
@@ -244,12 +237,11 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/wk3/jwt-spring-security-demo/src/main/resources/application.yml" timestamp="1498806391481" />
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498561390672">
-        <mark key="[" line="14" column="2" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="9" />
-        <mark key="^" line="14" column="9" />
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498817732379">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/workspace1/src/main/kotlin/com/money_design/wm/WmApplication.kt" timestamp="1498024450652">
         <mark key="[" line="8" column="31" />
@@ -323,14 +315,13 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/AuthenticationRestController.java" timestamp="1498816480583">
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/AuthenticationRestController.java" timestamp="1498818356900">
         <mark key="'" line="38" column="29" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="44" column="7" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.1.4.RELEASE/759112952c5e0e948601b869b420faf0e535c35d/spring-security-core-4.1.4.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java" timestamp="1498810223589" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/rest/Person.java" timestamp="1498637118040">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -362,7 +353,6 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.1.4.RELEASE/759112952c5e0e948601b869b420faf0e535c35d/spring-security-core-4.1.4.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java" timestamp="1498810297668" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/model/security/User.java" timestamp="1498629669378">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -394,7 +384,6 @@
         <mark key="^" line="63" column="23" />
         <mark key="." line="63" column="11" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/regularDeposit/server/src/main/java/com/money_design/theo/regular_deposit/server/settings/DataSourceConfiguration.java" timestamp="1498791944209" />
       <file name="$USER_HOME$/dev99/wm/build.gradle" timestamp="1498737130035">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="64" />
@@ -473,7 +462,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/wk3/jwt-spring-security-demo/src/main/java/org/zerhusen/security/JwtTokenUtil.java" timestamp="1498811004951" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtAuthenticationEntryPoint.java" timestamp="1498628999411">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -601,16 +589,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/wk3/jwt-spring-security-demo/src/main/java/org/zerhusen/model/security/Authority.java" timestamp="1498805680282" />
-      <file name="$USER_HOME$/dev88/theo/regularDeposit/server/src/main/java/com/money_design/theo/regular_deposit/server/RegularDepositServerConfiguration.java" timestamp="1498788478311" />
       <file name="$USER_HOME$/wk3/react-boilerplate/app/containers/HomePage/index.js" timestamp="1498129435680">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="41" />
         <mark key="^" line="17" column="41" />
         <mark key="." line="17" column="41" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/regularDeposit/server/src/main/resources/application.yml" timestamp="1498793250769" />
-      <file name="$USER_HOME$/wk3/jwt-spring-security-demo/src/main/java/org/zerhusen/model/security/AuthorityName.java" timestamp="1498805788479" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/WmDatabaseConfiguration.java" timestamp="1498742075399">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -635,12 +619,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/HelloController.java" timestamp="1498807232666">
+      <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/HelloController.java" timestamp="1498818372458">
         <mark key="'" line="11" column="29" />
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="54" />
-        <mark key="." line="18" column="54" />
-        <mark key="^" line="18" column="54" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+        <mark key="^" line="31" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -747,43 +731,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYXV0aGVudGljYXRlZCB1c2VyICIgKyB1c2VybmFtZSArICIsIHNldHRpbmcgc2VjdXJpdHkgY29udGV4dCIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>auth</text>
+        <text>authentication</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBVc2VybmFtZVBhc3N3b3JkQXV0aGVudGljYXRpb25Ub2tlbigK</text>
+        <text encoding="base64">ICBATm90QmxhbmsKICBAU2l6ZShtaW4gPSAxLCBtYXggPSAyNTUpCiAgcHJpdmF0ZSBTdHJpbmcgdXNlcm5hbWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYXV0aGVudGljYXRlZCB1c2VyICIgKyB1c2VybmFtZSArICIsIHNldHRpbmcgc2VjdXJpdHkgY29udGV4dCIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gRm9yIHNpbXBsZSB2YWxpZGF0aW9uIGl0IGlzIGNvbXBsZXRlbHkgc3VmZmljaWVudCB0byBqdXN0IGNoZWNrIHRoZSB0b2tlbiBpbnRlZ3JpdHkuIFlvdSBkb24ndCBoYXZlIHRvIGNhbGwKICAgICAgLy8gdGhlIGRhdGFiYXNlIGNvbXBlbGxpbmdseS4gQWdhaW4gaXQncyB1cCB0byB5b3UgOykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gSXQgaXMgbm90IGNvbXBlbGxpbmcgbmVjZXNzYXJ5IHRvIGxvYWQgdGhlIHVzZSBkZXRhaWxzIGZyb20gdGhlIGRhdGFiYXNlLiBZb3UgY291bGQgYWxzbyBzdG9yZSB0aGUgaW5mb3JtYXRpb24KICAgICAgLy8gaW4gdGhlIHRva2VuIGFuZCByZWFkIGl0IGZyb20gaXQuIEl0J3MgdXAgdG8geW91IDspCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG5ldyBVc2VybmFtZVBhc3N3b3JkQXV0aGVudGljYXRpb25Ub2tlbihmb3JtLmdldFVzZXJuYW1lKCksIGZvcm0uZ2V0UGFzc3dvcmQoKSk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJjaGVja2luZyBhdXRoZW50aWNhdGlvbiBmw7xyIHVzZXIgIiArIHVzZXJuYW1lKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihmb3JtLmdldFVzZXJuYW1lKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJjaGVja2luZyBhdXRoZW50aWNhdGlvbiBmw7xyIHVzZXIgIiArIHVzZXJuYW1lKTsK</text>
+        <text encoding="base64">ICAgIAogIH0gewogICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXBvLmZpbmRCeUlkKDEpLmdldFVzZXJuYW1lKCkpOwogICAgcmV0dXJuICJIZWxsbyEhIEZ1aml0YS1zYW4iOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGF1dGhUb2tlbi5zdGFydHNXaXRoKCJCZWFyZXIgIikKICAgIC8vIFN0cmluZyBhdXRoVG9rZW4gPSBoZWFkZXIuc3Vic3RyaW5nKDcpOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGtkazkxIG9uIDE3LzA2LzMwLgogKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGRpc2FibGUgcGFnZSBjYWNoaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYXV0aGVudGljYXRlZCB1c2VyICIgKyB1c2VybmFtZSArICIsIHNldHRpbmcgc2VjdXJpdHkgY29udGV4dCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIEN1c3RvbSBKV1QgYmFzZWQgc2VjdXJpdHkgZmlsdGVyCg==</text>
+        <text encoding="base64">ICAgICAgLy8gRm9yIHNpbXBsZSB2YWxpZGF0aW9uIGl0IGlzIGNvbXBsZXRlbHkgc3VmZmljaWVudCB0byBqdXN0IGNoZWNrIHRoZSB0b2tlbiBpbnRlZ3JpdHkuIFlvdSBkb24ndCBoYXZlIHRvIGNhbGwKICAgICAgLy8gdGhlIGRhdGFiYXNlIGNvbXBlbGxpbmdseS4gQWdhaW4gaXQncyB1cCB0byB5b3UgOykK</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
