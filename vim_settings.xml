@@ -198,6 +198,7 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="37" column="67" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1499064562330" />
       <file name="$USER_HOME$/wk3/react-boilerplate/app/containers/Step3Page/sagas.js" timestamp="1498442760908">
         <mark key="[" line="5" column="55" />
         <mark key="]" line="5" column="57" />
@@ -371,6 +372,9 @@
         <mark key="^" line="28" column="24" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" timestamp="1499064352181">
+        <mark key="'" line="357" column="5" />
+      </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/repository/UsersRepository.java" timestamp="1498702655296">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="10" />
@@ -479,6 +483,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/theo/server/src/main/templates/portfolio/default.html" timestamp="1499064732079" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtAuthenticationEntryPoint.java" timestamp="1498628999411">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -543,7 +548,7 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499059673384">
+      <file name="/Dummy.txt" timestamp="1499065198651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -629,7 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="31" filename="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtAuthenticationTokenFilter.java" />
       <jump line="0" column="0" filename="/dummy.sql" />
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0955838b-1299-4bc8-8090-0d3a7a6e3688/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0955838b-1299-4bc8-8090-0d3a7a6e3688/console.sql" />
@@ -729,6 +733,7 @@
       <jump line="20" column="14" filename="$USER_HOME$/dev88/theo/wm/client/app/components/Login/index.js" />
       <jump line="34" column="39" filename="$USER_HOME$/dev88/theo/wm/client/app/containers/LoginPage/index.js" />
       <jump line="12" column="2" filename="$USER_HOME$/dev88/theo/wm/client/app/containers/LoginPage/index.js" />
+      <jump line="357" column="5" filename="$USER_HOME$/dev88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
