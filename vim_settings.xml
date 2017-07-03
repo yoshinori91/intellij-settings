@@ -325,6 +325,12 @@
         <mark key="[" line="300" column="0" />
         <mark key="]" line="300" column="38" />
       </file>
+      <file name="$USER_HOME$/dev88/theo/channel/server/src/main/web/container/ProfilingResult.jsx" timestamp="1499065992275">
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="21" />
+        <mark key="^" line="34" column="21" />
+        <mark key="." line="34" column="21" />
+      </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/AuthenticationController.java" timestamp="1499056431012">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -483,7 +489,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/theo/server/src/main/templates/portfolio/default.html" timestamp="1499064732079" />
+      <file name="$USER_HOME$/dev88/theo/theo/server/src/main/templates/portfolio/default.html" timestamp="1499066145505">
+        <mark key="[" line="228" column="11" />
+        <mark key="]" line="228" column="12" />
+        <mark key="." line="228" column="12" />
+        <mark key="^" line="228" column="12" />
+      </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtAuthenticationEntryPoint.java" timestamp="1498628999411">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -548,7 +559,7 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499065198651">
+      <file name="/Dummy.txt" timestamp="1499066136534">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -736,11 +747,11 @@
       <jump line="357" column="5" filename="$USER_HOME$/dev88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbnB1dFVzZXJJZCwgCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>inputUsername, signIn</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dFVzZXJJZFw+</text>
