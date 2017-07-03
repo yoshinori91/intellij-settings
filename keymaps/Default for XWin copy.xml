@@ -31,6 +31,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.ColumnsList" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.UpdatedFiles" />
   <action id="EditorDuplicate" />
@@ -47,6 +48,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileStructurePopup" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
@@ -60,15 +62,23 @@
   <action id="IntroduceVariable" />
   <action id="ReformatCode" />
   <action id="Replace" />
+  <action id="RestoreDefaultLayout" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f12" />
+  </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt 7" />
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="UML.ShowStructure" />
   <action id="Vcs.Push" />
   <action id="VimPluginToggle" />
   <action id="openAssertEqualsDiff" />
