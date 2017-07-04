@@ -160,12 +160,12 @@
         <mark key="^" line="48" column="43" />
         <mark key="." line="48" column="43" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1499153923913">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1499155403956">
         <mark key="'" line="13" column="42" />
-        <mark key="[" line="497" column="64" />
-        <mark key="]" line="497" column="74" />
-        <mark key="." line="497" column="74" />
-        <mark key="^" line="497" column="74" />
+        <mark key="[" line="501" column="0" />
+        <mark key="]" line="501" column="0" />
+        <mark key="." line="501" column="0" />
+        <mark key="^" line="501" column="14" />
       </file>
       <file name="$USER_HOME$/dev88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/service/ProfilingFeatureService.java" timestamp="1499072515277">
         <mark key="[" line="9" column="57" />
@@ -329,11 +329,11 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/service/Hoge.java" timestamp="1499153676150">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="22" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/service/Hoge.java" timestamp="1499155386547">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/dev88/theo/theo/server/src/test/java/com/money_design/theo/core/service/PortfolioServiceTest.java" timestamp="1499073414487">
         <mark key="'" line="16" column="16" />
@@ -409,11 +409,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/service/PortfolioFutureSimulationService.java" timestamp="1499153897628">
-        <mark key="[" line="167" column="4" />
-        <mark key="]" line="167" column="10" />
-        <mark key="^" line="167" column="10" />
-        <mark key="." line="167" column="10" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/service/PortfolioFutureSimulationService.java" timestamp="1499155016035">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="^" line="176" column="119" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/wk3/react-boilerplate/app/containers/LoginPage/sagas.js" timestamp="1498208571106">
         <mark key="[" line="23" column="0" />
@@ -803,44 +803,44 @@
       <jump line="13" column="42" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>milion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>milion</text>
+        <text>cov</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQb3J0Zm9saW9GdXR1cmVTaW11bGF0aW9uU2VydmljZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>portfolioFutureSimulationService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgQmlnRGVjaW1hbCBjb3Y7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3d3cK</text>
+        <text encoding="base64">ICAgIGhvZ2VzLmdldCgwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGtkazkxIG9uIDE3LzA3LzA0LgogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1bGJpYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihwb3J0Zm9saW9GdXR1cmVTaW11bGF0aW9uU2VydmljZS5nZXRHZXQoKS5nZXQoMCkuaWQyKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">UG9yZm9saW9GdQogIA==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBnZXRHZXQoKSB7CiAgICBtaWxpb24KICAgICAgICAuc2VsZWN0KAogICAgICAgICAgICBUX0ZVTkNUSU9OQUxfUE9SVEZPTElPX0VYUF9TVEFUUy5TVUJfUE9SVEZPTElPX0lELmFzKCJmdWdhIiksCiAgICAgICAgICAgIFRfRlVOQ1RJT05BTF9QT1JURk9MSU9fRVhQX0pPSU5UX1NUQVRTLlBPUlRGT0xJT19JRDIuYXMoImZ1Z2Fob2dlIikpCi8vICAgICAgICAgICAgVF9GVU5DVElPTkFMX1BPUlRGT0xJT19FWFBfU1RBVFMuRVhQX1JFVFVSTiwKLy8gICAgICAgICAgICBUX0ZVTkNUSU9OQUxfUE9SVEZPTElPX0VYUF9KT0lOVF9TVEFUUy5DT1ZBUklBTkNFKQogICAgICAgIC5mcm9tKFRfRlVOQ1RJT05BTF9QT1JURk9MSU9fRVhQX1NUQVRTKQogICAgICAgIC5pbm5lckpvaW4oVF9GVU5DVElPTkFMX1BPUlRGT0xJT19FWFBfSk9JTlRfU1RBVFMpCiAgICAgICAgLm9uKFRfRlVOQ1RJT05BTF9QT1JURk9MSU9fRVhQX1NUQVRTLlNVQl9QT1JURk9MSU9fSUQuZXEoVF9GVU5DVElPTkFMX1BPUlRGT0xJT19FWFBfSk9JTlRfU1RBVFMuUE9SVEZPTElPX0lEMikpCiAgICAgICAgLmZldGNoSW50byhIb2dlLmNsYXNzKTsKICB9</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB3d3cK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgQFZhbHVlCiAgc3RhdGljIGNsYXNzIEhvZ2V7CiAgICBwdWJsaWMgU3RyaW5nIHN1Yl9wb3J0Zm9saW9faWQ7CiAgICBwdWJsaWMgU3RyaW5nIHBvcnRmb2xpb19pZDI7CiAgICBwdWJsaWMgQmlnRGVjaW1hbCBleHBfcmV0dXJuOwogICAgcHVibGljIEJpZ0RlY2ltYWwgY292YXJpYW5jZTsKICB9Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGtkazkxIG9uIDE3LzA3LzA0LgogKi8K</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;//g</text>
