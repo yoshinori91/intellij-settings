@@ -161,12 +161,12 @@
         <mark key="." line="48" column="43" />
       </file>
       <file name="$USER_HOME$/area88/theo/theo/server/src/test/java/com/money_design/theo/web/account/PlusStatusAdviceTest.java" timestamp="1499160216662" />
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1499160121073">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1499161824423">
         <mark key="'" line="13" column="42" />
-        <mark key="[" line="507" column="0" />
-        <mark key="]" line="507" column="0" />
-        <mark key="." line="507" column="0" />
-        <mark key="^" line="507" column="8" />
+        <mark key="[" line="504" column="50" />
+        <mark key="]" line="505" column="3" />
+        <mark key="." line="505" column="3" />
+        <mark key="^" line="505" column="3" />
       </file>
       <file name="$USER_HOME$/dev88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/service/ProfilingFeatureService.java" timestamp="1499072515277">
         <mark key="[" line="9" column="57" />
@@ -688,11 +688,11 @@
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1499153644250">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="21" />
+      <file name="/fragment.java" timestamp="1499162323576">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="57" />
+        <mark key="." line="0" column="57" />
+        <mark key="^" line="0" column="57" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/service/JwtUserDetailsServiceImpl.java" timestamp="1498616773944">
         <mark key="[" line="0" column="28" />
@@ -804,11 +804,11 @@
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0b94bb4e-9ce3-48c8-818b-8aa78395de76/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>b1</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
