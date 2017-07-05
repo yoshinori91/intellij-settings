@@ -161,12 +161,13 @@
         <mark key="." line="48" column="43" />
       </file>
       <file name="$USER_HOME$/area88/theo/theo/server/src/test/java/com/money_design/theo/web/account/PlusStatusAdviceTest.java" timestamp="1499160216662" />
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1499163251367">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1499217364737">
+        <mark key="r" line="514" column="37" />
         <mark key="'" line="13" column="42" />
-        <mark key="[" line="516" column="0" />
-        <mark key="]" line="516" column="0" />
-        <mark key="." line="516" column="0" />
-        <mark key="^" line="516" column="16" />
+        <mark key="[" line="520" column="30" />
+        <mark key="]" line="520" column="39" />
+        <mark key="." line="520" column="39" />
+        <mark key="^" line="520" column="39" />
       </file>
       <file name="$USER_HOME$/dev88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/service/ProfilingFeatureService.java" timestamp="1499072515277">
         <mark key="[" line="9" column="57" />
@@ -237,6 +238,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/area88/fuga/src/Fuga.java" timestamp="1499217819595">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/client/app/containers/LoginPage/sagas.js" timestamp="1499056944545">
         <mark key="'" line="31" column="17" />
@@ -688,7 +695,7 @@
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1499163302900">
+      <file name="/fragment.java" timestamp="1499163799589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -805,43 +812,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGludCBmbigpCg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhIDogIiArIGEpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>v1 * v2</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgQmlnRGVjaW1hbCBjb3Y7Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJhIDogIiArIGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGludCBmbigpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZ1bmN0aW9uCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuc3VtKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKCh2MSx2MikgLT4gdjEubXVsdGlwbHkodjIpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAucmVkdWNlKChCaWdEZWNpbWFsIG51bTEsIEJpZ0RlY2ltYWwgbnVtMikgLT4gbnVtMS5tdWx0aXBseShudW0yKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgYSAqIGI7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdG1wVmFsdWUgPSAoYSAqIGIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdG1wVmxhdWUgPSAK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAKICAKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAubWFwKCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/&quot;//g</text>
