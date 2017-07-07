@@ -94,7 +94,9 @@
         <mark key="^" line="40" column="13" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/customer/default.html" timestamp="1499400806016" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/customer/default.html" timestamp="1499412124885">
+        <mark key="'" line="24" column="26" />
+      </file>
       <file name="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/dto/LoginUserDetails.java" timestamp="1498545838985">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="0" />
@@ -102,8 +104,8 @@
         <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/impl/SelectImpl.java" timestamp="1499150592294" />
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.database.html" timestamp="1499410901024">
-        <mark key="'" line="14" column="76" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.database.html" timestamp="1499411933274">
+        <mark key="'" line="20" column="140" />
         <mark key="[" line="25" column="47" />
         <mark key="]" line="25" column="47" />
         <mark key="." line="25" column="47" />
@@ -152,11 +154,11 @@
       <file name="$USER_HOME$/area88/theo/theo/server/src/test/java/com/money_design/theo/web/account/PlusStatusAdviceTest.java" timestamp="1499328017933">
         <mark key="'" line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1499408911481">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1499411474369">
         <mark key="'" line="627" column="41" />
         <mark key="j" line="497" column="14" />
-        <mark key="[" line="502" column="24" />
-        <mark key="]" line="502" column="24" />
+        <mark key="[" line="495" column="24" />
+        <mark key="]" line="495" column="45" />
         <mark key="." line="502" column="24" />
         <mark key="^" line="502" column="24" />
       </file>
@@ -342,6 +344,7 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="29" />
       </file>
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" timestamp="1499411319238" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/LoginService.java" timestamp="1498615873969">
         <mark key="[" line="22" column="83" />
         <mark key="]" line="22" column="95" />
@@ -544,16 +547,22 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/area88/theo/mydc/client/web/app/index.html" timestamp="1499411973380">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
       <file name="$USER_HOME$/dev88/theo/theo/server/src/main/templates/portfolio/default.html" timestamp="1499068090909">
         <mark key="[" line="249" column="46" />
         <mark key="]" line="249" column="47" />
         <mark key="." line="249" column="46" />
         <mark key="^" line="228" column="12" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DatabaseProvider.java" timestamp="1499410926232">
-        <mark key="'" line="136" column="57" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DatabaseProvider.java" timestamp="1499411877610">
+        <mark key="'" line="144" column="24" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="66" column="4" />
         <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtAuthenticationEntryPoint.java" timestamp="1498628999411">
@@ -562,7 +571,9 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.html" timestamp="1499408595258" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.html" timestamp="1499411191993">
+        <mark key="'" line="273" column="65" />
+      </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/UserDetailsImplFactory.java" timestamp="1498816837902">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="16" />
@@ -618,7 +629,7 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499400863509">
+      <file name="/Dummy.txt" timestamp="1499411975223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -709,15 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="67" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/service/PortfolioFutureSimulationService.java" />
-      <jump line="172" column="13" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/service/PortfolioFutureSimulationService.java" />
-      <jump line="174" column="30" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/service/PortfolioFutureSimulationService.java" />
-      <jump line="541" column="0" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" />
-      <jump line="54" column="30" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" />
-      <jump line="99" column="17" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" />
-      <jump line="69" column="18" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" />
-      <jump line="70" column="26" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" />
-      <jump line="73" column="64" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" />
       <jump line="74" column="32" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" />
       <jump line="79" column="25" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" />
       <jump line="119" column="11" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" />
@@ -809,19 +811,28 @@
       <jump line="10" column="16" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.database.html" />
       <jump line="11" column="16" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.database.html" />
       <jump line="14" column="76" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.database.html" />
+      <jump line="286" column="75" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.html" />
+      <jump line="89" column="64" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.html" />
+      <jump line="273" column="65" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.html" />
+      <jump line="2" column="7" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.database.html" />
+      <jump line="144" column="24" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DatabaseProvider.java" />
+      <jump line="25" column="79" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.database.html" />
+      <jump line="20" column="140" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.database.html" />
+      <jump line="83" column="29" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/customer/default.html" />
+      <jump line="24" column="26" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/customer/default.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0V2lkZ2V0cygpIHsKICAgICAgRGF0dW1Bc2NpaUVuY29kZXIgZW5jb2RlcjsKCiAgICAgIGVuY29kZXIgPSBuZXcgRGF0dW1Bc2NpaUVuY29kZXIoKTsKICAgICAgZm9yIChQcm9maWxlV2lkZ2V0IHdpZGdldCA6IHRoaXMud2lkZ2V0cykKICAgICAgICBlbmNvZGVyLmludGVnZXIxMih3aWRnZXQuZ2V0U3RvY2tCcmFuZElkKCkpLmJhc2lzMTgod2lkZ2V0LmdldFZhbHVlKCkpOwogICAgICByZXR1cm4gZW5jb2Rlci50b1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>can</text>
+        <text encoding="base64">XDxjb250ZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqLy0tPjwvdHI+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0V2lkZ2V0cygpIHsKICAgICAgRGF0dW1Bc2NpaUVuY29kZXIgZW5jb2RlcjsKCiAgICAgIGVuY29kZXIgPSBuZXcgRGF0dW1Bc2NpaUVuY29kZXIoKTsKICAgICAgZm9yIChQcm9maWxlV2lkZ2V0IHdpZGdldCA6IHRoaXMud2lkZ2V0cykKICAgICAgICBlbmNvZGVyLmludGVnZXIxMih3aWRnZXQuZ2V0U3RvY2tCcmFuZElkKCkpLmJhc2lzMTgod2lkZ2V0LmdldFZhbHVlKCkpOwogICAgICByZXR1cm4gZW5jb2Rlci50b1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIDwuCg==</text>
@@ -856,9 +867,9 @@
       </register>
     </registers>
     <search>
-      <last-search>can</last-search>
+      <last-search encoding="base64">XDxjb250ZW50XD4=</last-search>
       <last-offset />
-      <last-pattern>can</last-pattern>
+      <last-pattern encoding="base64">XDxjb250ZW50XD4=</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -866,12 +877,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNb2RlbFw+</entry>
-        <entry>ET</entry>
-        <entry>GET</entry>
-        <entry>database</entry>
-        <entry encoding="base64">XDxwcm9maWxlQ29tcG9zaXRpb25zXD4=</entry>
-        <entry encoding="base64">XDxwcm9maWxlc1w+</entry>
         <entry encoding="base64">XDxwcm9maWxlRm9yZWNhc3RSZXR1cm5zXD4=</entry>
         <entry>add</entry>
         <entry encoding="base64">XDxwcm9maWxlRnV0dXJlU2ltdWxhdGlvblJldHVybnNcPg==</entry>
@@ -886,6 +891,12 @@
         <entry encoding="base64">XDxhZGRTaW11bGF0aW9uUmV0dXJuXD4=</entry>
         <entry>data-field</entry>
         <entry>can</entry>
+        <entry>getData</entry>
+        <entry>composition</entry>
+        <entry encoding="base64">XDxjb21wb3NpdGlvblw+</entry>
+        <entry>th:attr</entry>
+        <entry>database</entry>
+        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1,$s/CUSTOMERS/PERFORMANCE/g</entry>
