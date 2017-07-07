@@ -104,12 +104,12 @@
         <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.9.1/a57cf8b39e509649b49d007702a0135c639b4c11/jooq-3.9.1-sources.jar!/org/jooq/impl/SelectImpl.java" timestamp="1499150592294" />
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.database.html" timestamp="1499411933274">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.database.html" timestamp="1499415045081">
         <mark key="'" line="20" column="140" />
-        <mark key="[" line="25" column="47" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="25" column="46" />
+        <mark key="[" line="26" column="74" />
+        <mark key="]" line="26" column="80" />
+        <mark key="." line="26" column="80" />
+        <mark key="^" line="26" column="80" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/UserRestController.java" timestamp="1498817206187">
         <mark key="[" line="24" column="39" />
@@ -154,7 +154,7 @@
       <file name="$USER_HOME$/area88/theo/theo/server/src/test/java/com/money_design/theo/web/account/PlusStatusAdviceTest.java" timestamp="1499328017933">
         <mark key="'" line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1499411474369">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1499414829743">
         <mark key="'" line="627" column="41" />
         <mark key="j" line="497" column="14" />
         <mark key="[" line="495" column="24" />
@@ -559,7 +559,7 @@
         <mark key="." line="249" column="46" />
         <mark key="^" line="228" column="12" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DatabaseProvider.java" timestamp="1499411877610">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DatabaseProvider.java" timestamp="1499414317775">
         <mark key="'" line="144" column="24" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="66" column="4" />
@@ -571,7 +571,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.html" timestamp="1499411191993">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.html" timestamp="1499414962805">
         <mark key="'" line="273" column="65" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/UserDetailsImplFactory.java" timestamp="1498816837902">
@@ -707,7 +707,7 @@
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1499408912384">
+      <file name="/fragment.java" timestamp="1499414769275">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -822,45 +822,45 @@
       <jump line="24" column="26" filename="$USER_HOME$/area88/theo/theo/server/src/main/templates/customer/default.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0V2lkZ2V0cygpIHsKICAgICAgRGF0dW1Bc2NpaUVuY29kZXIgZW5jb2RlcjsKCiAgICAgIGVuY29kZXIgPSBuZXcgRGF0dW1Bc2NpaUVuY29kZXIoKTsKICAgICAgZm9yIChQcm9maWxlV2lkZ2V0IHdpZGdldCA6IHRoaXMud2lkZ2V0cykKICAgICAgICBlbmNvZGVyLmludGVnZXIxMih3aWRnZXQuZ2V0U3RvY2tCcmFuZElkKCkpLmJhc2lzMTgod2lkZ2V0LmdldFZhbHVlKCkpOwogICAgICByZXR1cm4gZW5jb2Rlci50b1N0cmluZygpOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>widgets</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>widgets</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZW50XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0V2lkZ2V0cygpIHsKICAgICAgRGF0dW1Bc2NpaUVuY29kZXIgZW5jb2RlcjsKCiAgICAgIGVuY29kZXIgPSBuZXcgRGF0dW1Bc2NpaUVuY29kZXIoKTsKICAgICAgZm9yIChQcm9maWxlV2lkZ2V0IHdpZGdldCA6IHRoaXMud2lkZ2V0cykKICAgICAgICBlbmNvZGVyLmludGVnZXIxMih3aWRnZXQuZ2V0U3RvY2tCcmFuZElkKCkpLmJhc2lzMTgod2lkZ2V0LmdldFZhbHVlKCkpOwogICAgICByZXR1cm4gZW5jb2Rlci50b1N0cmluZygpOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>simulationReturns</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIDwuCg==</text>
+        <text encoding="base64">ICAgICAgICovLS0+PHRkIGRhdGEtZmllbGQ9ImZvcmVjYXN0UmV0dXJucyIgdGg6dGV4dD0iKntmb3JlY2FzdFJldHVybnN9Ij48L3RkPjwhLS0vKgogICAgICAgKi8tLT48dGQgZGF0YS1maWVsZD0ic2ltdWxhdGlvblJldHVybnMiIHRoOnRleHQ9Iip7c2ltdWxhdGlvblJldHVybnN9Ij48L3RkPjwhLS0vKgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICovLS0+PHRkIGRhdGEtZmllbGQ9InNpbXVsYXRpb25SZXR1cm5zIiB0aDp0ZXh0PSIqe3NpbXVsYXRpb25SZXR1cm5zfSI+PC90ZD48IS0tLyoK</text>
+        <text encoding="base64">ICAgICAgICAgIDx0cj4KICAgICAgICAgICAgCiAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaG9nZQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>DefaultControllerHelper.calculateValueOfFutureSimulationGraph(
-            portfolioFutureSimulationService);</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBob2dlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8RnV0dXJlU2ltdWxhdGlvblJlc3VsdFZhbHVlPiByZXN1bHRWYWx1ZXMgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ciB0aDplYWNoPSJob2dlOiAke2Z1dHVyZVNpbXVsYXRpb259IiB0aDphdHRyPSJkYXRhLXByb2ZpbGUtY29kZT0qe2NvbXBvc2l0aW9uLnByb2ZpbGVDb2RlfSwgZGF0YS1tZXRhZGF0YT0qe21ldGFkYXRhfSI+PCEtLS8qCiAgICAgICAqLy0tPjx0ZCBkYXRhLWZpZWxkPSJ3aWRnZXRzIiB0aDp0ZXh0PSIqe3dpZGdldHN9Ij48L3RkPjwhLS0vKgogICAgICovLS0+PC90cj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxQcm9maWxlPgo=</text>
+        <text encoding="base64">ICAgICAgIDwuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZVByb2ZpbGVGdXR1cmVTaW11bGF0aW9uUmV0dXJucygpOwo=</text>
+        <text encoding="base64">ICAgICAgICovLS0+PHRkIGRhdGEtZmllbGQ9InNpbXVsYXRpb25SZXR1cm5zIiB0aDp0ZXh0PSIqe3NpbXVsYXRpb25SZXR1cm5zfSI+PC90ZD48IS0tLyoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgcHVibGljIHZvaWQgdXBkYXRlUHJvZmlsZUZ1dHVyZVNpbXVsYXRpb25SZXR1cm5zKCkgewogICAgcHJvZmlsZVNpbXVsYXRpb25SZXR1cm5zID0KICAgICAgICBJbW11dGFibGVMaXN0LmNvcHlPZigKICAgICAgICAgICAgcXVlcmllcwogICAgICAgICAgICAgICAgLmNyZWF0ZVF1ZXJ5KAogICAgICAgICAgICAgICAgICAgIHRoaXMsICJnZXRBbGxQcm9maWxlU2ltdWxhdGlvblJldHVybnMiLCBQcm9maWxlU2ltdWxhdGlvblJldHVybkVudGl0eS5jbGFzcykKICAgICAgICAgICAgICAgIC5nZXRSZXN1bHRMaXN0KCkpOwogIH0K</text>
+      <register name="9" type="4">
+        <text>DefaultControllerHelper.calculateValueOfFutureSimulationGraph(
+            portfolioFutureSimulationService);</text>
       </register>
       <register name=":" type="4">
         <text>500</text>
