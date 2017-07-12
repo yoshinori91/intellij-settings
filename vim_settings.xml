@@ -81,12 +81,12 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.database.js" timestamp="1499846598770">
-        <mark key="'" line="149" column="4" />
-        <mark key="[" line="153" column="27" />
-        <mark key="]" line="153" column="26" />
-        <mark key="^" line="153" column="26" />
-        <mark key="." line="153" column="26" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.database.js" timestamp="1499848214777">
+        <mark key="'" line="11" column="3" />
+        <mark key="[" line="176" column="92" />
+        <mark key="]" line="177" column="38" />
+        <mark key="^" line="177" column="38" />
+        <mark key="." line="177" column="38" />
       </file>
       <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_futureSimulation.js" timestamp="1499765640435">
         <mark key="'" line="27" column="34" />
@@ -564,11 +564,11 @@
         <mark key="." line="249" column="46" />
         <mark key="^" line="228" column="12" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DatabaseProvider.java" timestamp="1499845877371">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DatabaseProvider.java" timestamp="1499847394693">
         <mark key="'" line="37" column="42" />
-        <mark key="[" line="98" column="53" />
-        <mark key="]" line="98" column="53" />
-        <mark key="." line="98" column="53" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="66" />
+        <mark key="." line="92" column="0" />
         <mark key="^" line="98" column="53" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtAuthenticationEntryPoint.java" timestamp="1498628999411">
@@ -731,7 +731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="13" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_futureSimulation.js" />
       <jump line="158" column="12" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_futureSimulation.js" />
       <jump line="320" column="19" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_futureSimulation.js" />
       <jump line="60" column="6" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.main.js" />
@@ -831,46 +830,47 @@
       <jump line="85" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.database.js" />
       <jump line="144" column="8" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.database.js" />
       <jump line="149" column="4" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.database.js" />
+      <jump line="11" column="3" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.database.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>simulationDecoder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="-" type="4">
-        <text>simulationDecoder</text>
+        <text>cumInvestment, av</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlc3RpbWF0ZWREZWNvZGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CW5zLkRhdGFzZXQucHJvdG90eXBlLnBhcnNlU2ltdWxhdGlvblJldHVybnMgPSBmdW5jdGlvbihzaW11bGF0aW9uU291cmNlKSB7CgkJdmFyIHNpbXVsYXRpb25EZWNvZGVyOwoJCXZhciBtb250aDsKCQl2YXIgZXhwZWN0ZWQ7CgogICAgc2ltdWxhdGlvbkRlY29kZXIgPSBuZXcgbWQuRGF0dW1Bc2NpaURlY29kZXIoc2ltdWxhdGlvblNvdXJjZSk7CgkJbW9udGggPSBuZXcgbWQuWWVhck1vbnRoKDIwMDcsIDYpOwoJCXdoaWxlICh0cnVlKSB7CgkJCWV4cGVjdGVkID0gc2ltdWxhdGlvbkRlY29kZXIuYmFzaXMxOCgpOwoJCQlpZiAoZXhwZWN0ZWQgPT09IG51bGwgfHwgZXhwZWN0ZWQgPT09IGZhbHNlKSBicmVhazsKCQkJdGhpcy5zaW11bGF0aW9uUmV0dXJucy5wdXNoKG5ldyBucy5TaW11bGF0aW9uUmV0dXJuKG1vbnRoID0gbW9udGguaW5jcmVtZW50KCksIGV4cGVjdGVkKSk7CgkJfQoJfTsK</text>
+      <register name="0" type="4">
+        <text>t</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2ltdWxhdGlvblJldHVybnMgPSBuZXcgQXJyYXkoKTsKICAgIHRoaXMucGFyc2VTaW11bGF0aW9uUmV0dXJucygkcm93LmZpbmQoJ3RkW2RhdGEtZmllbGQ9InNpbXVsYXRpb25SZXR1cm5zIl0nKS50ZXh0KCkpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICovLS0+PHRkIHRoOmlmPSIke2NhblNob3dFc3RpbWF0ZWRSZXR1cm59IiBkYXRhLWZpZWxkPSJlc3RpbWF0ZWRSZXR1cm5zIiB0aDp0ZXh0PSIqe2VzdGltYXRlZFJldHVybnN9Ij48L3RkPjwhLS0vKgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICovLS0+PHRkIGRhdGEtZmllbGQ9ImZvcmVjYXN0UmV0dXJucyIgdGg6dGV4dD0iKntmb3JlY2FzdFJldHVybnN9Ij48L3RkPjwhLS0vKgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICovLS0+PHRkIHRoOmlmPSIke2NhblNob3dFc3RpbWF0ZWRSZXR1cm59IiBkYXRhLWZpZWxkPSJlc3RpbWF0ZWRSZXR1cm5zIiB0aDp0ZXh0PSIqe2VzdGltYXRlZFJldHVybnN9Ij48L3RkPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRGdXR1cmVTaW11bGF0aW9uUmVzdWx0VmFsdWVzKERhdGFiYXNlIGRhdGFiYXNlLAogICAgICBMaXN0PEZ1dHVyZVNpbXVsYXRpb25SZXN1bHRWYWx1ZT4gZnV0dXJlU2ltdWxhdGlvblJlc3VsdFZhbHVlcykgewogICAgZGF0YWJhc2UuZGF0YXNldHMuZW50cnlTZXQoKQogICAgICAuZm9yRWFjaChkYXRhU2V0cyAtPiBkYXRhU2V0cy5nZXRWYWx1ZSgpLnNldEVzdGltYXRlZFJldHVybnMoZnV0dXJlU2ltdWxhdGlvblJlc3VsdFZhbHVlcykpOwogIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocGx1czFTaWdtYSkKICAgICAgY29uc29sZS5sb2cocGx1czFTaWdtYSk=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXhwZWN0ZWQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhciBleHBlY3RlZDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmJhc2lzMTgoZXN0aW1hdGVkUmV0dXJuLmdldEN1bUludmVzdG1lbnQoKSAvIDEwMDAwMDApCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2ltdWxhdGlvblJldHVybnMgPSBuZXcgQXJyYXkoKTsKICAgIHRoaXMucGFyc2VTaW11bGF0aW9uUmV0dXJucygkcm93LmZpbmQoJ3RkW2RhdGEtZmllbGQ9InNpbXVsYXRpb25SZXR1cm5zIl0nKS50ZXh0KCkpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICovLS0+PHRkIHRoOmlmPSIke2NhblNob3dFc3RpbWF0ZWRSZXR1cm59IiBkYXRhLWZpZWxkPSJlc3RpbWF0ZWRSZXR1cm5zIiB0aDp0ZXh0PSIqe2VzdGltYXRlZFJldHVybnN9Ij48L3RkPjwhLS0vKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJkYXRhYmFzZSIsIGRhdGFiYXNlKTsK</text>
+        <text encoding="base64">ICAgICAgICovLS0+PHRkIGRhdGEtZmllbGQ9ImZvcmVjYXN0UmV0dXJucyIgdGg6dGV4dD0iKntmb3JlY2FzdFJldHVybnN9Ij48L3RkPjwhLS0vKgo=</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
