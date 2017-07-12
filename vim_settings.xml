@@ -95,12 +95,12 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.database.js" timestamp="1499823346061">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.database.js" timestamp="1499824573020">
         <mark key="'" line="145" column="90" />
-        <mark key="[" line="66" column="31" />
-        <mark key="]" line="67" column="19" />
-        <mark key="." line="67" column="19" />
-        <mark key="^" line="67" column="19" />
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="69" column="30" />
+        <mark key="." line="69" column="30" />
+        <mark key="^" line="69" column="30" />
       </file>
       <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_futureSimulation.js" timestamp="1499765640435">
         <mark key="'" line="27" column="34" />
@@ -870,16 +870,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>(&quot;==============&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>(&quot;==============&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>List</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGFkZFNpbXVsYXRpb25SZXR1cm4oUHJvZmlsZVNpbXVsYXRpb25SZXR1cm4gc2ltdWxhdGlvblJldHVybikgewogICAgICB0aGlzLmdldERhdGFzZXQoc2ltdWxhdGlvblJldHVybi5nZXRQcm9maWxlQ29kZSgpKS5hZGRTaW11bGF0aW9uUmV0dXJuKHNpbXVsYXRpb25SZXR1cm4pOwogICAgfQo=</text>
+        <text encoding="base64">CSAgY29uc29sZS5sb2coIj09PT09PT09PT09PT09IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
