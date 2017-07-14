@@ -137,12 +137,12 @@
         <mark key="^" line="37" column="103" />
         <mark key="." line="37" column="103" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/test/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelperTest.java" timestamp="1500017221793">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/test/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelperTest.java" timestamp="1500019094941">
         <mark key="'" line="143" column="26" />
-        <mark key="[" line="163" column="46" />
-        <mark key="]" line="163" column="46" />
-        <mark key="^" line="163" column="46" />
-        <mark key="." line="163" column="46" />
+        <mark key="[" line="69" column="57" />
+        <mark key="]" line="69" column="61" />
+        <mark key="^" line="69" column="61" />
+        <mark key="." line="69" column="61" />
       </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/dto/LoginUserDetails.kt" timestamp="1498188673522">
         <mark key="[" line="7" column="27" />
@@ -380,7 +380,7 @@
         <mark key="^" line="17" column="89" />
         <mark key="." line="17" column="89" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" timestamp="1500017118424">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" timestamp="1500018941769">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -428,7 +428,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/service/PortfolioFutureSimulationService.java" timestamp="1500016760107">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/service/PortfolioFutureSimulationService.java" timestamp="1500018881563">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="180" column="59" />
         <mark key="]" line="180" column="59" />
@@ -718,6 +718,9 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="27" />
       </file>
+      <file name="/fragment.java" timestamp="1500018903886">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="333" column="48" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -823,10 +826,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>999</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>999</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3J0Zm9saW9TZXJ2aWNlXD4=</text>
