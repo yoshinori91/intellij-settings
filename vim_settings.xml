@@ -317,14 +317,14 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500367857390">
-        <mark key="'" line="9" column="13" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500370438051">
+        <mark key="'" line="98" column="11" />
         <mark key="j" line="31" column="8" />
-        <mark key="[" line="85" column="26" />
-        <mark key="]" line="85" column="26" />
+        <mark key="[" line="157" column="23" />
+        <mark key="]" line="157" column="27" />
         <mark key="m" line="31" column="8" />
-        <mark key="." line="85" column="26" />
-        <mark key="^" line="85" column="47" />
+        <mark key="." line="157" column="27" />
+        <mark key="^" line="157" column="27" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498822267230">
         <mark key="[" line="15" column="17" />
@@ -736,7 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_feature.js" />
       <jump line="459" column="38" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" />
       <jump line="87" column="18" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DatabaseProvider.java" />
       <jump line="91" column="49" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DatabaseProvider.java" />
@@ -836,13 +835,14 @@
       <jump line="25" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="30" column="25" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="9" column="13" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="98" column="11" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
@@ -851,34 +851,34 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGF0YVsxMjBdLmF2ZXJhZ2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHt9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGF0YSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3VycmVudERhdGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGUuZm9ybQo=</text>
+        <text encoding="base64">ICAgIHZhciBjdXJyZW50RGF0ZSA9IG5ldyBEYXRlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHt9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGUuZm9ybQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGF0YQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>450</text>
+        <text>136</text>
       </register>
     </registers>
     <search>
@@ -914,7 +914,6 @@
         <entry>update</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5qcHkvdXNk</entry>
         <entry>1,$s/SVG_SIZE/CHART/g</entry>
         <entry encoding="base64">JzwsJz5zL3llYXIvZGF0ZS9n</entry>
         <entry>9</entry>
@@ -934,6 +933,7 @@
         <entry>214</entry>
         <entry>223</entry>
         <entry>450</entry>
+        <entry>136</entry>
       </history-cmd>
       <history-expr />
       <history-input />
