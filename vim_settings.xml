@@ -320,14 +320,14 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500438762191">
-        <mark key="'" line="54" column="6" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500440221134">
+        <mark key="'" line="239" column="3" />
         <mark key="j" line="31" column="8" />
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="0" />
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="29" column="34" />
         <mark key="m" line="31" column="8" />
-        <mark key="." line="318" column="0" />
-        <mark key="^" line="322" column="15" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="34" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498822267230">
         <mark key="[" line="15" column="17" />
@@ -760,7 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="39" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="288" column="10" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="289" column="39" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="299" column="12" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -828,7 +827,6 @@
       <jump line="206" column="17" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="284" column="64" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="287" column="65" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="290" column="64" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="76" column="43" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="66" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="202" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -860,13 +858,15 @@
       <jump line="337" column="0" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="52" column="4" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="54" column="6" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="290" column="7" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="239" column="3" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLm9uKCJtb3VzZW92ZXIiLCBmdW5jdGlvbihkKSB7CiAgICAgICAgdGhpcy5kaXYudHJhbnNpdGlvbigpCiAgICAgICAgICAuZHVyYXRpb24oMjAwKQogICAgICAgICAgLnN0eWxlKCJvcGFjaXR5IiwgLjkpCiAgICAgIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>hidden</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGl2CQ==</text>
+        <text>hidden</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
