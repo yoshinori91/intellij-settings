@@ -320,14 +320,14 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500426963699">
-        <mark key="'" line="177" column="17" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500428359898">
+        <mark key="'" line="322" column="37" />
         <mark key="j" line="31" column="8" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
         <mark key="m" line="31" column="8" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="262" column="68" />
+        <mark key="." line="258" column="0" />
+        <mark key="^" line="261" column="57" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498822267230">
         <mark key="[" line="15" column="17" />
@@ -657,7 +657,7 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500376543501">
+      <file name="/Dummy.txt" timestamp="1500428361450">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -746,9 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="28" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="319" column="14" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="179" column="0" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="122" column="11" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.main.js" />
       <jump line="69" column="15" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="237" column="21" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -846,55 +843,58 @@
       <jump line="167" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="243" column="54" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="177" column="17" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="259" column="8" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="261" column="37" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="322" column="37" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzZXRUZXh0IikKICAgIHZhciBsYXN0ID0gdGhpcy5kYXRhLmxlbmd0aCAtIDE7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0aWFsXD4=</text>
+        <text encoding="base64">XDxsYXN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZnV0dXJlU2ltdWxhdGlvblJlc3VsdFZhbHVlcyA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJzZXRUZXh0IikKICAgIHZhciBsYXN0ID0gdGhpcy5kYXRhLmxlbmd0aCAtIDE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuYmFua0ludmVzdG1lbnQobmV3IEJpZ0RlY2ltYWwoZm9ybUdldFN0YXJ0SW52ZXN0bWVudCkuYWRkKCkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZG91YmxlIGJhbmtUbXAgPSBpbml0aWFsSW52ZXN0Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZG91YmxlIGJhbmtUbXAgPSBtb21lbnQxc3QgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAuYmFua0ludmVzdG1lbnQobmV3IEJpZ0RlY2ltYWwoZm9ybUdldFN0YXJ0SW52ZXN0bWVudCkuYWRkKCkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZG91YmxlIGJhbmtUbXAgPSBpbml0aWFsSW52ZXN0Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZG91YmxlIGJhbmtUbXAgPSBtb21lbnQxc3QgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRvdWJsZSBob2dlKGZpbmFsIGRvdWJsZSBmdWdhKSB7CiAgICByZXR1cm4gZnVnYSAqIElOVEVSRVNUX1JBVEU7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZG91YmxlIGJhbmtWYWx1ZSA9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGRvdWJsZSBob2dlKGZpbmFsIGRvdWJsZSBmdWdhKSB7CiAgICByZXR1cm4gZnVnYSAqIElOVEVSRVNUX1JBVEU7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZG91YmxlIAo=</text>
+        <text encoding="base64">ICAgICAgZG91YmxlIGJhbmtWYWx1ZSA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>318</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0aWFsXD4=</last-search>
+      <last-search encoding="base64">XDxsYXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0aWFsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsYXN0XD4=</last-pattern>
       <last-replace>ChartFuture</last-replace>
       <last-substitute>ChartFeature</last-substitute>
       <last-dir>1</last-dir>
@@ -902,7 +902,6 @@
     </search>
     <history>
       <history-search>
-        <entry>area</entry>
         <entry encoding="base64">XDxzZXRDaGFydFw+</entry>
         <entry encoding="base64">XDxleHBlY3RlZFw+</entry>
         <entry encoding="base64">XDx2YWxzXD4=</entry>
@@ -922,6 +921,7 @@
         <entry encoding="base64">XDxzZXRUZXh0XD4=</entry>
         <entry>tool</entry>
         <entry encoding="base64">XDxpbml0aWFsXD4=</entry>
+        <entry encoding="base64">XDxsYXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3llYXIvZGF0ZS9n</entry>
