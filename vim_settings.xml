@@ -320,14 +320,14 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500441608466">
-        <mark key="'" line="239" column="3" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500442809159">
+        <mark key="'" line="208" column="3" />
         <mark key="j" line="31" column="8" />
-        <mark key="[" line="29" column="28" />
-        <mark key="]" line="29" column="34" />
+        <mark key="[" line="334" column="13" />
+        <mark key="]" line="334" column="14" />
         <mark key="m" line="31" column="8" />
-        <mark key="." line="29" column="34" />
-        <mark key="^" line="29" column="34" />
+        <mark key="." line="334" column="14" />
+        <mark key="^" line="334" column="14" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498822267230">
         <mark key="[" line="15" column="17" />
@@ -389,12 +389,11 @@
         <mark key="^" line="17" column="89" />
         <mark key="." line="17" column="89" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" timestamp="1500381865060">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" timestamp="1500443583793">
         <mark key="'" line="13" column="49" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="106" column="65" />
+        <mark key="[" line="120" column="4" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/dev88/theo/channel/server/src/main/web/container/ProfilingResult.jsx" timestamp="1499065992275">
         <mark key="[" line="34" column="34" />
@@ -603,6 +602,11 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/portfolio/default.html" timestamp="1500443425951">
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
+      </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/UserDetailsImplFactory.java" timestamp="1498816837902">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="16" />
@@ -664,7 +668,7 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500441286739">
+      <file name="/Dummy.txt" timestamp="1500443485951">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -760,15 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="10" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="289" column="39" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="299" column="12" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="300" column="12" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="323" column="8" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="325" column="37" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="8" column="48" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="53" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="67" column="27" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="51" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="59" column="27" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="82" column="0" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -791,7 +786,6 @@
       <jump line="23" column="48" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="25" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="30" column="25" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="9" column="13" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="125" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_past.js" />
       <jump line="100" column="60" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="269" column="35" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -860,55 +854,65 @@
       <jump line="54" column="6" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="290" column="7" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="239" column="3" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="326" column="8" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="285" column="8" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="9" column="10" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="191" column="10" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="247" column="14" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="275" column="10" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="294" column="10" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="10" column="10" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="11" column="10" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="208" column="3" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hidden</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hidden</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>div</text>
+        <text>setText</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZnV0dXJlU2ltdWxhdGlvblJlc3VsdFZhbHVlcyA=</text>
+        <text>chart-feature_return-high</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLm9uKCJtb3VzZW92ZXIiLCBmdW5jdGlvbihkKSB7CiAgICAgICAgdGhpcy5kaXYudHJhbnNpdGlvbigpCiAgICAgICAgICAuZHVyYXRpb24oMjAwKQogICAgICAgICAgLnN0eWxlKCJvcGFjaXR5IiwgLjkpCiAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRpdi5odG1sKGZvcm1hdFRpbWUoZC5kYXRlKSArICI8YnIvPiIgICsgZC5jbG9zZSkKICAgICAgICAuc3R5bGUoImxlZnQiLCAoZDMuZXZlbnQucGFnZVgpICsgInB4IikKICAgICAgICAuc3R5bGUoInRvcCIsIChkMy5ldmVudC5wYWdlWSAtIDI4KSArICJweCIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGF0LmFuaW1hdGVDaGFydCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLm9uKCJtb3VzZW92ZXIiLCBmdW5jdGlvbihkKSB7CiAgICAgICAgdGhpcy5kaXYudHJhbnNpdGlvbigpCiAgICAgICAgICAuZHVyYXRpb24oMjAwKQogICAgICAgICAgLnN0eWxlKCJvcGFjaXR5IiwgLjkpCiAgICAgIH0pCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBkaXYgPSBkMy5zdmcuYQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRpdi5odG1sKGZvcm1hdFRpbWUoZC5kYXRlKSArICI8YnIvPiIgICsgZC5jbG9zZSkKICAgICAgICAuc3R5bGUoImxlZnQiLCAoZDMuZXZlbnQucGFnZVgpICsgInB4IikKICAgICAgICAuc3R5bGUoInRvcCIsIChkMy5ldmVudC5wYWdlWSAtIDI4KSArICJweCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICQoInN2ZyByZWN0IikudGlwc3koewogICAgICBncmF2aXR5OiAndycsCiAgICAgIGZhZGU6IHRydWUKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGF0LmFuaW1hdGVDaGFydCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>318</text>
       </register>
     </registers>
     <search>
-      <last-search>div</last-search>
+      <last-search>setText</last-search>
       <last-offset />
-      <last-pattern>div</last-pattern>
+      <last-pattern>setText</last-pattern>
       <last-replace>ChartFuture</last-replace>
       <last-substitute>ChartFeature</last-substitute>
       <last-dir>1</last-dir>
@@ -916,10 +920,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxzXD4=</entry>
-        <entry>setChart</entry>
-        <entry encoding="base64">XDxsaW5lX3BhdGhcPg==</entry>
-        <entry>5</entry>
         <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxhcmVhX3BhdGhcPg==</entry>
@@ -929,13 +929,17 @@
         <entry encoding="base64">XDxpbml0aWFsSW52ZXN0bWVudFw+</entry>
         <entry encoding="base64">XDx0bXBcPg==</entry>
         <entry encoding="base64">XDxmb3JtR2V0UmVzZXJ2ZUFtb3VudFw+</entry>
-        <entry>setText</entry>
         <entry encoding="base64">XDxzZXRUZXh0XD4=</entry>
         <entry>tool</entry>
         <entry encoding="base64">XDxpbml0aWFsXD4=</entry>
         <entry encoding="base64">XDxsYXN0XD4=</entry>
         <entry>var</entry>
         <entry>div</entry>
+        <entry encoding="base64">XDxpbml0aWFsUGxvdFw+</entry>
+        <entry encoding="base64">XDxyZXR1cm5IaWdoXD4=</entry>
+        <entry encoding="base64">XDxyZXR1cm5NaWRcPg==</entry>
+        <entry encoding="base64">XDxyZXR1cm5Mb3dcPg==</entry>
+        <entry>setText</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3llYXIvZGF0ZS9n</entry>
