@@ -326,14 +326,14 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500529202703">
-        <mark key="'" line="234" column="27" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500531926433">
+        <mark key="'" line="24" column="16" />
         <mark key="j" line="31" column="8" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="26" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
         <mark key="m" line="31" column="8" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="41" column="9" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="156" column="3" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498822267230">
         <mark key="[" line="15" column="17" />
@@ -777,13 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="26" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="225" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="231" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="241" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="238" column="27" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="239" column="17" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="54" column="17" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="154" column="23" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="160" column="26" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="212" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -810,7 +803,6 @@
       <jump line="187" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="296" column="24" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="14" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="15" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="16" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="243" column="62" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="246" column="60" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -862,7 +854,6 @@
       <jump line="267" column="8" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="271" column="39" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="273" column="10" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="274" column="39" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="306" column="17" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="7" column="48" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="158" column="17" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -877,55 +868,64 @@
       <jump line="235" column="17" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="41" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="234" column="27" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="142" column="27" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="143" column="17" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="38" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="15" column="19" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="19" column="27" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="17" column="34" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="274" column="18" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="24" column="16" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW5pdGlhbGl6ZSgpOwogICAgdGhpcy5nZXRFbGVtZW50U2l6ZSgpOwo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>200</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxfYWRqdXN0QXhpc1NpemVcPg==</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBjbGFzcz0iY2hhcnQtZmVhdHVyZV9waW4gY2hhcnQtcGluIGpzLWNoYXJ0LWZlYXR1cmUtcGluIiB0aDpzcmM9IkB7L18vaW1hZ2UvaWNvX2NoYXJ0UGluX2dyYXkucG5nfSIgd2lkdGg9IjE1LjUiIGFsdD0iIiAvPgo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW5pdGlhbGl6ZSgpOwogICAgdGhpcy5nZXRFbGVtZW50U2l6ZSgpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0RWxlbWVudFNpemUoKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0RWxlbWVudFNpemUoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW5pdGlhbGl6ZSgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW5pdGlhbGl6ZSgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgInZpc2libGl0eSI6ICJ2aXNpYmxlIiwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kcGluCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="-" type="4">
+        <text>data</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmYWxzZVw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2V0UGxvdCgpOwogICAgdGhpcy5zZXRQb3NpdGlvbigpOwogICAgdGhpcy5hbmltYXRlQ2hhcnQoKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIChkYXRhKSB0aGlzLmRhdGEgPSBkYXRhOwoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ1cGRhdGUiKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG5zLnV0aWwuRXZ0Lm9uKCJyZXNpemUiLCB0aGlzLnJlc2V0Q2hhcnQuYmluZCh0aGlzKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc3ZnID0gZDMuc2VsZWN0KHRoaXMuc2VsZWN0b3IpLmFwcGVuZCgic3ZnIik7CgogICAgdGhpcy5zdmcuYXR0cih7CiAgICAgICJ3aWR0aCI6IHRoaXMuV0lEVEhfV1JBUFBFUiwKICAgICAgImhlaWdodCI6IHRoaXMuSEVJR0hUX1dSQVBQRVIsCiAgICB9KTsKCiAgICB0aGlzLnN2Z0lubmVyID0gdGhpcy5zdmcuYXBwZW5kKCJnIikuYXR0cih7CiAgICAgICJjbGFzcyI6ICJjaGFydF9pbm5lciIsCiAgICAgICJ3aWR0aCI6IHRoaXMuV0lEVEgsCiAgICAgICJoZWlnaHQiOiB0aGlzLkhFSUdIVCwKICAgICAgInRyYW5zZm9ybSI6ICJ0cmFuc2xhdGUoIiArIHRoaXMuTUFSR0lOLmxlZnQgKyAiLCIgKyB0aGlzLk1BUkdJTi50b3AgKyAiKSIsCiAgICB9KTsKCiAgICBucy51dGlsLkV2dC5vbigicmVzaXplIiwgdGhpcy5yZXNldENoYXJ0LmJpbmQodGhpcykpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuZ2V0RWxlbWVudFNpemUoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBucy5DaGFydEZ1dHVyZS5wcm90b3R5cGUudXBkYXRlID0gZnVuY3Rpb24oZGF0YSkgewogICAgY29uc29sZS5sb2coInVwZGF0ZSIpCiAgICBpZiAoZGF0YSkgdGhpcy5kYXRhID0gZGF0YTsKCiAgICB0aGlzLmluaXRpYWxpemUoKTsKICAgIHRoaXMuc2V0VGV4dCgpOwogICAgdGhpcy5pbml0Q2hhcnRBbmltYXRpb24oKTsKICAgIHRoaXMuc2V0Q2hhcnQoKTsKICAgIHRoaXMuYWRqdXN0QXhpc1NpemUoKTsKICAgIHRoaXMuc2V0UGxvdCgpOwogICAgdGhpcy5zZXRQb3NpdGlvbigpOwogICAgdGhpcy5hbmltYXRlQ2hhcnQoKTsKICB9OwogIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMuYWRqdXN0QXhpc1NpemUoKTsKICAgIHRoaXMuYW5pbWF0ZUNoYXJ0KCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuaW5pdENoYXJ0QW5pbWF0aW9uKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>318</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYWRqdXN0QXhpc1NpemVcPg==</last-search>
+      <last-search encoding="base64">XDxmYWxzZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYWRqdXN0QXhpc1NpemVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmYWxzZVw+</last-pattern>
       <last-replace>ChartFuture</last-replace>
       <last-substitute>ChartFeature</last-substitute>
       <last-dir>1</last-dir>
@@ -933,10 +933,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hide</entry>
-        <entry encoding="base64">XDxyZXR1cm5NaWRcPg==</entry>
-        <entry>initial</entry>
-        <entry encoding="base64">XDxpbml0aWFsUGxvdFw+</entry>
         <entry encoding="base64">XDxzZXRTY3JvbGxFdmVudFw+</entry>
         <entry>init</entry>
         <entry>initanime</entry>
@@ -945,14 +941,18 @@
         <entry encoding="base64">XDxwaW5cPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsXD4=</entry>
         <entry>resize</entry>
-        <entry encoding="base64">XDxyZXNldENoYXJ0XD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
-        <entry>resetChart</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxfaW5pdENoYXJ0QW5pbWF0aW9uXD4=</entry>
         <entry>adjsut</entry>
         <entry>adjust</entry>
         <entry encoding="base64">XDxfYWRqdXN0QXhpc1NpemVcPg==</entry>
+        <entry>resetChart</entry>
+        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
+        <entry>reset</entry>
+        <entry encoding="base64">XDxyZXNldENoYXJ0XD4=</entry>
+        <entry>false</entry>
+        <entry encoding="base64">XDxmYWxzZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3llYXIvZGF0ZS9n</entry>
