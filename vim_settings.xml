@@ -329,14 +329,14 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500882234926">
-        <mark key="'" line="131" column="20" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1500886949895">
+        <mark key="'" line="35" column="9" />
         <mark key="j" line="140" column="14" />
-        <mark key="[" line="128" column="32" />
+        <mark key="[" line="182" column="26" />
         <mark key="m" line="32" column="8" />
-        <mark key="]" line="128" column="31" />
-        <mark key="." line="128" column="31" />
-        <mark key="^" line="128" column="31" />
+        <mark key="]" line="182" column="27" />
+        <mark key="." line="182" column="27" />
+        <mark key="^" line="182" column="27" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498822267230">
         <mark key="[" line="15" column="17" />
@@ -687,7 +687,7 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500876537414">
+      <file name="/Dummy.txt" timestamp="1500885858674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -789,8 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="0" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="139" column="67" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="215" column="7" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="229" column="7" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="233" column="7" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -889,55 +887,57 @@
       <jump line="6" column="19" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/model/FutureSimulationResultValue.java" />
       <jump line="0" column="0" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/model/FutureSimulationResultValue.java" />
       <jump line="131" column="20" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="95" column="3" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
+      <jump line="35" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
-        <text>initial</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGhlb19iYWxsb29uX3BhdGgKICAgICAgLmRhdHVtKHRoaXMuY2FycmF5KQogICAgICAuYXR0cigiZCIsIHRoaXMuZnVraWRhc2hpKQo=</text>
+        <text encoding="base64">ICAgIHZhciBjNCA9IFt0aGlzLldJRFRIIC0gMjAsIDEwMF07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBjOCA9IFt0aGlzLldJRFRIIC0gMTAsIC0xMF07Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudGhlb19iYWxsb29uX3BhdGgKICAgICAgLmRhdHVtKHRoaXMuY2FycmF5KQogICAgICAuYXR0cigiZCIsIHRoaXMuZnVraWRhc2hpKQoKICAgIHRoaXMuYmFua19iYWxsb29uX3BhdGgKICAgIC5kYXR1bSh0aGlzLmJhbmtCYWxsb29uKQogICAgLmF0dHIoImQiLCB0aGlzLmZ1a2lkYXNoaTIpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICB2YXIgYzEgPSBbdGhpcy5XSURUSCAtIDEwMCwgMQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoYXQuJGluaXRpYWxDb3N0LmZhZGVJbigpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuV0lEVEgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuJGluaXRpYWxDb3N0LmhpZGUoKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuV0lEVEgpCiAgICB2YXIgYzEgPSBbdGhpcy5XSURUSCAtIDEwMCwgMF07CiAgICB2YXIgYzIgPSBbdGhpcy5XSURUSCAtIDEwMCwgNDBdOwogICAgdmFyIGMzID0gW3RoaXMuV0lEVEggLSAxMCwgNDBdOwogICAgdmFyIGM0ID0gW3RoaXMuV0lEVEggLSAxMCwgMTAwXTsKICAgIHZhciBjNSA9IFt0aGlzLldJRFRIIC0gNSwgNDBdOwogICAgdmFyIGM2ID0gW3RoaXMuV0lEVEggLSAwLCA0MF07CiAgICB2YXIgYzcgPSBbdGhpcy5XSURUSCAtIDAsIDBdOwogICAgdmFyIGM4ID0gW3RoaXMuV0lEVEggLSAxMDAsIDBdOwoKICAgIHZhciBiMSA9IFswLCA0MF07CiAgICB2YXIgYjIgPSBbMCwgOTBdOwogICAgdmFyIGIzID0gWzcwLDkwXTsKICAgIHZhciBiNCA9IFs4MCwgMTMwXTsKICAgIHZhciBiNSA9IFs4MC41LCA5MF07CiAgICB2YXIgYjYgPSBbMTAwLCA5MF07CiAgICB2YXIgYjcgPSBbMTAwLCA0MF07CiAgICB2YXIgYjggPSBbMCwgNDBdOwoKICAgIHRoaXMuY2FycmF5ID0gW2MxLCBjMiwgYzMsIGM0LCBjNSwgYzYsIGM3LCBjOF07CiAgICB0aGlzLmJhbmtCYWxsb29uID0gW2IxLCBiMiwgYjMsIGI0LCBiNSwgYjYsIGI3LCBiOF07CgogICAgdGhpcy5mdWtpZGFzaGkgPSBkMy5zdmcubGluZSgpCiAgICAgIC5pbnRlcnBvbGF0ZSgnbGluZWFyJykKICAgICAgLngoZnVuY3Rpb24oZCkge3JldHVybiBkWzBdO30pCiAgICAgIC55KGZ1bmN0aW9uKGQpIHtyZXR1cm4gZFsxXTt9KTsKCiAgICB0aGlzLmZ1a2lkYXNoaTIgPSBkMy5zdmcubGluZSgpCiAgICAuaW50ZXJwb2xhdGUoJ2xpbmVhcicpCiAgICAueChmdW5jdGlvbihkKSB7cmV0dXJuIGRbMF07fSkKICAgIC55KGZ1bmN0aW9uKGQpIHtyZXR1cm4gZFsxXTt9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuJGluaXRpYWxDb3N0ICAgID0gJCgiLmpzLWNoYXJ0LWZ1dHVyZS1pbml0aWFsLWNvc3QiKTsK</text>
+        <text encoding="base64">ICAgIHZhciBjNCA9IFt0aGlzLldJRFRILCAyMF07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2hhcnQtZmVhdHVyZV9kZXBvc2l0IGpzLWNoYXJ0LWZ1dHVyZS1kZXBvc2l0Ij48L2Rpdj4K</text>
+        <text encoding="base64">ICAgIHZhciBjOCA9IFt0aGlzLldJRFRIIC0gMTAsIC0xMF07Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2hhcnQtZmVhdHVyZV9pbml0aWFsX2Nvc3QganMtY2hhcnQtZnV0dXJlLWluaXRpYWwtY29zdCI+PC9kaXY+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICB2YXIgYzEgPSBbdGhpcy5XSURUSCAtIDEwMCwgMQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2hhcnQtZmVhdHVyZV9pbml0aWFsIGpzLWNoYXJ0LWZlYXR1cmUtaW5pdGlhbCI+PGJyIC8+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoYXQuJGluaXRpYWxDb3N0LmZhZGVJbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuJGluaXRpYWxDb3N0LmhpZGUoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>220</text>
+        <text>216</text>
       </register>
     </registers>
     <search>
-      <last-search>initial</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>initial</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>ChartFuture</last-replace>
       <last-substitute>ChartFeature</last-substitute>
       <last-dir>1</last-dir>
@@ -947,7 +947,6 @@
       <history-search>
         <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
         <entry encoding="base64">XDx0aGF0XD4=</entry>
-        <entry>update</entry>
         <entry encoding="base64">XDxhcmVhXD4=</entry>
         <entry encoding="base64">XDxsaW5lX3BhdGgyXD4=</entry>
         <entry encoding="base64">XDxiYW5rX3BhdGhcPg==</entry>
@@ -965,9 +964,9 @@
         <entry encoding="base64">XDx0aGVvX2JhbGxvb25fcGF0aFw+</entry>
         <entry>initialCost</entry>
         <entry>initial</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
-        <entry>500</entry>
         <entry>255</entry>
         <entry>215</entry>
         <entry>1,$s/ChartFeature/ChartFuture/g</entry>
@@ -987,6 +986,7 @@
         <entry>50</entry>
         <entry>200</entry>
         <entry>220</entry>
+        <entry>216</entry>
       </history-cmd>
       <history-expr />
       <history-input />
