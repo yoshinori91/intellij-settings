@@ -912,7 +912,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZGF0YSkK</text>
       </register>
       <register name=":" type="4">
-        <text>206</text>
+        <text>200</text>
       </register>
     </registers>
     <search>
@@ -964,10 +964,10 @@
         <entry>136</entry>
         <entry>318</entry>
         <entry>50</entry>
-        <entry>200</entry>
         <entry>220</entry>
         <entry>216</entry>
         <entry>206</entry>
+        <entry>200</entry>
       </history-cmd>
       <history-expr />
       <history-input />
