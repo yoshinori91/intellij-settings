@@ -188,10 +188,10 @@
         <mark key="^" line="48" column="43" />
         <mark key="." line="48" column="43" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1501241389148">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultController.java" timestamp="1501653042088">
         <mark key="'" line="462" column="3" />
-        <mark key="[" line="456" column="0" />
-        <mark key="]" line="456" column="0" />
+        <mark key="[" line="436" column="24" />
+        <mark key="]" line="436" column="24" />
         <mark key="^" line="464" column="0" />
         <mark key="." line="456" column="0" />
       </file>
@@ -275,7 +275,7 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.main.js" timestamp="1501241578976">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.main.js" timestamp="1501652695297">
         <mark key="'" line="103" column="11" />
         <mark key="[" line="103" column="28" />
         <mark key="]" line="105" column="19" />
@@ -398,7 +398,6 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="29" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" timestamp="1501241204669" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/LoginService.java" timestamp="1498615873969">
         <mark key="[" line="22" column="83" />
         <mark key="]" line="22" column="95" />
@@ -680,7 +679,7 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501240453306">
+      <file name="/Dummy.txt" timestamp="1501653062364">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -692,10 +691,10 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/profiling/database.html" timestamp="1501239366851">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/profiling/database.html" timestamp="1501653131934">
+        <mark key="[" line="7" column="164" />
+        <mark key="]" line="7" column="164" />
+        <mark key="." line="7" column="164" />
       </file>
       <file name="$USER_HOME$/wk3/react-boilerplate/app/components/Step3/index.js" timestamp="1498130047202">
         <mark key="[" line="10" column="0" />
@@ -709,11 +708,11 @@
         <mark key="^" line="17" column="59" />
         <mark key="." line="17" column="59" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/profiling/portfolio.html" timestamp="1501234977452">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/profiling/portfolio.html" timestamp="1501652724138">
         <mark key="'" line="12" column="5" />
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/tooltip.css" timestamp="1500430622295">
         <mark key="'" line="21" column="160" />
@@ -889,44 +888,44 @@
       <jump line="103" column="11" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGEuZXN0aW1hdGVkLmZvckVhY2goZnVuY3Rpb24oZCkgewogICAgICBkLmRhdGUgPSBkLmF0LnRvRGF0ZSgpOwogICAgfSk7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>simulationReturns</text>
+        <text>, data-metadata=*{metadata}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtYXREYXRhXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cGRhdGUgY2FsbGVkJykKICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+      <register name="0" type="4">
+        <text>s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEuZXN0aW1hdGVkLmZvckVhY2goZnVuY3Rpb24oZCkgewogICAgICBkLmRhdGUgPSBkLmF0LnRvRGF0ZSgpOwogICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLVRPRE865qC55bK444GV44KT5ouF5b2T5YiGMiBUSEVPLTg2M+OBp+Wun+ijhS0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLVRPRE865qC55bK444GV44KT5ouF5b2T5YiGMiDjgZPjgZPjgb7jgactLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGEuZm9yZWNhc3RSZXR1cm5zLmZvckVhY2goZnVuY3Rpb24oZCkgewogICAgICBkLmRhdGUgPSBkLmF0LnRvRGF0ZSgpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGRhdGEuZXN0aW1hdGVkLmZvckVhY2goZnVuY3Rpb24oZCkgewogICAgICBkLmRhdGUgPSBkLmF0LnRvRGF0ZSgpOwogICAgfSk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldEZvcmVjYXN0UmV0dXJucygpIHsKICAgICAgRGF0dW1Bc2NpaUVuY29kZXIgZW5jb2RlcjsKCiAgICAgIGVuY29kZXIgPSBuZXcgRGF0dW1Bc2NpaUVuY29kZXIoKTsKICAgICAgZm9yIChQcm9maWxlRm9yZWNhc3RSZXR1cm4gZm9yZWNhc3RSZXR1cm4gOiB0aGlzLmZvcmVjYXN0UmV0dXJucykKICAgICAgICBlbmNvZGVyCiAgICAgICAgICAgICAgICAuYmFzaXMxOChmb3JlY2FzdFJldHVybi5nZXRNYXhpbXVtKCkpCiAgICAgICAgICAgICAgICAuYmFzaXMxOChmb3JlY2FzdFJldHVybi5nZXRFeHBlY3RlZCgpKQogICAgICAgICAgICAgICAgLmJhc2lzMTgoZm9yZWNhc3RSZXR1cm4uZ2V0TWluaW11bSgpKTsKICAgICAgcmV0dXJuIGVuY29kZXIudG9TdHJpbmcoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGRhdGEuZm9yZWNhc3RSZXR1cm5zLmZvckVhY2goZnVuY3Rpb24oZCkgewogICAgICBkLmRhdGUgPSBkLmF0LnRvRGF0ZSgpOwogICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0V2lkZ2V0cygpIHsKICAgICAgRGF0dW1Bc2NpaUVuY29kZXIgZW5jb2RlcjsKCiAgICAgIGVuY29kZXIgPSBuZXcgRGF0dW1Bc2NpaUVuY29kZXIoKTsKICAgICAgZm9yIChQcm9maWxlV2lkZ2V0IHdpZGdldCA6IHRoaXMud2lkZ2V0cykKICAgICAgICBlbmNvZGVyLmludGVnZXIxMih3aWRnZXQuZ2V0U3RvY2tCcmFuZElkKCkpLmJhc2lzMTgod2lkZ2V0LmdldFZhbHVlKCkpOwogICAgICByZXR1cm4gZW5jb2Rlci50b1N0cmluZygpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuY29tcG9zaXRpb247Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldEZvcmVjYXN0UmV0dXJucygpIHsKICAgICAgRGF0dW1Bc2NpaUVuY29kZXIgZW5jb2RlcjsKCiAgICAgIGVuY29kZXIgPSBuZXcgRGF0dW1Bc2NpaUVuY29kZXIoKTsKICAgICAgZm9yIChQcm9maWxlRm9yZWNhc3RSZXR1cm4gZm9yZWNhc3RSZXR1cm4gOiB0aGlzLmZvcmVjYXN0UmV0dXJucykKICAgICAgICBlbmNvZGVyCiAgICAgICAgICAgICAgICAuYmFzaXMxOChmb3JlY2FzdFJldHVybi5nZXRNYXhpbXVtKCkpCiAgICAgICAgICAgICAgICAuYmFzaXMxOChmb3JlY2FzdFJldHVybi5nZXRFeHBlY3RlZCgpKQogICAgICAgICAgICAgICAgLmJhc2lzMTgoZm9yZWNhc3RSZXR1cm4uZ2V0TWluaW11bSgpKTsKICAgICAgcmV0dXJuIGVuY29kZXIudG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQcm9maWxlQ29tcG9zaXRpb24gZ2V0Q29tcG9zaXRpb24oKSB7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0V2lkZ2V0cygpIHsKICAgICAgRGF0dW1Bc2NpaUVuY29kZXIgZW5jb2RlcjsKCiAgICAgIGVuY29kZXIgPSBuZXcgRGF0dW1Bc2NpaUVuY29kZXIoKTsKICAgICAgZm9yIChQcm9maWxlV2lkZ2V0IHdpZGdldCA6IHRoaXMud2lkZ2V0cykKICAgICAgICBlbmNvZGVyLmludGVnZXIxMih3aWRnZXQuZ2V0U3RvY2tCcmFuZElkKCkpLmJhc2lzMTgod2lkZ2V0LmdldFZhbHVlKCkpOwogICAgICByZXR1cm4gZW5jb2Rlci50b1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuY29tcG9zaXRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>66</text>
