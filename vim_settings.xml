@@ -140,12 +140,12 @@
         <mark key="^" line="37" column="103" />
         <mark key="." line="37" column="103" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/test/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelperTest.java" timestamp="1501723315167">
+      <file name="$USER_HOME$/area88/theo/theo/server/src/test/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelperTest.java" timestamp="1501740961105">
         <mark key="'" line="168" column="26" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="71" />
-        <mark key="^" line="82" column="68" />
-        <mark key="." line="103" column="0" />
+        <mark key="[" line="103" column="62" />
+        <mark key="]" line="103" column="68" />
+        <mark key="^" line="103" column="68" />
+        <mark key="." line="103" column="68" />
       </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/dto/LoginUserDetails.kt" timestamp="1498188673522">
         <mark key="[" line="7" column="27" />
@@ -387,7 +387,6 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="29" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" timestamp="1501733437080" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/LoginService.java" timestamp="1498615873969">
         <mark key="[" line="22" column="83" />
         <mark key="]" line="22" column="95" />
@@ -604,7 +603,6 @@
       <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DatabaseProvider.java" timestamp="1501239138308">
         <mark key="'" line="59" column="18" />
       </file>
-      <file name="$USER_HOME$/dev88/theo/theo/server/src/main/templates/setting.html" timestamp="1501662800554" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtAuthenticationEntryPoint.java" timestamp="1498628999411">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -666,7 +664,6 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/dev2/theo/theo/server/src/test/java/com/money_design/theo/web/email/EmailerTest.java" timestamp="1501740147450" />
       <file name="$USER_HOME$/wk88/wm/server/build.gradle" timestamp="1498732540191">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -697,7 +694,6 @@
         <mark key="^" line="17" column="59" />
         <mark key="." line="17" column="59" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/templates/profiling/portfolio.html" timestamp="1501654341251" />
       <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/tooltip.css" timestamp="1500430622295">
         <mark key="'" line="21" column="160" />
         <mark key="[" line="0" column="0" />
@@ -874,11 +870,11 @@
       <jump line="97" column="28" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocm91bmQocmVzdWx0cy5nZXQoMTIwKS5iYW5rRGVwb3NpdCkpLmlzRXF1YWxUbygyNTAxMjkwKTsK</text>
+      <register name="&quot;" type="4">
+        <text>2501290</text>
       </register>
       <register name="-" type="4">
-        <text>1869477</text>
+        <text>2501290</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0aWFsSW52ZXN0bWVudFw+</text>
