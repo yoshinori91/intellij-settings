@@ -88,10 +88,7 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.database.js" timestamp="1501224700277">
-        <mark key="'" line="156" column="2" />
-      </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/entity/UsersRepository.java" timestamp="1501748107613">
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/entity/UsersRepository.java" timestamp="1501750302702">
         <mark key="'" line="7" column="8" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -135,12 +132,12 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" timestamp="1501745530935">
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" timestamp="1501750424690">
         <mark key="'" line="33" column="33" />
-        <mark key="[" line="7" column="107" />
-        <mark key="]" line="7" column="106" />
-        <mark key="." line="7" column="106" />
-        <mark key="^" line="7" column="106" />
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="64" column="33" />
+        <mark key="." line="64" column="33" />
+        <mark key="^" line="64" column="33" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/UserRestController.java" timestamp="1498817206187">
         <mark key="[" line="24" column="39" />
@@ -198,6 +195,7 @@
         <mark key="^" line="48" column="43" />
         <mark key="." line="48" column="43" />
       </file>
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/config/AuthenticationTokenFilter.java" timestamp="1501750881407" />
       <file name="$USER_HOME$/dev88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/service/ProfilingFeatureService.java" timestamp="1499072515277">
         <mark key="[" line="9" column="57" />
         <mark key="]" line="9" column="73" />
@@ -333,14 +331,6 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" timestamp="1501240685881">
-        <mark key="'" line="38" column="17" />
-        <mark key="[" line="41" column="30" />
-        <mark key="]" line="41" column="31" />
-        <mark key="m" line="34" column="15" />
-        <mark key="." line="41" column="31" />
-        <mark key="^" line="41" column="31" />
-      </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/dto/LoginForm.java" timestamp="1498822267230">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="24" />
@@ -370,12 +360,6 @@
         <mark key="]" line="21" column="59" />
         <mark key="." line="21" column="59" />
         <mark key="^" line="21" column="59" />
-      </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/profiling/ProfilingDatabaseProvider.java" timestamp="1501241450457">
-        <mark key="'" line="31" column="46" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/DataSourceConfiguration.java" timestamp="1498791263254">
         <mark key="[" line="15" column="0" />
@@ -518,6 +502,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/UserRestController.java" timestamp="1501751295765">
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+      </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/entity/User.java" timestamp="1498637000982">
         <mark key="[" line="63" column="11" />
         <mark key="]" line="63" column="11" />
@@ -602,6 +592,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/MethodProtectedRestController.java" timestamp="1501751136416">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/area88/theo/mydc/client/web/app/index.html" timestamp="1499411973380">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="12" column="4" />
@@ -613,9 +609,6 @@
         <mark key="]" line="249" column="47" />
         <mark key="." line="249" column="46" />
         <mark key="^" line="228" column="12" />
-      </file>
-      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DatabaseProvider.java" timestamp="1501239138308">
-        <mark key="'" line="59" column="18" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/security/JwtAuthenticationEntryPoint.java" timestamp="1498628999411">
         <mark key="[" line="20" column="0" />
@@ -672,12 +665,12 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/AuthenticationController.java" timestamp="1501748280969">
-        <mark key="'" line="59" column="25" />
-        <mark key="[" line="44" column="3" />
-        <mark key="]" line="45" column="1" />
-        <mark key="." line="45" column="1" />
-        <mark key="^" line="45" column="1" />
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/AuthenticationController.java" timestamp="1501750603150">
+        <mark key="'" line="60" column="25" />
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="31" />
+        <mark key="." line="43" column="31" />
+        <mark key="^" line="43" column="31" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/AuthenticationEntryPointImpl.java" timestamp="1498804711528">
         <mark key="[" line="10" column="0" />
@@ -685,7 +678,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="/dummy.sql" timestamp="1501745451632">
+      <file name="/dummy.sql" timestamp="1501751145903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wk88/wm/server/build.gradle" timestamp="1498732540191">
@@ -737,6 +730,7 @@
         <mark key="." line="25" column="11" />
         <mark key="^" line="25" column="11" />
       </file>
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/AuthenticationEntryPointImpl.java" timestamp="1501750742039" />
       <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/WmUserDetailsService.java" timestamp="1501748137425">
         <mark key="'" line="23" column="53" />
         <mark key="[" line="24" column="54" />
@@ -797,15 +791,13 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1501748161085">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="221" />
-        <mark key="." line="0" column="221" />
+      <file name="/fragment.java" timestamp="1501750907288">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
-      <jump line="325" column="10" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="356" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="331" column="8" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="341" column="39" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -904,46 +896,48 @@
       <jump line="53" column="25" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/AuthenticationController.java" />
       <jump line="23" column="53" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/WmUserDetailsService.java" />
       <jump line="8" column="8" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/entity/UsersRepository.java" />
+      <jump line="31" column="31" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/UserRestController.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/UserRestController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBVc2VycyBmaW5kQnlJZChmaW5hbCBpbnQgaWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>, method = RequestMethod.GET)</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>, method = RequestMethod.GET)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kQnlVc2VybmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBVc2VycyBmaW5kQnlJZChmaW5hbCBpbnQgaWQpOwo=</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJ1c2VyIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBwdWJsaWMgU3RyaW5nIGdldEF1dGhlbnRpY2F0ZWRVc2VyKGZpbmFsIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0KSB7CiAgICAgICAgZmluYWwgU3RyaW5nIHRva2VuID0gcmVxdWVzdC5nZXRIZWFkZXIodG9rZW5IZWFkZXIpOwogICAgICAgIGZpbmFsIFN0cmluZyB1c2VybmFtZSA9IHRva2VuVXRpbC5nZXRVc2VybmFtZUZyb21Ub2tlbih0b2tlbik7CiAgICAgICAgcmV0dXJuIHVzZXJuYW1lOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBVc2VycyBmaW5kQnlJZChmaW5hbCBpbnQgaWQpOwo=</text>
+        <text encoding="base64">CiAgICBAR2V0TWFwcGluZyh2YWx1ZSA9ICJ1c2VyMiIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcnR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHJlbG9hZCBwYXNzd29yZCBwb3N0LXNlY3VyaXR5IHNvIHdlIGNhbiBnZW5lcmF0ZSB0b2tlbgo=</text>
+        <text encoding="base64">YXV0aFRva2VuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNoZWNrIGpzb24K</text>
+        <text encoding="base64">ICBVc2VycyBmaW5kQnlJZChmaW5hbCBpbnQgaWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFBlcmZvcm0gdGhlIHNlY3VyaXR5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihBdXRoUmVzdWx0LmJ1aWxkZXIoKS50b2tlbih0b2tlbikuYnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHJlcnR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRtcEJhbmtEZXBvc2l0KTsK</text>
+        <text encoding="base64">ICAgIC8vIHJlbG9hZCBwYXNzd29yZCBwb3N0LXNlY3VyaXR5IHNvIHdlIGNhbiBnZW5lcmF0ZSB0b2tlbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmFuawo=</text>
+        <text encoding="base64">ICAgIC8vIGNoZWNrIGpzb24K</text>
       </register>
       <register name=":" type="4">
         <text>66</text>
