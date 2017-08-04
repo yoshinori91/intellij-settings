@@ -727,11 +727,11 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/client/app/index.html" timestamp="1501814613202">
+      <file name="$USER_HOME$/area88/theo/wm/client/app/index.html" timestamp="1501815473629">
         <mark key="'" line="13" column="6" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/AuthenticationRequest.java" timestamp="1498817099866">
@@ -767,11 +767,11 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/client/app/manifest.json" timestamp="1501814295773">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
+      <file name="$USER_HOME$/area88/theo/wm/client/app/manifest.json" timestamp="1501815393408">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/dto/LoginUserDetails.java" timestamp="1498545626103">
         <mark key="[" line="29" column="12" />
@@ -936,10 +936,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>投資一任運用サービス</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>投資一任運用サービス</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
