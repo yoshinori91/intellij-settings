@@ -700,7 +700,7 @@
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="34" />
       </file>
-      <file name="/dummy.sql" timestamp="1501811292412">
+      <file name="/dummy.sql" timestamp="1501814000249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wk88/wm/server/build.gradle" timestamp="1498732540191">
@@ -709,7 +709,7 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501810303994">
+      <file name="/Dummy.txt" timestamp="1501813935970">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
@@ -726,6 +726,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="14" column="45" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/area88/theo/wm/client/app/index.html" timestamp="1501814613202">
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/AuthenticationRequest.java" timestamp="1498817099866">
         <mark key="[" line="17" column="54" />
@@ -759,6 +766,12 @@
         <mark key="]" line="23" column="22" />
         <mark key="." line="23" column="22" />
         <mark key="^" line="23" column="22" />
+      </file>
+      <file name="$USER_HOME$/area88/theo/wm/client/app/manifest.json" timestamp="1501814295773">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/dto/LoginUserDetails.java" timestamp="1498545626103">
         <mark key="[" line="29" column="12" />
@@ -820,7 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="10" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="299" column="16" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="41" column="9" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
       <jump line="319" column="0" filename="$USER_HOME$/area88/theo/theo/server/src/main/web/portfolio/default.chart_future.js" />
@@ -920,16 +932,17 @@
       <jump line="21" column="4" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/entity/Authority.java" />
       <jump line="33" column="10" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/entity/Authority.java" />
       <jump line="20" column="14" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/entity/Authority.java" />
+      <jump line="13" column="6" filename="$USER_HOME$/area88/theo/wm/client/app/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">QmVhcmVyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QmVhcmVyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBdXRob3JpdHlOYW1lXD4=</text>
+        <text>title</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QXV0aGVudGljYXRpb25SZXF1ZXN0IA==</text>
@@ -966,9 +979,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBdXRob3JpdHlOYW1lXD4=</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBdXRob3JpdHlOYW1lXD4=</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>ChartFuture</last-replace>
       <last-substitute>ChartFeature</last-substitute>
       <last-dir>1</last-dir>
@@ -976,7 +989,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>estimated</entry>
         <entry>getEs</entry>
         <entry encoding="base64">XDxnZXRXaWRnZXRzXD4=</entry>
@@ -996,6 +1008,7 @@
         <entry encoding="base64">XDx0b2tlbkhlYWRlclw+</entry>
         <entry encoding="base64">XDxST0xFX05PUk1BTF9VU0VSXD4=</entry>
         <entry encoding="base64">XDxBdXRob3JpdHlOYW1lXD4=</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>
