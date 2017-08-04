@@ -133,12 +133,12 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" timestamp="1501750424690">
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" timestamp="1501811584239">
         <mark key="'" line="33" column="33" />
-        <mark key="[" line="64" column="30" />
-        <mark key="]" line="64" column="33" />
-        <mark key="." line="64" column="33" />
-        <mark key="^" line="64" column="33" />
+        <mark key="[" line="62" column="21" />
+        <mark key="]" line="63" column="17" />
+        <mark key="." line="63" column="17" />
+        <mark key="^" line="63" column="17" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/UserRestController.java" timestamp="1498817206187">
         <mark key="[" line="24" column="39" />
@@ -197,7 +197,7 @@
         <mark key="." line="48" column="43" />
       </file>
       <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/config/AuthenticationTokenFilter.java" timestamp="1501810416295" />
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/entity/Authority.java" timestamp="1501810236600">
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/entity/Authority.java" timestamp="1501811394073">
         <mark key="'" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/dev88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/service/ProfilingFeatureService.java" timestamp="1499072515277">
@@ -211,6 +211,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="18" column="40" />
+      </file>
+      <file name="$USER_HOME$/area88/theo/wm/client/app/containers/CustomerListPage/sagas.js" timestamp="1501811637605">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/service/User.java" timestamp="1498805217369">
         <mark key="[" line="9" column="27" />
@@ -293,6 +298,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/resources/application.yml" timestamp="1501811838153" />
       <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/core/model/FutureSimulationBaseValue.java" timestamp="1499393163785">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -507,7 +513,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/UserRestController.java" timestamp="1501809663210">
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/UserRestController.java" timestamp="1501811541396">
         <mark key="'" line="17" column="19" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -694,7 +700,7 @@
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="34" />
       </file>
-      <file name="/dummy.sql" timestamp="1501810723051">
+      <file name="/dummy.sql" timestamp="1501811292412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wk88/wm/server/build.gradle" timestamp="1498732540191">
@@ -917,10 +923,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">QXV0aGVudGljYXRpb25SZXF1ZXN0IA==</text>
+        <text encoding="base64">QmVhcmVyIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">QmVhcmVyIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdXRob3JpdHlOYW1lXD4=</text>
@@ -929,28 +935,28 @@
         <text encoding="base64">QXV0aGVudGljYXRpb25SZXF1ZXN0IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5HZXRNYXBwaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYXV0aGVudGljYXRpb24gc3RhcnQiKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5HZXRNYXBwaW5nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYXV0aGVudGljYXRpb24gc3RhcnQiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAR2V0TWFwcGluZygiL2JsdWUiKQogIHB1YmxpYyBTdHJpbmcgYmx1ZSgpIHsKICAgIHJldHVybiAiaG9nZSI7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmx1ZSBnZXQiKTsK</text>
+        <text encoding="base64">ICBAR2V0TWFwcGluZygiL2JsdWUiKQogIHB1YmxpYyBTdHJpbmcgYmx1ZSgpIHsKICAgIHJldHVybiAiaG9nZSI7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiYmx1ZSBnZXQiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAR2V0TWFwcGluZyh2YWx1ZSA9ICJ1c2VyMiIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAR2V0TWFwcGluZyh2YWx1ZSA9ICJ1c2VyMiIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
