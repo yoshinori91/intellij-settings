@@ -624,12 +624,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/client/app/containers/LoginPage/sagas.js" timestamp="1501835433331">
-        <mark key="'" line="33" column="10" />
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="28" column="24" />
-        <mark key="." line="28" column="24" />
-        <mark key="^" line="28" column="24" />
+      <file name="$USER_HOME$/area88/theo/wm/client/app/containers/LoginPage/sagas.js" timestamp="1501842334314">
+        <mark key="'" line="34" column="10" />
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="29" column="12" />
       </file>
       <file name="$USER_HOME$/wk3/react-boilerplate/app/components/Login/index.js" timestamp="1498129195714">
         <mark key="[" line="20" column="58" />
@@ -1029,16 +1029,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>constants</text>
+        <text>ローカルストレージにtokenを保存</text>
       </register>
       <register name="-" type="4">
-        <text>constants</text>
+        <text>ローカルストレージにtokenを保存</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRURVQ0VSX1NFVF9SRVNVTFRfTElTVFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyAgIHlpZWxkIHB1dChzZXRVc2VybmFtZSgiYSIpKQo=</text>
+        <text encoding="base64">ICAgIC8vIOODreODvOOCq+ODq+OCueODiOODrOODvOOCuOOBq3Rva2Vu44KS5L+d5a2YCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNhc2UgREVGQVVMVF9BQ1RJT046CiAgICAgIHJldHVybiBzdGF0ZTsK</text>
