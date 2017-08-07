@@ -131,6 +131,7 @@
         <mark key="." line="499" column="16" />
         <mark key="^" line="499" column="16" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.1.4.RELEASE/759112952c5e0e948601b869b420faf0e535c35d/spring-security-core-4.1.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1501810204433" />
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/config/AuthenticationTokenFilter.java" timestamp="1498817473995">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -232,6 +233,7 @@
         <mark key="^" line="48" column="43" />
         <mark key="." line="48" column="43" />
       </file>
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/config/AuthenticationTokenFilter.java" timestamp="1501810416295" />
       <file name="$USER_HOME$/dev88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/service/ProfilingFeatureService.java" timestamp="1499072515277">
         <mark key="[" line="9" column="57" />
         <mark key="]" line="9" column="73" />
@@ -357,6 +359,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/resources/application.yml" timestamp="1501811838153" />
       <file name="$USER_HOME$/area88/theo/wm/client/app/containers/CustomersPage/tests/index.test.js" timestamp="1502084247412">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -582,6 +585,7 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/AuthenticationResponse.java" timestamp="1501810361713" />
       <file name="$USER_HOME$/wk3/react-boilerplate/app/containers/LoginPage/sagas.js" timestamp="1498208571106">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -798,6 +802,8 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="27" />
       </file>
+      <file name="$USER_HOME$/area88/theo/mydc/client/web/app/containers/LoginPage/sagas.js" timestamp="1501827599376" />
+      <file name="$USER_HOME$/area88/theo/wm/client/app/containers/ProfilingPage/index.js" timestamp="1502091361880" />
       <file name="$USER_HOME$/dev88/theo/wm/client/app/containers/LoginPage/index.js" timestamp="1499056911729">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -902,6 +908,7 @@
         <mark key="." line="25" column="11" />
         <mark key="^" line="25" column="11" />
       </file>
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/AuthenticationEntryPointImpl.java" timestamp="1501750742039" />
       <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/WmUserDetailsService.java" timestamp="1501833779521">
         <mark key="'" line="23" column="53" />
         <mark key="[" line="23" column="9" />
