@@ -532,11 +532,11 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/client/app/containers/CustomersPage/sagas.js" timestamp="1502087343418">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="45" />
-        <mark key="^" line="13" column="42" />
-        <mark key="." line="13" column="45" />
+      <file name="$USER_HOME$/area88/theo/wm/client/app/containers/CustomersPage/sagas.js" timestamp="1502089917482">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="18" column="53" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/area88/theo/wm/client/app/app.js" timestamp="1501822792728">
         <mark key="'" line="28" column="12" />
@@ -1073,11 +1073,11 @@
       <jump line="12" column="13" filename="$USER_HOME$/area88/theo/wm/client/app/containers/CustomersPage/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.token</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnYXV0aEtleScpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.token</text>
+        <text>'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjEyMzQ1IiwibmFtZSI6Imhvc2hpciIsInJvbGVzIjpbIlVTRVIiLCJFTkdJTkVFUiJdLCJleHAiOjE1MTEyNzMyNDAsImlhdCI6MTQ3OTczNzI0MH0.iRljMK1J-R9ujCnr16bUb6zY6wD4Ib3A-oyz7MlI2EkIw85_R_QpoqDFTPfbTA4PVNvLUZLlBkVnRlDdk5bjWA'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0UHV0Mlw+</text>
@@ -1086,31 +1086,31 @@
         <text encoding="base64">UkVEVUNFUl9GRVRDSF9DVVNUT01FUl9MSVNUIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnYXV0aEtleScpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRoUmVzdWx0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRoUmVzdWx0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICAKfSBmcm9tICIuL2FjdGlvbnMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXJJZAo=</text>
+        <text encoding="base64">ICAKICAKfSBmcm9tICIuL2FjdGlvbnMiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGZ1bmN0aW9uIGdvdG9DdXN0b21lckRldGFpbHNQYWdlKHVzZXJJZCkgewovLyAgIHJldHVybiB7Ci8vICAgICB0eXBlOiBVU0VSX0NMSUNLX0NVU1RPTUVSX0RFVEFJTFNfUEFHRSwKLy8gICAgIHVzZXJJZAovLyAgIH0KLy8gfQo=</text>
+        <text encoding="base64">ICAgIHVzZXJJZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGZ1bmN0aW9uIGdvdG9DdXN0b21lckRldGFpbHNQYWdlKHVzZXJJZCkgewovLyAgIHJldHVybiB7Ci8vICAgICB0eXBlOiBVU0VSX0NMSUNLX0NVU1RPTUVSX0RFVEFJTFNfUEFHRSwKLy8gICAgIHVzZXJJZAovLyAgIH0KLy8gfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGRlZmF1bHRBY3Rpb24gPSBjcmVhdGVBY3Rpb24oREVGQVVMVF9BQ1RJT04pOwpleHBvcnQgY29uc3Qgc2hvd0xvYWRpbmdQYWdlID0gY3JlYXRlQWN0aW9uKFVTRVJfQ0xJQ0tfQ1VTVE9NRVJfTElTVF9QQUdFKTsKZXhwb3J0IGNvbnN0IHRlc3RQdXQyID0gKGhvZ2UpID0+IHt0eXBlOiBVU0VSX0NMSUNLX0NVU1RPTUVSX0xJU1RfUEFHRSwgaG9nZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGRlZmF1bHRBY3Rpb24gPSBjcmVhdGVBY3Rpb24oREVGQVVMVF9BQ1RJT04pOwpleHBvcnQgY29uc3Qgc2hvd0xvYWRpbmdQYWdlID0gY3JlYXRlQWN0aW9uKFVTRVJfQ0xJQ0tfQ1VTVE9NRVJfTElTVF9QQUdFKTsKZXhwb3J0IGNvbnN0IHRlc3RQdXQyID0gKGhvZ2UpID0+IHt0eXBlOiBVU0VSX0NMSUNLX0NVU1RPTUVSX0xJU1RfUEFHRSwgaG9nZX0K</text>
       </register>
       <register name=":" type="4">
         <text>66</text>
