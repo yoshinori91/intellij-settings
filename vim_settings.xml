@@ -212,6 +212,12 @@
         <mark key="^" line="103" column="68" />
         <mark key="." line="103" column="68" />
       </file>
+      <file name="$USER_HOME$/area88/theo/production/wmdb/wmdb/Schemafile" timestamp="1502178785300">
+        <mark key="[" line="179" column="42" />
+        <mark key="]" line="179" column="41" />
+        <mark key="." line="179" column="41" />
+        <mark key="^" line="179" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/dto/LoginUserDetails.kt" timestamp="1498188673522">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="27" />
@@ -713,9 +719,9 @@
       </file>
       <file name="$USER_HOME$/area88/theo/wm/client/app/components/Login/index.js" timestamp="1501825857663">
         <mark key="'" line="18" column="16" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/area88/theo/wm/client/app/containers/LoginPage/sagas.js" timestamp="1502169874857">
@@ -881,7 +887,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="/dummy.sql" timestamp="1502174806869">
+      <file name="/dummy.sql" timestamp="1502178742084">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wk88/wm/server/build.gradle" timestamp="1498732540191">
@@ -1132,31 +1138,31 @@
         <text>FujitaPage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJIGxpa2UK</text>
+        <text encoding="base64">PT09PT09PQpjcmVhdGVfdGFibGUgImF1dGhvcml0eSIsIGZvcmNlOiA6Y2FzY2FkZSwgb3B0aW9uczogIkVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0ZjgiLCBjb21tZW50OiAiYXV0aG9yaXR5KOWWtualreWToeODhuODvOODluODqykiIGRvIHx0fAogIHQuc3RyaW5nICJuYW1lIiwgICAgICAgIG51bGw6IGZhbHNlCmVuZAo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmdWppdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBJIGxpa2UK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGlzcGF0Y2gob25TdWJtaXQoKSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmdWppdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZGlzcGF0Y2gob25TdWJtaXQoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB5aQo=</text>
+        <text encoding="base64">dmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>11</text>
