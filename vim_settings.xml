@@ -169,12 +169,6 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/dev123/theo/channel/server/src/main/java/com/money_design/theo_channel/sfa/controller/CustomerHandler.java" timestamp="1502159567468">
-        <mark key="'" line="78" column="35" />
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="34" column="17" />
-        <mark key="." line="34" column="17" />
-      </file>
       <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" timestamp="1502168099373">
         <mark key="'" line="33" column="33" />
         <mark key="[" line="65" column="37" />
@@ -200,11 +194,12 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/MyPageController.java" timestamp="1502185217515">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="6" />
-        <mark key="." line="25" column="6" />
-        <mark key="^" line="26" column="5" />
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/MyPageController.java" timestamp="1502188150574">
+        <mark key="'" line="34" column="2" />
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="13" />
+        <mark key="." line="30" column="13" />
+        <mark key="^" line="30" column="13" />
       </file>
       <file name="$USER_HOME$/area88/theo/theo/server/src/test/java/com/money_design/theo/web/account/controller/profiling/DefaultControllerHelperTest.java" timestamp="1501740961105">
         <mark key="'" line="168" column="26" />
@@ -442,11 +437,12 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/build.gradle" timestamp="1502185103396">
+      <file name="$USER_HOME$/area88/theo/wm/server/build.gradle" timestamp="1502187252353">
         <mark key="'" line="63" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+        <mark key="[" line="67" column="58" />
+        <mark key="]" line="67" column="61" />
+        <mark key="." line="67" column="61" />
+        <mark key="^" line="67" column="61" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/client/app/containers/CustomerListPage/sagas.js" timestamp="1499045689679">
         <mark key="[" line="13" column="0" />
@@ -521,8 +517,8 @@
         <mark key="." line="22" column="95" />
         <mark key="^" line="22" column="95" />
       </file>
-      <file name="$USER_HOME$/area88/theo/mydc/server/src/main/java/life/mydc/service/address/GetAddressService.java" timestamp="1502185019749">
-        <mark key="'" line="56" column="28" />
+      <file name="$USER_HOME$/area88/theo/mydc/server/src/main/java/life/mydc/service/address/GetAddressService.java" timestamp="1502186336617">
+        <mark key="'" line="28" column="55" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="52" />
       </file>
@@ -998,6 +994,12 @@
         <mark key="." line="30" column="24" />
         <mark key="^" line="30" column="24" />
       </file>
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/WmJooqService.java" timestamp="1502187382588">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="47" />
+        <mark key="^" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+      </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/WmApplication.java" timestamp="1498801595624">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="10" column="1" />
@@ -1039,9 +1041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="22" filename="$USER_HOME$/area88/theo/wm/client/app/containers/ResultListPage/index.js" />
-      <jump line="5" column="16" filename="$USER_HOME$/area88/theo/wm/client/app/containers/ResultListPage/index.js" />
-      <jump line="31" column="12" filename="$USER_HOME$/area88/theo/wm/client/app/containers/ResultListPage/index.js" />
       <jump line="40" column="39" filename="$USER_HOME$/area88/theo/wm/client/app/containers/ResultListPage/index.js" />
       <jump line="38" column="22" filename="$USER_HOME$/area88/theo/wm/client/app/containers/ResultListPage/index.js" />
       <jump line="18" column="16" filename="$USER_HOME$/area88/theo/wm/client/app/components/Login/index.js" />
@@ -1139,55 +1138,58 @@
       <jump line="2" column="58" filename="$USER_HOME$/area88/theo/mydc/server/src/main/java/life/mydc/service/address/GetAddressService.java" />
       <jump line="55" column="28" filename="$USER_HOME$/area88/theo/mydc/server/src/main/java/life/mydc/service/address/GetAddressService.java" />
       <jump line="56" column="28" filename="$USER_HOME$/area88/theo/mydc/server/src/main/java/life/mydc/service/address/GetAddressService.java" />
+      <jump line="24" column="16" filename="$USER_HOME$/area88/theo/mydc/server/src/main/java/life/mydc/service/address/GetAddressService.java" />
+      <jump line="28" column="55" filename="$USER_HOME$/area88/theo/mydc/server/src/main/java/life/mydc/service/address/GetAddressService.java" />
+      <jump line="34" column="2" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/MyPageController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgd21kYi5zZWxlY3RGcm9tKFVTRVJTKS5mZXRjaEFueSgpOwogICAgcmV0dXJuICJmdWdhIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>JooqAutoConfiguration</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBRERSRVNTRVNcPg==</text>
+        <text encoding="base64">XDxMaXN0ZW5pbmdFeGVjdXRvclNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExpc3RlbmluZ0V4ZWN1dG9yU2VydmljZSBkYkV4ZWN1dG9yOwo=</text>
+        <text encoding="base64">CWNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1zdGFydGVyLXNlY3VyaXR5JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd21kYi5zZWxlY3RGcm9tKFVTRVJTKS5mZXRjaEFueSgpOwogICAgcmV0dXJuICJmdWdhIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0LkluamVjdDsKaW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0Lm5hbWUuTmFtZWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdtZGIuc2VsZWN0KFVzZXJzLmlkKS5mcm9tKFVzZXJzKTsK</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubW9uZXlfZGVzaWduLndtLmVudGl0eS4K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGtkazkxIG9uIDE3LzA4LzA4LgogKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWNvbXBpbGUgcHJvamVjdCgnOmNvbW1vbjpjb3JlJykKCWNvbXBpbGUgcHJvamVjdCgnOmNvbW1vbjpzZXJ2ZXItZnJhbWV3b3JrJykKCWNvbXBpbGUgcHJvamVjdCgnOnRoZW86Y29yZScpCg==</text>
+        <text encoding="base64">ICAgIGRiRXhlY3V0b3Iuc3VibWl0KCAoKSAtPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBMaXN0ZW5pbmdFeGVjdXRvclNlcnZpY2UgZGJFeGVjdXRvcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbXBpbGUgJ29yZy5qb29xOmpvb3EnCg==</text>
+        <text encoding="base64">QE5hbWVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>11</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBRERSRVNTRVNcPg==</last-search>
+      <last-search encoding="base64">XDxMaXN0ZW5pbmdFeGVjdXRvclNlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBRERSRVNTRVNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxMaXN0ZW5pbmdFeGVjdXRvclNlcnZpY2VcPg==</last-pattern>
       <last-replace>ChartFuture</last-replace>
       <last-substitute>ChartFeature</last-substitute>
       <last-dir>1</last-dir>
@@ -1195,7 +1197,6 @@
     </search>
     <history>
       <history-search>
-        <entry>make</entry>
         <entry encoding="base64">XDxDdXN0b21lcnNQYWdlXD4=</entry>
         <entry encoding="base64">XDxtYWtlU2VsZWN0Q3VzdG9tZXJzUGFnZVw+</entry>
         <entry encoding="base64">XDxjdXN0b21lcnNQYWdlUmVkdWNlclw+</entry>
@@ -1215,6 +1216,7 @@
         <entry>UPDATE</entry>
         <entry encoding="base64">XDxBZGRyZXNzZXNcPg==</entry>
         <entry encoding="base64">XDxBRERSRVNTRVNcPg==</entry>
+        <entry encoding="base64">XDxMaXN0ZW5pbmdFeGVjdXRvclNlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2556</entry>
