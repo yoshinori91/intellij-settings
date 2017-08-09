@@ -169,12 +169,12 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/MyPageController.java" timestamp="1502243833475">
-        <mark key="'" line="3" column="74" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="53" column="8" />
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/MyPageController.java" timestamp="1502244765870">
+        <mark key="'" line="54" column="20" />
+        <mark key="[" line="4" column="64" />
+        <mark key="]" line="4" column="70" />
+        <mark key="." line="4" column="70" />
+        <mark key="^" line="4" column="70" />
       </file>
       <file name="$USER_HOME$/area88/theo/production/wmdb/wmdb/Schemafile" timestamp="1502178785300">
         <mark key="[" line="179" column="42" />
@@ -854,7 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="13" filename="$USER_HOME$/area88/theo/wm/client/app/containers/LoginPage/sagas.js" />
       <jump line="0" column="0" filename="/a.dummy" />
       <jump line="17" column="12" filename="$USER_HOME$/area88/theo/wm/client/app/containers/LoginPage/sagas.js" />
       <jump line="27" column="5" filename="$USER_HOME$/area88/theo/wm/client/app/containers/LoginPage/sagas.js" />
@@ -954,49 +953,50 @@
       <jump line="61" column="73" filename="$USER_HOME$/area88/theo/wm/server/gen-src/main/java/com/money_design/wm/wmdb/generated/tables/Users.java" />
       <jump line="42" column="36" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/MyPageController.java" />
       <jump line="3" column="74" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/MyPageController.java" />
+      <jump line="54" column="20" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/MyPageController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>RE</text>
       </register>
       <register name="-" type="4">
-        <text>getCus</text>
+        <text>RE</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubW9uZXlfZGVzaWduLndtLndtZGIuZ2VuZXJhdGVkLnRhYmxlcy5Vc2Vycy5VU0VSUzsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubW9uZXlfZGVzaWduLndtLndtZGIuZ2VuZXJhdGVkLnRhYmxlcy5DdXN0b21lcnMuQ1VTVE9NRVJTOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
+        <text encoding="base64">ICAgIHNlbGVjdEZyb21kZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFVSTOOBrkN1c3RvbWVySWTjgavjgIHkuI3mraPjgarlgKTjgYzlhaXjgaPjgabjgarjgYTjgYvjg4Hjgqfjg4Pjgq8KLy8gICAgaWYoIVN0cmluZ1V0aWxzLmlzU3RyaWN0bHlOdW1lcmljKGN1c3RvbWVySWQpKSB7Ci8vICAgICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5iYWRSZXF1ZXN0KCkuYm9keShNeVBhZ2VSZXN1bHQuYnVpbGRlcigpCi8vICAgICAgICAgICAgICAuZXJycyhJbW11dGFibGVMaXN0Lm9mKCJVUkzjgavkuI3mraPjgarlgKTjgYzlkKvjgb7jgozjgabjgYTjgb7jgZnjgIIiKSkKLy8gICAgICAgICAgICAgIC5idWlsZCgpKTsKLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIFVSTOOBrkN1c3RvbWVySWTjgavjgIHkuI3mraPjgarlgKTjgYzlhaXjgaPjgabjgarjgYTjgYvjg4Hjgqfjg4Pjgq8KLy8gICAgaWYoIVN0cmluZ1V0aWxzLmlzU3RyaWN0bHlOdW1lcmljKGN1c3RvbWVySWQpKSB7Ci8vICAgICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5iYWRSZXF1ZXN0KCkuYm9keShNeVBhZ2VSZXN1bHQuYnVpbGRlcigpCi8vICAgICAgICAgICAgICAuZXJycyhJbW11dGFibGVMaXN0Lm9mKCJVUkzjgavkuI3mraPjgarlgKTjgYzlkKvjgb7jgozjgabjgYTjgb7jgZnjgIIiKSkKLy8gICAgICAgICAgICAgIC5idWlsZCgpKTsKLy8gICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICBTdHJpbmcgaG9nZSA9IHdtZGIuc2VsZWN0RnJvbShVU0VSUykuZmV0Y2hBbnkoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICBTdHJpbmcgaG9nZSA9IHdtZGIuc2VsZWN0RnJvbShVU0VSUykuZmV0Y2hBbnkoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIHdtCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuZmV0Y2gK</text>
+        <text encoding="base64">ICAgIGZpbmFsIHdtCg==</text>
       </register>
       <register name=":" type="4">
-        <text>11</text>
+        <text>100</text>
       </register>
     </registers>
     <search>
@@ -1032,7 +1032,6 @@
         <entry>username</entry>
       </history-search>
       <history-cmd>
-        <entry>2556</entry>
         <entry>256</entry>
         <entry>203</entry>
         <entry>214</entry>
@@ -1052,6 +1051,7 @@
         <entry>66</entry>
         <entry>8</entry>
         <entry>11</entry>
+        <entry>100</entry>
       </history-cmd>
       <history-expr />
       <history-input />
