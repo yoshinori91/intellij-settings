@@ -39,6 +39,9 @@
         <mark key="." line="23" column="88" />
         <mark key="^" line="23" column="88" />
       </file>
+      <file name="/a.dummy" timestamp="1502275512010">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev123/theo/wm/server/src/main/java/com/money_design/wm/config/WebSecurityConfig.java" timestamp="1498725987154">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="66" />
@@ -83,6 +86,7 @@
         <mark key="." line="66" column="42" />
         <mark key="^" line="66" column="42" />
       </file>
+      <file name="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/customer/DefaultController.java" timestamp="1502274744565" />
       <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/entity/UsersRepository.java" timestamp="1501750302702">
         <mark key="'" line="7" column="8" />
         <mark key="[" line="7" column="0" />
@@ -114,6 +118,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/dev123/theo/channel/server/src/main/java/com/money_design/theo_channel/sfa/controller/CustomerHandler.java" timestamp="1502159567468">
+        <mark key="'" line="78" column="35" />
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+      </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/controller/UserRestController.java" timestamp="1498817206187">
         <mark key="[" line="24" column="39" />
         <mark key="]" line="24" column="44" />
@@ -126,12 +136,11 @@
         <mark key="^" line="37" column="103" />
         <mark key="." line="37" column="103" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/MyPageController.java" timestamp="1502271496024">
-        <mark key="'" line="72" column="10" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="48" column="42" />
-        <mark key="." line="48" column="42" />
-        <mark key="^" line="48" column="42" />
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/controller/MyPageController.java" timestamp="1502275394696">
+        <mark key="[" line="46" column="2" />
+        <mark key="]" line="46" column="2" />
+        <mark key="." line="46" column="2" />
+        <mark key="^" line="74" column="15" />
       </file>
       <file name="$USER_HOME$/area88/theo/regularDeposit/server/src/main/resources/application.yml" timestamp="1502265203768" />
       <file name="$USER_HOME$/area88/theo/production/wmdb/wmdb/Schemafile" timestamp="1502178785300">
@@ -325,12 +334,11 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/WmApplication.java" timestamp="1502271921424">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="51" column="5" />
-        <mark key="]" line="59" column="4" />
-        <mark key="." line="59" column="4" />
-        <mark key="^" line="59" column="4" />
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/WmApplication.java" timestamp="1502274401560">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/theo/wm/client/app/containers/ResultListPage/index.js" timestamp="1497507826712">
         <mark key="[" line="13" column="0" />
@@ -536,7 +544,7 @@
         <mark key="^" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/area88/theo/theo/server/build.gradle" timestamp="1502271638658" />
-      <file name="/fragment.java" timestamp="1502265068035">
+      <file name="/fragment.java" timestamp="1502274585437">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="255" />
         <mark key="." line="0" column="255" />
@@ -629,11 +637,12 @@
         <mark key="^" line="103" column="68" />
         <mark key="." line="103" column="68" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/PortfolioStatusComputer.java" timestamp="1502272398132">
-        <mark key="[" line="64" column="7" />
-        <mark key="]" line="64" column="11" />
-        <mark key="." line="64" column="11" />
-        <mark key="^" line="64" column="11" />
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/PortfolioStatusComputer.java" timestamp="1502274612605">
+        <mark key="'" line="47" column="14" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="80" column="95" />
       </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/dto/LoginUserDetails.kt" timestamp="1498188673522">
         <mark key="[" line="7" column="27" />
@@ -980,7 +989,7 @@
         <mark key="^" line="287" column="10" />
         <mark key="." line="287" column="10" />
       </file>
-      <file name="$USER_HOME$/area88/theo/theo/core/src/main/java/com/money_design/theo/web/portfolio/PortfolioStatusComputer.java" timestamp="1502272193544">
+      <file name="$USER_HOME$/area88/theo/theo/core/src/main/java/com/money_design/theo/web/portfolio/PortfolioStatusComputer.java" timestamp="1502274683514">
         <mark key="'" line="70" column="9" />
         <mark key="[" line="53" column="60" />
         <mark key="]" line="53" column="60" />
@@ -1066,11 +1075,6 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="6" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1502266012646">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/wk3/react-boilerplate/app/containers/HomePage/index.js" timestamp="1498129435680">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="41" />
@@ -1092,7 +1096,6 @@
       <file name="$USER_HOME$/dev123/theo/channel/server/src/main/java/com/money_design/theo_channel/sfa/Application.java" timestamp="1502271580620" />
     </filemarks>
     <jumps>
-      <jump line="154" column="32" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
       <jump line="155" column="35" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
       <jump line="176" column="22" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
       <jump line="177" column="25" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
@@ -1192,55 +1195,56 @@
       <jump line="66" column="41" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/MyPageService.java" />
       <jump line="8" column="41" filename="$USER_HOME$/area88/theo/theo/core/src/main/java/com/money_design/theo/web/portfolio/PortfolioStatusComputer.java" />
       <jump line="70" column="9" filename="$USER_HOME$/area88/theo/theo/core/src/main/java/com/money_design/theo/web/portfolio/PortfolioStatusComputer.java" />
+      <jump line="46" column="14" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/PortfolioStatusComputer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>milion</text>
+        <text>M</text>
       </register>
       <register name="-" type="4">
-        <text>milion</text>
+        <text>M</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEZXBvc2l0XD4=</text>
+        <text encoding="base64">XDxzdGFydERhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QFZhbHVlCkBCdWlsZGVyKHRvQnVpbGRlciA9IHRydWUpCnB1YmxpYyBjbGFzcyBEZXBvc2l0IHsKCiAgcHJpdmF0ZSBMb2NhbERhdGUgZGF0ZVNldHRsZWQ7CiAgcHJpdmF0ZSBib29sZWFuIGNhc2hJbjsKICBwcml2YXRlIEJpZ0RlY2ltYWwgYW1vdW50OwogIHByaXZhdGUgU3RyaW5nIGNjeTsKICBwcml2YXRlIGRvdWJsZSB1c2RKcHlFeGNoYW5nZVJhdGU7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBHZXRzIHRoZSBzdGF0dXMgb2YgdGhlIHBvcnRmb2xpbyAoZS5nLiwgZGF0YSB0byBjb21wdXRlIHRvdGFsIHJldHVybikgcGVyIGRheSBpbiB0aGUgcHJvdmlkZWQKICAgKiBpbnRlcnZhbC4KICAgKgogICAqIDxwPkRvbGxhciB2YWx1ZXMgYXJlIHJvdW5kZWQgdG8gdHdvIGRlY2ltYWwgcGxhY2VzLgogICAqLwo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIExvY2FsRGF0ZSBzdGFydERhdGUgPSBlbmREYXRlLm1pbnVzRGF5cyhOVU1fREFZU19UT19ESVNQTEFZIC0gMSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRva2VuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxhc3RuYW1lOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBASW5qZWN0CiAgcHVibGljIFBvcnRmb2xpb1N0YXR1c0NvbXB1dGVyKERTTENvbnRleHQgd21fZGIpIHsKICAgIHRoaXMubWlsaW9uID0gbWlsaW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb29xLlNlbGVjdENvbmRpdGlvblN0ZXA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmluamVjdC5JbmplY3Q7Cg==</text>
+        <text encoding="base64">Ly8gIEBBdXRvd2lyZWQKLy8gIE15UGFnZVNlcnZpY2Ugc2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyB0aGVvLmRhdGFiYXNlLndtLm1vZGVsLmdlbmVyYXRlZC50YWJsZXMuUmV0dXJucy5SRVRVUk5TOwppbXBvcnQgc3RhdGljIHRoZW8uZGF0YWJhc2UubWlsaW9uLm1vZGVsLmdlbmVyYXRlZC50YWJsZXMuVERlcG9zaXRzV2l0aGRyYXdhbHMuVF9ERVBPU0lUU19XSVRIRFJBV0FMUzsK</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm9rKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25leV9kZXNpZ24ud20uZW50aXR5LlJldHVybjsK</text>
+        <text encoding="base64">Ly8gICAgICBpZiAocmV0dXJuc0xpc3QuaXNFbXB0eSgpKSB7Ci8vICAgICAgICByZXR1cm4gbnVsbDsKLy8vLyAgICAgICAgcmV0dXJuIEltbXV0YWJsZUxpc3Qub2YoKTsKLy8gICAgICB9Ci8vCi8vICAgICAgZmluYWwgRGF0ZSBmaXJzdERheSA9IHJldHVybnNMaXN0LmdldCgwKS5nZXRWYWxEYXRlKCk7Ci8vCi8vLy8gICAgUG9ydGZvbGlvU3RhdHVzIGN1cnJlbnRTdGF0dXMgPSBJdGVyYWJsZXMuZ2V0TGFzdChzdGF0dXNlcywgbnVsbCk7Ci8vCi8vLy8gICAgICBMaXN0PFJldHVybj4gcmV0dXJucyA9Ci8vLy8gICAgICAgICAgbWlsaW9uCi8vLy8gICAgICAgICAgICAgIC5zZWxlY3QoCi8vLy8gICAgICAgICAgICAgICAgICBSRVRVUk5TLk5BVl9KUFkuZmxvb3IoKS5jYXN0KEJpZ0RlY2ltYWwuY2xhc3MpLmFzKFJFVFVSTlMuTkFWX0pQWSksCi8vICAgICAgTGlzdDxEZXBvc2l0PiBkZXBvc2l0cyA9Ci8vICAgICAgICAgIG1pbGlvbgovLyAgICAgICAgICAgICAgLnNlbGVjdCgKLy8gICAgICAgICAgICAgICAgICBUX0RFUE9TSVRTX1dJVEhEUkFXQUxTLlNFVFRMRV9EQVRFLmFzKCJkYXRlU2V0dGxlZCIpLAovLyAgICAgICAgICAgICAgICAgIFRfREVQT1NJVFNfV0lUSERSQVdBTFMKLy8gICAgICAgICAgICAgICAgICAgICAgLkNBU0hfSU4KLy8gICAgICAgICAgICAgICAgICAgICAgLmNhc3QoQm9vbGVhbi5jbGFzcykKLy8gICAgICAgICAgICAgICAgICAgICAgLmFzKFRfREVQT1NJVFNfV0lUSERSQVdBTFMuQ0FTSF9JTiksCi8vCi8vICAgICAgRGVwb3NpdFBheW91dCBkZXBvc2l0UGF5b3V0ID0KLy8gICAgICAgICAgbmV3IERlcG9zaXRQYXlvdXQoQmlnRGVjaW1hbC5aRVJPLCBCaWdEZWNpbWFsLlpFUk8sIEJpZ0RlY2ltYWwuWkVSTywgQmlnRGVjaW1hbC5aRVJPKTsKLy8KLy8gICAgICBQZWVraW5nSXRlcmF0b3I8RGVwb3NpdD4gZGVwb3NpdEl0ZXJhdG9yID0gSXRlcmF0b3JzLnBlZWtpbmdJdGVyYXRvcihkZXBvc2l0cy5pdGVyYXRvcigpKTsKLy8gICAgICB3aGlsZSAoZGVwb3NpdEl0ZXJhdG9yLmhhc05leHQoKQovLyAgICAgICAgICAmJiBkZXBvc2l0SXRlcmF0b3IucGVlaygpLmdldERhdGVTZXR0bGVkKCkuaXNCZWZvcmUoZmlyc3REYXkpKSB7Ci8vICAgICAgICBEZXBvc2l0IGRlcG9zaXQgPSBkZXBvc2l0SXRlcmF0b3IubmV4dCgpOwovLyAgICAgICAgZGVwb3NpdFBheW91dCA9IGFwcGx5RGVwb3NpdChkZXBvc2l0UGF5b3V0LCBkZXBvc2l0KTsKLy8gICAgICB9Ci8vCi8vICAgICAgSW1tdXRhYmxlTGlzdC5CdWlsZGVyPFBvcnRmb2xpb1N0YXR1cz4gc3RhdHVzZXMgPSBJbW11dGFibGVMaXN0LmJ1aWxkZXIoKTsKLy8gICAgICBmb3IgKFJldHVybiBwb3J0Zm9saW9SZXR1cm4gOiByZXR1cm5zKSB7Ci8vICAgICAgICBCaWdEZWNpbWFsIGRhaWx5RGVwb3NpdENoYW5nZUpweSA9IEJpZ0RlY2ltYWwuWkVSTzsKLy8gICAgICAgIHdoaWxlIChkZXBvc2l0SXRlcmF0b3IuaGFzTmV4dCgpCi8vICAgICAgICAgICAgJiYgIWRlcG9zaXRJdGVyYXRvci5wZWVrKCkuZ2V0RGF0ZVNldHRsZWQoKS5pc0FmdGVyKHBvcnRmb2xpb1JldHVybi5nZXRWYWxEYXRlKCkpKSB7Ci8vICAgICAgICAgIERlcG9zaXQgZGVwb3NpdCA9IGRlcG9zaXRJdGVyYXRvci5uZXh0KCk7Ci8vICAgICAgICAgIGRlcG9zaXRQYXlvdXQgPSBhcHBseURlcG9zaXQoZGVwb3NpdFBheW91dCwgZGVwb3NpdCk7Ci8vICAgICAgICAgIGRhaWx5RGVwb3NpdENoYW5nZUpweSA9IGFwcGx5RGVwb3NpdEpweShkYWlseURlcG9zaXRDaGFuZ2VKcHksIGRlcG9zaXQpOwovLyAgICAgICAgfQovLyAgICAgICAgQmlnRGVjaW1hbCB1c2RKcHlFeGNoYW5nZVJhdGUgPQovLyAgICAgICAgICAgIHBvcnRmb2xpb1JldHVybi5nZXROYXZVc2QoKS5zaWdudW0oKSAhPSAwCi8vICAgICAgICAgICAgICAgID8gcG9ydGZvbGlvUmV0dXJuCi8vICAgICAgICAgICAgICAgIC5nZXROYXZKcHkoKQovLyAgICAgICAgICAgICAgICAuZGl2aWRlKHBvcnRmb2xpb1JldHVybi5nZXROYXZVc2QoKSwgTWF0aENvbnRleHQuREVDSU1BTDEyOCkKLy8gICAgICAgICAgICAgICAgLy8gVE9ETyhhbnVyYWFnKTogV2UgY3VycmVudGx5IGNhbid0IGRpc3BsYXkgYW55IGV4Y2hhbmdlIHJhdGVzIHdoZW4gdGhlIG5hdiBpcyAwLgovLyAgICAgICAgICAgICAgICAvLyBUaGlzIHNob3VsZG4ndCByZWFsbHkgaGFwcGVuIGJ1dCB3ZSBwcm9iYWJseSBzaG91bGQgdHJlYXQgaXQgYmV0dGVyLgovLyAgICAgICAgICAgICAgICA6IG5ldyBCaWdEZWNpbWFsKDApOwovLyAgICAgICAgQmlnRGVjaW1hbCBuYXZXaXRob3V0UGF5b3V0c0pweSA9Ci8vICAgICAgICAgICAgcG9ydGZvbGlvUmV0dXJuLmdldE5hdkpweSgpLnN1YnRyYWN0KGRlcG9zaXRQYXlvdXQuZ2V0UGF5b3V0QW1vdW50SnB5KCkpOwovLyAgICAgICAgQmlnRGVjaW1hbCBuYXZXaXRob3V0UGF5b3V0c1VzZCA9Ci8vICAgICAgICAgICAgcG9ydGZvbGlvUmV0dXJuLmdldE5hdlVzZCgpLnN1YnRyYWN0KGRlcG9zaXRQYXlvdXQuZ2V0UGF5b3V0QW1vdW50VXNkKCkpOwovLyAgICAgICAgc3RhdHVzZXMuYWRkKAovLyAgICAgICAgICAgIFBvcnRmb2xpb1N0YXR1cy5idWlsZGVyKCkKLy8gICAgICAgICAgICAgICAgLmRhdGUocG9ydGZvbGlvUmV0dXJuLmdldFZhbERhdGUoKSkKLy8gICAgICAgICAgICAgICAgLmpweSgKLy8gICAgICAgICAgICAgICAgICAgIFBvcnRmb2xpb1N0YXR1cy5Mb2NhbGl6ZWRTdGF0dXMuYnVpbGRlcigpCi8vICAgICAgICAgICAgICAgICAgICAgICAgLmRlcG9zaXRBbW91bnQoCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlcG9zaXRQYXlvdXQKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXREZXBvc2l0QW1vdW50SnB5KCkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGQoZGVwb3NpdFBheW91dC5nZXRQYXlvdXRBbW91bnRKcHkoKSkpCi8vICAgICAgICAgICAgICAgICAgICAgICAgLm1hcmtldEFtb3VudChwb3J0Zm9saW9SZXR1cm4uZ2V0TmF2SnB5KCkpCi8vICAgICAgICAgICAgICAgICAgICAgICAgLnRvdGFsUmV0dXJuKAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21wdXRlVG90YWxSZXR1cm4oCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYXZXaXRob3V0UGF5b3V0c0pweSwgZGVwb3NpdFBheW91dC5nZXREZXBvc2l0QW1vdW50SnB5KCkpKQovLyAgICAgICAgICAgICAgICAgICAgICAgIC5yZXR1cm5BbW91bnQoCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hdldpdGhvdXRQYXlvdXRzSnB5LnN1YnRyYWN0KGRlcG9zaXRQYXlvdXQuZ2V0RGVwb3NpdEFtb3VudEpweSgpKSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKSkKLy8gICAgICAgICAgICAgICAgLnVzZCgKLy8gICAgICAgICAgICAgICAgICAgIFBvcnRmb2xpb1N0YXR1cy5Mb2NhbGl6ZWRTdGF0dXMuYnVpbGRlcigpCi8vICAgICAgICAgICAgICAgICAgICAgICAgLmRlcG9zaXRBbW91bnQoCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlcG9zaXRQYXlvdXQKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXREZXBvc2l0QW1vdW50VXNkKCkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGQoZGVwb3NpdFBheW91dC5nZXRQYXlvdXRBbW91bnRVc2QoKSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRTY2FsZSgyLCBSb3VuZGluZ01vZGUuSEFMRl9VUCkpCi8vICAgICAgICAgICAgICAgICAgICAgICAgLm1hcmtldEFtb3VudChwb3J0Zm9saW9SZXR1cm4uZ2V0TmF2VXNkKCkuc2V0U2NhbGUoMiwgUm91bmRpbmdNb2RlLkhBTEZfVVApKQovLyAgICAgICAgICAgICAgICAgICAgICAgIC50b3RhbFJldHVybigKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcHV0ZVRvdGFsUmV0dXJuKAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmF2V2l0aG91dFBheW91dHNVc2QsIGRlcG9zaXRQYXlvdXQuZ2V0RGVwb3NpdEFtb3VudFVzZCgpKSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAucmV0dXJuQW1vdW50KAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYXZXaXRob3V0UGF5b3V0c1VzZAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnN1YnRyYWN0KGRlcG9zaXRQYXlvdXQuZ2V0RGVwb3NpdEFtb3VudFVzZCgpKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldFNjYWxlKDIsIEJpZ0RlY2ltYWwuUk9VTkRfSEFMRl9VUCkpCi8vICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpCi8vICAgICAgICAgICAgICAgIC51c2RKcHlFeGNoYW5nZVJhdGUodXNkSnB5RXhjaGFuZ2VSYXRlLnNldFNjYWxlKDIsIFJvdW5kaW5nTW9kZS5IQUxGX1VQKSkKLy8gICAgICAgICAgICAgICAgLmRhaWx5RGVwb3NpdENoYW5nZUpweShkYWlseURlcG9zaXRDaGFuZ2VKcHkpCi8vICAgICAgICAgICAgICAgIC5idWlsZCgpKTsKLy8gICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbXBpbGUoJ2ZyLm9wZW5zYWdyZXMueGRvY3JlcG9ydDpmci5vcGVuc2FncmVzLnhkb2NyZXBvcnQudGVtcGxhdGUuZnJlZW1hcmtlcicpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbXBpbGUgcHJvamVjdCgnOnRoZW86Y29yZScpCgljb21waWxlIHByb2plY3QoJzpjb21tb246Y29yZScpCgo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIExpc3Q8UG9ydGZvbGlvU3RhdHVzPiBzdGF0dXNlcyA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1,$s/mds/wm_db/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEZXBvc2l0XD4=</last-search>
+      <last-search encoding="base64">XDxzdGFydERhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEZXBvc2l0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydERhdGVcPg==</last-pattern>
       <last-replace>wm_db</last-replace>
       <last-substitute>mds</last-substitute>
       <last-dir>1</last-dir>
@@ -1248,7 +1252,6 @@
     </search>
     <history>
       <history-search>
-        <entry>username</entry>
         <entry encoding="base64">XDxSRVRVUk5TXD4=</entry>
         <entry encoding="base64">XDxjbG9ja1w+</entry>
         <entry encoding="base64">XDxDbG9ja1w+</entry>
@@ -1268,6 +1271,7 @@
         <entry encoding="base64">XDxkZXBvc2l0UGF5b3V0XD4=</entry>
         <entry encoding="base64">XDxyZXR1cm5zUmVjb3JkXD4=</entry>
         <entry encoding="base64">XDxEZXBvc2l0XD4=</entry>
+        <entry encoding="base64">XDxzdGFydERhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>203</entry>
