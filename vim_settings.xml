@@ -33,6 +33,12 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="12" column="54" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f5e43def-2af8-4735-a8ea-b6f94efae763/console.sql" timestamp="1502266471317">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/config/CorsConfig.java" timestamp="1498539224335">
         <mark key="[" line="23" column="88" />
         <mark key="]" line="23" column="88" />
@@ -77,12 +83,12 @@
         <mark key="." line="20" column="32" />
         <mark key="^" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/MyPageService.java" timestamp="1502265100063">
+      <file name="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/MyPageService.java" timestamp="1502268157946">
         <mark key="'" line="72" column="14" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="46" column="58" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="3" />
+        <mark key="^" line="53" column="3" />
+        <mark key="." line="53" column="3" />
       </file>
       <file name="$USER_HOME$/dev99/wm/src/main/java/com/money_design/wm/entity/Salespeople.java" timestamp="1498548410452">
         <mark key="[" line="5" column="0" />
@@ -310,7 +316,7 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="45" />
       </file>
-      <file name="/a.sql" timestamp="1502265174723">
+      <file name="/a.sql" timestamp="1502267079269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/service/LoginUserDetailsService.kt" timestamp="1498548177613">
@@ -929,7 +935,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="/dummy.sql" timestamp="1502265361923">
+      <file name="/dummy.sql" timestamp="1502267073839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wk88/wm/server/build.gradle" timestamp="1498732540191">
@@ -1013,8 +1019,12 @@
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="46" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/471fbf6a-2675-4da8-8752-5331c0919f8a/console.sql" timestamp="1502264466350">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/471fbf6a-2675-4da8-8752-5331c0919f8a/console.sql" timestamp="1502267351571">
+        <mark key="'" line="7" column="258" />
+        <mark key="[" line="0" column="203" />
+        <mark key="]" line="0" column="203" />
+        <mark key="^" line="7" column="258" />
+        <mark key="." line="0" column="203" />
       </file>
       <file name="$USER_HOME$/workspace2/wm/src/main/kotlin/com/money_design/wm/dto/LoginUserDetails.java" timestamp="1498545626103">
         <mark key="[" line="29" column="12" />
@@ -1040,10 +1050,10 @@
         <mark key="^" line="6" column="47" />
         <mark key="." line="6" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1502263969586">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1502266012646">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev88/theo/wm/server/src/main/java/com/money_design/wm/WmApplication.java" timestamp="1498801595624">
         <mark key="[" line="9" column="28" />
@@ -1087,7 +1097,6 @@
       <file name="$USER_HOME$/dev123/theo/channel/server/src/main/java/com/money_design/theo_channel/sfa/Application.java" timestamp="1502256768104" />
     </filemarks>
     <jumps>
-      <jump line="12" column="13" filename="$USER_HOME$/area88/theo/wm/client/app/containers/CustomersPage/actions.js" />
       <jump line="77" column="27" filename="$USER_HOME$/area88/theo/wm/client/app/routes.js" />
       <jump line="93" column="24" filename="$USER_HOME$/area88/theo/wm/client/app/routes.js" />
       <jump line="362" column="33" filename="$USER_HOME$/area88/theo/theo/server/src/main/java/com/money_design/theo/web/account/controller/portfolio/DefaultController.java" />
@@ -1187,16 +1196,17 @@
       <jump line="94" column="8" filename="$USER_HOME$/dev123/theo/theo/core/src/main/java/com/money_design/theo/web/portfolio/PortfolioStatusComputer.java" />
       <jump line="97" column="64" filename="$USER_HOME$/dev123/theo/theo/core/src/main/java/com/money_design/theo/web/portfolio/PortfolioStatusComputer.java" />
       <jump line="74" column="14" filename="$USER_HOME$/area88/theo/wm/server/src/main/java/com/money_design/wm/service/MyPageService.java" />
+      <jump line="7" column="258" filename="$APPLICATION_CONFIG_DIR$/consoles/db/471fbf6a-2675-4da8-8752-5331c0919f8a/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">JiYgZGVwb3NpdEl0ZXJhdG9yLnBlZWsoKS5nZXRTZXR0bGVEYXRlKCkuaXNCZWZvcmUoZmlyc3REYXkpKSB7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXBvc2l0c1w+</text>
+        <text>mds</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAud2hlcmUoVF9ERVBPU0lUU19XSVRIRFJBV0FMUy5DTElFTlRfQUNDVF9JRC5lcShjdXN0b21lcklkKQogICAgICAgICAgLmFuZChUX0RFUE9TSVRTX1dJVEhEUkFXQUxTLlNFVFRMRV9EQVRFLmxlc3NPckVxdWFsKERhdGUudmFsdWVPZihlbmREYXRlKSkpCg==</text>
@@ -1205,45 +1215,44 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIERhdGUgZmlyc3REYXkgPSByZXR1cm5zTGlzdC5nZXQoMCkuZ2V0VmFsRGF0ZSgpOwo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gd21fZGIudF9kZXBvc2l0c193aXRoZHJhd2FscyAoY2xpZW50X2FjY3RfaWQsIGNsb3NpbmdfZGF0ZSwgY2N5LCBhbW91bnQsIGNhc2hfaW4sIHNldHRsZV9kYXRlLCAgdXNkX2pweV9leGNoYW5nZV9yYXRlKSBWQUxVRVMgKDEwMDAyOTEsICcyMDE2LTAyLTAyJywgJ0pQWScsIDUwMDAwMC4wMDAwMDAwMDAsIDEsICcyMDE2LTAyLTAyJywgJ0MwMjAwMTYwMjAyMDAwMDAwMSAgJywgMTIwLjk5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d21kYi5zZWxlY3RGcm9tKFRfREVQT1NJVFNfV0lUSERSQVdBTFMpLndoZXJlKFRfREVQT1NJVFNfV0lUSERSQVdBTFMuQ0xJRU5UX0FDQ1RfSUQuZXEoY3VzdG9tZXJJZCkuYW5kKFRfREVQT1NJVFNfV0lUSERSQVdBTFMuU0VUVExFX0RBVEUubGVzc09yRXF1YWwoRGF0ZS52YWx1ZU9mKGVuZERhdGUpKSkpLmZldGNoKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">d21kYi4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">d21kYi5zZWxlY3RGcm9tKFRfREVQT1NJVFNfV0lUSERSQVdBTFMpICAgICAgICAgLndoZXJlKFRfREVQT1NJVFNfV0lUSERSQVdBTFMuQ0xJRU5UX0FDQ1RfSUQuZXEoY3VzdG9tZXJJZCkgICAgICAgICAgIC5hbmQoVF9ERVBPU0lUU19XSVRIRFJBV0FMUy5TRVRUTEVfREFURS5sZXNzT3JFcXVhbChEYXRlLnZhbHVlT2YoZW5kRGF0ZSkpKSkuZmV0Y2goKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHREZXBvc2l0c1dpdGhkcmF3YWxzUmVjb3JkTGlzdC4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIERhdGUgZmlyc3REYXkgPSByZXR1cm5zTGlzdC5nZXQoMCkuZ2V0VmFsRGF0ZSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">d21kYi5zZWxlY3RGcm9tKFRfREVQT1NJVFNfV0lUSERSQVdBTFMpLndoZXJlKFRfREVQT1NJVFNfV0lUSERSQVdBTFMuQ0xJRU5UX0FDQ1RfSUQuZXEoY3VzdG9tZXJJZCkuYW5kKFRfREVQT1NJVFNfV0lUSERSQVdBTFMuU0VUVExFX0RBVEUubGVzc09yRXF1YWwoRGF0ZS52YWx1ZU9mKGVuZERhdGUpKSkpLmZldGNoKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">d21kYi4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">d21kYi5zZWxlY3RGcm9tKFRfREVQT1NJVFNfV0lUSERSQVdBTFMpICAgICAgICAgLndoZXJlKFRfREVQT1NJVFNfV0lUSERSQVdBTFMuQ0xJRU5UX0FDQ1RfSUQuZXEoY3VzdG9tZXJJZCkgICAgICAgICAgIC5hbmQoVF9ERVBPU0lUU19XSVRIRFJBV0FMUy5TRVRUTEVfREFURS5sZXNzT3JFcXVhbChEYXRlLnZhbHVlT2YoZW5kRGF0ZSkpKSkuZmV0Y2goKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgQFZhbHVlCg==</text>
+        <text encoding="base64">ICAgIHREZXBvc2l0c1dpdGhkcmF3YWxzUmVjb3JkTGlzdC4K</text>
       </register>
       <register name=":" type="4">
-        <text>100</text>
+        <text>1,$s/mds/wm_db/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXBvc2l0c1w+</last-search>
+      <last-search>mds</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXBvc2l0c1w+</last-pattern>
-      <last-replace>ChartFuture</last-replace>
-      <last-substitute>ChartFeature</last-substitute>
+      <last-pattern>mds</last-pattern>
+      <last-replace>wm_db</last-replace>
+      <last-substitute>mds</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMaXN0ZW5pbmdFeGVjdXRvclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxOdW1iZXJVdGlsc1w+</entry>
         <entry>Number</entry>
         <entry>user</entry>
@@ -1263,9 +1272,9 @@
         <entry encoding="base64">XDxkZXBvc2l0XD4=</entry>
         <entry encoding="base64">XDxkZXBvc2l0SXRlcmF0b3JcPg==</entry>
         <entry encoding="base64">XDxkZXBvc2l0c1w+</entry>
+        <entry>mds</entry>
       </history-search>
       <history-cmd>
-        <entry>256</entry>
         <entry>203</entry>
         <entry>214</entry>
         <entry>223</entry>
@@ -1285,6 +1294,7 @@
         <entry>8</entry>
         <entry>11</entry>
         <entry>100</entry>
+        <entry>1,$s/mds/wm_db/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
